@@ -4,17 +4,17 @@
   "question": "Pakistan military action against Kabul by March 31?",
   "predicted_side": "NO",
   "predicted_prob": 0.92,
-  "confidence": 0.41,
-  "composite_score": 0.4555,
+  "confidence": 0.4079,
+  "composite_score": 0.4532,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.7792,
+   "sentiment": 0.7701,
    "arbitrage": 0.0,
-   "volume": 0.2332,
+   "volume": 0.2328,
    "news_volume": 0.9809
   },
   "regime": "unknown",
-  "signal_agreement": 0.8961,
+  "signal_agreement": 0.8982,
   "abstain": true,
   "abstain_reasons": [
    "high_signal_divergence"
@@ -35,29 +35,29 @@
   ],
   "url": "https://polymarket.com/event/pakistan-military-action-against-kabul-by-march-31",
   "volume": 18696.379701999995,
-  "ends_in": "5s 50d",
+  "ends_in": "5s 48d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.911,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688566+00:00"
+  "timestamp": "2026-03-31T18:12:25.801351+00:00"
  },
  {
   "market_id": "0x04e3aa08ff437518658725bf3674b3e5106a554521d705181e750416c6f437e7",
   "question": "Will Nike (NKE) beat quarterly earnings?",
   "predicted_side": "YES",
   "predicted_prob": 0.78,
-  "confidence": 0.4052,
-  "composite_score": 0.4502,
+  "confidence": 0.4055,
+  "composite_score": 0.4505,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.7438,
+   "sentiment": 0.7451,
    "arbitrage": 0.0,
-   "volume": 0.2865,
+   "volume": 0.2861,
    "news_volume": 0.9975
   },
   "regime": "unknown",
-  "signal_agreement": 0.9041,
+  "signal_agreement": 0.9039,
   "abstain": true,
   "abstain_reasons": [
    "high_signal_divergence"
@@ -72,35 +72,35 @@
     "score": 0.964
    },
    {
-    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - fool.com",
     "score": -0.9051
    }
   ],
   "url": "https://polymarket.com/event/nke-quarterly-earnings-gaap-eps-03-31-2026-0pt29",
   "volume": 22973.112133000013,
-  "ends_in": "2s 50d",
+  "ends_in": "2s 48d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.9549,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688729+00:00"
+  "timestamp": "2026-03-31T18:12:25.801565+00:00"
  },
  {
   "market_id": "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a",
   "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.795,
-  "confidence": 0.4017,
-  "composite_score": 0.4463,
+  "predicted_prob": 0.8,
+  "confidence": 0.3974,
+  "composite_score": 0.4415,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.8175,
+   "sentiment": 0.8035,
    "arbitrage": 0.0,
-   "volume": 0.2758,
-   "news_volume": 0.5627
+   "volume": 0.2754,
+   "news_volume": 0.5365
   },
   "regime": "unknown",
-  "signal_agreement": 0.8868,
+  "signal_agreement": 0.8902,
   "abstain": true,
   "abstain_reasons": [
    "high_signal_divergence"
@@ -121,25 +121,111 @@
   ],
   "url": "https://polymarket.com/event/ukraine-strikes-another-tanker-in-black-sea-by-835",
   "volume": 22112.572847000007,
-  "ends_in": "5s 50d",
+  "ends_in": "5s 48d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.9482,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688712+00:00"
+  "timestamp": "2026-03-31T18:12:25.801535+00:00"
+ },
+ {
+  "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
+  "question": "Will Solana dip to $70 March 30-April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.3463,
+  "composite_score": 0.3848,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6414,
+   "arbitrage": 0.0,
+   "volume": 0.1313,
+   "news_volume": 0.3579
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9243,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, Solana Fall as Crypto Crisis Deepens - Barron's",
+    "score": -0.7616
+   },
+   {
+    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
+    "score": -0.4621
+   },
+   {
+    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
+  "volume": 10542.205832000003,
+  "ends_in": "5g 9s 48d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6987,
+  "checked": false,
+  "timestamp": "2026-03-31T18:12:25.801418+00:00"
+ },
+ {
+  "market_id": "0x67d4d5462ed9eeaee7566648dc615a9ef5aef76a343fe14d97e8935fc684b91f",
+  "question": "Will Solana dip to $80 on March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.3453,
+  "composite_score": 0.3837,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6414,
+   "arbitrage": 0.0,
+   "volume": 0.1096,
+   "news_volume": 0.3579
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9243,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, Solana Fall as Crypto Crisis Deepens - Barron's",
+    "score": -0.7616
+   },
+   {
+    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
+    "score": -0.4621
+   },
+   {
+    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-on-march-31",
+  "volume": 8799.397364,
+  "ends_in": "9s 48d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.618,
+  "checked": false,
+  "timestamp": "2026-03-31T18:12:25.801462+00:00"
  },
  {
   "market_id": "0x0b4987432902340aeca79a453452c48d8e9fff9cb3fb497b943286f5a20264ea",
   "question": "Sisyphus mindshare all time high by March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9145,
-  "confidence": 0.3433,
-  "composite_score": 0.3814,
+  "predicted_prob": 0.914,
+  "confidence": 0.3432,
+  "composite_score": 0.3813,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.6848,
    "arbitrage": 0.0,
-   "volume": 0.0911,
+   "volume": 0.091,
    "news_volume": 0.1119
   },
   "regime": "unknown",
@@ -165,29 +251,29 @@
   ],
   "url": "https://polymarket.com/event/ct-creator-mindshare-ath-by-march-31-2026",
   "volume": 7305.2879109999985,
-  "ends_in": "10s 50d",
+  "ends_in": "10s 48d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.5365,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688597+00:00"
+  "timestamp": "2026-03-31T18:12:25.801394+00:00"
  },
  {
   "market_id": "0x29c8766b2455cb147676e7b6469aca94bd1bec1d5300f622f3e5ae1f776e209d",
   "question": "Will Starmer say \"Urgent\" during the next Prime Minister's Questions event?",
   "predicted_side": "NO",
-  "predicted_prob": 0.904,
+  "predicted_prob": 0.907,
   "confidence": 0.3404,
   "composite_score": 0.3782,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.6188,
+   "sentiment": 0.6129,
    "arbitrage": 0.0,
-   "volume": 0.0792,
-   "news_volume": 0.3902
+   "volume": 0.0791,
+   "news_volume": 0.4214
   },
   "regime": "unknown",
-  "signal_agreement": 0.9281,
+  "signal_agreement": 0.9291,
   "abstain": true,
   "abstain_reasons": [
    "low_confidence"
@@ -198,7 +284,7 @@
     "score": -0.7616
    },
    {
-    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - kcl.ac.uk",
     "score": 0.7616
    },
    {
@@ -208,18 +294,18 @@
   ],
   "url": "https://polymarket.com/event/what-will-keir-starmer-say-at-the-next-prime-ministers-questions-event-564",
   "volume": 6348.247062999998,
-  "ends_in": "5s 50d",
+  "ends_in": "5s 48d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.4782,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688614+00:00"
+  "timestamp": "2026-03-31T18:12:25.801407+00:00"
  },
  {
   "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
   "question": "Any of the stolen KitKats recovered by April 5?",
   "predicted_side": "NO",
-  "predicted_prob": 0.84,
+  "predicted_prob": 0.85,
   "confidence": 0.3375,
   "composite_score": 0.375,
   "scores": {
@@ -237,116 +323,30 @@
   ],
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
-  "volume": 80184.85113900003,
-  "ends_in": "5g 5s 50d",
+  "volume": 80305.85113900003,
+  "ends_in": "5g 5s 48d",
   "end_date": "05 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 1.0,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688655+00:00"
- },
- {
-  "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
-  "question": "Will Solana dip to $70 March 30-April 5?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.905,
-  "confidence": 0.3349,
-  "composite_score": 0.3721,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.6039,
-   "arbitrage": 0.0,
-   "volume": 0.1315,
-   "news_volume": 0.291
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9305,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
-    "score": -0.4621
-   },
-   {
-    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
-    "score": -0.4621
-   },
-   {
-    "title": "News Explorer — Bitcoin, Ethereum and Solana Fall as Over $500 Million in Crypto Positions Get Rekt - Decrypt",
-    "score": -0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
-  "volume": 10542.205832000003,
-  "ends_in": "5g 9s 50d",
-  "end_date": "06 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.6987,
-  "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688604+00:00"
- },
- {
-  "market_id": "0x67d4d5462ed9eeaee7566648dc615a9ef5aef76a343fe14d97e8935fc684b91f",
-  "question": "Will Solana dip to $80 on March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.875,
-  "confidence": 0.3339,
-  "composite_score": 0.371,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.6039,
-   "arbitrage": 0.0,
-   "volume": 0.1097,
-   "news_volume": 0.291
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9305,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
-    "score": -0.4621
-   },
-   {
-    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
-    "score": -0.4621
-   },
-   {
-    "title": "News Explorer — Bitcoin, Ethereum and Solana Fall as Over $500 Million in Crypto Positions Get Rekt - Decrypt",
-    "score": -0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/what-price-will-solana-hit-on-march-31",
-  "volume": 8799.397364,
-  "ends_in": "9s 50d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.618,
-  "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688635+00:00"
+  "timestamp": "2026-03-31T18:12:25.801472+00:00"
  },
  {
   "market_id": "0x915b2072dfd197890bd05c37568a978200d040335b68e94e006815efa20ea6d2",
   "question": "Will the median home value in Chicago be between $327,000 and $330,000 on April 1?",
   "predicted_side": "YES",
-  "predicted_prob": 0.7284999999999999,
-  "confidence": 0.3322,
-  "composite_score": 0.3691,
+  "predicted_prob": 0.7290000000000001,
+  "confidence": 0.3317,
+  "composite_score": 0.3686,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.6268,
+   "sentiment": 0.6175,
    "arbitrage": 0.0,
-   "volume": 0.0988,
-   "news_volume": 0.1487
+   "volume": 0.0987,
+   "news_volume": 0.1851
   },
   "regime": "unknown",
-  "signal_agreement": 0.9268,
+  "signal_agreement": 0.9283,
   "abstain": true,
   "abstain_reasons": [
    "low_confidence"
@@ -361,32 +361,32 @@
     "score": 0.4621
    },
    {
-    "title": "George Stigler 50 Years Later: Revisiting The Theory of Economic Regulation - The University of Chicago Booth School of Business",
+    "title": "Trump attending opening night of 'Chicago' the musical at the Kennedy Center - Audacy",
     "score": 0.0
    }
   ],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-chicago-be-on-april-1",
   "volume": 7924.779254000001,
-  "ends_in": "5s 50d",
+  "ends_in": "5s 48d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.5717,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688745+00:00"
+  "timestamp": "2026-03-31T18:12:25.801588+00:00"
  },
  {
   "market_id": "0x21e15cc3c74974d4bc3a9a3f8a1c2f36c47eb4d353bac24f0f19745843d0be28",
   "question": "S&P 500 breaks its losing streak this week?",
   "predicted_side": "YES",
-  "predicted_prob": 0.735,
-  "confidence": 0.3151,
-  "composite_score": 0.3501,
+  "predicted_prob": 0.73,
+  "confidence": 0.3168,
+  "composite_score": 0.352,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.4656,
-   "news_volume": 0.0374
+   "volume": 0.4648,
+   "news_volume": 0.0748
   },
   "regime": "unknown",
   "signal_agreement": 0.9444,
@@ -396,53 +396,82 @@
   ],
   "sentiment_headlines": [
    {
-    "title": "Commodities Prices Today in US Markets (Dec. 17, 2025): Oil Jumps on Venezuela Blockade, Silver Breaks $66, Gold Forecasts Eye $5,000 - TechStock²",
+    "title": "Commodities Prices Today in US Markets (Dec. 17, 2025): Oil Jumps on Venezuela Blockade, Silver Breaks $66, Gold Forecasts Eye $5,000 - ts2.tech",
+    "score": 0.0
+   },
+   {
+    "title": "Congress is losing the race to regulate AI - The Washington Post",
     "score": 0.0
    }
   ],
   "url": "https://polymarket.com/event/sp-500-breaks-its-losing-streak-this-week",
   "volume": 37330.08925099998,
-  "ends_in": "1g 5s 50d",
+  "ends_in": "1g 5s 48d",
   "end_date": "02 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.9956,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688740+00:00"
+  "timestamp": "2026-03-31T18:12:25.801576+00:00"
+ },
+ {
+  "market_id": "0x11725e05076f8e27bbc5923e42d12fcdefb3d9da6d6c7f4b0bb29d4d35dca716",
+  "question": "Will Amazon (AMZN) close above $210 end of March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8734999999999999,
+  "confidence": 0.298,
+  "composite_score": 0.3311,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1215,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/amzn-above-in-march-2026",
+  "volume": 9753.527007999994,
+  "ends_in": "1s 48d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-03-31T18:12:25.801451+00:00"
  },
  {
   "market_id": "0x3e16332e064598676133604013c750f0211798a29aeba1f210970f46e6c60fff",
   "question": "Will Palantir (PLTR) close above $144 end of March?",
   "predicted_side": "YES",
-  "predicted_prob": 0.9,
-  "confidence": 0.3142,
-  "composite_score": 0.3491,
+  "predicted_prob": 0.885,
+  "confidence": 0.2974,
+  "composite_score": 0.3304,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5673,
+   "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.1088,
-   "news_volume": 0.0374
+   "volume": 0.1086,
+   "news_volume": 0.0
   },
   "regime": "unknown",
-  "signal_agreement": 0.936,
+  "signal_agreement": 0.9444,
   "abstain": true,
   "abstain_reasons": [
    "low_confidence"
   ],
-  "sentiment_headlines": [
-   {
-    "title": "What to Expect in Markets This Week: January Jobs Report; Earnings From Alphabet, Amazon, AMD, Disney, Palantir - investopedia.com",
-    "score": 0.4621
-   }
-  ],
+  "sentiment_headlines": [],
   "url": "https://polymarket.com/event/pltr-above-in-march-2026",
   "volume": 8721.137256,
-  "ends_in": "1s 50d",
+  "ends_in": "1s 48d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.614,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688619+00:00"
+  "timestamp": "2026-03-31T18:12:25.801440+00:00"
  },
  {
   "market_id": "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993",
@@ -455,7 +484,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0974,
+   "volume": 0.0973,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -467,12 +496,12 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-the-us-be-on-april-1",
   "volume": 7810.269708000001,
-  "ends_in": "5s 50d",
+  "ends_in": "5s 48d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.5653,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688661+00:00"
+  "timestamp": "2026-03-31T18:12:25.801515+00:00"
  },
  {
   "market_id": "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098",
@@ -485,7 +514,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0702,
+   "volume": 0.0701,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -497,12 +526,12 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/march-unemployment-rate-561",
   "volume": 5630.9242890000005,
-  "ends_in": "2g 5s 50d",
+  "ends_in": "2g 5s 48d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.4316,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688629+00:00"
+  "timestamp": "2026-03-31T18:12:25.801429+00:00"
  },
  {
   "market_id": "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf",
@@ -515,7 +544,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0654,
+   "volume": 0.0653,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -527,25 +556,25 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
   "volume": 5247.437566999999,
-  "ends_in": "2g 5s 50d",
+  "ends_in": "2g 5s 48d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.4057,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688717+00:00"
+  "timestamp": "2026-03-31T18:12:25.801544+00:00"
  },
  {
   "market_id": "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e",
   "question": "Will \"Choosin' Texas - Ella Langley\" be the Billboard Hot 100 #1 song for the week of April 11?",
   "predicted_side": "YES",
-  "predicted_prob": 0.815,
+  "predicted_prob": 0.82,
   "confidence": 0.2954,
   "composite_score": 0.3282,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0637,
+   "volume": 0.0636,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -557,29 +586,29 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
   "volume": 5109.985227000001,
-  "ends_in": "5g 5s 50d",
+  "ends_in": "5g 5s 48d",
   "end_date": "06 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.3962,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688666+00:00"
+  "timestamp": "2026-03-31T18:12:25.801505+00:00"
  },
  {
   "market_id": "0x3cd23ed8bb1b4e649424ab1f9d7090ec8d94f07f6d9cb4a0c8588aeb49266fd1",
   "question": "Will Trump’s approval rating be between 40.0 and 40.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.725,
-  "confidence": 0.2921,
-  "composite_score": 0.3246,
+  "predicted_prob": 0.705,
+  "confidence": 0.2885,
+  "composite_score": 0.3205,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.333,
+   "sentiment": 0.3242,
    "arbitrage": 0.0,
-   "volume": 0.6051,
-   "news_volume": 0.221
+   "volume": 0.6042,
+   "news_volume": 0.1851
   },
   "regime": "unknown",
-  "signal_agreement": 0.9568,
+  "signal_agreement": 0.9571,
   "abstain": true,
   "abstain_reasons": [
    "low_confidence"
@@ -600,25 +629,25 @@
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
   "volume": 48520.47638600002,
-  "ends_in": "3g 5s 50d",
+  "ends_in": "3g 5s 48d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.9993,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688752+00:00"
+  "timestamp": "2026-03-31T18:12:25.801598+00:00"
  },
  {
   "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
   "question": "Will RH (RH) beat quarterly earnings?",
   "predicted_side": "NO",
   "predicted_prob": 0.805,
-  "confidence": 0.2886,
-  "composite_score": 0.3207,
+  "confidence": 0.2884,
+  "composite_score": 0.3204,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.2562,
+   "sentiment": 0.2549,
    "arbitrage": 0.0,
-   "volume": 0.1363,
+   "volume": 0.1361,
    "news_volume": 0.9975
   },
   "regime": "unknown",
@@ -637,31 +666,31 @@
     "score": 0.964
    },
    {
-    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - fool.com",
     "score": -0.9051
    }
   ],
   "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
   "volume": 10929.829919,
-  "ends_in": "1g 2s 50d",
+  "ends_in": "1g 2s 48d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.7146,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688672+00:00"
+  "timestamp": "2026-03-31T18:12:25.801524+00:00"
  },
  {
   "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
   "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
   "predicted_side": "NO",
   "predicted_prob": 0.84,
-  "confidence": 0.287,
-  "composite_score": 0.3189,
+  "confidence": 0.2867,
+  "composite_score": 0.3186,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.2562,
+   "sentiment": 0.2549,
    "arbitrage": 0.0,
-   "volume": 0.1002,
+   "volume": 0.1,
    "news_volume": 0.9975
   },
   "regime": "unknown",
@@ -680,18 +709,18 @@
     "score": 0.964
    },
    {
-    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - fool.com",
     "score": -0.9051
    }
   ],
   "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
   "volume": 8034.361530999998,
-  "ends_in": "2s 50d",
+  "ends_in": "2s 48d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.5777,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688650+00:00"
+  "timestamp": "2026-03-31T18:12:25.801495+00:00"
  },
  {
   "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
@@ -704,7 +733,7 @@
    "statistical": 0.5,
    "sentiment": 0.4327,
    "arbitrage": 0.0,
-   "volume": 0.1626,
+   "volume": 0.1623,
    "news_volume": 0.0374
   },
   "regime": "unknown",
@@ -721,47 +750,12 @@
   ],
   "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
   "volume": 13036.965968999993,
-  "ends_in": "3g 5s 50d",
+  "ends_in": "3g 5s 48d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.7892,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688645+00:00"
- },
- {
-  "market_id": "0x11725e05076f8e27bbc5923e42d12fcdefb3d9da6d6c7f4b0bb29d4d35dca716",
-  "question": "Will Amazon (AMZN) close above $210 end of March?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.78,
-  "confidence": 0.2845,
-  "composite_score": 0.3161,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4327,
-   "arbitrage": 0.0,
-   "volume": 0.1216,
-   "news_volume": 0.0374
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9509,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "What to Expect in Markets This Week: January Jobs Report; Earnings From Alphabet, Amazon, AMD, Disney, Palantir - investopedia.com",
-    "score": 0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/amzn-above-in-march-2026",
-  "volume": 9753.527007999994,
-  "ends_in": "1s 50d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.664,
-  "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688722+00:00"
+  "timestamp": "2026-03-31T18:12:25.801484+00:00"
  },
  {
   "market_id": "0x8f5e0422289609a2b9b209b5a19915ea152f1bb0895a94a1a7481eb96acad631",
@@ -774,7 +768,7 @@
    "statistical": 0.5,
    "sentiment": 0.3631,
    "arbitrage": 0.0,
-   "volume": 0.2313,
+   "volume": 0.231,
    "news_volume": 0.1851
   },
   "regime": "unknown",
@@ -799,29 +793,29 @@
   ],
   "url": "https://polymarket.com/event/avg-of-ships-transiting-strait-of-hormuz-on-april-3",
   "volume": 18549.975071000004,
-  "ends_in": "2g 5s 50d",
+  "ends_in": "2g 5s 48d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.909,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688586+00:00"
+  "timestamp": "2026-03-31T18:12:25.801379+00:00"
  },
  {
   "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
   "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.765,
-  "confidence": 0.2695,
-  "composite_score": 0.2994,
+  "predicted_prob": 0.785,
+  "confidence": 0.2658,
+  "composite_score": 0.2953,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.333,
+   "sentiment": 0.3242,
    "arbitrage": 0.0,
-   "volume": 0.101,
-   "news_volume": 0.221
+   "volume": 0.1009,
+   "news_volume": 0.1851
   },
   "regime": "unknown",
-  "signal_agreement": 0.9568,
+  "signal_agreement": 0.9571,
   "abstain": true,
   "abstain_reasons": [
    "low_confidence"
@@ -842,11 +836,11 @@
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
   "volume": 8101.807758000004,
-  "ends_in": "3g 5s 50d",
+  "ends_in": "3g 5s 48d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.5814,
   "checked": false,
-  "timestamp": "2026-03-31T18:09:56.688734+00:00"
+  "timestamp": "2026-03-31T18:12:25.801554+00:00"
  }
 ]
