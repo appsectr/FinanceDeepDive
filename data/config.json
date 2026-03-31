@@ -1,0 +1,84 @@
+{
+  "scanner": {
+    "min_volume": 5000,
+    "max_days_left": 7,
+    "min_prob": 0.70,
+    "max_prob": 0.95,
+    "side": "both",
+    "api_batch_size": 500,
+    "clob_timeout": 5,
+    "clob_workers": 10
+  },
+  "analyzer": {
+    "sma_windows": [3, 7, 14],
+    "volatility_window": 7,
+    "momentum_window": 3,
+    "zscore_window": 14
+  },
+  "sentiment": {
+    "rss_feeds": [
+      "https://news.google.com/rss/search?q=politics&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=geopolitics+policy&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=economy+regulation&hl=en-US&gl=US&ceid=US:en"
+    ],
+    "weight": 0.20
+  },
+  "scoring": {
+    "weights": {
+      "statistical": 0.40,
+      "sentiment": 0.20,
+      "arbitrage": 0.25,
+      "volume": 0.15
+    }
+  },
+  "self_improve": {
+    "accuracy_target": 0.65,
+    "learning_rate": 0.05,
+    "min_predictions_for_adjust": 10,
+    "lookback_days": 30
+  },
+  "email": {
+    "to": "fturan.zero@gmail.com",
+    "from_email": "polymarket-scanner@financedeep.dive",
+    "from_name": "Polymarket Scanner",
+    "subject_prefix": "[Polymarket]"
+  },
+  "exclude_patterns": [
+    "\\bwin on \\d{4}-\\d{2}-\\d{2}\\b", "\\bend in a draw\\b",
+    "\\bvs\\.?\\b", "\\bGame \\d+ Winner\\b", "\\bMap \\d+ Winner\\b",
+    "\\b[OoUu]/[OoUu]\\b", "\\bO/U\\b", "\\bHandicap\\b", "\\bSpread\\b",
+    "\\bscore a (TD|touchdown|goal)\\b", "\\bmoneyline\\b",
+    "\\b(Serie A|La Liga|Ligue 1|Bundesliga|Premier League|Eredivisie|MLS|EFL|EFL Cup)\\b",
+    "\\b(NBA|NHL|NFL|MLB|MLS|NCAA|UFC|ATP|WTA|F1|Formula 1|Grand Prix)\\b",
+    "\\b(Flag Football|Golf|PGA|Valspar|Championship|World Cup|Super Bowl|Stanley Cup|Champions League)\\b",
+    "\\bCounter-Strike\\b", "\\bCS2\\b", "\\bDota 2\\b", "\\bValorant\\b",
+    "\\bLeague of Legends\\b", "\\bLoL\\b", "\\bOverwatch\\b", "\\bRocket League\\b",
+    "\\b(BO[1-5])\\b", "\\bESL\\b", "\\bBLAST\\b", "\\bVCL\\b", "\\bFirst Stand\\b",
+    "\\b(Esports|esports|eSports|Gaming)\\b", "\\bGames Total\\b",
+    "\\bprice of (Bitcoin|Ethereum|XRP|SOL|BNB|Dogecoin|Solana|Cardano|Polkadot)\\b",
+    "\\b(Bitcoin|Ethereum|BTC|ETH|XRP|SOL|BNB|DOGE) (above|below|between|dip|hit|reach|drop)\\b",
+    "\\bUp or Down\\b", "\\bcrypto.*daily\\b",
+    "\\b(highest|lowest|average) temperature\\b", "\\bweather\\b",
+    "\\b[°]\\s?[CF]\\b", "\\btemperature in\\b",
+    "\\btweet", "\\btweets\\b", "\\btweet count\\b",
+    "\\bpost on (X|Twitter)\\b", "\\bposts on (X|Twitter)\\b",
+    "\\b(X|Twitter) post", "\\bretweet",
+    "\\btruth social\\b", "\\bTruth Social\\b", "\\bfollowers\\b",
+    "\\bpost \\d+", "\\bposts this week\\b",
+    "\\bships transit\\b",
+    "\\bearthquake\\b", "\\bseismic\\b", "\\bmagnitude \\d+\\b", "\\brichter\\b",
+    "\\bBox Office\\b", "\\b(top|#1).*Netflix\\b"
+  ],
+  "exclude_slug_prefixes": [
+    "epl-", "lal-", "fl1-", "bun-", "sea-", "ere-", "por-", "elc-",
+    "itsb-", "nor-", "spl-", "lig-", "mls-", "efl-",
+    "nba-", "nhl-", "nfl-", "mlb-", "cbb-", "wnba-",
+    "cs2-", "lol-", "val-", "dota2-", "rl-", "ow-",
+    "eth-updown", "btc-updown", "bitcoin-above", "bitcoin-below",
+    "ethereum-above", "ethereum-below", "xrp-above", "xrp-below",
+    "sol-above", "sol-below",
+    "highest-temperature-", "lowest-temperature-",
+    "elon-musk-of-tweets-", "trump-tweets-", "tweets-", "tweet-",
+    "ufc-", "earthquake-", "quake-"
+  ]
+}

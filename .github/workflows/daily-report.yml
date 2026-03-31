@@ -1,0 +1,51 @@
+name: Polymarket Daily Report
+
+on:
+  schedule:
+    - cron: '0 19 * * *'  # 19:00 UTC = 22:00 TR
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Create data directories
+        run: |
+          mkdir -p data/predictions data/history data/reports
+
+      - name: Run analysis pipeline
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/skills/polymarket/scripts/main.py
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: polymarket-report-${{ github.run_number }}
+          path: data/reports/*.html
+          retention-days: 90
+
+      - name: Commit self-improvement changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ -f
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily analysis $(date -u +%Y-%m-%d) — self-improvement update"
+            git push
+          fi

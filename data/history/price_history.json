@@ -1,0 +1,376 @@
+{
+ "0x9514e066262206b537790c495b811493c33d84930102f8f4ea134a9d045f53c6": {
+  "question": "Will NVIDIA (NVDA) close above $160 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 94.85,
+    "no": 5.15,
+    "volume": 6452.032478
+   }
+  ]
+ },
+ "0x92227b54271b6a233f7b4c36a2238aa500e076f7db3be0cf6bfae78d74ba156e": {
+  "question": "Will USD.AI launch a token by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 5.45,
+    "no": 94.55,
+    "volume": 601443.3925990008
+   }
+  ]
+ },
+ "0xf713ffa96689a3497760d73a9bdc3c6ad2244178f27bac51cbc2564c5b150696": {
+  "question": "Pakistan military action against Kabul by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 5.5,
+    "no": 94.5,
+    "volume": 18590.251335999994
+   }
+  ]
+ },
+ "0xc34a1a00b6fc35cb02f193cfbdda0206281a7fd67d2ac26d756941bfd35db29f": {
+  "question": "Will Apple (AAPL) close above $240 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 94.3,
+    "no": 5.7,
+    "volume": 15153.619814999976
+   }
+  ]
+ },
+ "0x29c8766b2455cb147676e7b6469aca94bd1bec1d5300f622f3e5ae1f776e209d": {
+  "question": "Will Starmer say \"Urgent\" during the next Prime Minister's Questions event?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 5.85,
+    "no": 94.15,
+    "volume": 6218.024023
+   }
+  ]
+ },
+ "0x1fafc1440b4fa2cf3720786818cbd5325a28e643ab216af8d72f98e26bbc5b88": {
+  "question": "Will Russia capture all of Huliaipole by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 6.0,
+    "no": 94.0,
+    "volume": 192056.44176099973
+   }
+  ]
+ },
+ "0x8beb0692e15cdfd2905e4bf5ec618bb94a66900e59ce81f9de8e378d84dd4742": {
+  "question": "Will the Kharg Island oil terminal be hit by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 6.3,
+    "no": 93.7,
+    "volume": 720313.3711930008
+   }
+  ]
+ },
+ "0x53c09feb2c26715c8c9ef0b5117b908f513c70389609e7242465fa2a7a245014": {
+  "question": "Will the March 2026 unemployment rate be ≥4.7%?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 6.45,
+    "no": 93.55,
+    "volume": 7027.673245000001
+   }
+  ]
+ },
+ "0x7795f501aac460c8c7b3850eed23f3883b47c9c800944453a667c2aa62f78845": {
+  "question": "Will Amazon reach $224 in March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 6.5,
+    "no": 93.5,
+    "volume": 6193.158294000002
+   }
+  ]
+ },
+ "0xb4343d5924735287a425b5ff79c01c76ac59aab570427898f9b963a13ec68a28": {
+  "question": "Pakistan military action against Afghanistan by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 7.0,
+    "no": 93.0,
+    "volume": 47543.69735900001
+   }
+  ]
+ },
+ "0x4c7c612a166b1b7ba050889b1d5ba60c123a53a042913f820d91977b725844fb": {
+  "question": "Russia military action against Kyiv municipality by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 7.0,
+    "no": 93.0,
+    "volume": 25797.915243000003
+   }
+  ]
+ },
+ "0x9de11706e7f6d31eddc745b50cb521c1536ae59d123419dd87e11421e3f5d208": {
+  "question": "Houthi strike on Israel by March 31, 2026?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 7.4,
+    "no": 92.6,
+    "volume": 1072998.9078420037
+   }
+  ]
+ },
+ "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19": {
+  "question": "Will Solana dip to $70 March 30-April 5?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 7.5,
+    "no": 92.5,
+    "volume": 10183.608260000003
+   }
+  ]
+ },
+ "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b": {
+  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 9.85,
+    "no": 90.15,
+    "volume": 7298.216180999993
+   }
+  ]
+ },
+ "0x8f5e0422289609a2b9b209b5a19915ea152f1bb0895a94a1a7481eb96acad631": {
+  "question": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on April 3?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 89.5,
+    "no": 10.5,
+    "volume": 17766.145020000004
+   }
+  ]
+ },
+ "0x99b1ca65f691dff6d1e47b02aebb74a730e1c60f8044f59cc3443fa0c5bc4b4b": {
+  "question": "Will Amazon (AMZN) close above $200 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 89.45,
+    "no": 10.55,
+    "volume": 8686.410729000003
+   }
+  ]
+ },
+ "0xde4e35d9c11c61db828bcdb303ce1d431a0aaca2bb8ab5c7719e59d86ca76462": {
+  "question": "Will USD reach 1.6M Iranian rials by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 11.0,
+    "no": 89.0,
+    "volume": 16617.808427000004
+   }
+  ]
+ },
+ "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098": {
+  "question": "Will the March 2026 unemployment rate be 4.6%?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 12.5,
+    "no": 87.5,
+    "volume": 5618.633795000001
+   }
+  ]
+ },
+ "0x04e3aa08ff437518658725bf3674b3e5106a554521d705181e750416c6f437e7": {
+  "question": "Will Nike (NKE) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 85.5,
+    "no": 14.5,
+    "volume": 22204.00437800001
+   }
+  ]
+ },
+ "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67": {
+  "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 16.0,
+    "no": 84.0,
+    "volume": 8028.926755999998
+   }
+  ]
+ },
+ "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993": {
+  "question": "Will the median home value in the US be between $425,000 and $427,500 on April 1?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 18.5,
+    "no": 81.5,
+    "volume": 7806.103043000001
+   }
+  ]
+ },
+ "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52": {
+  "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 19.0,
+    "no": 81.0,
+    "volume": 7609.018529000003
+   }
+  ]
+ },
+ "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a": {
+  "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 20.0,
+    "no": 80.0,
+    "volume": 21769.548709000006
+   }
+  ]
+ },
+ "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf": {
+  "question": "Will the US add between 50k and 100k jobs in March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 20.5,
+    "no": 79.5,
+    "volume": 5224.195749999999
+   }
+  ]
+ },
+ "0x445f0721884fa2e0008494ffcab8191d98dacc4a46c27efb4a06b6dd0f280fe1": {
+  "question": "Will Google (GOOGL) close above $280 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 77.0,
+    "no": 23.0,
+    "volume": 9855.111907999992
+   }
+  ]
+ },
+ "0x026a29316ad1b79132f253f88104345323fc9964638850bf75df7e5d304d3d93": {
+  "question": "Will Apple (AAPL) close above $250 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 23.25,
+    "no": 76.75,
+    "volume": 17560.878081000003
+   }
+  ]
+ },
+ "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78": {
+  "question": "Any of the stolen KitKats recovered by April 5?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 23.5,
+    "no": 76.5,
+    "volume": 34692.53722400004
+   }
+  ]
+ },
+ "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a": {
+  "question": "Will RH (RH) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 24.0,
+    "no": 76.0,
+    "volume": 10928.000653
+   }
+  ]
+ },
+ "0xecca1f97a1a020ea68f6974b127ff29143dcb9aa244def83620b98827c35b8cc": {
+  "question": "Will Starmer say \"United States\" during the next Prime Minister's Questions event?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 24.0,
+    "no": 76.0,
+    "volume": 13706.389115
+   }
+  ]
+ },
+ "0x23235adc87a7351d0af4e9dce0b7681a1aa450bec86348d9746afe0d4f702539": {
+  "question": "Will NVIDIA (NVDA) close above $170 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 75.0,
+    "no": 25.0,
+    "volume": 6805.065539999999
+   }
+  ]
+ },
+ "0x3cd23ed8bb1b4e649424ab1f9d7090ec8d94f07f6d9cb4a0c8588aeb49266fd1": {
+  "question": "Will Trump’s approval rating be between 40.0 and 40.4 on April 3, 2026?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 26.5,
+    "no": 73.5,
+    "volume": 47865.742544000015
+   }
+  ]
+ },
+ "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2": {
+  "question": "ChatGPT Outage by April 3?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 27.5,
+    "no": 72.5,
+    "volume": 12612.823918999997
+   }
+  ]
+ },
+ "0x915b2072dfd197890bd05c37568a978200d040335b68e94e006815efa20ea6d2": {
+  "question": "Will the median home value in Chicago be between $327,000 and $330,000 on April 1?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 71.5,
+    "no": 28.5,
+    "volume": 7876.139254000001
+   }
+  ]
+ },
+ "0xc2da51fc29676e529ecb2899593992473ebfd52fb3f16620fcf704ec23519705": {
+  "question": "Will MSC Industrial Direct (MSM) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 70.8,
+    "no": 29.2,
+    "volume": 12516.122636000002
+   }
+  ]
+ }
+}
