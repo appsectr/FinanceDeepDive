@@ -526,5 +526,16 @@
     "volume": 19282.662523999996
    }
   ]
+ },
+ "0xf2309f90bec7985cdcf92e788b55296cc0bad2fc97a13f11bf7b206948eee810": {
+  "question": "Will $MARU reach $900M in Q1?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 25.6,
+    "no": 74.4,
+    "volume": 6214.685504
+   }
+  ]
  }
 }
