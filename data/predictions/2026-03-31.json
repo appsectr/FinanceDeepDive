@@ -1,20 +1,63 @@
 [
  {
+  "market_id": "0xb4343d5924735287a425b5ff79c01c76ac59aab570427898f9b963a13ec68a28",
+  "question": "Pakistan military action against Afghanistan by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.4227,
+  "composite_score": 0.4697,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7646,
+   "arbitrage": 0.0,
+   "volume": 0.5827,
+   "news_volume": 0.9879
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8995,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites - The Guardian",
+    "score": -0.9051
+   },
+   {
+    "title": "Ongoing military conflicts causing world war worry - chronicleonline.com",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-march-31",
+  "volume": 47717.79819100001,
+  "ends_in": "4s 18d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9993,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498361+00:00"
+ },
+ {
   "market_id": "0x04e3aa08ff437518658725bf3674b3e5106a554521d705181e750416c6f437e7",
   "question": "Will Nike (NKE) beat quarterly earnings?",
   "predicted_side": "YES",
   "predicted_prob": 0.775,
-  "confidence": 0.4071,
-  "composite_score": 0.4523,
+  "confidence": 0.406,
+  "composite_score": 0.4511,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.7529,
+   "sentiment": 0.7488,
    "arbitrage": 0.0,
-   "volume": 0.2833,
+   "volume": 0.2805,
    "news_volume": 0.9975
   },
   "regime": "unknown",
-  "signal_agreement": 0.9021,
+  "signal_agreement": 0.903,
   "abstain": true,
   "abstain_reasons": [
    "high_signal_divergence"
@@ -25,86 +68,84 @@
     "score": 0.9852
    },
    {
-    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
     "score": 0.964
    },
    {
-    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
-    "score": 0.9603
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
    }
   ],
   "url": "https://polymarket.com/event/nke-quarterly-earnings-gaap-eps-03-31-2026-0pt29",
   "volume": 22974.394183000015,
-  "ends_in": "1s 36d",
+  "ends_in": "1s 18d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.9622,
+  "liquidity_factor": 0.9567,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745777+00:00"
+  "timestamp": "2026-03-31T19:42:07.498507+00:00"
  },
  {
   "market_id": "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a",
   "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.8,
-  "confidence": 0.387,
-  "composite_score": 0.43,
+  "predicted_prob": 0.805,
+  "confidence": 0.3889,
+  "composite_score": 0.4321,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.7519,
+   "sentiment": 0.7586,
    "arbitrage": 0.0,
-   "volume": 0.2736,
-   "news_volume": 0.5666
+   "volume": 0.271,
+   "news_volume": 0.5773
   },
   "regime": "unknown",
-  "signal_agreement": 0.9024,
+  "signal_agreement": 0.9009,
   "abstain": true,
   "abstain_reasons": [
    "high_signal_divergence"
   ],
   "sentiment_headlines": [
    {
-    "title": "Russian Oil Tankers Idle Off India as Sanctions and U.S. Tariff Threats Disrupt Trade - The Moscow Times",
+    "title": "Russian Oil Tankers Idle Off India as Sanctions and U.S. Tariff Threats Disrupt Trade - themoscowtimes.com",
     "score": -0.964
+   },
+   {
+    "title": "Russia-Ukraine war could reach 2 million military casualties as conflict continues - belganewsagency.eu",
+    "score": -0.9051
    },
    {
     "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
     "score": -0.9051
-   },
-   {
-    "title": "Another Raise For Honolulu Politicians? Salary Group Says Yes - Honolulu Civil Beat",
-    "score": 0.7616
    }
   ],
   "url": "https://polymarket.com/event/ukraine-strikes-another-tanker-in-black-sea-by-835",
-  "volume": 22182.572847000007,
-  "ends_in": "4s 35d",
+  "volume": 22194.576588000007,
+  "ends_in": "4s 18d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.9568,
+  "liquidity_factor": 0.9508,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745757+00:00"
+  "timestamp": "2026-03-31T19:42:07.498468+00:00"
  },
  {
   "market_id": "0x29c8766b2455cb147676e7b6469aca94bd1bec1d5300f622f3e5ae1f776e209d",
   "question": "Will Starmer say \"Urgent\" during the next Prime Minister's Questions event?",
   "predicted_side": "NO",
   "predicted_prob": 0.905,
-  "confidence": 0.3499,
-  "composite_score": 0.3888,
+  "confidence": 0.3533,
+  "composite_score": 0.3926,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.65,
+   "sentiment": 0.6568,
    "arbitrage": 0.0,
-   "volume": 0.0785,
-   "news_volume": 0.4478
+   "volume": 0.0777,
+   "news_volume": 0.4892
   },
   "regime": "unknown",
-  "signal_agreement": 0.9228,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
+  "signal_agreement": 0.9215,
+  "abstain": false,
+  "abstain_reasons": [],
   "sentiment_headlines": [
    {
     "title": "TSA officials warn of risks before World Cup during Homeland Security shutdown - Spectrum News",
@@ -121,56 +162,12 @@
   ],
   "url": "https://polymarket.com/event/what-will-keir-starmer-say-at-the-next-prime-ministers-questions-event-564",
   "volume": 6364.078558999998,
-  "ends_in": "4s 36d",
+  "ends_in": "4s 18d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.4983,
+  "liquidity_factor": 0.4837,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745604+00:00"
- },
- {
-  "market_id": "0x0b4987432902340aeca79a453452c48d8e9fff9cb3fb497b943286f5a20264ea",
-  "question": "Sisyphus mindshare all time high by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.823,
-  "confidence": 0.3435,
-  "composite_score": 0.3817,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.6848,
-   "arbitrage": 0.0,
-   "volume": 0.091,
-   "news_volume": 0.1199
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9163,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence",
-   "high_signal_divergence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "'No runners-up in war': CDS Chauhan on military conflicts; highlights importance of technology in warfare - The Times of India",
-    "score": -0.7616
-   },
-   {
-    "title": "Charlie Kirk highway got vetoed in Arizona. Elected officials are citing politics - Los Angeles Times",
-    "score": -0.4621
-   },
-   {
-    "title": "Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts - Yahoo Finance",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/ct-creator-mindshare-ath-by-march-31-2026",
-  "volume": 7378.678600999998,
-  "ends_in": "9s 36d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.561,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745728+00:00"
+  "timestamp": "2026-03-31T19:42:07.498348+00:00"
  },
  {
   "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
@@ -194,27 +191,27 @@
   ],
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
-  "volume": 81086.04363300004,
-  "ends_in": "5g 4s 35d",
+  "volume": 81893.21010200004,
+  "ends_in": "5g 4s 18d",
   "end_date": "05 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 1.0,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745676+00:00"
+  "timestamp": "2026-03-31T19:42:07.498407+00:00"
  },
  {
   "market_id": "0x67d4d5462ed9eeaee7566648dc615a9ef5aef76a343fe14d97e8935fc684b91f",
   "question": "Will Solana dip to $80 on March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9,
-  "confidence": 0.3351,
-  "composite_score": 0.3723,
+  "predicted_prob": 0.87,
+  "confidence": 0.3356,
+  "composite_score": 0.3729,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.597,
    "arbitrage": 0.0,
-   "volume": 0.1148,
-   "news_volume": 0.3465
+   "volume": 0.1178,
+   "news_volume": 0.3543
   },
   "regime": "unknown",
   "signal_agreement": 0.9316,
@@ -237,27 +234,27 @@
    }
   ],
   "url": "https://polymarket.com/event/what-price-will-solana-hit-on-march-31",
-  "volume": 9307.170696,
-  "ends_in": "8s 36d",
+  "volume": 9647.194639999998,
+  "ends_in": "8s 18d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "liquidity_factor": 0.664,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745632+00:00"
+  "timestamp": "2026-03-31T19:42:07.498384+00:00"
  },
  {
   "market_id": "0x915b2072dfd197890bd05c37568a978200d040335b68e94e006815efa20ea6d2",
   "question": "Will the median home value in Chicago be between $327,000 and $330,000 on April 1?",
   "predicted_side": "YES",
   "predicted_prob": 0.7290000000000001,
-  "confidence": 0.3323,
-  "composite_score": 0.3692,
+  "confidence": 0.3325,
+  "composite_score": 0.3694,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.6175,
    "arbitrage": 0.0,
-   "volume": 0.0977,
-   "news_volume": 0.1981
+   "volume": 0.0968,
+   "news_volume": 0.2029
   },
   "regime": "unknown",
   "signal_agreement": 0.9283,
@@ -281,26 +278,26 @@
   ],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-chicago-be-on-april-1",
   "volume": 7924.779254000001,
-  "ends_in": "4s 36d",
+  "ends_in": "4s 18d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.5923,
+  "liquidity_factor": 0.5765,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745796+00:00"
+  "timestamp": "2026-03-31T19:42:07.498556+00:00"
  },
  {
   "market_id": "0x21e15cc3c74974d4bc3a9a3f8a1c2f36c47eb4d353bac24f0f19745843d0be28",
   "question": "S&P 500 breaks its losing streak this week?",
   "predicted_side": "YES",
-  "predicted_prob": 0.83,
-  "confidence": 0.3169,
-  "composite_score": 0.3521,
+  "predicted_prob": 0.815,
+  "confidence": 0.3172,
+  "composite_score": 0.3524,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.4621,
-   "news_volume": 0.0801
+   "volume": 0.4658,
+   "news_volume": 0.0821
   },
   "regime": "unknown",
   "signal_agreement": 0.9444,
@@ -319,26 +316,69 @@
    }
   ],
   "url": "https://polymarket.com/event/sp-500-breaks-its-losing-streak-this-week",
-  "volume": 37470.53060799999,
-  "ends_in": "1g 4s 36d",
+  "volume": 38143.81003099999,
+  "ends_in": "1g 4s 18d",
   "end_date": "02 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.9968,
+  "liquidity_factor": 0.9964,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745697+00:00"
+  "timestamp": "2026-03-31T19:42:07.498458+00:00"
+ },
+ {
+  "market_id": "0x0b4987432902340aeca79a453452c48d8e9fff9cb3fb497b943286f5a20264ea",
+  "question": "Sisyphus mindshare all time high by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.823,
+  "confidence": 0.3069,
+  "composite_score": 0.341,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5135,
+   "arbitrage": 0.0,
+   "volume": 0.0901,
+   "news_volume": 0.1631
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9429,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stocks hit fresh all-time highs as strong earnings continue to power market rally - Fortune",
+    "score": 0.9051
+   },
+   {
+    "title": "'No runners-up in war': CDS Chauhan on military conflicts; highlights importance of technology in warfare - The Times of India",
+    "score": -0.7616
+   },
+   {
+    "title": "Charlie Kirk highway got vetoed in Arizona. Elected officials are citing politics - Los Angeles Times",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/ct-creator-mindshare-ath-by-march-31-2026",
+  "volume": 7378.678600999998,
+  "ends_in": "9s 18d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5455,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498439+00:00"
  },
  {
   "market_id": "0xa2c68eb1353353fd779edde5a44efa8a9ed66cc0e1a284ea7a00c2afe2e908e2",
   "question": "Will SpaceX file for an IPO by April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.75,
-  "confidence": 0.3032,
-  "composite_score": 0.3369,
+  "predicted_prob": 0.76,
+  "confidence": 0.3031,
+  "composite_score": 0.3368,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.2378,
+   "volume": 0.2355,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -350,12 +390,12 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/spacex-files-ipo-by",
   "volume": 19282.662523999996,
-  "ends_in": "3g 4s 35d",
+  "ends_in": "3g 4s 18d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.9299,
+  "liquidity_factor": 0.9215,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745786+00:00"
+  "timestamp": "2026-03-31T19:42:07.498517+00:00"
  },
  {
   "market_id": "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993",
@@ -368,7 +408,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0963,
+   "volume": 0.0954,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -380,25 +420,25 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-the-us-be-on-april-1",
   "volume": 7810.269708000001,
-  "ends_in": "4s 36d",
+  "ends_in": "4s 18d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.5859,
+  "liquidity_factor": 0.5701,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745738+00:00"
+  "timestamp": "2026-03-31T19:42:07.498449+00:00"
  },
  {
   "market_id": "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098",
   "question": "Will the March 2026 unemployment rate be 4.6%?",
   "predicted_side": "NO",
-  "predicted_prob": 0.8795000000000001,
-  "confidence": 0.2957,
-  "composite_score": 0.3285,
+  "predicted_prob": 0.879,
+  "confidence": 0.2956,
+  "composite_score": 0.3284,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0695,
+   "volume": 0.0688,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -410,12 +450,12 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/march-unemployment-rate-561",
   "volume": 5635.9242890000005,
-  "ends_in": "2g 4s 36d",
+  "ends_in": "2g 4s 18d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.4498,
+  "liquidity_factor": 0.4361,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745655+00:00"
+  "timestamp": "2026-03-31T19:42:07.498372+00:00"
  },
  {
   "market_id": "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e",
@@ -428,7 +468,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0637,
+   "volume": 0.063,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -440,12 +480,12 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
   "volume": 5161.715227000001,
-  "ends_in": "5g 4s 36d",
+  "ends_in": "5g 4s 18d",
   "end_date": "06 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.4167,
+  "liquidity_factor": 0.4037,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745707+00:00"
+  "timestamp": "2026-03-31T19:42:07.498428+00:00"
  },
  {
   "market_id": "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf",
@@ -458,7 +498,7 @@
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0647,
+   "volume": 0.0641,
    "news_volume": 0.0
   },
   "regime": "unknown",
@@ -470,268 +510,26 @@
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
   "volume": 5247.437566999999,
-  "ends_in": "2g 4s 36d",
+  "ends_in": "2g 4s 18d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.4228,
+  "liquidity_factor": 0.4096,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745767+00:00"
+  "timestamp": "2026-03-31T19:42:07.498488+00:00"
  },
  {
-  "market_id": "0x752a64c5989f596041df087457c02f0ba4d45ba04de0e93d50969e2f5ba63c2a",
-  "question": "Will Opendoor (OPEN) finish week of March 30 above $7.50?",
+  "market_id": "0x3cd23ed8bb1b4e649424ab1f9d7090ec8d94f07f6d9cb4a0c8588aeb49266fd1",
+  "question": "Will Trump’s approval rating be between 40.0 and 40.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9009999999999999,
-  "confidence": 0.2876,
-  "composite_score": 0.3195,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4327,
-   "arbitrage": 0.0,
-   "volume": 0.1867,
-   "news_volume": 0.0401
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9509,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Stock market opens higher ahead of busy earnings week - ABC7 WWSB",
-    "score": 0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/open-above-on-april-3-2026",
-  "volume": 15137.694500000001,
-  "ends_in": "3g 36d",
-  "end_date": "03 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.862,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745620+00:00"
- },
- {
-  "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
-  "question": "Will RH (RH) beat quarterly earnings?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.805,
-  "confidence": 0.2866,
-  "composite_score": 0.3184,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.2471,
-   "arbitrage": 0.0,
-   "volume": 0.1348,
-   "news_volume": 0.9975
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9583,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
-    "score": 0.9852
-   },
-   {
-    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
-    "score": 0.964
-   },
-   {
-    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
-    "score": 0.9603
-   }
-  ],
-  "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
-  "volume": 10929.829919,
-  "ends_in": "1g 1s 36d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.735,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745747+00:00"
- },
- {
-  "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
-  "question": "ChatGPT Outage by April 3?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.85,
-  "confidence": 0.2849,
-  "composite_score": 0.3166,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4183,
-   "arbitrage": 0.0,
-   "volume": 0.1608,
-   "news_volume": 0.0801
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.952,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - CalMatters",
-    "score": 0.4621
-   },
-   {
-    "title": "XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026 - 24/7 Wall St.",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
-  "volume": 13041.965968999993,
-  "ends_in": "3g 4s 35d",
-  "end_date": "03 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.8079,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745666+00:00"
- },
- {
-  "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
-  "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.84,
-  "confidence": 0.2849,
-  "composite_score": 0.3166,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.2471,
-   "arbitrage": 0.0,
-   "volume": 0.0991,
-   "news_volume": 0.9975
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9583,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
-    "score": 0.9852
-   },
-   {
-    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
-    "score": 0.964
-   },
-   {
-    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
-    "score": 0.9603
-   }
-  ],
-  "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
-  "volume": 8034.361530999998,
-  "ends_in": "1s 36d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.5984,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745687+00:00"
- },
- {
-  "market_id": "0x11725e05076f8e27bbc5923e42d12fcdefb3d9da6d6c7f4b0bb29d4d35dca716",
-  "question": "Will Amazon (AMZN) close above $210 end of March?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.8945000000000001,
-  "confidence": 0.2736,
-  "composite_score": 0.304,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.3759,
-   "arbitrage": 0.0,
-   "volume": 0.1213,
-   "news_volume": 0.0801
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9548,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "What to Expect in Markets This Week: January Jobs Report; Earnings From Alphabet, Amazon, AMD, Disney, Palantir - Investopedia",
-    "score": 0.4621
-   },
-   {
-    "title": "Cramer’s week ahead: Earnings from Eli Lilly, Alphabet and Amazon. Plus, jobs data - CNBC",
-    "score": 0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/amzn-above-in-march-2026",
-  "volume": 9832.478561999993,
-  "ends_in": "36d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.6885,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745644+00:00"
- },
- {
-  "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
-  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.9185,
-  "confidence": 0.273,
-  "composite_score": 0.3033,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.3316,
-   "arbitrage": 0.0,
-   "volume": 0.0975,
-   "news_volume": 0.3107
-  },
-  "regime": "unknown",
-  "signal_agreement": 0.9569,
-  "abstain": true,
-  "abstain_reasons": [
-   "low_confidence"
-  ],
-  "sentiment_headlines": [
-   {
-    "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
-    "score": 0.7616
-   },
-   {
-    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
-    "score": 0.7616
-   },
-   {
-    "title": "The Odds: Trump's approval rating - CNN",
-    "score": 0.4621
-   }
-  ],
-  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 7906.466135999994,
-  "ends_in": "3g 4s 36d",
-  "end_date": "04 Apr 2026",
-  "kelly": 0.0,
-  "liquidity_factor": 0.5913,
-  "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745577+00:00"
- },
- {
-  "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
-  "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.825,
-  "confidence": 0.2701,
-  "composite_score": 0.3001,
+  "predicted_prob": 0.745,
+  "confidence": 0.2927,
+  "composite_score": 0.3252,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.333,
    "arbitrage": 0.0,
-   "volume": 0.1007,
-   "news_volume": 0.2364
+   "volume": 0.5967,
+   "news_volume": 0.242
   },
   "regime": "unknown",
   "signal_agreement": 0.9568,
@@ -754,12 +552,258 @@
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 8166.263200000004,
-  "ends_in": "3g 4s 36d",
+  "volume": 48861.625825000025,
+  "ends_in": "3g 4s 18d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
-  "liquidity_factor": 0.6056,
+  "liquidity_factor": 0.9994,
   "checked": false,
-  "timestamp": "2026-03-31T19:24:24.745718+00:00"
+  "timestamp": "2026-03-31T19:42:07.498527+00:00"
+ },
+ {
+  "market_id": "0x752a64c5989f596041df087457c02f0ba4d45ba04de0e93d50969e2f5ba63c2a",
+  "question": "Will Opendoor (OPEN) finish week of March 30 above $7.50?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9135,
+  "confidence": 0.2876,
+  "composite_score": 0.3195,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.1848,
+   "news_volume": 0.0411
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9509,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market opens higher ahead of busy earnings week - ABC7 WWSB",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/open-above-on-april-3-2026",
+  "volume": 15137.694500000001,
+  "ends_in": "3g 18d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8498,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498333+00:00"
+ },
+ {
+  "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
+  "question": "Will RH (RH) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.805,
+  "confidence": 0.2874,
+  "composite_score": 0.3193,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2512,
+   "arbitrage": 0.0,
+   "volume": 0.1335,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
+    "score": 0.9852
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
+  "volume": 10929.829919,
+  "ends_in": "1g 1s 18d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7194,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498478+00:00"
+ },
+ {
+  "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
+  "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.84,
+  "confidence": 0.2858,
+  "composite_score": 0.3176,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2512,
+   "arbitrage": 0.0,
+   "volume": 0.0981,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
+    "score": 0.9852
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
+  "volume": 8034.361530999998,
+  "ends_in": "1s 18d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5825,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498418+00:00"
+ },
+ {
+  "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
+  "question": "ChatGPT Outage by April 3?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.85,
+  "confidence": 0.285,
+  "composite_score": 0.3167,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4183,
+   "arbitrage": 0.0,
+   "volume": 0.1593,
+   "news_volume": 0.0821
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - calmatters.org",
+    "score": 0.4621
+   },
+   {
+    "title": "XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026 - 24/7 Wall St.",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
+  "volume": 13041.965968999993,
+  "ends_in": "3g 4s 18d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7938,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498396+00:00"
+ },
+ {
+  "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
+  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9135,
+  "confidence": 0.2742,
+  "composite_score": 0.3047,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3432,
+   "arbitrage": 0.0,
+   "volume": 0.0973,
+   "news_volume": 0.2804
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9564,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 7966.193598999994,
+  "ends_in": "3g 4s 18d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5788,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498305+00:00"
+ },
+ {
+  "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
+  "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.785,
+  "confidence": 0.2704,
+  "composite_score": 0.3004,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.333,
+   "arbitrage": 0.0,
+   "volume": 0.1007,
+   "news_volume": 0.242
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9568,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 8246.713200000004,
+  "ends_in": "3g 4s 18d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.594,
+  "checked": false,
+  "timestamp": "2026-03-31T19:42:07.498498+00:00"
  }
 ]
