@@ -1,152 +1,43 @@
 [
  {
-  "market_id": "0x9de11706e7f6d31eddc745b50cb521c1536ae59d123419dd87e11421e3f5d208",
-  "question": "Houthi strike on Israel by March 31, 2026?",
+  "market_id": "0x1fafc1440b4fa2cf3720786818cbd5325a28e643ab216af8d72f98e26bbc5b88",
+  "question": "Will Russia capture all of Huliaipole by March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9259999999999999,
-  "confidence": 0.425,
-  "composite_score": 0.425,
+  "predicted_prob": 0.94,
+  "confidence": 0.45,
+  "composite_score": 0.45,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.375,
+   "sentiment": 0.5,
    "arbitrage": 0.0,
    "volume": 1.0
   },
   "sentiment_headlines": [
    {
-    "title": "Palestine Condemns Israeli Death Penalty Law for Prisoners as War Crime - Politics Today",
-    "score": 0.0
-   },
-   {
-    "title": "How May Türkiye Respond to Israel If Provoked? - Politics Today",
-    "score": 0.0
-   },
-   {
-    "title": "Israel says to occupy swathe of south Lebanon after war - Euractiv",
+    "title": "Russia Politics - GazetteXtra",
     "score": 0.0
    }
   ],
-  "url": "https://polymarket.com/event/houthi-strike-on-israel-by-632",
-  "volume": 1072998.9078420037,
-  "ends_in": "9s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857179+00:00"
- },
- {
-  "market_id": "0x8beb0692e15cdfd2905e4bf5ec618bb94a66900e59ce81f9de8e378d84dd4742",
-  "question": "Will the Kharg Island oil terminal be hit by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.937,
-  "confidence": 0.4007,
-  "composite_score": 0.4007,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.6713
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/will-the-kharg-island-oil-terminal-be-hit-by-march-31",
-  "volume": 720313.3711930008,
-  "ends_in": "9s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857146+00:00"
- },
- {
-  "market_id": "0x92227b54271b6a233f7b4c36a2238aa500e076f7db3be0cf6bfae78d74ba156e",
-  "question": "Will USD.AI launch a token by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.9455,
-  "confidence": 0.3841,
-  "composite_score": 0.3841,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.5605
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Daryl Parks launches mayoral campaign, says city at 'turning point' - tallahassee.com",
-    "score": 0.0
-   },
-   {
-    "title": "Bruce Springsteen brings 'Streets of Minneapolis' home to launch a political US tour - WRAL",
-    "score": 0.0
-   },
-   {
-    "title": "Navigating a world between orders: Launching the Centre for Geopolitics and International Policy - IPPR",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/will-usdai-launch-a-token-in-2025",
-  "volume": 601443.3925990008,
-  "ends_in": "13s 18d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857094+00:00"
- },
- {
-  "market_id": "0x1fafc1440b4fa2cf3720786818cbd5325a28e643ab216af8d72f98e26bbc5b88",
-  "question": "Will Russia capture all of Huliaipole by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.94,
-  "confidence": 0.3268,
-  "composite_score": 0.3268,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.179
-  },
-  "sentiment_headlines": [],
   "url": "https://polymarket.com/event/will-russia-capture-all-of-huliaipole-by-february-28",
-  "volume": 192056.44176099973,
-  "ends_in": "9s 18d",
+  "volume": 192111.85377399973,
+  "ends_in": "8s 16d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857140+00:00"
+  "timestamp": "2026-03-31T15:43:25.241068+00:00"
  },
  {
-  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
-  "question": "Any of the stolen KitKats recovered by April 5?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.765,
-  "confidence": 0.3048,
-  "composite_score": 0.3048,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0323
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
-  "volume": 34692.53722400004,
-  "ends_in": "5g 9s 18d",
-  "end_date": "05 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857282+00:00"
- },
- {
-  "market_id": "0x4c7c612a166b1b7ba050889b1d5ba60c123a53a042913f820d91977b725844fb",
-  "question": "Russia military action against Kyiv municipality by March 31?",
+  "market_id": "0xb4343d5924735287a425b5ff79c01c76ac59aab570427898f9b963a13ec68a28",
+  "question": "Pakistan military action against Afghanistan by March 31?",
   "predicted_side": "NO",
   "predicted_prob": 0.93,
-  "confidence": 0.3036,
-  "composite_score": 0.3036,
+  "confidence": 0.328,
+  "composite_score": 0.328,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.4546,
    "arbitrage": 0.0,
-   "volume": 0.024
+   "volume": 0.2475
   },
   "sentiment_headlines": [
    {
@@ -158,30 +49,87 @@
     "score": 0.0
    },
    {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - Audacy",
+    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-march-31",
+  "volume": 47546.72735900001,
+  "ends_in": "8s 16d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T15:43:25.241092+00:00"
+ },
+ {
+  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
+  "question": "Any of the stolen KitKats recovered by April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.765,
+  "confidence": 0.3277,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.185
+  },
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
+  "volume": 35536.627571000034,
+  "ends_in": "5g 8s 16d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T15:43:25.241199+00:00"
+ },
+ {
+  "market_id": "0x4c7c612a166b1b7ba050889b1d5ba60c123a53a042913f820d91977b725844fb",
+  "question": "Russia military action against Kyiv municipality by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.92,
+  "confidence": 0.3203,
+  "composite_score": 0.3203,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1356
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
+    "score": 0.0
+   },
+   {
+    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
     "score": 0.0
    }
   ],
   "url": "https://polymarket.com/event/russia-military-action-against-kyiv-municipality-by-march-31",
-  "volume": 25797.915243000003,
-  "ends_in": "9s 18d",
+  "volume": 26041.415243000003,
+  "ends_in": "8s 16d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857173+00:00"
+  "timestamp": "2026-03-31T15:43:25.241104+00:00"
  },
  {
   "market_id": "0x04e3aa08ff437518658725bf3674b3e5106a554521d705181e750416c6f437e7",
   "question": "Will Nike (NKE) beat quarterly earnings?",
   "predicted_side": "YES",
-  "predicted_prob": 0.855,
-  "confidence": 0.3031,
-  "composite_score": 0.3031,
+  "predicted_prob": 0.795,
+  "confidence": 0.3175,
+  "composite_score": 0.3175,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0207
+   "volume": 0.1164
   },
   "sentiment_headlines": [
    {
@@ -198,25 +146,25 @@
    }
   ],
   "url": "https://polymarket.com/event/nke-quarterly-earnings-gaap-eps-03-31-2026-0pt29",
-  "volume": 22204.00437800001,
-  "ends_in": "6s 18d",
+  "volume": 22367.404378000014,
+  "ends_in": "5s 17d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857220+00:00"
+  "timestamp": "2026-03-31T15:43:25.241193+00:00"
  },
  {
   "market_id": "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a",
   "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.8,
-  "confidence": 0.303,
-  "composite_score": 0.303,
+  "predicted_prob": 0.795,
+  "confidence": 0.317,
+  "composite_score": 0.317,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0203
+   "volume": 0.1133
   },
   "sentiment_headlines": [
    {
@@ -229,25 +177,47 @@
    }
   ],
   "url": "https://polymarket.com/event/ukraine-strikes-another-tanker-in-black-sea-by-835",
-  "volume": 21769.548709000006,
-  "ends_in": "9s 18d",
+  "volume": 21771.770929000006,
+  "ends_in": "8s 16d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857260+00:00"
+  "timestamp": "2026-03-31T15:43:25.241176+00:00"
+ },
+ {
+  "market_id": "0x026a29316ad1b79132f253f88104345323fc9964638850bf75df7e5d304d3d93",
+  "question": "Will Apple (AAPL) close above $250 end of March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.315,
+  "composite_score": 0.315,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1002
+  },
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/aapl-above-in-march-2026",
+  "volume": 19255.457106999995,
+  "ends_in": "4s 17d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T15:43:25.241216+00:00"
  },
  {
   "market_id": "0x8f5e0422289609a2b9b209b5a19915ea152f1bb0895a94a1a7481eb96acad631",
   "question": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on April 3?",
   "predicted_side": "YES",
-  "predicted_prob": 0.895,
-  "confidence": 0.3025,
-  "composite_score": 0.3025,
+  "predicted_prob": 0.9,
+  "confidence": 0.314,
+  "composite_score": 0.314,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0166
+   "volume": 0.0931
   },
   "sentiment_headlines": [
    {
@@ -256,91 +226,69 @@
    }
   ],
   "url": "https://polymarket.com/event/avg-of-ships-transiting-strait-of-hormuz-on-april-3",
-  "volume": 17766.145020000004,
-  "ends_in": "2g 9s 18d",
+  "volume": 17894.518629000002,
+  "ends_in": "2g 8s 17d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857203+00:00"
- },
- {
-  "market_id": "0x026a29316ad1b79132f253f88104345323fc9964638850bf75df7e5d304d3d93",
-  "question": "Will Apple (AAPL) close above $250 end of March?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.7725,
-  "confidence": 0.3025,
-  "composite_score": 0.3025,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0164
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/aapl-above-in-march-2026",
-  "volume": 17560.878081000003,
-  "ends_in": "5s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857277+00:00"
+  "timestamp": "2026-03-31T15:43:25.241116+00:00"
  },
  {
   "market_id": "0xde4e35d9c11c61db828bcdb303ce1d431a0aaca2bb8ab5c7719e59d86ca76462",
   "question": "Will USD reach 1.6M Iranian rials by March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.91,
-  "confidence": 0.3023,
-  "composite_score": 0.3023,
+  "predicted_prob": 0.88,
+  "confidence": 0.313,
+  "composite_score": 0.313,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0155
+   "volume": 0.0865
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-march-31",
   "volume": 16617.808427000004,
-  "ends_in": "9s 18d",
+  "ends_in": "8s 16d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857191+00:00"
+  "timestamp": "2026-03-31T15:43:25.241138+00:00"
  },
  {
   "market_id": "0xc34a1a00b6fc35cb02f193cfbdda0206281a7fd67d2ac26d756941bfd35db29f",
   "question": "Will Apple (AAPL) close above $240 end of March?",
   "predicted_side": "YES",
-  "predicted_prob": 0.943,
-  "confidence": 0.3021,
-  "composite_score": 0.3021,
+  "predicted_prob": 0.9440000000000001,
+  "confidence": 0.3119,
+  "composite_score": 0.3119,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0141
+   "volume": 0.0792
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/aapl-above-in-march-2026",
-  "volume": 15153.619814999976,
-  "ends_in": "5s 18d",
+  "volume": 15217.899814999977,
+  "ends_in": "4s 17d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857127+00:00"
+  "timestamp": "2026-03-31T15:43:25.241047+00:00"
  },
  {
   "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
   "question": "Will RH (RH) beat quarterly earnings?",
   "predicted_side": "NO",
   "predicted_prob": 0.76,
-  "confidence": 0.3015,
-  "composite_score": 0.3015,
+  "confidence": 0.3085,
+  "composite_score": 0.3085,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0102
+   "volume": 0.0569
   },
   "sentiment_headlines": [
    {
@@ -358,90 +306,46 @@
   ],
   "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
   "volume": 10928.000653,
-  "ends_in": "1g 6s 18d",
+  "ends_in": "1g 5s 17d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857288+00:00"
+  "timestamp": "2026-03-31T15:43:25.241209+00:00"
  },
  {
   "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
   "question": "Will Solana dip to $70 March 30-April 5?",
   "predicted_side": "NO",
-  "predicted_prob": 0.92,
-  "confidence": 0.3014,
-  "composite_score": 0.3014,
+  "predicted_prob": 0.9,
+  "confidence": 0.3081,
+  "composite_score": 0.3081,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0095
+   "volume": 0.0539
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
-  "volume": 10183.608260000003,
-  "ends_in": "5g 13s 18d",
+  "volume": 10349.781592000003,
+  "ends_in": "5g 12s 17d",
   "end_date": "06 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857186+00:00"
- },
- {
-  "market_id": "0x445f0721884fa2e0008494ffcab8191d98dacc4a46c27efb4a06b6dd0f280fe1",
-  "question": "Will Google (GOOGL) close above $280 end of March?",
-  "predicted_side": "YES",
-  "predicted_prob": 0.7745000000000001,
-  "confidence": 0.3014,
-  "composite_score": 0.3014,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0092
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/googl-above-in-march-2026",
-  "volume": 9855.111907999992,
-  "ends_in": "5s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857271+00:00"
- },
- {
-  "market_id": "0x99b1ca65f691dff6d1e47b02aebb74a730e1c60f8044f59cc3443fa0c5bc4b4b",
-  "question": "Will Amazon (AMZN) close above $200 end of March?",
-  "predicted_side": "YES",
-  "predicted_prob": 0.8945000000000001,
-  "confidence": 0.3012,
-  "composite_score": 0.3012,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0081
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/amzn-above-in-march-2026",
-  "volume": 8686.410729000003,
-  "ends_in": "5s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857209+00:00"
+  "timestamp": "2026-03-31T15:43:25.241123+00:00"
  },
  {
   "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
   "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
   "predicted_side": "NO",
   "predicted_prob": 0.84,
-  "confidence": 0.3011,
-  "composite_score": 0.3011,
+  "confidence": 0.3063,
+  "composite_score": 0.3063,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0075
+   "volume": 0.0418
   },
   "sentiment_headlines": [
    {
@@ -459,46 +363,46 @@
   ],
   "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
   "volume": 8028.926755999998,
-  "ends_in": "6s 18d",
+  "ends_in": "5s 17d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857226+00:00"
+  "timestamp": "2026-03-31T15:43:25.241155+00:00"
  },
  {
   "market_id": "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993",
   "question": "Will the median home value in the US be between $425,000 and $427,500 on April 1?",
   "predicted_side": "NO",
-  "predicted_prob": 0.815,
-  "confidence": 0.3011,
-  "composite_score": 0.3011,
+  "predicted_prob": 0.81,
+  "confidence": 0.3061,
+  "composite_score": 0.3061,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0073
+   "volume": 0.0406
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-the-us-be-on-april-1",
   "volume": 7806.103043000001,
-  "ends_in": "9s 18d",
+  "ends_in": "8s 17d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857245+00:00"
+  "timestamp": "2026-03-31T15:43:25.241169+00:00"
  },
  {
   "market_id": "0x915b2072dfd197890bd05c37568a978200d040335b68e94e006815efa20ea6d2",
   "question": "Will the median home value in Chicago be between $327,000 and $330,000 on April 1?",
   "predicted_side": "YES",
-  "predicted_prob": 0.715,
-  "confidence": 0.3011,
-  "composite_score": 0.3011,
+  "predicted_prob": 0.7155,
+  "confidence": 0.3061,
+  "composite_score": 0.3061,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0073
+   "volume": 0.041
   },
   "sentiment_headlines": [
    {
@@ -508,73 +412,81 @@
   ],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-chicago-be-on-april-1",
   "volume": 7876.139254000001,
-  "ends_in": "9s 18d",
+  "ends_in": "8s 17d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857312+00:00"
+  "timestamp": "2026-03-31T15:43:25.241237+00:00"
  },
  {
   "market_id": "0x53c09feb2c26715c8c9ef0b5117b908f513c70389609e7242465fa2a7a245014",
   "question": "Will the March 2026 unemployment rate be ≥4.7%?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9355,
-  "confidence": 0.301,
-  "composite_score": 0.301,
+  "predicted_prob": 0.9415,
+  "confidence": 0.3055,
+  "composite_score": 0.3055,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0065
+   "volume": 0.0366
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/march-unemployment-rate-561",
   "volume": 7027.673245000001,
-  "ends_in": "2g 9s 18d",
+  "ends_in": "2g 8s 17d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857152+00:00"
+  "timestamp": "2026-03-31T15:43:25.241060+00:00"
  },
  {
-  "market_id": "0x23235adc87a7351d0af4e9dce0b7681a1aa450bec86348d9746afe0d4f702539",
-  "question": "Will NVIDIA (NVDA) close above $170 end of March?",
-  "predicted_side": "YES",
-  "predicted_prob": 0.755,
-  "confidence": 0.301,
-  "composite_score": 0.301,
+  "market_id": "0xf713ffa96689a3497760d73a9bdc3c6ad2244178f27bac51cbc2564c5b150696",
+  "question": "Pakistan military action against Kabul by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.945,
+  "confidence": 0.3054,
+  "composite_score": 0.3054,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.4546,
    "arbitrage": 0.0,
-   "volume": 0.0063
+   "volume": 0.0968
   },
   "sentiment_headlines": [
    {
-    "title": "The Rise and Fall of Nvidia’s Geopolitical Strategy - Tech Policy Press",
+    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
+    "score": 0.0
+   },
+   {
+    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
     "score": 0.0
    }
   ],
-  "url": "https://polymarket.com/event/nvda-above-in-march-2026",
-  "volume": 6805.065539999999,
-  "ends_in": "5s 18d",
+  "url": "https://polymarket.com/event/pakistan-military-action-against-kabul-by-march-31",
+  "volume": 18591.881335999995,
+  "ends_in": "8s 16d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857295+00:00"
+  "timestamp": "2026-03-31T15:43:25.241012+00:00"
  },
  {
   "market_id": "0x29c8766b2455cb147676e7b6469aca94bd1bec1d5300f622f3e5ae1f776e209d",
   "question": "Will Starmer say \"Urgent\" during the next Prime Minister's Questions event?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9405,
-  "confidence": 0.3009,
-  "composite_score": 0.3009,
+  "predicted_prob": 0.9355,
+  "confidence": 0.3049,
+  "composite_score": 0.3049,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0058
+   "volume": 0.0325
   },
   "sentiment_headlines": [
    {
@@ -586,236 +498,96 @@
     "score": 0.0
    },
    {
-    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "title": "Tshabalala calls for urgent overhaul of SA regulatory framework - Business Day",
     "score": 0.0
    }
   ],
   "url": "https://polymarket.com/event/what-will-keir-starmer-say-at-the-next-prime-ministers-questions-event-564",
-  "volume": 6218.024023,
-  "ends_in": "9s 18d",
+  "volume": 6250.004628,
+  "ends_in": "8s 17d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857134+00:00"
+  "timestamp": "2026-03-31T15:43:25.241076+00:00"
  },
  {
   "market_id": "0x7795f501aac460c8c7b3850eed23f3883b47c9c800944453a667c2aa62f78845",
   "question": "Will Amazon reach $224 in March?",
   "predicted_side": "NO",
   "predicted_prob": 0.935,
-  "confidence": 0.3009,
-  "composite_score": 0.3009,
+  "confidence": 0.3048,
+  "composite_score": 0.3048,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0058
+   "volume": 0.0322
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-price-will-amzn-hit-in-march-2026",
   "volume": 6193.158294000002,
-  "ends_in": "13s 18d",
+  "ends_in": "12s 17d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857158+00:00"
+  "timestamp": "2026-03-31T15:43:25.241084+00:00"
  },
  {
   "market_id": "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098",
   "question": "Will the March 2026 unemployment rate be 4.6%?",
   "predicted_side": "NO",
-  "predicted_prob": 0.875,
-  "confidence": 0.3008,
-  "composite_score": 0.3008,
+  "predicted_prob": 0.8785,
+  "confidence": 0.3044,
+  "composite_score": 0.3044,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0052
+   "volume": 0.0292
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/march-unemployment-rate-561",
   "volume": 5618.633795000001,
-  "ends_in": "2g 9s 18d",
+  "ends_in": "2g 8s 17d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857214+00:00"
+  "timestamp": "2026-03-31T15:43:25.241144+00:00"
  },
  {
   "market_id": "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf",
   "question": "Will the US add between 50k and 100k jobs in March?",
   "predicted_side": "NO",
   "predicted_prob": 0.795,
-  "confidence": 0.3007,
-  "composite_score": 0.3007,
+  "confidence": 0.3041,
+  "composite_score": 0.3041,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0049
+   "volume": 0.0272
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
   "volume": 5224.195749999999,
-  "ends_in": "2g 9s 18d",
+  "ends_in": "2g 8s 17d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857265+00:00"
- },
- {
-  "market_id": "0xb4343d5924735287a425b5ff79c01c76ac59aab570427898f9b963a13ec68a28",
-  "question": "Pakistan military action against Afghanistan by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.93,
-  "confidence": 0.2976,
-  "composite_score": 0.2976,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4546,
-   "arbitrage": 0.0,
-   "volume": 0.0443
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - Audacy",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-march-31",
-  "volume": 47543.69735900001,
-  "ends_in": "9s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857167+00:00"
- },
- {
-  "market_id": "0xf713ffa96689a3497760d73a9bdc3c6ad2244178f27bac51cbc2564c5b150696",
-  "question": "Pakistan military action against Kabul by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.945,
-  "confidence": 0.2935,
-  "composite_score": 0.2935,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4546,
-   "arbitrage": 0.0,
-   "volume": 0.0173
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - Audacy",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/pakistan-military-action-against-kabul-by-march-31",
-  "volume": 18590.251335999994,
-  "ends_in": "9s 18d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857118+00:00"
- },
- {
-  "market_id": "0xc2da51fc29676e529ecb2899593992473ebfd52fb3f16620fcf704ec23519705",
-  "question": "Will MSC Industrial Direct (MSM) beat quarterly earnings?",
-  "predicted_side": "YES",
-  "predicted_prob": 0.7084999999999999,
-  "confidence": 0.2934,
-  "composite_score": 0.2934,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4583,
-   "arbitrage": 0.0,
-   "volume": 0.0117
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Rep. Eric Swalwell sends cease-and-desist letter to FBI Director Kash Patel - The Washington Post",
-    "score": 0.0
-   },
-   {
-    "title": "Politics in an Attention Economy - Nonprofit Quarterly",
-    "score": 0.0
-   },
-   {
-    "title": "What happens in April will set the political direction in Virginia for years to come - Cardinal News",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/msm-quarterly-earnings-nongaap-eps-04-01-2026-0pt84",
-  "volume": 12516.122636000002,
-  "ends_in": "22s 18d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857319+00:00"
- },
- {
-  "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
-  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.9059999999999999,
-  "confidence": 0.251,
-  "composite_score": 0.251,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.25,
-   "arbitrage": 0.0,
-   "volume": 0.0068
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Parents fear their children born in the US could become ‘stateless’ if Trump wins birthright case - CNN",
-    "score": 0.0
-   },
-   {
-    "title": "The Odds: Trump's approval rating - CNN",
-    "score": 1.0
-   },
-   {
-    "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
-    "score": 1.0
-   }
-  ],
-  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 7298.216180999993,
-  "ends_in": "3g 9s 18d",
-  "end_date": "04 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857197+00:00"
+  "timestamp": "2026-03-31T15:43:25.241185+00:00"
  },
  {
   "market_id": "0x3cd23ed8bb1b4e649424ab1f9d7090ec8d94f07f6d9cb4a0c8588aeb49266fd1",
   "question": "Will Trump’s approval rating be between 40.0 and 40.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.74,
-  "confidence": 0.24,
-  "composite_score": 0.24,
+  "predicted_prob": 0.735,
+  "confidence": 0.2709,
+  "composite_score": 0.2709,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.1667,
    "arbitrage": 0.0,
-   "volume": 0.0446
+   "volume": 0.2507
   },
   "sentiment_headlines": [
    {
@@ -832,25 +604,60 @@
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 47865.742544000015,
-  "ends_in": "3g 9s 18d",
+  "volume": 48155.01254400001,
+  "ends_in": "3g 8s 17d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857301+00:00"
+  "timestamp": "2026-03-31T15:43:25.241230+00:00"
+ },
+ {
+  "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
+  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8895000000000001,
+  "confidence": 0.2558,
+  "composite_score": 0.2558,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.25,
+   "arbitrage": 0.0,
+   "volume": 0.0387
+  },
+  "sentiment_headlines": [
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 1.0
+   },
+   {
+    "title": "Parents fear their children born in the US could become ‘stateless’ if Trump wins birthright case - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
+    "score": 1.0
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 7442.229464999993,
+  "ends_in": "3g 8s 17d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T15:43:25.241130+00:00"
  },
  {
   "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
   "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.81,
-  "confidence": 0.2344,
-  "composite_score": 0.2344,
+  "predicted_prob": 0.82,
+  "confidence": 0.2393,
+  "composite_score": 0.2393,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.1667,
    "arbitrage": 0.0,
-   "volume": 0.0071
+   "volume": 0.0399
   },
   "sentiment_headlines": [
    {
@@ -867,38 +674,38 @@
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 7609.018529000003,
-  "ends_in": "3g 9s 18d",
+  "volume": 7656.418529000002,
+  "ends_in": "3g 8s 17d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857251+00:00"
+  "timestamp": "2026-03-31T15:43:25.241162+00:00"
  },
  {
   "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
   "question": "ChatGPT Outage by April 3?",
   "predicted_side": "NO",
-  "predicted_prob": 0.725,
-  "confidence": 0.2018,
-  "composite_score": 0.2018,
+  "predicted_prob": 0.755,
+  "confidence": 0.2099,
+  "composite_score": 0.2099,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.0,
    "arbitrage": 0.0,
-   "volume": 0.0118
+   "volume": 0.0659
   },
   "sentiment_headlines": [
    {
-    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - CalMatters",
+    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - calmatters.org",
     "score": 1.0
    }
   ],
   "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
-  "volume": 12612.823918999997,
-  "ends_in": "3g 9s 18d",
+  "volume": 12663.823918999997,
+  "ends_in": "3g 8s 16d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T14:41:44.857307+00:00"
+  "timestamp": "2026-03-31T15:43:25.241223+00:00"
  }
 ]

@@ -67,6 +67,11 @@ def generate_report(predictions, accuracy_metrics, improvements, arb_scores, sen
   .footer {{ margin-top: 2rem; font-size: 0.75rem; color: var(--muted); text-align: center; }}
   .score-bar {{ display: flex; gap: 2px; height: 14px; border-radius: 3px; overflow: hidden; width: 120px; }}
   .score-seg {{ height: 100%; }}
+  th[data-sort] {{ cursor: pointer; user-select: none; position: relative; padding-right: 1.2em; }}
+  th[data-sort]:hover {{ color: var(--accent); }}
+  th[data-sort]::after {{ content: '\\2195'; position: absolute; right: 0.3em; font-size: 0.65rem; opacity: 0.4; }}
+  th[data-sort].asc::after {{ content: '\\2191'; opacity: 1; }}
+  th[data-sort].desc::after {{ content: '\\2193'; opacity: 1; }}
 </style>
 </head>
 <body>
@@ -89,6 +94,9 @@ def generate_report(predictions, accuracy_metrics, improvements, arb_scores, sen
 
   <p class="footer">Kaynak: Polymarket Gamma API &mdash; Gurultu filtresi aktif &mdash; Self-improving system v1</p>
 </div>
+<script>
+document.querySelectorAll('th[data-sort]').forEach(th=>{{th.addEventListener('click',()=>{{const table=th.closest('table');const tbody=table.querySelector('tbody');if(!tbody)return;const idx=Array.from(th.parentNode.children).indexOf(th);const type=th.dataset.sort;const asc=!th.classList.contains('asc');table.querySelectorAll('th[data-sort]').forEach(h=>h.classList.remove('asc','desc'));th.classList.add(asc?'asc':'desc');const rows=Array.from(tbody.querySelectorAll('tr'));rows.sort((a,b)=>{{let va=a.children[idx]?a.children[idx].textContent.trim():'';let vb=b.children[idx]?b.children[idx].textContent.trim():'';if(type==='num'){{va=parseFloat(va.replace(/[^0-9.-]/g,''))||0;vb=parseFloat(vb.replace(/[^0-9.-]/g,''))||0;return asc?va-vb:vb-va;}}return asc?va.localeCompare(vb):vb.localeCompare(va);}});rows.forEach(r=>tbody.appendChild(r));}});}});
+</script>
 </body>
 </html>'''
 
@@ -171,7 +179,7 @@ def _section_opportunities(predictions):
     return f'''<h2>Firsatlar ({len(predictions)})</h2>
   <table>
     <thead>
-      <tr><th>#</th><th>Soru</th><th>Taraf</th><th>Oran</th><th>Skor</th><th>Dagilim</th><th>Hacim</th><th>Kelly</th><th>Bitis</th></tr>
+      <tr><th>#</th><th data-sort="text">Soru</th><th data-sort="text">Taraf</th><th data-sort="num">Oran</th><th data-sort="num">Skor</th><th>Dagilim</th><th data-sort="num">Hacim</th><th data-sort="num">Kelly</th><th data-sort="text">Bitis</th></tr>
     </thead>
     <tbody>{rows}
     </tbody>
@@ -225,11 +233,11 @@ def _section_performance(metrics):
   <div style="display:flex;gap:1.5rem;flex-wrap:wrap">
     <div style="flex:1;min-width:280px">
       <h3 style="font-size:0.85rem;color:var(--muted);margin-bottom:0.5rem">Kalibrasyon</h3>
-      <table><thead><tr><th>Beklenen</th><th>Gerceklesen</th><th>Fark</th><th>Sayi</th></tr></thead><tbody>{cal_rows}</tbody></table>
+      <table><thead><tr><th data-sort="num">Beklenen</th><th data-sort="num">Gerceklesen</th><th data-sort="num">Fark</th><th data-sort="num">Sayi</th></tr></thead><tbody>{cal_rows}</tbody></table>
     </div>
     <div style="flex:2;min-width:400px">
       <h3 style="font-size:0.85rem;color:var(--muted);margin-bottom:0.5rem">Son Tahminler</h3>
-      <table><thead><tr><th>Tarih</th><th>Soru</th><th>Tahmin</th><th>Sonuc</th><th></th><th>Brier</th></tr></thead><tbody>{recent_rows}</tbody></table>
+      <table><thead><tr><th data-sort="text">Tarih</th><th data-sort="text">Soru</th><th data-sort="text">Tahmin</th><th data-sort="text">Sonuc</th><th></th><th data-sort="num">Brier</th></tr></thead><tbody>{recent_rows}</tbody></table>
     </div>
   </div>'''
 
@@ -275,7 +283,7 @@ def _section_arbitrage(predictions, arb_scores):
 
     return f'''<h2>Arbitraj / Spread Anomali ({len(anomalies)})</h2>
   <table>
-    <thead><tr><th>Market</th><th>Spread</th><th>Arb Skor</th><th>Kelly</th></tr></thead>
+    <thead><tr><th data-sort="text">Market</th><th data-sort="num">Spread</th><th data-sort="num">Arb Skor</th><th data-sort="num">Kelly</th></tr></thead>
     <tbody>{rows}</tbody>
   </table>'''
 

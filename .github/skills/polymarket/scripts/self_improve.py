@@ -215,37 +215,54 @@ def request_code_suggestions(accuracy_metrics, config, max_calls=3):
 
 
 def _build_improvement_prompts(metrics, config):
-    """Build improvement prompts based on current performance gaps."""
+    """Build strategic improvement prompts based on performance gaps."""
     prompts = []
     hit_rate = metrics.get('hit_rate', 0)
     brier = metrics.get('avg_brier_score', 0.25)
     calibration = metrics.get('calibration', {})
+    weights = config.get('scoring', {}).get('weights', {})
+    scanner_cfg = config.get('scanner', {})
 
+    # 1. Strategic overview — ask for single highest-impact change
     prompts.append(
-        f"My Polymarket prediction system has hit_rate={hit_rate:.3f}, "
-        f"Brier score={brier:.3f}, {metrics.get('total_predictions', 0)} predictions. "
-        f"Current scoring weights: {json.dumps(config.get('scoring', {}).get('weights', {}))}. "
-        f"Scanner config: min_prob={config.get('scanner', {}).get('min_prob')}, "
-        f"min_volume={config.get('scanner', {}).get('min_volume')}. "
-        f"What parameter changes would improve prediction accuracy?"
+        f"Polymarket prediction system performance: hit_rate={hit_rate:.3f}, "
+        f"Brier={brier:.3f}, n={metrics.get('total_predictions', 0)}. "
+        f"Scoring weights: {json.dumps(weights)}. "
+        f"Scanner: min_prob={scanner_cfg.get('min_prob')}, "
+        f"min_volume={scanner_cfg.get('min_volume')}, "
+        f"max_days={scanner_cfg.get('max_days_left')}. "
+        f"Analyze which scoring signal (statistical/sentiment/arbitrage/volume) "
+        f"likely contributes most to errors and suggest the single highest-impact "
+        f"parameter change to improve accuracy."
     )
 
-    # Calibration-specific prompt
+    # 2. Calibration analysis with readable bucket details
     if calibration:
-        cal_str = json.dumps(calibration)
+        cal_details = []
+        for bucket in sorted(calibration.keys()):
+            data = calibration[bucket]
+            exp = data.get('expected', 0)
+            act = data.get('actual', 0)
+            cnt = data.get('count', 0)
+            cal_details.append(f"{exp*100:.0f}%->{act*100:.0f}% (n={cnt})")
         prompts.append(
-            f"Calibration data for my prediction system: {cal_str}. "
-            f"How should I adjust confidence thresholds to improve calibration?"
+            f"Calibration buckets: {', '.join(cal_details)}. "
+            f"Current min_prob={scanner_cfg.get('min_prob')}, "
+            f"max_prob={scanner_cfg.get('max_prob')}. "
+            f"Which probability ranges show overconfidence or underconfidence? "
+            f"Suggest specific threshold or weight adjustments for better calibration."
         )
 
-    # Recent wrong predictions analysis
+    # 3. Systematic error pattern analysis from wrong predictions
     recent = metrics.get('recent_results', [])
     wrong = [r for r in recent if not r.get('correct', True)]
     if wrong:
-        wrong_summary = json.dumps(wrong[:5])
+        wrong_summary = json.dumps(wrong[:5], default=str)
         prompts.append(
-            f"These predictions were wrong: {wrong_summary}. "
-            f"What patterns do you see and what filters should I add to avoid similar mistakes?"
+            f"These recent predictions were wrong: {wrong_summary}. "
+            f"Identify systematic error patterns: Are failures concentrated in "
+            f"specific probability ranges, market types, or time horizons? "
+            f"Suggest one targeted filter or parameter change to avoid similar errors."
         )
 
     return prompts
