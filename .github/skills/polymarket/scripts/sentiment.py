@@ -297,18 +297,26 @@ def _score_headline(headline_text):
 def analyze_sentiment(scan_results, config=None):
     """
     For each scanned market, find related news headlines and compute sentiment.
-    Returns dict: market_id → {score, matched_headlines, headline_count}.
+    Returns dict: market_id → {score, matched_headlines, headline_count, news_volume_score}.
+
+    The news_volume_score is a separate signal based on the finding from
+    "Can News Predict Oil Price Volatility?" — raw news count is a robust
+    predictor independent of sentiment direction.
     """
     headlines = fetch_news(config)
     print(f"Fetched {len(headlines)} unique news headlines for sentiment analysis.")
 
     sentiment_data = {}
 
+    # Track headline counts across all markets for normalization
+    all_counts = []
+
     for r in scan_results:
         mid = r['id']
         keywords = _extract_keywords(r['question'])
         if not keywords:
-            sentiment_data[mid] = {'score': 0.0, 'matched_headlines': [], 'headline_count': 0}
+            sentiment_data[mid] = {'score': 0.0, 'matched_headlines': [],
+                                   'headline_count': 0, 'news_volume_score': 0.0}
             continue
 
         matched = []
@@ -323,6 +331,8 @@ def analyze_sentiment(scan_results, config=None):
             if len(matching_kws) >= threshold:
                 hscore = _score_headline(h['title'])
                 matched.append({'title': h['title'], 'score': round(hscore, 4)})
+
+        all_counts.append(len(matched))
 
         if matched:
             # Weighted average: more extreme scores count more
@@ -344,6 +354,18 @@ def analyze_sentiment(scan_results, config=None):
             'score': round(avg_score, 4),
             'matched_headlines': sorted(matched, key=lambda x: abs(x['score']), reverse=True)[:5],
             'headline_count': len(matched),
+            'news_volume_score': 0.0,  # filled in below
         }
+
+    # Compute news_volume_score: normalized count across all markets
+    # High news volume = market is "hot", prices likely more accurate
+    # Low news volume = potential information asymmetry opportunity
+    max_count = max(all_counts) if all_counts else 1
+    for mid, data in sentiment_data.items():
+        count = data['headline_count']
+        if max_count > 0:
+            import math
+            # Logarithmic scaling: diminishing returns past ~10 articles
+            data['news_volume_score'] = round(math.tanh(count / max(max_count * 0.3, 1)), 4)
 
     return sentiment_data

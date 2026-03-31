@@ -1,0 +1,443 @@
+{
+  "papers": {
+    "2506.09851v2": {
+      "title": "Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI for Enhanced Accuracy in Global Financial Markets",
+      "authors": [
+        "Md. Yeasin Rahat",
+        "Rajan Das Gupta",
+        "Nur Raisa Rahman",
+        "Sudipto Roy Pritom",
+        "Samiur Rahman Shakir"
+      ],
+      "categories": [
+        "q-fin.ST",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2025-06-11T15:22:07Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:10.273668+00:00",
+      "url": "http://arxiv.org/abs/2506.09851v2"
+    },
+    "2603.12412v2": {
+      "title": "Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data",
+      "authors": [
+        "Martin Jaraiz"
+      ],
+      "categories": [
+        "econ.GN"
+      ],
+      "published": "2026-03-12T19:52:21Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:10.273874+00:00",
+      "url": "http://arxiv.org/abs/2603.12412v2"
+    },
+    "2402.15588v1": {
+      "title": "Sizing the bets in a focused portfolio",
+      "authors": [
+        "Vuko Vukcevic",
+        "Robert Keser"
+      ],
+      "categories": [
+        "q-fin.PM",
+        "q-fin.CP"
+      ],
+      "published": "2024-02-23T20:01:33Z",
+      "relevance_score": 0.208,
+      "insights_count": 2,
+      "first_seen": "2026-03-31T16:58:10.788594+00:00",
+      "url": "http://arxiv.org/abs/2402.15588v1"
+    },
+    "1801.06737v2": {
+      "title": "At What Frequency Should the Kelly Bettor Bet?",
+      "authors": [
+        "Chung-Han Hsieh",
+        "B. Ross Barmish",
+        "John A. Gubner"
+      ],
+      "categories": [
+        "math.OC",
+        "q-fin.CP",
+        "q-fin.MF",
+        "q-fin.PM"
+      ],
+      "published": "2018-01-20T22:51:47Z",
+      "relevance_score": 0.417,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:10.788784+00:00",
+      "url": "http://arxiv.org/abs/1801.06737v2"
+    },
+    "2603.28671v1": {
+      "title": "Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems",
+      "authors": [
+        "Martin Thomas Brolly"
+      ],
+      "categories": [
+        "math.DS",
+        "physics.ao-ph",
+        "physics.flu-dyn"
+      ],
+      "published": "2026-03-30T16:55:10Z",
+      "relevance_score": 0.417,
+      "insights_count": 2,
+      "first_seen": "2026-03-31T16:58:11.198993+00:00",
+      "url": "http://arxiv.org/abs/2603.28671v1"
+    },
+    "2406.15680v2": {
+      "title": "Calibrated Forecasting and Persuasion",
+      "authors": [
+        "Atulya Jain",
+        "Vianney Perchet"
+      ],
+      "categories": [
+        "cs.GT",
+        "econ.TH"
+      ],
+      "published": "2024-06-21T23:05:30Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:11.199231+00:00",
+      "url": "http://arxiv.org/abs/2406.15680v2"
+    },
+    "2603.25970v1": {
+      "title": "Bayesian Deep Count Regression and Anomaly Detection: Evidence from GDELT Event Panels",
+      "authors": [
+        "Hsin-Hsiung Huang",
+        "Yuh-Haur Chen",
+        "Mahlon Scott"
+      ],
+      "categories": [
+        "stat.AP",
+        "stat.CO"
+      ],
+      "published": "2026-03-26T23:21:55Z",
+      "relevance_score": 0.625,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:11.199547+00:00",
+      "url": "http://arxiv.org/abs/2603.25970v1"
+    },
+    "2603.22219v1": {
+      "title": "Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting",
+      "authors": [
+        "Qilin Wang"
+      ],
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-03-23T17:14:11Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:11.200008+00:00",
+      "url": "http://arxiv.org/abs/2603.22219v1"
+    },
+    "2603.22596v1": {
+      "title": "ParlayMarket: Automated Market Making for Parlay-style Joint Contracts",
+      "authors": [
+        "Ranvir Rana",
+        "Viraj Nadkarni",
+        "Niusha Moshrefi",
+        "Pramod Viswanath"
+      ],
+      "categories": [
+        "cs.CE",
+        "econ.GN"
+      ],
+      "published": "2026-03-23T21:45:38Z",
+      "relevance_score": 0.617,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:11.810458+00:00",
+      "url": "http://arxiv.org/abs/2603.22596v1"
+    },
+    "2602.11505v2": {
+      "title": "Calibrating an Imperfect Auxiliary Predictor for Unobserved No-Purchase Choice",
+      "authors": [
+        "Jiangkai Xiong",
+        "Kalyan Talluri",
+        "Hanzhao Wang"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-02-12T03:00:36Z",
+      "relevance_score": 0.208,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:11.810949+00:00",
+      "url": "http://arxiv.org/abs/2602.11505v2"
+    },
+    "2510.12952v1": {
+      "title": "Efficiency of Constant Log Utility Market Makers",
+      "authors": [
+        "Maneesha Papireddygari",
+        "Xintong Wang",
+        "Bo Waggoner",
+        "David M. Pennock"
+      ],
+      "categories": [
+        "cs.GT"
+      ],
+      "published": "2025-10-14T19:56:23Z",
+      "relevance_score": 0.408,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:12.552578+00:00",
+      "url": "http://arxiv.org/abs/2510.12952v1"
+    },
+    "2410.13265v2": {
+      "title": "Concentrated Superelliptical Market Maker",
+      "authors": [
+        "Vasily Tolstikov"
+      ],
+      "categories": [
+        "q-fin.TR"
+      ],
+      "published": "2024-10-17T06:39:34Z",
+      "relevance_score": 0.208,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:12.552662+00:00",
+      "url": "http://arxiv.org/abs/2410.13265v2"
+    },
+    "2411.08972v1": {
+      "title": "Designing Automated Market Makers for Combinatorial Securities: A Geometric Viewpoint",
+      "authors": [
+        "Prommy Sultana Hossain",
+        "Xintong Wang",
+        "Fang-Yi Yu"
+      ],
+      "categories": [
+        "cs.GT",
+        "cs.CG",
+        "cs.DS"
+      ],
+      "published": "2024-11-13T19:03:59Z",
+      "relevance_score": 0.408,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T16:58:12.552818+00:00",
+      "url": "http://arxiv.org/abs/2411.08972v1"
+    },
+    "2009.01676v3": {
+      "title": "Automated Market Makers for Decentralized Finance (DeFi)",
+      "authors": [
+        "Yongge Wang"
+      ],
+      "categories": [
+        "q-fin.TR",
+        "cs.DM",
+        "cs.GT"
+      ],
+      "published": "2020-09-03T13:58:13Z",
+      "relevance_score": 0.417,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T16:58:12.552951+00:00",
+      "url": "http://arxiv.org/abs/2009.01676v3"
+    },
+    "2512.20216v1": {
+      "title": "Quantitative Financial Modeling for Sri Lankan Markets: Approach Combining NLP, Clustering and Time-Series Forecasting",
+      "authors": [
+        "Linuk Perera"
+      ],
+      "categories": [
+        "q-fin.CP"
+      ],
+      "published": "2025-12-23T10:16:00Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.392258+00:00",
+      "url": "http://arxiv.org/abs/2512.20216v1"
+    },
+    "2511.11315v2": {
+      "title": "LAET: A Layer-wise Adaptive Ensemble Tuning Framework for Pretrained Language Models",
+      "authors": [
+        "Jawad Ibn Ahad",
+        "Muhammad Rafsan Kabir",
+        "Robin Krambroeckers",
+        "Sifat Momen",
+        "Nabeel Mohammed"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CE"
+      ],
+      "published": "2025-11-14T13:57:46Z",
+      "relevance_score": 0.625,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T17:36:03.392396+00:00",
+      "url": "http://arxiv.org/abs/2511.11315v2"
+    },
+    "2508.20707v1": {
+      "title": "Can News Predict the Direction of Oil Price Volatility? A Language Model Approach with SHAP Explanations",
+      "authors": [
+        "Romina Hashami",
+        "Felipe Maldonado"
+      ],
+      "categories": [
+        "cs.CE"
+      ],
+      "published": "2025-08-28T12:26:43Z",
+      "relevance_score": 0.625,
+      "insights_count": 2,
+      "first_seen": "2026-03-31T17:36:03.392540+00:00",
+      "url": "http://arxiv.org/abs/2508.20707v1"
+    },
+    "2412.16744v1": {
+      "title": "Business Analysis: User Attitude Evaluation and Prediction Based on Hotel User Reviews and Text Mining",
+      "authors": [
+        "Ruochun Zhao",
+        "Yue Hao",
+        "Xuechen Li"
+      ],
+      "categories": [
+        "cs.CY"
+      ],
+      "published": "2024-12-21T19:40:36Z",
+      "relevance_score": 0.208,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T17:36:03.392698+00:00",
+      "url": "http://arxiv.org/abs/2412.16744v1"
+    },
+    "2311.14759v2": {
+      "title": "Deep Learning and NLP in Cryptocurrency Forecasting: Integrating Financial, Blockchain, and Social Media Data",
+      "authors": [
+        "Vincent Gurgul",
+        "Stefan Lessmann",
+        "Wolfgang Karl Härdle"
+      ],
+      "categories": [
+        "q-fin.ST",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2023-11-23T16:14:44Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.392843+00:00",
+      "url": "http://arxiv.org/abs/2311.14759v2"
+    },
+    "2509.22381v2": {
+      "title": "Enhancing Credit Risk Prediction: A Multi-stage Ensemble Pipeline",
+      "authors": [
+        "Haibo Wang",
+        "Jun Huang",
+        "Lutfu S. Sua",
+        "Figen Balo",
+        "Burak Dolar"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2025-09-26T14:09:04Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.896858+00:00",
+      "url": "http://arxiv.org/abs/2509.22381v2"
+    },
+    "2312.10618v2": {
+      "title": "Sparse Learning and Class Probability Estimation with Weighted Support Vector Machines",
+      "authors": [
+        "Liyun Zeng",
+        "Hao Helen Zhang"
+      ],
+      "categories": [
+        "stat.ME",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2023-12-17T06:12:33Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.897322+00:00",
+      "url": "http://arxiv.org/abs/2312.10618v2"
+    },
+    "2603.21291v1": {
+      "title": "Closed-form conditional diffusion models for data assimilation",
+      "authors": [
+        "Brianna Binder",
+        "Assad Oberai"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "physics.comp-ph"
+      ],
+      "published": "2026-03-22T15:25:23Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.897682+00:00",
+      "url": "http://arxiv.org/abs/2603.21291v1"
+    },
+    "2603.18927v1": {
+      "title": "An Optimised Greedy-Weighted Ensemble Framework for Financial Loan Default Prediction",
+      "authors": [
+        "Ezekiel Nii Noye Nortey",
+        "Jones Asante-Koranteng",
+        "Marcellin Atemkeng",
+        "Theophilus Ansah-Narh",
+        "David Mensah"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-03-19T14:04:37Z",
+      "relevance_score": 0.625,
+      "insights_count": 1,
+      "first_seen": "2026-03-31T17:36:03.898079+00:00",
+      "url": "http://arxiv.org/abs/2603.18927v1"
+    },
+    "2603.17502v1": {
+      "title": "A lightweight framework for characterising extreme precipitation events in climate ensembles",
+      "authors": [
+        "Dáire Healy",
+        "Isadora Antoniano-Villalobos",
+        "Claudia Collarin",
+        "Nathan Huet",
+        "Ilaria Prosdocimi"
+      ],
+      "categories": [
+        "stat.ME",
+        "stat.AP"
+      ],
+      "published": "2026-03-18T09:06:13Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:03.898334+00:00",
+      "url": "http://arxiv.org/abs/2603.17502v1"
+    },
+    "2602.17918v2": {
+      "title": "Distribution-Free Sequential Prediction with Abstentions",
+      "authors": [
+        "Jialin Yu",
+        "Moïse Blanchard"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.DS",
+        "stat.ML"
+      ],
+      "published": "2026-02-20T00:28:27Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:04.334684+00:00",
+      "url": "http://arxiv.org/abs/2602.17918v2"
+    },
+    "2602.19538v1": {
+      "title": "Cost-Aware Diffusion Active Search",
+      "authors": [
+        "Arundhati Banerjee",
+        "Jeff Schneider"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-02-23T06:11:51Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-03-31T17:36:04.335085+00:00",
+      "url": "http://arxiv.org/abs/2602.19538v1"
+    }
+  },
+  "last_check": "2026-03-31T18:09:31.082085+00:00"
+}

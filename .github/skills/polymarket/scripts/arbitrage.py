@@ -6,6 +6,8 @@ Uses difflib.SequenceMatcher for fuzzy question matching.
 """
 import difflib
 import math
+import json
+import os
 
 
 def detect_spread_anomalies(scan_results, threshold=0.02):
@@ -67,11 +69,15 @@ def find_cross_market_pairs(scan_results, similarity_threshold=0.6):
     return pairs
 
 
-def kelly_fraction(prob, odds=None):
+def kelly_fraction(prob, odds=None, fractional=0.5):
     """
     Kelly criterion for optimal bet sizing.
     prob: estimated true probability (0-1)
     odds: decimal odds (payout per unit bet). If None, derived from market price.
+    fractional: Kelly fraction multiplier (0.5 = half-Kelly, 1.0 = full Kelly).
+        Half-Kelly is recommended by research ("At What Frequency Should the
+        Kelly Bettor Bet?") — it retains ~75% of growth rate with ~50% less
+        variance, making it far more robust to estimation errors.
     Returns fraction of bankroll to bet (0-1, capped at 0.25 for safety).
     """
     if odds is None:
@@ -84,37 +90,56 @@ def kelly_fraction(prob, odds=None):
     if b <= 0:
         return 0.0
     q = 1.0 - prob
-    fraction = (b * prob - q) / b
+    full_kelly = (b * prob - q) / b
+    # Apply fractional Kelly for reduced variance
+    fraction = full_kelly * fractional
     # Cap at 25% and floor at 0
     return max(0.0, min(0.25, fraction))
 
 
-def compute_arbitrage_scores(scan_results):
+def compute_arbitrage_scores(scan_results, config=None):
     """
     Compute an arbitrage/mispricing score for each market.
-    Returns dict: market_id → {arb_score, spread, kelly, type}.
+    Incorporates liquidity-adjusted pricing (inspired by LMSR/CLUM AMM papers).
+    Returns dict: market_id → {arb_score, spread, kelly, type, liquidity_factor}.
     """
+    if config is None:
+        config = {}
+    kelly_frac = config.get('trading', {}).get('kelly_fraction', 0.5)
+
     scores = {}
     anomalies = detect_spread_anomalies(scan_results, threshold=0.005)
     anomaly_map = {a['id']: a for a in anomalies}
+
+    # Compute liquidity factors — higher volume = more reliable prices
+    volumes = [r['volume'] for r in scan_results]
+    median_vol = sorted(volumes)[len(volumes) // 2] if volumes else 1
 
     for r in scan_results:
         mid = r['id']
         prob = r['prob'] / 100.0  # convert percentage to 0-1
 
         spread = r.get('spread', 0)
-        kelly_f = kelly_fraction(prob)
+        kelly_f = kelly_fraction(prob, fractional=kelly_frac)
 
-        # Arbitrage score: combination of spread anomaly + Kelly edge
+        # Liquidity factor: markets with higher volume have more reliable prices
+        # Low liquidity = prices may be stale/unreliable (AMM papers insight)
+        liq = r['volume'] / median_vol if median_vol > 0 else 1.0
+        liquidity_factor = min(1.0, math.tanh(liq * 0.8))  # 0→0, 1→0.66, 2→0.96
+
+        # Arbitrage score: spread anomaly + Kelly edge, dampened by liquidity
         spread_score = min(1.0, spread * 20)  # 5% spread → score 1.0
         kelly_score = min(1.0, kelly_f * 4)   # 25% kelly → score 1.0
 
-        arb_score = round(spread_score * 0.5 + kelly_score * 0.5, 4)
+        raw_arb = spread_score * 0.5 + kelly_score * 0.5
+        # Low-liquidity markets get a penalty — prices are less informative
+        arb_score = round(raw_arb * (0.5 + 0.5 * liquidity_factor), 4)
 
         scores[mid] = {
             'arb_score': arb_score,
             'spread_pct': round(spread * 100, 2),
             'kelly_fraction': round(kelly_f, 4),
+            'liquidity_factor': round(liquidity_factor, 4),
             'has_anomaly': mid in anomaly_map,
         }
 

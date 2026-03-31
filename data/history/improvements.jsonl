@@ -1,0 +1,6 @@
+{"type": "arxiv_adjustment", "detail": "min_kelly 0.05→0.08", "reason": "ArXiv papers on optimal bet sizing suggest higher threshold", "source_papers": ["test.001"], "timestamp": "2026-03-31T17:04:48.896662+00:00"}
+{"type": "arxiv_adjustment", "detail": "max_prob 0.95→0.92", "reason": "ArXiv calibration research suggests avoiding extreme probabilities", "source_papers": ["test.002"], "timestamp": "2026-03-31T17:04:48.896662+00:00"}
+{"type": "arxiv_adjustment", "detail": "sentiment weight 0.200→0.220", "reason": "ArXiv research validates sentiment as predictive signal", "source_papers": ["test.003"], "timestamp": "2026-03-31T17:04:48.896662+00:00"}
+{"type": "arxiv_adjustment", "detail": "sentiment weight 0.220→0.240", "reason": "ArXiv research validates sentiment as predictive signal", "source_papers": ["test.003"], "timestamp": "2026-03-31T17:04:52.110325+00:00"}
+{"type": "arxiv_adjustment", "detail": "sentiment weight 0.240→0.250", "reason": "ArXiv research validates sentiment as predictive signal", "source_papers": ["2511.11315v2", "2508.20707v1", "2412.16744v1"], "timestamp": "2026-03-31T17:36:07.916982+00:00"}
+{"type": "arxiv_adjustment", "detail": "added SMA-28 window", "reason": "ArXiv ensemble/combination research suggests wider lookback diversity", "source_papers": ["2508.20707v1", "2603.18927v1"], "timestamp": "2026-03-31T17:36:07.916982+00:00"}

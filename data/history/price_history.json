@@ -394,5 +394,126 @@
     "volume": 8315.455333999998
    }
   ]
+ },
+ "0x11725e05076f8e27bbc5923e42d12fcdefb3d9da6d6c7f4b0bb29d4d35dca716": {
+  "question": "Will Amazon (AMZN) close above $210 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 13.05,
+    "no": 86.95,
+    "volume": 9500.378599999995
+   }
+  ]
+ },
+ "0xadf43ba8ab2f2d2c5ed18e198e5ace487c997489946a25bcd9e6675b9db17885": {
+  "question": "Will Meta (META) close above $560 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 84.25,
+    "no": 15.75,
+    "volume": 12624.730337
+   }
+  ]
+ },
+ "0x67d4d5462ed9eeaee7566648dc615a9ef5aef76a343fe14d97e8935fc684b91f": {
+  "question": "Will Solana dip to $80 on March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 24.0,
+    "no": 76.0,
+    "volume": 8739.04282
+   }
+  ]
+ },
+ "0x3e16332e064598676133604013c750f0211798a29aeba1f210970f46e6c60fff": {
+  "question": "Will Palantir (PLTR) close above $144 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 75.0,
+    "no": 25.0,
+    "volume": 8228.511075
+   }
+  ]
+ },
+ "0x13c5d5e2d4cf8051a322fa919ceaa5c040c258a78c934d59defc1e6009381b46": {
+  "question": "Will 'BULLY' - Ye debut week album sales be less than 300k?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 94.25,
+    "no": 5.75,
+    "volume": 28480.327968999998
+   }
+  ]
+ },
+ "0xab66bc7bd374546d9f4469539d382d6b89fab47185e18b7a95e496cb417abc14": {
+  "question": "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 93.55,
+    "no": 6.45,
+    "volume": 14377.632478000012
+   }
+  ]
+ },
+ "0x752a64c5989f596041df087457c02f0ba4d45ba04de0e93d50969e2f5ba63c2a": {
+  "question": "Will Opendoor (OPEN) finish week of March 30 above $7.50?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 7.7,
+    "no": 92.3,
+    "volume": 15137.694500000001
+   }
+  ]
+ },
+ "0xb52516f7b896267ffb5020575bfe50a6d382bf767ac49c61453a485a9f82a757": {
+  "question": "Will Collin Morikawa win the 2026 Valero Texas Open?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 24.9,
+    "no": 75.1,
+    "volume": 12808.2371
+   }
+  ]
+ },
+ "0x0b4987432902340aeca79a453452c48d8e9fff9cb3fb497b943286f5a20264ea": {
+  "question": "Sisyphus mindshare all time high by March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 8.55,
+    "no": 91.45,
+    "volume": 7305.2879109999985
+   }
+  ]
+ },
+ "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e": {
+  "question": "Will \"Choosin' Texas - Ella Langley\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 81.5,
+    "no": 18.5,
+    "volume": 5109.985227000001
+   }
+  ]
+ },
+ "0x21e15cc3c74974d4bc3a9a3f8a1c2f36c47eb4d353bac24f0f19745843d0be28": {
+  "question": "S&P 500 breaks its losing streak this week?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 73.5,
+    "no": 26.5,
+    "volume": 37330.08925099998
+   }
+  ]
  }
 }

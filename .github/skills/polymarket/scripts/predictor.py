@@ -190,15 +190,31 @@ def check_past_predictions(lookback_days=30):
 def create_predictions(scan_results, analysis, sentiment_data, arb_scores, config=None):
     """
     Create prediction records from today's analysis.
+    Incorporates research-backed improvements:
+    - Dynamic weights from per-signal accuracy tracking (Greedy-Weighted Ensemble)
+    - News volume as independent predictor (Oil Price NLP paper)
+    - Signal agreement/divergence detection for abstention
+    - Regime-aware confidence adjustment
     Returns list of prediction dicts to be saved.
     """
     if config is None:
         config = {}
-    weights = config.get('scoring', {}).get('weights', {})
+
+    # Try dynamic weights first; fall back to static config weights
+    try:
+        from analyzer import compute_dynamic_weights
+        weights = compute_dynamic_weights(config)
+    except Exception:
+        weights = config.get('scoring', {}).get('weights', {})
+
     w_stat = weights.get('statistical', 0.40)
     w_sent = weights.get('sentiment', 0.20)
     w_arb = weights.get('arbitrage', 0.25)
     w_vol = weights.get('volume', 0.15)
+
+    # News volume weight — carved from volume weight (research: news count is robust predictor)
+    w_news_vol = 0.05
+    w_vol = max(0.05, w_vol - w_news_vol)
 
     predictions = []
     # Normalise volumes for scoring
@@ -213,15 +229,19 @@ def create_predictions(scan_results, analysis, sentiment_data, arb_scores, confi
         stat = analysis.get(mid, {})
         stat_score = stat.get(f'stat_score_{side_key}', 0.5)
 
+        # Regime info
+        regime = stat.get('regime', 'unknown')
+
         # Sentiment score (convert -1..+1 to 0..1)
         sent = sentiment_data.get(mid, {})
         raw_sent = sent.get('score', 0.0)
-        # For YES side: positive sentiment → higher score
-        # For NO side: negative sentiment → higher score
         if side_key == 'yes':
             sent_score = (raw_sent + 1.0) / 2.0
         else:
             sent_score = (1.0 - raw_sent) / 2.0
+
+        # News volume score (independent of sentiment direction)
+        news_vol_score = sent.get('news_volume_score', 0.0)
 
         # Arbitrage score
         arb = arb_scores.get(mid, {})
@@ -230,43 +250,89 @@ def create_predictions(scan_results, analysis, sentiment_data, arb_scores, confi
         # Volume score (normalised)
         vol_score = r['volume'] / max_vol if max_vol > 0 else 0
 
-        # Composite score
+        # Composite score (5-signal ensemble)
         composite = (
             stat_score * w_stat +
             sent_score * w_sent +
             arb_score * w_arb +
-            vol_score * w_vol
+            vol_score * w_vol +
+            news_vol_score * w_news_vol
         )
         composite = round(composite, 4)
 
-        # Confidence: based on composite score and data availability
+        # --- Signal agreement / divergence detection ---
+        # If signals strongly disagree, this market is uncertain
+        signals = [stat_score, sent_score, arb_score]
+        signal_mean = sum(signals) / len(signals) if signals else 0.5
+        signal_variance = sum((s - signal_mean) ** 2 for s in signals) / len(signals) if signals else 0
+        signals_agree = signal_variance < 0.04  # low variance = agreement
+
+        # --- Confidence with regime & agreement adjustment ---
         data_points = stat.get('data_points', 0)
-        data_bonus = min(0.1, data_points * 0.01)  # more data → slightly higher confidence
+        data_bonus = min(0.1, data_points * 0.01)
         confidence = min(0.95, composite + data_bonus)
         confidence = max(0.1, confidence)
+
+        # Regime penalty: in volatile markets, reduce confidence
+        if regime == 'volatile':
+            confidence *= 0.85
+        elif regime == 'calm':
+            confidence = min(0.95, confidence * 1.05)
+
+        # Divergence penalty: when signals disagree, reduce confidence
+        if not signals_agree:
+            confidence *= 0.90
+
+        confidence = round(max(0.1, min(0.95, confidence)), 4)
+
+        # --- Abstention flag ---
+        # Markets where we should NOT trade (inspired by calibration papers)
+        abstain = False
+        abstain_reasons = []
+        if confidence < 0.35:
+            abstain = True
+            abstain_reasons.append('low_confidence')
+        if signal_variance > 0.08:
+            abstain = True
+            abstain_reasons.append('high_signal_divergence')
+        if regime == 'volatile' and data_points < 5:
+            abstain = True
+            abstain_reasons.append('volatile_insufficient_data')
 
         predictions.append({
             'market_id': mid,
             'question': r['question'],
             'predicted_side': r['side'],
             'predicted_prob': r['prob'] / 100.0,
-            'confidence': round(confidence, 4),
+            'confidence': confidence,
             'composite_score': composite,
             'scores': {
                 'statistical': round(stat_score, 4),
                 'sentiment': round(sent_score, 4),
                 'arbitrage': round(arb_score, 4),
                 'volume': round(vol_score, 4),
+                'news_volume': round(news_vol_score, 4),
             },
+            'regime': regime,
+            'signal_agreement': round(1.0 - signal_variance, 4),
+            'abstain': abstain,
+            'abstain_reasons': abstain_reasons,
             'sentiment_headlines': sent.get('matched_headlines', [])[:3],
             'url': r['url'],
             'volume': r['volume'],
             'ends_in': r['ends_in'],
             'end_date': r['end_date'],
             'kelly': arb.get('kelly_fraction', 0),
+            'liquidity_factor': arb.get('liquidity_factor', 1.0),
             'checked': False,
             'timestamp': datetime.now(timezone.utc).isoformat(),
         })
 
     predictions.sort(key=lambda x: x['composite_score'], reverse=True)
+
+    # Report abstention stats
+    abstained = sum(1 for p in predictions if p.get('abstain'))
+    if abstained:
+        print(f"Predictor: {abstained}/{len(predictions)} markets flagged for abstention")
+
     return predictions

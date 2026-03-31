@@ -149,7 +149,7 @@ def adjust_config(accuracy_metrics, config):
     return changes
 
 
-def request_code_suggestions(accuracy_metrics, config, max_calls=3):
+def request_code_suggestions(accuracy_metrics, config, max_calls=3, arxiv_results=None):
     """
     Request Copilot API suggestions when accuracy is below target.
     Uses GitHub Models API. Returns list of suggestion strings.
@@ -171,7 +171,7 @@ def request_code_suggestions(accuracy_metrics, config, max_calls=3):
     suggestions = []
     calls_made = 0
 
-    prompts = _build_improvement_prompts(accuracy_metrics, config)
+    prompts = _build_improvement_prompts(accuracy_metrics, config, arxiv_results=arxiv_results)
 
     for prompt in prompts[:max_calls]:
         if calls_made >= max_calls:
@@ -214,8 +214,8 @@ def request_code_suggestions(accuracy_metrics, config, max_calls=3):
     return suggestions
 
 
-def _build_improvement_prompts(metrics, config):
-    """Build strategic improvement prompts based on performance gaps."""
+def _build_improvement_prompts(metrics, config, arxiv_results=None):
+    """Build strategic improvement prompts based on performance gaps and ArXiv research."""
     prompts = []
     hit_rate = metrics.get('hit_rate', 0)
     brier = metrics.get('avg_brier_score', 0.25)
@@ -265,18 +265,263 @@ def _build_improvement_prompts(metrics, config):
             f"Suggest one targeted filter or parameter change to avoid similar errors."
         )
 
+    # 4. ArXiv-informed prompt — incorporate recent research findings
+    if arxiv_results:
+        new_papers = arxiv_results.get('new_papers', [])
+        insights = arxiv_results.get('insights', [])
+        if new_papers or insights:
+            paper_titles = [p.get('title', '')[:80] for p in new_papers[:3]]
+            insight_types = list(set(i.get('insight_type', '') for i in insights))
+            prompts.append(
+                f"Recent ArXiv papers found: {'; '.join(paper_titles)}. "
+                f"Insight types extracted: {', '.join(insight_types)}. "
+                f"Our system uses: scoring weights {json.dumps(weights)}, "
+                f"Kelly criterion for bet sizing, {len(config.get('sentiment', {}).get('rss_feeds', []))} RSS feeds. "
+                f"Based on these research findings, suggest ONE specific parameter "
+                f"or strategy change that aligns with the latest academic research "
+                f"to improve our prediction accuracy or risk management."
+            )
+
     return prompts
 
 
-def run_self_improvement(accuracy_metrics, config):
+def apply_arxiv_insights(arxiv_results, config):
     """
-    Main entry point: adjust config + optionally get Copilot suggestions.
+    Apply deep algorithmic insights from ArXiv papers to system configuration.
+    Goes beyond simple parameter nudges — implements research concepts:
+
+    1. Half-Kelly (from Kelly betting frequency papers)
+    2. Adaptive ensemble weights (from Greedy-Weighted Ensemble)
+    3. News volume signal (from Oil Price NLP paper)
+    4. Calibration tightening (from calibration/abstention papers)
+    5. Regime-aware thresholds (from GDELT/volatility papers)
+    6. Liquidity-adjusted pricing (from AMM/LMSR papers)
+
+    Returns list of changes made.
+    """
+    changes = []
+    insights = arxiv_results.get('insights', [])
+    papers = arxiv_results.get('new_papers', []) + arxiv_results.get('papers', [])
+    if not insights and not papers:
+        return changes
+
+    # Group insights by type
+    types_found = set(i.get('insight_type', '') for i in insights)
+    # Also extract concepts from paper titles for broader matching
+    paper_titles = ' '.join(p.get('title', '').lower() for p in papers)
+
+    # --- 1. Kelly / Position Sizing ---
+    kelly_relevant = ('betting_strategy' in types_found or
+                      'position_sizing' in types_found or
+                      'kelly' in paper_titles)
+    if kelly_relevant:
+        tc = config.get('trading', {})
+        # Half-Kelly: research shows f*/2 retains ~75% growth with ~50% less variance
+        old_frac = tc.get('kelly_fraction', 1.0)
+        if old_frac > 0.5:
+            tc['kelly_fraction'] = 0.5
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'position_sizing',
+                'detail': f'kelly_fraction {old_frac}→0.5 (half-Kelly)',
+                'reason': 'ArXiv: "At What Frequency Should the Kelly Bettor Bet?" — '
+                          'half-Kelly retains ~75% growth rate with ~50% less variance',
+                'source_papers': [i.get('arxiv_id', '') for i in insights
+                                  if i.get('insight_type') in ('betting_strategy', 'position_sizing')],
+            })
+        # Also ensure min_kelly threshold is reasonable
+        old_kelly = tc.get('min_kelly', 0.05)
+        if old_kelly < 0.08:
+            tc['min_kelly'] = 0.08
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'position_sizing',
+                'detail': f'min_kelly {old_kelly}→0.08',
+                'reason': 'Higher threshold filters out marginal bets',
+            })
+
+    # --- 2. Ensemble / Dynamic Weights ---
+    ensemble_relevant = ('model_combination' in types_found or
+                         'ensemble' in paper_titles or
+                         'greedy' in paper_titles or
+                         'adaptive' in paper_titles)
+    if ensemble_relevant:
+        # Enable dynamic weight tracking
+        si_cfg = config.get('self_improve', {})
+        if not si_cfg.get('dynamic_weights_enabled'):
+            si_cfg['dynamic_weights_enabled'] = True
+            config['self_improve'] = si_cfg
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'ensemble_method',
+                'detail': 'enabled dynamic_weights (per-signal accuracy tracking)',
+                'reason': 'ArXiv: "Greedy-Weighted Ensemble" — dynamically allocate '
+                          'model weights based on empirical predictive performance',
+            })
+
+        # Expand SMA windows for multi-scale analysis
+        analyzer_cfg = config.get('analyzer', {})
+        windows = analyzer_cfg.get('sma_windows', [3, 7, 14])
+        added = []
+        for w in [21, 28]:
+            if w not in windows and len(windows) < 6:
+                windows.append(w)
+                added.append(str(w))
+        if added:
+            windows.sort()
+            analyzer_cfg['sma_windows'] = windows
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'ensemble_method',
+                'detail': f'added SMA-{",".join(added)} windows for multi-scale ensemble',
+                'reason': 'Ensemble papers suggest diverse feature scales improve robustness',
+            })
+
+    # --- 3. NLP / Sentiment Validation ---
+    nlp_relevant = ('sentiment_signal' in types_found or
+                    'nlp' in paper_titles or
+                    'news' in paper_titles or
+                    'sentiment' in paper_titles)
+    if nlp_relevant:
+        weights = config.get('scoring', {}).get('weights', {})
+        old_sent = weights.get('sentiment', 0.20)
+        # Research validates sentiment — increase weight if below 0.25
+        if old_sent < 0.25:
+            new_sent = min(0.25, old_sent + 0.02)
+            diff = new_sent - old_sent
+            if abs(diff) > 0.001:
+                weights['sentiment'] = round(new_sent, 4)
+                weights['volume'] = round(weights.get('volume', 0.15) - diff, 4)
+                changes.append({
+                    'type': 'arxiv_deep_adjustment',
+                    'category': 'sentiment_signal',
+                    'detail': f'sentiment weight {old_sent:.3f}→{new_sent:.3f}',
+                    'reason': 'ArXiv: "Can News Predict Oil Price Volatility?" — '
+                              'news-driven features have predictive power; news count '
+                              'is an independent robust predictor',
+                })
+
+    # --- 4. Calibration / Probability Bounds ---
+    cal_relevant = ('calibration_finding' in types_found or
+                    'calibrat' in paper_titles or
+                    'abstention' in paper_titles)
+    if cal_relevant:
+        scanner_cfg = config.get('scanner', {})
+        old_max = scanner_cfg.get('max_prob', 0.95)
+        if old_max > 0.92:
+            scanner_cfg['max_prob'] = 0.92
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'calibration',
+                'detail': f'max_prob {old_max}→0.92',
+                'reason': 'Calibration research: extreme probabilities are poorly '
+                          'calibrated; better to avoid 92%+ markets',
+            })
+        # Enable abstention in config
+        si_cfg = config.get('self_improve', {})
+        if not si_cfg.get('abstention_enabled'):
+            si_cfg['abstention_enabled'] = True
+            config['self_improve'] = si_cfg
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'calibration',
+                'detail': 'enabled prediction abstention',
+                'reason': 'ArXiv: "Distribution-Free Sequential Prediction with '
+                          'Abstentions" — knowing when NOT to predict improves overall accuracy',
+            })
+
+    # --- 5. Regime / Volatility Awareness ---
+    regime_relevant = ('execution_insight' in types_found or
+                       'regime' in paper_titles or
+                       'volatil' in paper_titles or
+                       'gdelt' in paper_titles or
+                       'anomaly' in paper_titles)
+    if regime_relevant:
+        si_cfg = config.get('self_improve', {})
+        if not si_cfg.get('regime_detection_enabled'):
+            si_cfg['regime_detection_enabled'] = True
+            config['self_improve'] = si_cfg
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'regime_detection',
+                'detail': 'enabled regime-aware scoring',
+                'reason': 'ArXiv: GDELT/volatility papers — market conditions '
+                          'affect prediction reliability; volatile regimes need '
+                          'reduced position sizes and higher confidence thresholds',
+            })
+
+    # --- 6. AMM / Liquidity ---
+    amm_relevant = ('amm' in paper_titles or 'market maker' in paper_titles or
+                    'lmsr' in paper_titles or 'liquidity' in paper_titles or
+                    'parlay' in paper_titles)
+    if amm_relevant:
+        si_cfg = config.get('self_improve', {})
+        if not si_cfg.get('liquidity_adjusted_scoring'):
+            si_cfg['liquidity_adjusted_scoring'] = True
+            config['self_improve'] = si_cfg
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'amm_pricing',
+                'detail': 'enabled liquidity-adjusted arbitrage scoring',
+                'reason': 'ArXiv: AMM/LMSR papers — low-liquidity market prices '
+                          'are less informative; arb scores should be dampened '
+                          'by liquidity factor',
+            })
+
+    # --- 7. Performance / General Improvements ---
+    if 'performance_improvement' in types_found:
+        # Add more RSS feeds if we find NLP-related improvements
+        sent_cfg = config.get('sentiment', {})
+        feeds = sent_cfg.get('rss_feeds', [])
+        new_feeds = [
+            'https://news.google.com/rss/search?q=prediction+forecast+analysis&hl=en-US&gl=US&ceid=US:en',
+        ]
+        added_feeds = []
+        for nf in new_feeds:
+            if nf not in feeds:
+                feeds.append(nf)
+                added_feeds.append(nf.split('q=')[1].split('&')[0] if 'q=' in nf else nf[:50])
+        if added_feeds:
+            sent_cfg['rss_feeds'] = feeds
+            changes.append({
+                'type': 'arxiv_deep_adjustment',
+                'category': 'data_coverage',
+                'detail': f'added RSS feed(s): {", ".join(added_feeds)}',
+                'reason': 'Expanding news coverage for better sentiment+volume signals',
+            })
+
+    if changes:
+        with open(_CONFIG_PATH, 'w', encoding='utf-8') as f:
+            json.dump(config, f, ensure_ascii=False, indent=2)
+        timestamp = datetime.now(timezone.utc).isoformat()
+        for c in changes:
+            c['timestamp'] = timestamp
+            _log_improvement(c)
+        print(f"Self-improvement: {len(changes)} deep ArXiv-based adjustments applied")
+        # Print summary of concept categories applied
+        categories = set(c.get('category', '') for c in changes)
+        print(f"  Concepts applied: {', '.join(sorted(categories))}")
+
+    return changes
+
+
+def run_self_improvement(accuracy_metrics, config, arxiv_results=None):
+    """
+    Main entry point: adjust config + apply ArXiv insights + get Copilot suggestions.
     Returns dict with changes and suggestions.
     """
     changes = adjust_config(accuracy_metrics, config)
-    suggestions = request_code_suggestions(accuracy_metrics, config)
+
+    # Apply ArXiv-based adjustments
+    arxiv_changes = []
+    if arxiv_results and arxiv_results.get('insights'):
+        arxiv_changes = apply_arxiv_insights(arxiv_results, config)
+        changes.extend(arxiv_changes)
+
+    suggestions = request_code_suggestions(accuracy_metrics, config, arxiv_results=arxiv_results)
     return {
         'config_changes': changes,
+        'arxiv_changes': arxiv_changes,
         'copilot_suggestions': suggestions,
         'total_adjustments': len(changes),
     }
