@@ -1,410 +1,337 @@
 [
  {
-  "market_id": "0x1fafc1440b4fa2cf3720786818cbd5325a28e643ab216af8d72f98e26bbc5b88",
-  "question": "Will Russia capture all of Huliaipole by March 31?",
+  "market_id": "0x8beb0692e15cdfd2905e4bf5ec618bb94a66900e59ce81f9de8e378d84dd4742",
+  "question": "Will the Kharg Island oil terminal be hit by March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.94,
-  "confidence": 0.45,
-  "composite_score": 0.45,
+  "predicted_prob": 0.945,
+  "confidence": 0.4663,
+  "composite_score": 0.4663,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.5817,
    "arbitrage": 0.0,
    "volume": 1.0
   },
   "sentiment_headlines": [
    {
-    "title": "Russia Politics - GazetteXtra",
+    "title": "Oil up, Brent briefly hits $115 as Trump threatens Iranian energy infrastructure - Investing.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Oil Can Hit $91 a Barrel in Late 2026 on Iran Disruption - BloombergNEF",
     "score": 0.0
    }
   ],
-  "url": "https://polymarket.com/event/will-russia-capture-all-of-huliaipole-by-february-28",
-  "volume": 192111.85377399973,
-  "ends_in": "8s 16d",
+  "url": "https://polymarket.com/event/will-the-kharg-island-oil-terminal-be-hit-by-march-31",
+  "volume": 725257.3277290007,
+  "ends_in": "7s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241068+00:00"
+  "timestamp": "2026-03-31T16:25:34.163230+00:00"
+ },
+ {
+  "market_id": "0x1fafc1440b4fa2cf3720786818cbd5325a28e643ab216af8d72f98e26bbc5b88",
+  "question": "Will Russia capture all of Huliaipole by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.94,
+  "confidence": 0.4012,
+  "composite_score": 0.4012,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8073,
+   "arbitrage": 0.0,
+   "volume": 0.2649
+  },
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Russian Oil Tankers Idle Off India as Sanctions and U.S. Tariff Threats Disrupt Trade - The Moscow Times",
+    "score": -0.964
+   },
+   {
+    "title": "China firmly opposes illicit unilateral sanctions: FM on US threat of 500% tariff over Russia trade - Global Times",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/will-russia-capture-all-of-huliaipole-by-february-28",
+  "volume": 192126.92377399973,
+  "ends_in": "7s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163248+00:00"
+ },
+ {
+  "market_id": "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a",
+  "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8,
+  "confidence": 0.3663,
+  "composite_score": 0.3663,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8086,
+   "arbitrage": 0.0,
+   "volume": 0.0305
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Russian Oil Tankers Idle Off India as Sanctions and U.S. Tariff Threats Disrupt Trade - The Moscow Times",
+    "score": -0.964
+   },
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - russiamatters.org",
+    "score": -0.9051
+   },
+   {
+    "title": "Oil prices fall after Trump’s Venezuela strikes - Yahoo Finance UK",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/ukraine-strikes-another-tanker-in-black-sea-by-835",
+  "volume": 22112.572847000007,
+  "ends_in": "7s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163302+00:00"
+ },
+ {
+  "market_id": "0x4c7c612a166b1b7ba050889b1d5ba60c123a53a042913f820d91977b725844fb",
+  "question": "Russia military action against Kyiv municipality by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.95,
+  "confidence": 0.3602,
+  "composite_score": 0.3602,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7726,
+   "arbitrage": 0.0,
+   "volume": 0.0381
+  },
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Russian Oil Tankers Idle Off India as Sanctions and U.S. Tariff Threats Disrupt Trade - The Moscow Times",
+    "score": -0.964
+   },
+   {
+    "title": "China firmly opposes illicit unilateral sanctions: FM on US threat of 500% tariff over Russia trade - Global Times",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/russia-military-action-against-kyiv-municipality-by-march-31",
+  "volume": 27666.105243,
+  "ends_in": "7s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163212+00:00"
  },
  {
   "market_id": "0xb4343d5924735287a425b5ff79c01c76ac59aab570427898f9b963a13ec68a28",
   "question": "Pakistan military action against Afghanistan by March 31?",
   "predicted_side": "NO",
   "predicted_prob": 0.93,
-  "confidence": 0.328,
-  "composite_score": 0.328,
+  "confidence": 0.3588,
+  "composite_score": 0.3588,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.4546,
+   "sentiment": 0.7446,
    "arbitrage": 0.0,
-   "volume": 0.2475
+   "volume": 0.0656
   },
   "sentiment_headlines": [
    {
-    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
-    "score": 0.0
-   },
-   {
     "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
-    "score": 0.0
+    "score": -0.9051
+   },
+   {
+    "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites - The Guardian",
+    "score": -0.9051
+   },
+   {
+    "title": "Ongoing military conflicts causing world war worry - chronicleonline.com",
+    "score": -0.9051
    }
   ],
   "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-march-31",
   "volume": 47546.72735900001,
-  "ends_in": "8s 16d",
+  "ends_in": "7s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241092+00:00"
- },
- {
-  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
-  "question": "Any of the stolen KitKats recovered by April 5?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.765,
-  "confidence": 0.3277,
-  "composite_score": 0.3277,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.185
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
-  "volume": 35536.627571000034,
-  "ends_in": "5g 8s 16d",
-  "end_date": "05 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241199+00:00"
- },
- {
-  "market_id": "0x4c7c612a166b1b7ba050889b1d5ba60c123a53a042913f820d91977b725844fb",
-  "question": "Russia military action against Kyiv municipality by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.92,
-  "confidence": 0.3203,
-  "composite_score": 0.3203,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.1356
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
-    "score": 0.0
-   },
-   {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
-    "score": 0.0
-   },
-   {
-    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/russia-military-action-against-kyiv-municipality-by-march-31",
-  "volume": 26041.415243000003,
-  "ends_in": "8s 16d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241104+00:00"
+  "timestamp": "2026-03-31T16:25:34.163256+00:00"
  },
  {
   "market_id": "0x04e3aa08ff437518658725bf3674b3e5106a554521d705181e750416c6f437e7",
   "question": "Will Nike (NKE) beat quarterly earnings?",
   "predicted_side": "YES",
-  "predicted_prob": 0.795,
-  "confidence": 0.3175,
-  "composite_score": 0.3175,
+  "predicted_prob": 0.785,
+  "confidence": 0.3555,
+  "composite_score": 0.3555,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.7544,
    "arbitrage": 0.0,
-   "volume": 0.1164
+   "volume": 0.031
   },
   "sentiment_headlines": [
    {
-    "title": "Politics in an Attention Economy - Nonprofit Quarterly",
-    "score": 0.0
+    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
+    "score": 0.9852
    },
    {
-    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
-    "score": 0.0
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
    },
    {
-    "title": "The Geopolitics of Trump’s War on Drugs - Americas Quarterly",
-    "score": 0.0
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "score": -0.9051
    }
   ],
   "url": "https://polymarket.com/event/nke-quarterly-earnings-gaap-eps-03-31-2026-0pt29",
-  "volume": 22367.404378000014,
-  "ends_in": "5s 17d",
+  "volume": 22517.404378000014,
+  "ends_in": "4s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241193+00:00"
+  "timestamp": "2026-03-31T16:25:34.163316+00:00"
  },
  {
-  "market_id": "0x8698572ca0243d41683c62f45ccb6ad17b6c90393188d48e54ea47c319ba5c4a",
-  "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
+  "market_id": "0xf713ffa96689a3497760d73a9bdc3c6ad2244178f27bac51cbc2564c5b150696",
+  "question": "Pakistan military action against Kabul by March 31?",
   "predicted_side": "NO",
-  "predicted_prob": 0.795,
-  "confidence": 0.317,
-  "composite_score": 0.317,
+  "predicted_prob": 0.945,
+  "confidence": 0.3528,
+  "composite_score": 0.3528,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.7446,
    "arbitrage": 0.0,
-   "volume": 0.1133
+   "volume": 0.0256
   },
   "sentiment_headlines": [
    {
-    "title": "Yet another wake-up call: US National Defense Strategy pivot to place further strain on Australia - defenceconnect.com.au",
-    "score": 0.0
+    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
+    "score": -0.9051
    },
    {
-    "title": "Ukraine, Gaza, climate and migration: Geopolitics increasingly on the municipality’s plate - Universiteit Leiden",
-    "score": 0.0
+    "title": "Houthi forces enter Iran conflict with missile attacks on Israeli military sites - The Guardian",
+    "score": -0.9051
+   },
+   {
+    "title": "Ongoing military conflicts causing world war worry - chronicleonline.com",
+    "score": -0.9051
    }
   ],
-  "url": "https://polymarket.com/event/ukraine-strikes-another-tanker-in-black-sea-by-835",
-  "volume": 21771.770929000006,
-  "ends_in": "8s 16d",
+  "url": "https://polymarket.com/event/pakistan-military-action-against-kabul-by-march-31",
+  "volume": 18591.881335999995,
+  "ends_in": "7s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241176+00:00"
+  "timestamp": "2026-03-31T16:25:34.163235+00:00"
  },
  {
-  "market_id": "0x026a29316ad1b79132f253f88104345323fc9964638850bf75df7e5d304d3d93",
-  "question": "Will Apple (AAPL) close above $250 end of March?",
-  "predicted_side": "NO",
+  "market_id": "0x11d50ae1b78321bba6579364e9aad923459ca546fcf5ffc723aa0fb0c7d8e181",
+  "question": "Will NVIDIA (NVDA) close above $170 on March 31?",
+  "predicted_side": "YES",
   "predicted_prob": 0.755,
-  "confidence": 0.315,
-  "composite_score": 0.315,
+  "confidence": 0.3346,
+  "composite_score": 0.3346,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.6642,
    "arbitrage": 0.0,
-   "volume": 0.1002
+   "volume": 0.0115
   },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/aapl-above-in-march-2026",
-  "volume": 19255.457106999995,
-  "ends_in": "4s 17d",
+  "sentiment_headlines": [
+   {
+    "title": "The Stock Market Really Didn’t Get What It Needed From Nvidia Earnings - Barron's",
+    "score": 0.4621
+   },
+   {
+    "title": "The Stock Market Wants an Earnings Blowout From Nvidia. It Could Make Things Worse. - Barron's",
+    "score": 0.4621
+   },
+   {
+    "title": "Nvidia's Earnings Could Be a Make or Break Moment for the Stock Market - Investopedia",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/nvda-close-above-on-march-31-2026",
+  "volume": 8315.455333999998,
+  "ends_in": "3s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241216+00:00"
+  "timestamp": "2026-03-31T16:25:34.163327+00:00"
  },
  {
-  "market_id": "0x8f5e0422289609a2b9b209b5a19915ea152f1bb0895a94a1a7481eb96acad631",
-  "question": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on April 3?",
+  "market_id": "0x23235adc87a7351d0af4e9dce0b7681a1aa450bec86348d9746afe0d4f702539",
+  "question": "Will NVIDIA (NVDA) close above $170 end of March?",
   "predicted_side": "YES",
-  "predicted_prob": 0.9,
-  "confidence": 0.314,
-  "composite_score": 0.314,
+  "predicted_prob": 0.785,
+  "confidence": 0.3344,
+  "composite_score": 0.3344,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.6642,
    "arbitrage": 0.0,
-   "volume": 0.0931
+   "volume": 0.0101
   },
   "sentiment_headlines": [
    {
-    "title": "Technology, policy shifts and geopolitics: How APAC could power the next wave of growth - The Straits Times",
-    "score": 0.0
+    "title": "The Stock Market Really Didn’t Get What It Needed From Nvidia Earnings - Barron's",
+    "score": 0.4621
+   },
+   {
+    "title": "The Stock Market Wants an Earnings Blowout From Nvidia. It Could Make Things Worse. - Barron's",
+    "score": 0.4621
+   },
+   {
+    "title": "Nvidia's Earnings Could Be a Make or Break Moment for the Stock Market - Investopedia",
+    "score": 0.4621
    }
   ],
-  "url": "https://polymarket.com/event/avg-of-ships-transiting-strait-of-hormuz-on-april-3",
-  "volume": 17894.518629000002,
-  "ends_in": "2g 8s 17d",
-  "end_date": "03 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241116+00:00"
- },
- {
-  "market_id": "0xde4e35d9c11c61db828bcdb303ce1d431a0aaca2bb8ab5c7719e59d86ca76462",
-  "question": "Will USD reach 1.6M Iranian rials by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.88,
-  "confidence": 0.313,
-  "composite_score": 0.313,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0865
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-march-31",
-  "volume": 16617.808427000004,
-  "ends_in": "8s 16d",
+  "url": "https://polymarket.com/event/nvda-above-in-march-2026",
+  "volume": 7339.596189999999,
+  "ends_in": "3s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241138+00:00"
- },
- {
-  "market_id": "0xc34a1a00b6fc35cb02f193cfbdda0206281a7fd67d2ac26d756941bfd35db29f",
-  "question": "Will Apple (AAPL) close above $240 end of March?",
-  "predicted_side": "YES",
-  "predicted_prob": 0.9440000000000001,
-  "confidence": 0.3119,
-  "composite_score": 0.3119,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0792
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/aapl-above-in-march-2026",
-  "volume": 15217.899814999977,
-  "ends_in": "4s 17d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241047+00:00"
- },
- {
-  "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
-  "question": "Will RH (RH) beat quarterly earnings?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.76,
-  "confidence": 0.3085,
-  "composite_score": 0.3085,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0569
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Politics in an Attention Economy - Nonprofit Quarterly",
-    "score": 0.0
-   },
-   {
-    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
-    "score": 0.0
-   },
-   {
-    "title": "The Geopolitics of Trump’s War on Drugs - Americas Quarterly",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
-  "volume": 10928.000653,
-  "ends_in": "1g 5s 17d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241209+00:00"
- },
- {
-  "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
-  "question": "Will Solana dip to $70 March 30-April 5?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.9,
-  "confidence": 0.3081,
-  "composite_score": 0.3081,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0539
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
-  "volume": 10349.781592000003,
-  "ends_in": "5g 12s 17d",
-  "end_date": "06 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241123+00:00"
- },
- {
-  "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
-  "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.84,
-  "confidence": 0.3063,
-  "composite_score": 0.3063,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0418
-  },
-  "sentiment_headlines": [
-   {
-    "title": "Politics in an Attention Economy - Nonprofit Quarterly",
-    "score": 0.0
-   },
-   {
-    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
-    "score": 0.0
-   },
-   {
-    "title": "The Geopolitics of Trump’s War on Drugs - Americas Quarterly",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
-  "volume": 8028.926755999998,
-  "ends_in": "5s 17d",
-  "end_date": "31 Mar 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241155+00:00"
- },
- {
-  "market_id": "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993",
-  "question": "Will the median home value in the US be between $425,000 and $427,500 on April 1?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.81,
-  "confidence": 0.3061,
-  "composite_score": 0.3061,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.5,
-   "arbitrage": 0.0,
-   "volume": 0.0406
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/what-will-the-median-home-value-in-the-us-be-on-april-1",
-  "volume": 7806.103043000001,
-  "ends_in": "8s 17d",
-  "end_date": "01 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241169+00:00"
+  "timestamp": "2026-03-31T16:25:34.163309+00:00"
  },
  {
   "market_id": "0x915b2072dfd197890bd05c37568a978200d040335b68e94e006815efa20ea6d2",
   "question": "Will the median home value in Chicago be between $327,000 and $330,000 on April 1?",
   "predicted_side": "YES",
-  "predicted_prob": 0.7155,
-  "confidence": 0.3061,
-  "composite_score": 0.3061,
+  "predicted_prob": 0.7284999999999999,
+  "confidence": 0.3279,
+  "composite_score": 0.3279,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.6313,
    "arbitrage": 0.0,
-   "volume": 0.041
+   "volume": 0.0109
   },
   "sentiment_headlines": [
+   {
+    "title": "Opinion: Illinois can lead with smart, targeted AI regulation - Crain's Chicago Business",
+    "score": 0.4621
+   },
+   {
+    "title": "Americans Favor Greater AI and Quantum Regulation - Chicago Council on Global Affairs",
+    "score": 0.4621
+   },
    {
     "title": "George Stigler 50 Years Later: Revisiting The Theory of Economic Regulation - The University of Chicago Booth School of Business",
     "score": 0.0
@@ -412,300 +339,537 @@
   ],
   "url": "https://polymarket.com/event/what-will-the-median-home-value-in-chicago-be-on-april-1",
   "volume": 7876.139254000001,
-  "ends_in": "8s 17d",
+  "ends_in": "7s 35d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241237+00:00"
+  "timestamp": "2026-03-31T16:25:34.163336+00:00"
  },
  {
-  "market_id": "0x53c09feb2c26715c8c9ef0b5117b908f513c70389609e7242465fa2a7a245014",
-  "question": "Will the March 2026 unemployment rate be ≥4.7%?",
+  "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
+  "question": "Will Solana dip to $70 March 30-April 5?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9415,
-  "confidence": 0.3055,
-  "composite_score": 0.3055,
+  "predicted_prob": 0.9,
+  "confidence": 0.3229,
+  "composite_score": 0.3229,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.5,
+   "sentiment": 0.6039,
    "arbitrage": 0.0,
-   "volume": 0.0366
-  },
-  "sentiment_headlines": [],
-  "url": "https://polymarket.com/event/march-unemployment-rate-561",
-  "volume": 7027.673245000001,
-  "ends_in": "2g 8s 17d",
-  "end_date": "03 Apr 2026",
-  "kelly": 0.0,
-  "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241060+00:00"
- },
- {
-  "market_id": "0xf713ffa96689a3497760d73a9bdc3c6ad2244178f27bac51cbc2564c5b150696",
-  "question": "Pakistan military action against Kabul by March 31?",
-  "predicted_side": "NO",
-  "predicted_prob": 0.945,
-  "confidence": 0.3054,
-  "composite_score": 0.3054,
-  "scores": {
-   "statistical": 0.5,
-   "sentiment": 0.4546,
-   "arbitrage": 0.0,
-   "volume": 0.0968
+   "volume": 0.0143
   },
   "sentiment_headlines": [
    {
-    "title": "Source: Feds probing prediction market bets that predicted US actions - CNN",
-    "score": 0.0
+    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
+    "score": -0.4621
    },
    {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids - Audacy",
-    "score": 0.0
+    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
+    "score": -0.4621
    },
    {
-    "title": "3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Audacy",
+    "title": "News Explorer — Bitcoin, Ethereum and Solana Fall as Over $500 Million in Crypto Positions Get Rekt - Decrypt",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
+  "volume": 10349.781592000003,
+  "ends_in": "5g 11s 35d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163269+00:00"
+ },
+ {
+  "market_id": "0xde4e35d9c11c61db828bcdb303ce1d431a0aaca2bb8ab5c7719e59d86ca76462",
+  "question": "Will USD reach 1.6M Iranian rials by March 31?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.945,
+  "confidence": 0.3198,
+  "composite_score": 0.3198,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5817,
+   "arbitrage": 0.0,
+   "volume": 0.0229
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Oil up, Brent briefly hits $115 as Trump threatens Iranian energy infrastructure - Investing.com",
+    "score": -0.4621
+   },
+   {
+    "title": "The Commodities Feed: Lingering Iranian uncertainty supports the oil market - ING THINK economic and financial analysis | ING THINK",
     "score": 0.0
    }
   ],
-  "url": "https://polymarket.com/event/pakistan-military-action-against-kabul-by-march-31",
-  "volume": 18591.881335999995,
-  "ends_in": "8s 16d",
+  "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-march-31",
+  "volume": 16617.808427000004,
+  "ends_in": "7s 35d",
   "end_date": "31 Mar 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241012+00:00"
+  "timestamp": "2026-03-31T16:25:34.163240+00:00"
  },
  {
   "market_id": "0x29c8766b2455cb147676e7b6469aca94bd1bec1d5300f622f3e5ae1f776e209d",
   "question": "Will Starmer say \"Urgent\" during the next Prime Minister's Questions event?",
   "predicted_side": "NO",
-  "predicted_prob": 0.9355,
-  "confidence": 0.3049,
-  "composite_score": 0.3049,
+  "predicted_prob": 0.8725,
+  "confidence": 0.3092,
+  "composite_score": 0.3092,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5393,
+   "arbitrage": 0.0,
+   "volume": 0.0087
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   },
+   {
+    "title": "Foghorns of war: IHL and information operations during armed conflict - ICRC",
+    "score": -0.7616
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-keir-starmer-say-at-the-next-prime-ministers-questions-event-564",
+  "volume": 6314.872941999999,
+  "ends_in": "7s 35d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163280+00:00"
+ },
+ {
+  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
+  "question": "Any of the stolen KitKats recovered by April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.3088,
+  "composite_score": 0.3088,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0325
+   "volume": 0.0588
   },
-  "sentiment_headlines": [
-   {
-    "title": "Mongolia's third prime minister in a year faces political infighting and external crises - WRAL",
-    "score": 0.0
-   },
-   {
-    "title": "Minister of Creative Economy and Cultural Affairs Irene Umar assessed the Government Regulation (PP) - VOI.id",
-    "score": 0.0
-   },
-   {
-    "title": "Tshabalala calls for urgent overhaul of SA regulatory framework - Business Day",
-    "score": 0.0
-   }
-  ],
-  "url": "https://polymarket.com/event/what-will-keir-starmer-say-at-the-next-prime-ministers-questions-event-564",
-  "volume": 6250.004628,
-  "ends_in": "8s 17d",
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
+  "volume": 42636.052154000026,
+  "ends_in": "5g 7s 35d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163324+00:00"
+ },
+ {
+  "market_id": "0x7fbbdc2b441175c678a3a4f7a19325ecae5028529168f121735d9d81e8dca0c4",
+  "question": "Will Tesla (TSLA) close above $360 end of March?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.878,
+  "confidence": 0.3018,
+  "composite_score": 0.3018,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0122
+  },
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/tsla-above-in-march-2026",
+  "volume": 8823.718679000001,
+  "ends_in": "3s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163277+00:00"
+ },
+ {
+  "market_id": "0x87d364d2d86dced5583636fee22ada4b565b6b9801a71bbe2c0cd0e5a91b1993",
+  "question": "Will the median home value in the US be between $425,000 and $427,500 on April 1?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.3016,
+  "composite_score": 0.3016,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0108
+  },
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/what-will-the-median-home-value-in-the-us-be-on-april-1",
+  "volume": 7806.103043000001,
+  "ends_in": "7s 35d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241076+00:00"
+  "timestamp": "2026-03-31T16:25:34.163291+00:00"
+ },
+ {
+  "market_id": "0x53c09feb2c26715c8c9ef0b5117b908f513c70389609e7242465fa2a7a245014",
+  "question": "Will the March 2026 unemployment rate be ≥4.7%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9420000000000001,
+  "confidence": 0.3015,
+  "composite_score": 0.3015,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0097
+  },
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/march-unemployment-rate-561",
+  "volume": 7027.673245000001,
+  "ends_in": "2g 7s 35d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163244+00:00"
  },
  {
   "market_id": "0x7795f501aac460c8c7b3850eed23f3883b47c9c800944453a667c2aa62f78845",
   "question": "Will Amazon reach $224 in March?",
   "predicted_side": "NO",
   "predicted_prob": 0.935,
-  "confidence": 0.3048,
-  "composite_score": 0.3048,
+  "confidence": 0.3013,
+  "composite_score": 0.3013,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0322
+   "volume": 0.0085
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/what-price-will-amzn-hit-in-march-2026",
   "volume": 6193.158294000002,
-  "ends_in": "12s 17d",
+  "ends_in": "11s 35d",
   "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241084+00:00"
+  "timestamp": "2026-03-31T16:25:34.163252+00:00"
  },
  {
   "market_id": "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098",
   "question": "Will the March 2026 unemployment rate be 4.6%?",
   "predicted_side": "NO",
-  "predicted_prob": 0.8785,
-  "confidence": 0.3044,
-  "composite_score": 0.3044,
+  "predicted_prob": 0.9025,
+  "confidence": 0.3012,
+  "composite_score": 0.3012,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0292
+   "volume": 0.0078
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/march-unemployment-rate-561",
-  "volume": 5618.633795000001,
-  "ends_in": "2g 8s 17d",
+  "volume": 5630.9242890000005,
+  "ends_in": "2g 7s 35d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241144+00:00"
+  "timestamp": "2026-03-31T16:25:34.163260+00:00"
  },
  {
   "market_id": "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf",
   "question": "Will the US add between 50k and 100k jobs in March?",
   "predicted_side": "NO",
-  "predicted_prob": 0.795,
-  "confidence": 0.3041,
-  "composite_score": 0.3041,
+  "predicted_prob": 0.785,
+  "confidence": 0.3011,
+  "composite_score": 0.3011,
   "scores": {
    "statistical": 0.5,
    "sentiment": 0.5,
    "arbitrage": 0.0,
-   "volume": 0.0272
+   "volume": 0.0072
   },
   "sentiment_headlines": [],
   "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
-  "volume": 5224.195749999999,
-  "ends_in": "2g 8s 17d",
+  "volume": 5247.437566999999,
+  "ends_in": "2g 7s 35d",
   "end_date": "03 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241185+00:00"
+  "timestamp": "2026-03-31T16:25:34.163313+00:00"
+ },
+ {
+  "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
+  "question": "ChatGPT Outage by April 3?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.2892,
+  "composite_score": 0.2892,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.0178
+  },
+  "sentiment_headlines": [
+   {
+    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - CalMatters",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
+  "volume": 12927.405968999996,
+  "ends_in": "3g 7s 35d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163320+00:00"
+ },
+ {
+  "market_id": "0x8f5e0422289609a2b9b209b5a19915ea152f1bb0895a94a1a7481eb96acad631",
+  "question": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on April 3?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9,
+  "confidence": 0.2743,
+  "composite_score": 0.2743,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3531,
+   "arbitrage": 0.0,
+   "volume": 0.0247
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Strait of Hormuz Gridlock: How the U.S.-Iran Conflict Impacts Oil Prices and More | Investing - US News Money",
+    "score": -0.7616
+   },
+   {
+    "title": "Technology, policy shifts and geopolitics: How APAC could power the next wave of growth - The Straits Times",
+    "score": 0.4621
+   },
+   {
+    "title": "The Commodities Feed: Oil eases as report suggests war could end without Hormuz reopening - ING THINK economic and financial analysis | ING THINK",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/avg-of-ships-transiting-strait-of-hormuz-on-april-3",
+  "volume": 17939.968629000003,
+  "ends_in": "2g 7s 35d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163265+00:00"
  },
  {
   "market_id": "0x3cd23ed8bb1b4e649424ab1f9d7090ec8d94f07f6d9cb4a0c8588aeb49266fd1",
   "question": "Will Trump’s approval rating be between 40.0 and 40.4 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.735,
-  "confidence": 0.2709,
-  "composite_score": 0.2709,
+  "predicted_prob": 0.73,
+  "confidence": 0.272,
+  "composite_score": 0.272,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.1667,
+   "sentiment": 0.3105,
    "arbitrage": 0.0,
-   "volume": 0.2507
+   "volume": 0.0664
   },
   "sentiment_headlines": [
    {
-    "title": "The Odds: Trump's approval rating - CNN",
-    "score": 1.0
-   },
-   {
     "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
-    "score": 1.0
+    "score": 0.7616
    },
    {
-    "title": "Integrating Geopolitics into Economic Analysis - International Banker",
-    "score": 0.0
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 0.4621
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
   "volume": 48155.01254400001,
-  "ends_in": "3g 8s 17d",
+  "ends_in": "3g 7s 35d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241230+00:00"
+  "timestamp": "2026-03-31T16:25:34.163332+00:00"
  },
  {
   "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
   "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
   "predicted_side": "NO",
-  "predicted_prob": 0.8895000000000001,
-  "confidence": 0.2558,
-  "composite_score": 0.2558,
+  "predicted_prob": 0.8905,
+  "confidence": 0.2657,
+  "composite_score": 0.2657,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.25,
+   "sentiment": 0.3208,
    "arbitrage": 0.0,
-   "volume": 0.0387
+   "volume": 0.0103
   },
   "sentiment_headlines": [
    {
-    "title": "The Odds: Trump's approval rating - CNN",
-    "score": 1.0
-   },
-   {
-    "title": "Parents fear their children born in the US could become ‘stateless’ if Trump wins birthright case - CNN",
-    "score": 0.0
-   },
-   {
     "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
-    "score": 1.0
+    "score": 0.7616
+   },
+   {
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 0.4621
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
-  "volume": 7442.229464999993,
-  "ends_in": "3g 8s 17d",
+  "volume": 7474.876303999993,
+  "ends_in": "3g 7s 35d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241130+00:00"
+  "timestamp": "2026-03-31T16:25:34.163272+00:00"
  },
  {
   "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
   "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
   "predicted_side": "NO",
   "predicted_prob": 0.82,
-  "confidence": 0.2393,
-  "composite_score": 0.2393,
+  "confidence": 0.2637,
+  "composite_score": 0.2637,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.1667,
+   "sentiment": 0.3105,
    "arbitrage": 0.0,
-   "volume": 0.0399
+   "volume": 0.0106
   },
   "sentiment_headlines": [
    {
-    "title": "The Odds: Trump's approval rating - CNN",
-    "score": 1.0
-   },
-   {
     "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows. - The New York Times",
-    "score": 1.0
+    "score": 0.7616
    },
    {
-    "title": "Integrating Geopolitics into Economic Analysis - International Banker",
-    "score": 0.0
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Odds: Trump's approval rating - CNN",
+    "score": 0.4621
    }
   ],
   "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
   "volume": 7656.418529000002,
-  "ends_in": "3g 8s 17d",
+  "ends_in": "3g 7s 35d",
   "end_date": "04 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241162+00:00"
+  "timestamp": "2026-03-31T16:25:34.163287+00:00"
  },
  {
-  "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
-  "question": "ChatGPT Outage by April 3?",
+  "market_id": "0x649a227fa8b8886bb043d3711e078f7ace9d5c2ff69b979b1f563ceff3512a9a",
+  "question": "Will RH (RH) beat quarterly earnings?",
   "predicted_side": "NO",
-  "predicted_prob": 0.755,
-  "confidence": 0.2099,
-  "composite_score": 0.2099,
+  "predicted_prob": 0.805,
+  "confidence": 0.2514,
+  "composite_score": 0.2514,
   "scores": {
    "statistical": 0.5,
-   "sentiment": 0.0,
+   "sentiment": 0.2456,
    "arbitrage": 0.0,
-   "volume": 0.0659
+   "volume": 0.0151
   },
   "sentiment_headlines": [
    {
-    "title": "California issues historic fine over lawyer’s ChatGPT fabrications - calmatters.org",
-    "score": 1.0
+    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
+    "score": 0.9852
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "score": -0.9051
    }
   ],
-  "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
-  "volume": 12663.823918999997,
-  "ends_in": "3g 8s 16d",
-  "end_date": "03 Apr 2026",
+  "url": "https://polymarket.com/event/rh-quarterly-earnings-nongaap-eps-04-01-2026-2pt22",
+  "volume": 10928.000653,
+  "ends_in": "1g 4s 35d",
+  "end_date": "01 Apr 2026",
   "kelly": 0.0,
   "checked": false,
-  "timestamp": "2026-03-31T15:43:25.241223+00:00"
+  "timestamp": "2026-03-31T16:25:34.163298+00:00"
+ },
+ {
+  "market_id": "0x77f64d937ba842861dc6a9dbaaafc8c85dfda68fc01f1c76d3160b4caaf6fa67",
+  "question": "Will Dave and Buster's Entertainment (PLAY) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.84,
+  "confidence": 0.2508,
+  "composite_score": 0.2508,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2456,
+   "arbitrage": 0.0,
+   "volume": 0.0111
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Earnings call transcript: Purple Innovation Q4 2025 earnings beat expectations - Investing.com",
+    "score": 0.9852
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/play-quarterly-earnings-nongaap-eps-03-31-2026-0pt46",
+  "volume": 8034.361530999998,
+  "ends_in": "4s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163284+00:00"
+ },
+ {
+  "market_id": "0x445f0721884fa2e0008494ffcab8191d98dacc4a46c27efb4a06b6dd0f280fe1",
+  "question": "Will Google (GOOGL) close above $280 end of March?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.799,
+  "confidence": 0.2494,
+  "composite_score": 0.2494,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2365,
+   "arbitrage": 0.0,
+   "volume": 0.0139
+  },
+  "sentiment_headlines": [
+   {
+    "title": "Google Warns Quantum Computers Could Break Bitcoin and Ethereum in 9 Minutes — Should You Be Worried? - CCN.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Google Drops Quantum Bombshell — Bitcoin, Ethereum Easier to Break than Previously Thought - ZyCrypto",
+    "score": -0.7616
+   },
+   {
+    "title": "Google slashes quantum cracking estimates by 20X creating $600 billion countdown for Bitcoin and Ethereum - CryptoSlate",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/googl-above-in-march-2026",
+  "volume": 10093.129780999992,
+  "ends_in": "3s 35d",
+  "end_date": "31 Mar 2026",
+  "kelly": 0.0,
+  "checked": false,
+  "timestamp": "2026-03-31T16:25:34.163306+00:00"
  }
 ]

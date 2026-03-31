@@ -372,5 +372,27 @@
     "volume": 12516.122636000002
    }
   ]
+ },
+ "0x7fbbdc2b441175c678a3a4f7a19325ecae5028529168f121735d9d81e8dca0c4": {
+  "question": "Will Tesla (TSLA) close above $360 end of March?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 83.5,
+    "no": 16.5,
+    "volume": 7818.018679000002
+   }
+  ]
+ },
+ "0x11d50ae1b78321bba6579364e9aad923459ca546fcf5ffc723aa0fb0c7d8e181": {
+  "question": "Will NVIDIA (NVDA) close above $170 on March 31?",
+  "prices": [
+   {
+    "date": "2026-03-31",
+    "yes": 75.5,
+    "no": 24.5,
+    "volume": 8315.455333999998
+   }
+  ]
  }
 }

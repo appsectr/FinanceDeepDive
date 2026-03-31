@@ -19,7 +19,13 @@
     "rss_feeds": [
       "https://news.google.com/rss/search?q=politics&hl=en-US&gl=US&ceid=US:en",
       "https://news.google.com/rss/search?q=geopolitics+policy&hl=en-US&gl=US&ceid=US:en",
-      "https://news.google.com/rss/search?q=economy+regulation&hl=en-US&gl=US&ceid=US:en"
+      "https://news.google.com/rss/search?q=economy+regulation&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=stock+market+earnings&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=crypto+bitcoin+ethereum&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=oil+commodities+prices&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=war+military+conflict&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=sanctions+tariff+trade&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=AI+technology+regulation&hl=en-US&gl=US&ceid=US:en"
     ],
     "weight": 0.20
   },
