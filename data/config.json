@@ -50,7 +50,7 @@
   },
   "email": {
     "to": "fturan.zero@gmail.com",
-    "from_email": "polymarket-scanner@financedeep.dive",
+    "from_email": "fturan.zero@gmail.com",
     "from_name": "Polymarket Scanner",
     "subject_prefix": "[Polymarket]"
   },

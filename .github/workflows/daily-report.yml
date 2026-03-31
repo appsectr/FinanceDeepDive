@@ -26,7 +26,7 @@ jobs:
 
       - name: Run analysis pipeline
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          GMAIL_KEY: ${{ secrets.GMAIL_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python .github/skills/polymarket/scripts/main.py

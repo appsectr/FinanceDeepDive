@@ -1,76 +1,55 @@
 """
-Email sender — sends HTML report via SendGrid REST API using only urllib.
-Requires SENDGRID_API_KEY environment variable.
+Email sender — sends HTML report via Gmail SMTP using only stdlib.
+Requires GMAIL_KEY environment variable (App Password).
 """
-import json
 import os
-import sys
+import smtplib
+import ssl
 from datetime import datetime, timezone
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import http_client
 
-
-SENDGRID_URL = 'https://api.sendgrid.net/v3/mail/send'
+SMTP_SERVER = 'smtp.gmail.com'
+SMTP_PORT = 465
 
 
 def send_report(html_content, config, subject=None):
     """
-    Send HTML report via SendGrid.
+    Send HTML report via Gmail SMTP.
     Returns True on success, False on failure.
     """
-    api_key = os.environ.get('SENDGRID_API_KEY', '')
-    if not api_key:
-        print("SENDGRID_API_KEY not set — skipping email")
+    app_password = os.environ.get('GMAIL_KEY', '')
+    if not app_password:
+        print("GMAIL_KEY not set — skipping email")
         return False
 
     email_cfg = config.get('email', {})
     to_addr = email_cfg.get('to', '')
-    from_addr = email_cfg.get('from', 'polymarket@financedeep.dive')
+    from_addr = email_cfg.get('from_email', '')
     from_name = email_cfg.get('from_name', 'Polymarket Analiz')
 
-    if not to_addr:
-        print("No recipient email configured — skipping")
+    if not to_addr or not from_addr:
+        print("No sender/recipient email configured — skipping")
         return False
 
     if subject is None:
         date_str = datetime.now(timezone.utc).strftime('%Y-%m-%d')
         subject = f'[Polymarket] Gunluk Rapor — {date_str}'
 
-    payload = {
-        'personalizations': [
-            {
-                'to': [{'email': to_addr}],
-                'subject': subject,
-            }
-        ],
-        'from': {
-            'email': from_addr,
-            'name': from_name,
-        },
-        'content': [
-            {
-                'type': 'text/html',
-                'value': html_content,
-            }
-        ],
-    }
-
-    headers = {
-        'Authorization': f'Bearer {api_key}',
-        'Content-Type': 'application/json',
-    }
+    msg = MIMEMultipart('alternative')
+    msg['From'] = f'{from_name} <{from_addr}>'
+    msg['To'] = to_addr
+    msg['Subject'] = subject
+    msg.attach(MIMEText(html_content, 'html', 'utf-8'))
 
     try:
-        # SendGrid returns 202 on success with empty body
-        resp = http_client.post_json(SENDGRID_URL, payload, headers=headers, timeout=30)
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP_SSL(SMTP_SERVER, SMTP_PORT, context=ctx) as server:
+            server.login(from_addr, app_password)
+            server.sendmail(from_addr, to_addr, msg.as_string())
         print(f"Email sent to {to_addr}")
         return True
     except Exception as e:
-        error_msg = str(e)
-        # SendGrid 202 response has empty body, urllib may see this as "error"
-        if '202' in error_msg:
-            print(f"Email sent to {to_addr} (202 Accepted)")
-            return True
-        print(f"Email send failed: {error_msg}")
+        print(f"Email send failed: {e}")
         return False
