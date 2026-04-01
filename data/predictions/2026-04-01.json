@@ -1,0 +1,773 @@
+[
+ {
+  "market_id": "0x93ab6cbb3e85d16b5f06859f3e0a368fb38402c4cf3d851829749fd56a007b48",
+  "question": "Trump announces end of military operations against Iran by April 7th?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.4308,
+  "composite_score": 0.4787,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7188,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.9807
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9095,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Ongoing military conflicts causing world war worry - chronicleonline.com",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+  "volume": 676737.2633819991,
+  "ends_in": "6g 4s 32d",
+  "end_date": "07 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253521+00:00"
+ },
+ {
+  "market_id": "0xbdd374e8b0c10f5514db943b1821d0d689054426692bd4fecd9695aaa71c778d",
+  "question": "Will Trump say \"Fake News\" during Address to the Nation?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.3602,
+  "composite_score": 0.4002,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6001,
+   "arbitrage": 0.0,
+   "volume": 0.0187,
+   "news_volume": 0.9854
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9311,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 12676.432784,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253691+00:00"
+ },
+ {
+  "market_id": "0x17a327228d0b68ed039f00b8ab4834ed8e4c21a1dc2093e3eeb6926e326fa375",
+  "question": "Will Trump say \"MAGA\" or \"Make America Great Again\" during Address to the Nation?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.71,
+  "confidence": 0.3562,
+  "composite_score": 0.3958,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5821,
+   "arbitrage": 0.0,
+   "volume": 0.0106,
+   "news_volume": 0.9941
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9338,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 7201.7809470000075,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4256,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253724+00:00"
+ },
+ {
+  "market_id": "0x60abb89cef025820e9a7e214a2e8d4966ac9099e52aec35b863f4f7be76429b6",
+  "question": "Will Trump say \"Bibi\" or \"Netanyahu\" during Address to the Nation?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.3554,
+  "composite_score": 0.3949,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.582,
+   "arbitrage": 0.0,
+   "volume": 0.0223,
+   "news_volume": 0.9664
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9338,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 15114.615526000009,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7415,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253669+00:00"
+ },
+ {
+  "market_id": "0x84fe3bcc7d11b846fcd41b634a99c9c54a532ed63fe8a764a30365f5c3dc2160",
+  "question": "Will Trump say \"Mission Accomplished\" during Address to the Nation?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.3534,
+  "composite_score": 0.3927,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5745,
+   "arbitrage": 0.0,
+   "volume": 0.0116,
+   "news_volume": 0.9708
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9349,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 7827.566272999996,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4574,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253647+00:00"
+ },
+ {
+  "market_id": "0x4f519356296de6e755560eebecd0435ed23e74e30fedb8627007de0d651a3065",
+  "question": "Will Solana reach $90 March 30-April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.715,
+  "confidence": 0.3328,
+  "composite_score": 0.3698,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6218,
+   "arbitrage": 0.0,
+   "volume": 0.0133,
+   "news_volume": 0.2736
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9276,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 247wallst.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
+    "score": -0.4621
+   },
+   {
+    "title": "What Will Happen to Bitcoin, Ethereum, Solana, and LINK as the US-Iran Warns Rests? - mexc.co",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
+  "volume": 8990.477460999999,
+  "ends_in": "4g 8s 32d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5134,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253713+00:00"
+ },
+ {
+  "market_id": "0x044f2bc7ad15a4f257818c06d52809f657225b33c5f383ba5f69148763284fae",
+  "question": "Will Trump say \"Hormuz\" during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.7625,
+  "confidence": 0.3217,
+  "composite_score": 0.3575,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4222,
+   "arbitrage": 0.0,
+   "volume": 0.0603,
+   "news_volume": 0.9793
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9517,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 40826.572628999995,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9885,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253680+00:00"
+ },
+ {
+  "market_id": "0x910d133aa70d75e16fef5bdeb18d28588b73d731df85444ca394e6f0335eb23f",
+  "question": "Will Trump say \"Operation Epic Fury\" during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8955,
+  "confidence": 0.3186,
+  "composite_score": 0.354,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4167,
+   "arbitrage": 0.0,
+   "volume": 0.0241,
+   "news_volume": 0.9727
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9522,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 16284.815401999991,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.773,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253592+00:00"
+ },
+ {
+  "market_id": "0xcca0eacd85ed4ae81e43c987b7716c92a5ce6bb35710e4b367e1308a652c4935",
+  "question": "Will Trump say \"Proxy\" or \"Hezbollah\" during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.705,
+  "confidence": 0.3184,
+  "composite_score": 0.3538,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.418,
+   "arbitrage": 0.0,
+   "volume": 0.02,
+   "news_volume": 0.9664
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9521,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 13524.729474000007,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6929,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253785+00:00"
+ },
+ {
+  "market_id": "0x3c8f8375b9e279afb6892797a2967d897a5a2664a118f7530ef5db237b8f0255",
+  "question": "Will Trump say \"NATO\" during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.91,
+  "confidence": 0.3181,
+  "composite_score": 0.3535,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.404,
+   "arbitrage": 0.0,
+   "volume": 0.0774,
+   "news_volume": 0.9727
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9531,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "The Weight of History and Alliances in South Africa’s Geopolitical Turbulence - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 52398.87233199996,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9973,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253551+00:00"
+ },
+ {
+  "market_id": "0xaa4477c0ba8dedbf9dc6cfd5fdf595a53073e93c71e0544477268e56bd6e14f0",
+  "question": "Will Trump say \"Objective\" or \"Goal\" 3+ times during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.705,
+  "confidence": 0.3151,
+  "composite_score": 0.3501,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4008,
+   "arbitrage": 0.0,
+   "volume": 0.0092,
+   "news_volume": 0.989
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9533,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump Administration Scales Back Plan to Dismantle Consumer Protection Bureau - nytimes.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 6193.865570999998,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3721,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253745+00:00"
+ },
+ {
+  "market_id": "0x5a5eacbb78cd35133c353ded337b6fe2467d74604c99c179840361ab6367f7e1",
+  "question": "Will Trump say \"Oil\" or \"Gas\" 3+ times during Address to the Nation?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.785,
+  "confidence": 0.3083,
+  "composite_score": 0.3426,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3669,
+   "arbitrage": 0.0,
+   "volume": 0.019,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9553,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump Administration Scales Back Plan to Dismantle Consumer Protection Bureau - nytimes.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-address-to-the-nation-on-april-1",
+  "volume": 12880.172074999999,
+  "ends_in": "2s 32d",
+  "end_date": "01 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6712,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253658+00:00"
+ },
+ {
+  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
+  "question": "Any of the stolen KitKats recovered by April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.3208,
+  "composite_score": 0.3364,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.2282,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
+  "volume": 154441.53383000006,
+  "ends_in": "4g 4s 32d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253580+00:00"
+ },
+ {
+  "market_id": "0xcf6db2e82a100a06e9b1275443307f7f1e9fdbed887a2094bdba95568c5b63b2",
+  "question": "ChatGPT Outage by April 3?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.313,
+  "composite_score": 0.3278,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0204,
+   "news_volume": 0.0351
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "XRP vs Bitcoin vs Ethereum: ChatGPT Predicts Which Crypto Is Best for 2026 - 247wallst.com",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/chatgpt-outage-by-march-20",
+  "volume": 13834.607120999992,
+  "ends_in": "2g 4s 32d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7029,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253604+00:00"
+ },
+ {
+  "market_id": "0x7cacfdebabd1975d08c7873490f1b3499c76ad7eab68d76175af238d9afc4098",
+  "question": "Will the March 2026 unemployment rate be 4.6%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9095,
+  "confidence": 0.311,
+  "composite_score": 0.3255,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0099,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/march-unemployment-rate-561",
+  "volume": 6709.55032,
+  "ends_in": "1g 4s 32d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3998,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253567+00:00"
+ },
+ {
+  "market_id": "0xeb29028426b0733aad8e71f54e47e56b597d95607eb22b84311c00f113a1a95e",
+  "question": "Will 'BULLY' - Ye debut week album sales be less than 150k?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.82,
+  "confidence": 0.293,
+  "composite_score": 0.3255,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0094,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/kanye-west-bully-first-week-album-sales-lower-strikes",
+  "volume": 6356.963099,
+  "ends_in": "2g 4s 32d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.381,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253636+00:00"
+ },
+ {
+  "market_id": "0x5cf692cd56ab3219b226d686b114e7ebd13d65829431b48a2214fab526effbbf",
+  "question": "Will the US add between 50k and 100k jobs in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.75,
+  "confidence": 0.3109,
+  "composite_score": 0.3254,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0088,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
+  "volume": 5947.763944999998,
+  "ends_in": "1g 4s 32d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3587,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253702+00:00"
+ },
+ {
+  "market_id": "0x9c6f1f60ac533aa6c1bc12e094d198c600da3f927ea6fab05c9731d3cfc86ec8",
+  "question": "Will the US add at least 100k jobs in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.705,
+  "confidence": 0.2929,
+  "composite_score": 0.3254,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0082,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/how-many-jobs-added-in-march-126",
+  "volume": 5581.909389999999,
+  "ends_in": "1g 4s 32d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3384,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253734+00:00"
+ },
+ {
+  "market_id": "0x3dcedd0fef7b792ef09559dfca26e21ad8afa952f7526782e34e02bfe422e15b",
+  "question": "Will Trump’s approval rating be less than 39.0 on April 3, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8345,
+  "confidence": 0.2999,
+  "composite_score": 0.3132,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3949,
+   "arbitrage": 0.0,
+   "volume": 0.0159,
+   "news_volume": 0.2736
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9537,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "PVH Corp.: Earnings Power Is Materially Undervalued (Rating Upgrade) (NYSE:PVH) - Seeking Alpha",
+    "score": 0.7616
+   },
+   {
+    "title": "Weekend Round-Up: Crypto Exchange Gets Fed Approval, Ethereum Outperforms S&P 500 And More - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "The Commodities Feed: Geopolitical events have oil gyrating, gold rising - ING THINK economic and financial analysis | ING THINK",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 10736.541650999994,
+  "ends_in": "2g 4s 32d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5899,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253626+00:00"
+ },
+ {
+  "market_id": "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e",
+  "question": "Will \"Choosin' Texas - Ella Langley\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.875,
+  "confidence": 0.2974,
+  "composite_score": 0.3104,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.0093,
+   "news_volume": 0.0351
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9509,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "This 20% Ethereum Price Risk May Explain Why Institutions Keep Choosing Bitcoin - BeInCrypto",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
+  "volume": 6289.466699999999,
+  "ends_in": "4g 4s 32d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3773,
+  "checked": false,
+  "timestamp": "2026-04-01T19:27:41.253615+00:00"
+ }
+]

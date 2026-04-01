@@ -150,6 +150,12 @@
     "yes": 9.85,
     "no": 90.15,
     "volume": 7298.216180999993
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 16.55,
+    "no": 83.45,
+    "volume": 10736.541650999994
    }
   ]
  },
@@ -194,6 +200,12 @@
     "yes": 12.5,
     "no": 87.5,
     "volume": 5618.633795000001
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 9.05,
+    "no": 90.95,
+    "volume": 6709.55032
    }
   ]
  },
@@ -260,6 +272,12 @@
     "yes": 20.5,
     "no": 79.5,
     "volume": 5224.195749999999
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 25.0,
+    "no": 75.0,
+    "volume": 5947.763944999998
    }
   ]
  },
@@ -293,6 +311,12 @@
     "yes": 23.5,
     "no": 76.5,
     "volume": 34692.53722400004
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 9.5,
+    "no": 90.5,
+    "volume": 154441.53383000006
    }
   ]
  },
@@ -348,6 +372,12 @@
     "yes": 27.5,
     "no": 72.5,
     "volume": 12612.823918999997
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 11.5,
+    "no": 88.5,
+    "volume": 13834.607120999992
    }
   ]
  },
@@ -502,6 +532,12 @@
     "yes": 81.5,
     "no": 18.5,
     "volume": 5109.985227000001
+   },
+   {
+    "date": "2026-04-01",
+    "yes": 87.5,
+    "no": 12.5,
+    "volume": 6289.466699999999
    }
   ]
  },
@@ -535,6 +571,160 @@
     "yes": 25.6,
     "no": 74.4,
     "volume": 6214.685504
+   }
+  ]
+ },
+ "0x93ab6cbb3e85d16b5f06859f3e0a368fb38402c4cf3d851829749fd56a007b48": {
+  "question": "Trump announces end of military operations against Iran by April 7th?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 676737.2633819991
+   }
+  ]
+ },
+ "0x3c8f8375b9e279afb6892797a2967d897a5a2664a118f7530ef5db237b8f0255": {
+  "question": "Will Trump say \"NATO\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 91.0,
+    "no": 9.0,
+    "volume": 52398.87233199996
+   }
+  ]
+ },
+ "0x910d133aa70d75e16fef5bdeb18d28588b73d731df85444ca394e6f0335eb23f": {
+  "question": "Will Trump say \"Operation Epic Fury\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 89.55,
+    "no": 10.45,
+    "volume": 16284.815401999991
+   }
+  ]
+ },
+ "0xeb29028426b0733aad8e71f54e47e56b597d95607eb22b84311c00f113a1a95e": {
+  "question": "Will 'BULLY' - Ye debut week album sales be less than 150k?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 82.0,
+    "no": 18.0,
+    "volume": 6356.963099
+   }
+  ]
+ },
+ "0x84fe3bcc7d11b846fcd41b634a99c9c54a532ed63fe8a764a30365f5c3dc2160": {
+  "question": "Will Trump say \"Mission Accomplished\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 19.0,
+    "no": 81.0,
+    "volume": 7827.566272999996
+   }
+  ]
+ },
+ "0x5a5eacbb78cd35133c353ded337b6fe2467d74604c99c179840361ab6367f7e1": {
+  "question": "Will Trump say \"Oil\" or \"Gas\" 3+ times during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 78.5,
+    "no": 21.5,
+    "volume": 12880.172074999999
+   }
+  ]
+ },
+ "0x60abb89cef025820e9a7e214a2e8d4966ac9099e52aec35b863f4f7be76429b6": {
+  "question": "Will Trump say \"Bibi\" or \"Netanyahu\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 22.5,
+    "no": 77.5,
+    "volume": 15114.615526000009
+   }
+  ]
+ },
+ "0x044f2bc7ad15a4f257818c06d52809f657225b33c5f383ba5f69148763284fae": {
+  "question": "Will Trump say \"Hormuz\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 76.25,
+    "no": 23.75,
+    "volume": 40826.572628999995
+   }
+  ]
+ },
+ "0xbdd374e8b0c10f5514db943b1821d0d689054426692bd4fecd9695aaa71c778d": {
+  "question": "Will Trump say \"Fake News\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 12676.432784
+   }
+  ]
+ },
+ "0x4f519356296de6e755560eebecd0435ed23e74e30fedb8627007de0d651a3065": {
+  "question": "Will Solana reach $90 March 30-April 5?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 28.5,
+    "no": 71.5,
+    "volume": 8990.477460999999
+   }
+  ]
+ },
+ "0x17a327228d0b68ed039f00b8ab4834ed8e4c21a1dc2093e3eeb6926e326fa375": {
+  "question": "Will Trump say \"MAGA\" or \"Make America Great Again\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 29.0,
+    "no": 71.0,
+    "volume": 7201.7809470000075
+   }
+  ]
+ },
+ "0x9c6f1f60ac533aa6c1bc12e094d198c600da3f927ea6fab05c9731d3cfc86ec8": {
+  "question": "Will the US add at least 100k jobs in March?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 29.5,
+    "no": 70.5,
+    "volume": 5581.909389999999
+   }
+  ]
+ },
+ "0xaa4477c0ba8dedbf9dc6cfd5fdf595a53073e93c71e0544477268e56bd6e14f0": {
+  "question": "Will Trump say \"Objective\" or \"Goal\" 3+ times during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 70.5,
+    "no": 29.5,
+    "volume": 6193.865570999998
+   }
+  ]
+ },
+ "0xcca0eacd85ed4ae81e43c987b7716c92a5ce6bb35710e4b367e1308a652c4935": {
+  "question": "Will Trump say \"Proxy\" or \"Hezbollah\" during Address to the Nation?",
+  "prices": [
+   {
+    "date": "2026-04-01",
+    "yes": 70.5,
+    "no": 29.5,
+    "volume": 13524.729474000007
    }
   ]
  }
