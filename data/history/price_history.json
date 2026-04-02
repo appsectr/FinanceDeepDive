@@ -139,6 +139,12 @@
     "yes": 7.5,
     "no": 92.5,
     "volume": 10183.608260000003
+   },
+   {
+    "date": "2026-04-02",
+    "yes": 8.75,
+    "no": 91.25,
+    "volume": 25528.22227
    }
   ]
  },
@@ -250,6 +256,12 @@
     "yes": 19.0,
     "no": 81.0,
     "volume": 7609.018529000003
+   },
+   {
+    "date": "2026-04-02",
+    "yes": 21.0,
+    "no": 79.0,
+    "volume": 15346.887813000005
    }
   ]
  },
@@ -317,6 +329,12 @@
     "yes": 9.5,
     "no": 90.5,
     "volume": 154441.53383000006
+   },
+   {
+    "date": "2026-04-02",
+    "yes": 11.5,
+    "no": 88.5,
+    "volume": 188755.98718400014
    }
   ]
  },
@@ -538,6 +556,12 @@
     "yes": 87.5,
     "no": 12.5,
     "volume": 6289.466699999999
+   },
+   {
+    "date": "2026-04-02",
+    "yes": 81.5,
+    "no": 18.5,
+    "volume": 9097.791826999997
    }
   ]
  },
@@ -725,6 +749,105 @@
     "yes": 70.5,
     "no": 29.5,
     "volume": 13524.729474000007
+   }
+  ]
+ },
+ "0x72250b5c2453975ea27e5e7ccea2a84aa10b5242c2df0ad2e0fc65ef1ef2a514": {
+  "question": "MicroStrategy announces >1000 BTC purchase March 31-April 6?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 91.75,
+    "no": 8.25,
+    "volume": 11046.893124999999
+   }
+  ]
+ },
+ "0xd7f33dcaee46a076e54a3bae351cff1afcbd5252dfa31c6afe798e050fbe82d4": {
+  "question": "DeepSeek V4 released by April 7?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 11.5,
+    "no": 88.5,
+    "volume": 6276.964376000002
+   }
+  ]
+ },
+ "0x30297ee710b75267804f12092bd862f114d65df47cdf6b9f12290137a684a83d": {
+  "question": "Will \"Arirang - BTS\" be the Billboard 200 #1 album for the week of April 11?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 86.0,
+    "no": 14.0,
+    "volume": 6877.4375759999975
+   }
+  ]
+ },
+ "0xb1d1eff01be6af6623d3f73037029d832b7fb50a1f7bd67dfacf20c7bb9bae00": {
+  "question": "Will \"Bully - Kanye West\" be the Billboard 200 #1 album for the week of April 11?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 14.5,
+    "no": 85.5,
+    "volume": 5003.197615000001
+   }
+  ]
+ },
+ "0xf5c36d5e4ccabaf86adc62aca4e2e7da07fccf057e1e8308b7327f4d39db4963": {
+  "question": "Will the Indian Union Muslim League (IUML) win between 16 and 18 seats in the 2026 Kerala Legislative Assembly election?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 19.5,
+    "no": 80.5,
+    "volume": 7015.5
+   }
+  ]
+ },
+ "0x3be504b1cf0e8348e7bf291dd7b01f8393a5819ce01951a5a13f3d152732df5a": {
+  "question": "Will Palantir (PLTR) close at $148-$150 on the final day of trading of the week of Mar 30 – Apr 3?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 21.3,
+    "no": 78.7,
+    "volume": 5940.686698000001
+   }
+  ]
+ },
+ "0x298c1f792047c48c2f0eec27db700357599b31075d0c1917f4c611425d58c971": {
+  "question": "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 26.0,
+    "no": 74.0,
+    "volume": 10462.835393000003
+   }
+  ]
+ },
+ "0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387": {
+  "question": "Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 72.5,
+    "no": 27.5,
+    "volume": 10288.243411
+   }
+  ]
+ },
+ "0x220f52561358dac152990b5674e447a4a2297528083ebd011138963d95daec74": {
+  "question": "Will the March 2026 unemployment rate be 4.5%?",
+  "prices": [
+   {
+    "date": "2026-04-02",
+    "yes": 29.0,
+    "no": 71.0,
+    "volume": 5794.999646
    }
   ]
  }

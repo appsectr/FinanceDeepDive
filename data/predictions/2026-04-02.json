@@ -1,0 +1,484 @@
+[
+ {
+  "market_id": "0x0d4761d38689d7671f1f896ba646213852f5913ce977f0220c36aff77f578e19",
+  "question": "Will Solana dip to $70 March 30-April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9125,
+  "confidence": 0.3758,
+  "composite_score": 0.3975,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6496,
+   "arbitrage": 0.0,
+   "volume": 0.1352,
+   "news_volume": 0.5671
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9228,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard' - CoinDesk",
+    "score": -0.7616
+   },
+   {
+    "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week - 24/7 Wall St.",
+    "score": -0.4621
+   },
+   {
+    "title": "Crypto's quantum threat is real and its driving diverging strategies across Bitcoin, Ethereum, Solana - CoinDesk",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-march-30-april-5",
+  "volume": 25528.22227,
+  "ends_in": "3g 8s 35d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9778,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366153+00:00"
+ },
+ {
+  "market_id": "0xf5c36d5e4ccabaf86adc62aca4e2e7da07fccf057e1e8308b7327f4d39db4963",
+  "question": "Will the Indian Union Muslim League (IUML) win between 16 and 18 seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.805,
+  "confidence": 0.342,
+  "composite_score": 0.38,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5916,
+   "arbitrage": 0.0,
+   "volume": 0.0372,
+   "news_volume": 0.6055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9324,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Tina Peters, Colorado Election Denier, Will Have Prison Sentence Reconsidered - The New York Times",
+    "score": -0.4621
+   },
+   {
+    "title": "Colorado appeals court orders resentencing for former county clerk in election fraud scheme - audacy.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Colorado court orders resentencing for former county clerk in election fraud scheme - audacy.com",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-seats-will-iuml-win-in-the-2026-kerala-legislative-assembly-election",
+  "volume": 7015.5,
+  "ends_in": "6g 4s 35d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.549,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366229+00:00"
+ },
+ {
+  "market_id": "0xbab6a6855f2c3bbf4f48c66a566a5dcaf1380030ab0712e68a4f94ce47424f78",
+  "question": "Any of the stolen KitKats recovered by April 5?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.3645,
+  "composite_score": 0.375,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/any-of-the-stolen-kitkats-recovered-by-april-5",
+  "volume": 188755.98718400014,
+  "ends_in": "3g 4s 35d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366168+00:00"
+ },
+ {
+  "market_id": "0x298c1f792047c48c2f0eec27db700357599b31075d0c1917f4c611425d58c971",
+  "question": "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.74,
+  "confidence": 0.3291,
+  "composite_score": 0.3657,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5645,
+   "arbitrage": 0.0,
+   "volume": 0.0554,
+   "news_volume": 0.4364
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9363,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Tina Peters, Colorado Election Denier, Will Have Prison Sentence Reconsidered - The New York Times",
+    "score": -0.4621
+   },
+   {
+    "title": "Colorado appeals court orders resentencing for former county clerk in election fraud scheme - audacy.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Colorado court orders resentencing for former county clerk in election fraud scheme - audacy.com",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 10462.835393000003,
+  "ends_in": "6g 4s 35d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7259,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366264+00:00"
+ },
+ {
+  "market_id": "0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387",
+  "question": "Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.725,
+  "confidence": 0.329,
+  "composite_score": 0.3656,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4521,
+   "arbitrage": 0.0,
+   "volume": 0.0545,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9493,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump says he'll sign order to resume pay for Homeland Security. His move bypasses Congress - audacy.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 10288.243411,
+  "ends_in": "6g 4s 35d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7186,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366275+00:00"
+ },
+ {
+  "market_id": "0x72250b5c2453975ea27e5e7ccea2a84aa10b5242c2df0ad2e0fc65ef1ef2a514",
+  "question": "MicroStrategy announces >1000 BTC purchase March 31-April 6?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9175,
+  "confidence": 0.3267,
+  "composite_score": 0.363,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5729,
+   "arbitrage": 0.0,
+   "volume": 0.0585,
+   "news_volume": 0.3372
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9352,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Crystal Amber (LON:CRS) Announces Quarterly Earnings Results - MarketBeat",
+    "score": 0.4621
+   },
+   {
+    "title": "Hilton Food Group (LON:HFG) Announces Quarterly Earnings Results - MarketBeat",
+    "score": 0.4621
+   },
+   {
+    "title": "Allergy Therapeutics (LON:AGY) Announces Earnings Results - MarketBeat",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/microstrategy-announces-1000-btc-purchase-march-31-april-6",
+  "volume": 11046.893124999999,
+  "ends_in": "4g 8s 35d",
+  "end_date": "07 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7493,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366123+00:00"
+ },
+ {
+  "market_id": "0x3be504b1cf0e8348e7bf291dd7b01f8393a5819ce01951a5a13f3d152732df5a",
+  "question": "Will Palantir (PLTR) close at $148-$150 on the final day of trading of the week of Mar 30 – Apr 3?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.787,
+  "confidence": 0.3204,
+  "composite_score": 0.356,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4432,
+   "arbitrage": 0.0,
+   "volume": 0.0315,
+   "news_volume": 0.8729
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.95,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983 - CNBC",
+    "score": 0.964
+   },
+   {
+    "title": "The minority leader leads, the wave, an April caucus, in political notes foolishness - Maryland Matters",
+    "score": 0.7616
+   },
+   {
+    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/pltr-week-april-3-2026",
+  "volume": 5940.686698000001,
+  "ends_in": "1g 35d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4795,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366253+00:00"
+ },
+ {
+  "market_id": "0x30297ee710b75267804f12092bd862f114d65df47cdf6b9f12290137a684a83d",
+  "question": "Will \"Arirang - BTS\" be the Billboard 200 #1 album for the week of April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.86,
+  "confidence": 0.2941,
+  "composite_score": 0.3268,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0364,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-200-1-album-week-of-april-11",
+  "volume": 6877.4375759999975,
+  "ends_in": "3g 4s 35d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5404,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366193+00:00"
+ },
+ {
+  "market_id": "0xd7f33dcaee46a076e54a3bae351cff1afcbd5252dfa31c6afe798e050fbe82d4",
+  "question": "DeepSeek V4 released by April 7?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.294,
+  "composite_score": 0.3267,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0333,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/deepseek-v4-released-by-march-31",
+  "volume": 6276.964376000002,
+  "ends_in": "5g 4s 35d",
+  "end_date": "07 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.502,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366180+00:00"
+ },
+ {
+  "market_id": "0x220f52561358dac152990b5674e447a4a2297528083ebd011138963d95daec74",
+  "question": "Will the March 2026 unemployment rate be 4.5%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.71,
+  "confidence": 0.2939,
+  "composite_score": 0.3265,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0307,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/march-unemployment-rate-561",
+  "volume": 5794.999646,
+  "ends_in": "4s 35d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4696,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366286+00:00"
+ },
+ {
+  "market_id": "0xb1d1eff01be6af6623d3f73037029d832b7fb50a1f7bd67dfacf20c7bb9bae00",
+  "question": "Will \"Bully - Kanye West\" be the Billboard 200 #1 album for the week of April 11?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.2937,
+  "composite_score": 0.3263,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0265,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-200-1-album-week-of-april-11",
+  "volume": 5003.197615000001,
+  "ends_in": "3g 4s 35d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4136,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366204+00:00"
+ },
+ {
+  "market_id": "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e",
+  "question": "Will \"Choosin' Texas - Ella Langley\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.815,
+  "confidence": 0.3092,
+  "composite_score": 0.3135,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.0482,
+   "news_volume": 0.0584
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9509,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "This 20% Ethereum Price Risk May Explain Why Institutions Keep Choosing Bitcoin - BeInCrypto",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
+  "volume": 9097.791826999997,
+  "ends_in": "3g 4s 35d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366217+00:00"
+ },
+ {
+  "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
+  "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.79,
+  "confidence": 0.2822,
+  "composite_score": 0.2936,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2906,
+   "arbitrage": 0.0,
+   "volume": 0.0813,
+   "news_volume": 0.3372
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.958,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Leaders Have Earnings Power, Top-Notch Ratings For Earnings Per Share - Investor's Business Daily",
+    "score": 0.9051
+   },
+   {
+    "title": "Benchmark reaffirms Cal-Maine Foods stock rating on earnings power - Investing.com",
+    "score": 0.7616
+   },
+   {
+    "title": "Trump’s White House ballroom gets final approval days after a judge ordered a halt to construction - audacy.com",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 15346.887813000005,
+  "ends_in": "1g 4s 35d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8739,
+  "checked": false,
+  "timestamp": "2026-04-02T19:24:25.366241+00:00"
+ }
+]
