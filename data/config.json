@@ -14,6 +14,7 @@
       3,
       7,
       14,
+      21,
       28
     ],
     "volatility_window": 7,
@@ -46,7 +47,8 @@
     "accuracy_target": 0.65,
     "learning_rate": 0.05,
     "min_predictions_for_adjust": 10,
-    "lookback_days": 30
+    "lookback_days": 30,
+    "dynamic_weights_enabled": true
   },
   "email": {
     "to": "fturan.zero@gmail.com",

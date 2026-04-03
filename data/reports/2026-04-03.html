@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Polymarket Analiz — 2026-04-03</title>
+<style>
+  :root { --bg: #0f172a; --card: #1e293b; --border: #334155; --text: #e2e8f0; --muted: #94a3b8; --accent: #818cf8; --green: #34d399; --red: #f87171; --yellow: #fbbf24; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; line-height: 1.6; }
+  .container { max-width: 1400px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 0.25rem; }
+  h2 { font-size: 1.2rem; font-weight: 600; margin: 2rem 0 0.75rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
+  .subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .stats { display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem 1.25rem; min-width: 140px; }
+  .stat-label { font-size: 0.7rem; text-transform: uppercase; color: var(--muted); letter-spacing: 0.05em; }
+  .stat-value { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); margin-bottom: 1rem; }
+  thead { background: #0f172a; }
+  th { text-align: left; padding: 0.75rem 1rem; font-size: 0.72rem; text-transform: uppercase; color: var(--muted); letter-spacing: 0.05em; white-space: nowrap; }
+  td { padding: 0.6rem 1rem; border-top: 1px solid var(--border); font-size: 0.85rem; vertical-align: middle; }
+  tr:hover { background: rgba(129,140,248,0.06); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: 700; color: #fff; }
+  .badge-yes { background: #166534; }
+  .badge-no { background: #991b1b; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .prob-bar { height: 5px; background: var(--border); border-radius: 3px; overflow: hidden; width: 80px; display: inline-block; vertical-align: middle; margin-left: 6px; }
+  .prob-fill { height: 100%; border-radius: 3px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; }
+  .pill { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 0.7rem; background: var(--border); margin: 1px; }
+  .footer { margin-top: 2rem; font-size: 0.75rem; color: var(--muted); text-align: center; }
+  .score-bar { display: flex; gap: 2px; height: 14px; border-radius: 3px; overflow: hidden; width: 120px; }
+  .score-seg { height: 100%; }
+  th[data-sort] { cursor: pointer; user-select: none; position: relative; padding-right: 1.2em; }
+  th[data-sort]:hover { color: var(--accent); }
+  th[data-sort]::after { content: '\2195'; position: absolute; right: 0.3em; font-size: 0.65rem; opacity: 0.4; }
+  th[data-sort].asc::after { content: '\2191'; opacity: 1; }
+  th[data-sort].desc::after { content: '\2193'; opacity: 1; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Polymarket Gunluk Analiz</h1>
+  <p class="subtitle">2026-04-03 19:16 UTC &mdash; Otomatik olarak olusturuldu</p>
+
+  <div class="stats">
+    <div class="stat"><div class="stat-label">Bulunan Firsat</div><div class="stat-value">14</div></div>
+    <div class="stat"><div class="stat-label">Tahmin Isabeti</div><div class="stat-value">0.0%</div></div>
+    <div class="stat"><div class="stat-label">Brier Skor</div><div class="stat-value">0.0</div></div>
+    <div class="stat"><div class="stat-label">Iyilestirme</div><div class="stat-value">2</div></div>
+  </div>
+
+  <h2>Firsatlar (14)</h2>
+  <table>
+    <thead>
+      <tr><th>#</th><th data-sort="text">Soru</th><th data-sort="text">Taraf</th><th data-sort="num">Oran</th><th data-sort="num">Skor</th><th>Dagilim</th><th data-sort="num">Hacim</th><th data-sort="num">Kelly</th><th data-sort="text">Bitis</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://polymarket.com/event/russia-military-action-against-kyiv-municipality-by-april-3" target="_blank">Russia military action against Kyiv municipality by April 3?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">90%</td>
+        <td class="num">
+          0.455
+          <div class="prob-bar"><div class="prob-fill" style="width:45%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.78 arb:0.00 vol:0.23">
+            <div class="score-seg" style="width:33%;background:#818cf8"></div>
+            <div class="score-seg" style="width:51%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:16%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$15,994</td>
+        <td class="num">0.0%</td>
+        <td>4s 43d</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://polymarket.com/event/march-2026-temperature-increase-c" target="_blank">Will global temperature increase by between 1.20ºC and 1.24ºC in March 2026?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">86%</td>
+        <td class="num">
+          0.426
+          <div class="prob-bar"><div class="prob-fill" style="width:42%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.58">
+            <div class="score-seg" style="width:29%;background:#818cf8"></div>
+            <div class="score-seg" style="width:35%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:36%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$40,274</td>
+        <td class="num">0.0%</td>
+        <td>6g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://polymarket.com/event/trump-approval-rating-on-april-3" target="_blank">Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">85%</td>
+        <td class="num">
+          0.389
+          <div class="prob-bar"><div class="prob-fill" style="width:38%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.68 arb:0.00 vol:0.31">
+            <div class="score-seg" style="width:33%;background:#818cf8"></div>
+            <div class="score-seg" style="width:45%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:22%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$21,183</td>
+        <td class="num">0.0%</td>
+        <td>4s 43d</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://polymarket.com/event/kerala-legislative-assembly-election-winner" target="_blank">Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Le</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">72%</td>
+        <td class="num">
+          0.378
+          <div class="prob-bar"><div class="prob-fill" style="width:37%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.48 arb:0.00 vol:0.16">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:42%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:15%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$11,064</td>
+        <td class="num">0.0%</td>
+        <td>5g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://polymarket.com/event/spacex-files-ipo-by" target="_blank">Will SpaceX file for an IPO by April 3, 2026?</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">91%</td>
+        <td class="num">
+          0.375
+          <div class="prob-bar"><div class="prob-fill" style="width:37%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:1.00">
+            <div class="score-seg" style="width:25%;background:#818cf8"></div>
+            <div class="score-seg" style="width:25%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:50%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$68,904</td>
+        <td class="num">0.0%</td>
+        <td>4s 43d</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://polymarket.com/event/march-inflation-us-annual-higher-brackets" target="_blank">Will annual inflation increase by 3.2% in March?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">84%</td>
+        <td class="num">
+          0.352
+          <div class="prob-bar"><div class="prob-fill" style="width:35%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.39 arb:0.00 vol:0.71">
+            <div class="score-seg" style="width:31%;background:#818cf8"></div>
+            <div class="score-seg" style="width:24%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:45%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$49,104</td>
+        <td class="num">0.0%</td>
+        <td>6g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://polymarket.com/event/billboard-200-1-album-week-of-april-11" target="_blank">Will &quot;Arirang - BTS&quot; be the Billboard 200 #1 album for the week of April 11?</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.333
+          <div class="prob-bar"><div class="prob-fill" style="width:33%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.17">
+            <div class="score-seg" style="width:42%;background:#818cf8"></div>
+            <div class="score-seg" style="width:42%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:16%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$11,458</td>
+        <td class="num">0.0%</td>
+        <td>2g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://polymarket.com/event/2026-valero-texas-open-winner" target="_blank">Will Ludvig Aberg win the 2026 Valero Texas Open?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">86%</td>
+        <td class="num">
+          0.332
+          <div class="prob-bar"><div class="prob-fill" style="width:33%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.14">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:43%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:14%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$9,432</td>
+        <td class="num">0.0%</td>
+        <td>1g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11" target="_blank">Will &quot;Choosin' Texas - Ella Langley&quot; be the Billboard Hot 100 #1 song for the we</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">78%</td>
+        <td class="num">
+          0.332
+          <div class="prob-bar"><div class="prob-fill" style="width:33%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.14">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:44%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:12%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$9,333</td>
+        <td class="num">0.0%</td>
+        <td>2g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="https://polymarket.com/event/billboard-200-1-album-week-of-april-11" target="_blank">Will &quot;Bully - Kanye West&quot; be the Billboard 200 #1 album for the week of April 11</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.331
+          <div class="prob-bar"><div class="prob-fill" style="width:33%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.12">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:44%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:12%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$7,943</td>
+        <td class="num">0.0%</td>
+        <td>2g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td><a href="https://polymarket.com/event/price-of-dozen-eggs-in-march-741" target="_blank">Will a dozen eggs cost between $2.50–2.75 in March?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">77%</td>
+        <td class="num">
+          0.330
+          <div class="prob-bar"><div class="prob-fill" style="width:33%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.10">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:45%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:10%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$7,149</td>
+        <td class="num">0.0%</td>
+        <td>6g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td><a href="https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11" target="_blank">Will &quot;SWIM - BTS&quot; be the Billboard Hot 100 #1 song for the week of April 11?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">82%</td>
+        <td class="num">
+          0.329
+          <div class="prob-bar"><div class="prob-fill" style="width:32%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:0.09">
+            <div class="score-seg" style="width:46%;background:#818cf8"></div>
+            <div class="score-seg" style="width:46%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:8%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$5,986</td>
+        <td class="num">0.0%</td>
+        <td>2g 4s 43d</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td><a href="https://polymarket.com/event/kanye-west-bully-first-week-album-sales-lower-strikes" target="_blank">Will 'BULLY' - Ye debut week album sales be less than 150k?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">85%</td>
+        <td class="num">
+          0.329
+          <div class="prob-bar"><div class="prob-fill" style="width:32%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.43 arb:0.00 vol:0.37">
+            <div class="score-seg" style="width:38%;background:#818cf8"></div>
+            <div class="score-seg" style="width:33%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:29%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$25,464</td>
+        <td class="num">0.0%</td>
+        <td>4s 43d</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td><a href="https://polymarket.com/event/kerala-legislative-assembly-election-winner" target="_blank">Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">73%</td>
+        <td class="num">
+          0.300
+          <div class="prob-bar"><div class="prob-fill" style="width:30%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.33 arb:0.00 vol:0.16">
+            <div class="score-seg" style="width:50%;background:#818cf8"></div>
+            <div class="score-seg" style="width:33%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:17%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$11,025</td>
+        <td class="num">0.0%</td>
+        <td>5g 4s 43d</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="font-size:0.7rem;color:var(--muted)">Dagilim: <span style="color:#818cf8">istatistik</span> <span style="color:#f472b6">duygu</span> <span style="color:#34d399">arbitraj</span> <span style="color:#fbbf24">hacim</span></p>
+  <h2>Tahmin Performansi</h2><p style="color:var(--muted)">Henuz yeterli tahmin verisi yok.</p>
+  <h2>Kendini Iyilestirme (2 degisiklik)</h2><div class="card">
+      <div style="font-weight:600;font-size:0.9rem">arxiv_deep_adjustment</div>
+      <div style="font-size:0.85rem">enabled dynamic_weights (per-signal accuracy tracking)</div>
+      <div style="font-size:0.75rem;color:var(--muted)">Neden: ArXiv: &quot;Greedy-Weighted Ensemble&quot; — dynamically allocate model weights based on empirical predictive performance</div>
+    </div><div class="card">
+      <div style="font-weight:600;font-size:0.9rem">arxiv_deep_adjustment</div>
+      <div style="font-size:0.85rem">added SMA-21 windows for multi-scale ensemble</div>
+      <div style="font-size:0.75rem;color:var(--muted)">Neden: Ensemble papers suggest diverse feature scales improve robustness</div>
+    </div>
+  <h2>Arbitraj / Spread Anomali</h2><p style="color:var(--muted)">Anormal spread tespit edilmedi.</p>
+  <h2>Duygu Analizi (7 market)</h2><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Russia military action against Kyiv municipality by April 3?</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.55</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Analysis: Iran conflict shifting from military strikes to the brink of global wa</div><div class="pill">Trump defends war with Iran as conflict widens, military names first service mem</div><div class="pill">Russia-Ukraine war could reach 2 million military casualties as conflict continu</div><div class="pill">Senate Republicans Block Benefits for Combat-Injured Veterans Amid Ongoing Milit</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will global temperature increase by between 1.20ºC and 1.24ºC in March</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.19</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acqu</div><div class="pill">Analysis: Iran conflict shifting from military strikes to the brink of global wa</div><div class="pill">UK government unveils AI regulation blueprint to spur innovation across the econ</div><div class="pill">How to improve digital economy regulation through increased transparency - The W</div><div class="pill">Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--green)">+0.36</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Stock Market Leaders Have Earnings Power, Top-Notch Ratings For Earnings Per Sha</div><div class="pill">Integrating Geopolitics into Economic Analysis - International Banker</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will the Indian National Congress (INC) win the most seats in the 2026</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--muted)">-0.03</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">WA to sue Trump over national voting list, vote-by-mail restrictions - The Seatt</div><div class="pill">Poll shows mixed signs for Democratic push to gain seats in Congress - The Washi</div><div class="pill">Unveiling the European Union’s Major Economic Security Update: Is a True Geopoli</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will annual inflation increase by 3.2% in March?</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--green)">+0.21</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acqu</div><div class="pill">How to improve digital economy regulation through increased transparency - The W</div><div class="pill">US Dollar Weekly Forecast: Can the Dollar rally continue as inflation risks retu</div><div class="pill">Inflation meets geopolitics: CPI, PPI &amp; policy headlines to set tone - ThinkMark</div><div class="pill">The One Way To Improve the Economy Without Raising Inflation or Debt - The Herit</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will 'BULLY' - Ye debut week album sales be less than 150k?</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--green)">+0.13</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">What to Expect in Markets This Week: GameStop Earnings, Consumer Sentiment, Impo</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will the Communist Party of India (Marxist) (CPI(M)) win the most seat</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--green)">+0.35</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">New CNN poll shows Democrats up big heading into midterm election season. Can Re</div><div class="pill">This Week in Review | Q1 Recap, Earnings Guidance, Elections - Fisher Investment</div><div class="pill">Citi lowers Bitcoin, Ethereum targets amid slow legislative progress - Investing</div><div class="pill">Hochul and legislative leaders play game of chicken with AI regulations - City &amp;</div><div class="pill">Kremmling candidates talk election, redesigning trails at ‘pizza and politics’ m</div></div>
+    </div>
+
+  <p class="footer">Kaynak: Polymarket Gamma API &mdash; Gurultu filtresi aktif &mdash; Self-improving system v1</p>
+</div>
+<script>
+document.querySelectorAll('th[data-sort]').forEach(th=>{th.addEventListener('click',()=>{const table=th.closest('table');const tbody=table.querySelector('tbody');if(!tbody)return;const idx=Array.from(th.parentNode.children).indexOf(th);const type=th.dataset.sort;const asc=!th.classList.contains('asc');table.querySelectorAll('th[data-sort]').forEach(h=>h.classList.remove('asc','desc'));th.classList.add(asc?'asc':'desc');const rows=Array.from(tbody.querySelectorAll('tr'));rows.sort((a,b)=>{let va=a.children[idx]?a.children[idx].textContent.trim():'';let vb=b.children[idx]?b.children[idx].textContent.trim():'';if(type==='num'){va=parseFloat(va.replace(/[^0-9.-]/g,''))||0;vb=parseFloat(vb.replace(/[^0-9.-]/g,''))||0;return asc?va-vb:vb-va;}return asc?va.localeCompare(vb):vb.localeCompare(va);});rows.forEach(r=>tbody.appendChild(r));});});
+</script>
+</body>
+</html>

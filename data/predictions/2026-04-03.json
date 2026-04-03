@@ -1,0 +1,495 @@
+[
+ {
+  "market_id": "0xb0ff494be3fb82cba548af9352efa8ea365ab987662ab419aff68cff7fd5c1d6",
+  "question": "Russia military action against Kyiv municipality by April 3?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.4098,
+  "composite_score": 0.4553,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7754,
+   "arbitrage": 0.0,
+   "volume": 0.2321,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.897,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Analysis: Iran conflict shifting from military strikes to the brink of global war - WTOP",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/russia-military-action-against-kyiv-municipality-by-april-3",
+  "volume": 15993.876019000012,
+  "ends_in": "4s 43d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8064,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904112+00:00"
+ },
+ {
+  "market_id": "0x3073420646809aba094329d79448a5320ab0a8a8c687b5697677d81d09a8dfe9",
+  "question": "Will global temperature increase by between 1.20ºC and 1.24ºC in March 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.3835,
+  "composite_score": 0.4261,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5973,
+   "arbitrage": 0.0,
+   "volume": 0.5845,
+   "news_volume": 0.9519
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9315,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acquisitions - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Analysis: Iran conflict shifting from military strikes to the brink of global war - WTOP",
+    "score": -0.9051
+   },
+   {
+    "title": "UK government unveils AI regulation blueprint to spur innovation across the economy - globalgovernmentforum.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/march-2026-temperature-increase-c",
+  "volume": 40274.23999100001,
+  "ends_in": "6g 4s 43d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9928,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904140+00:00"
+ },
+ {
+  "market_id": "0xb1621ecd790ef402fa5fd4344d4a564955cbdc5bbfce13826dff60825b9a1d52",
+  "question": "Will Trump’s approval rating be between 39.0 and 39.4 on April 3, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8475,
+  "confidence": 0.377,
+  "composite_score": 0.3889,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6793,
+   "arbitrage": 0.0,
+   "volume": 0.3074,
+   "news_volume": 0.0739
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9174,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Leaders Have Earnings Power, Top-Notch Ratings For Earnings Per Share - Investor's Business Daily",
+    "score": 0.9051
+   },
+   {
+    "title": "Integrating Geopolitics into Economic Analysis - International Banker",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-approval-rating-on-april-3",
+  "volume": 21183.386508000007,
+  "ends_in": "4s 43d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9013,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904167+00:00"
+ },
+ {
+  "market_id": "0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387",
+  "question": "Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.725,
+  "confidence": 0.3581,
+  "composite_score": 0.3779,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4834,
+   "arbitrage": 0.0,
+   "volume": 0.1606,
+   "news_volume": 0.9814
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9462,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "WA to sue Trump over national voting list, vote-by-mail restrictions - The Seattle Times",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 11063.798303000001,
+  "ends_in": "5g 4s 43d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6484,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904252+00:00"
+ },
+ {
+  "market_id": "0xa2c68eb1353353fd779edde5a44efa8a9ed66cc0e1a284ea7a00c2afe2e908e2",
+  "question": "Will SpaceX file for an IPO by April 3, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.912,
+  "confidence": 0.3555,
+  "composite_score": 0.375,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/spacex-files-ipo-by",
+  "volume": 68903.98879899998,
+  "ends_in": "4s 43d",
+  "end_date": "03 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9999,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904082+00:00"
+ },
+ {
+  "market_id": "0x4c8fec01a80375d7e9c0ea9b8e27161a1b446816b5770b9793494abffbf46c86",
+  "question": "Will annual inflation increase by 3.2% in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.3166,
+  "composite_score": 0.3518,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3939,
+   "arbitrage": 0.0,
+   "volume": 0.7126,
+   "news_volume": 0.3543
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9537,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Commercial Metals Dividend Increase Highlights Earnings Growth From Precast Acquisitions - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How to improve digital economy regulation through increased transparency - The World Economic Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "US Dollar Weekly Forecast: Can the Dollar rally continue as inflation risks return? - FXStreet",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/march-inflation-us-annual-higher-brackets",
+  "volume": 49104.082846999976,
+  "ends_in": "6g 4s 43d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9979,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904179+00:00"
+ },
+ {
+  "market_id": "0x30297ee710b75267804f12092bd862f114d65df47cdf6b9f12290137a684a83d",
+  "question": "Will \"Arirang - BTS\" be the Billboard 200 #1 album for the week of April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.745,
+  "confidence": 0.318,
+  "composite_score": 0.3333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1663,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-200-1-album-week-of-april-11",
+  "volume": 11457.631109999995,
+  "ends_in": "2g 4s 43d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904219+00:00"
+ },
+ {
+  "market_id": "0x415864896fbbe9473e89d6639c2e87764022f04627d2e6e049c95641075162a0",
+  "question": "Will Ludvig Aberg win the 2026 Valero Texas Open?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8625,
+  "confidence": 0.2986,
+  "composite_score": 0.3318,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1369,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/2026-valero-texas-open-winner",
+  "volume": 9432.152449999998,
+  "ends_in": "1g 4s 43d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5774,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904127+00:00"
+ },
+ {
+  "market_id": "0xcc07014ed990d154a1db2ac104dd146484ebe51760b60b90b03cfe982e30011e",
+  "question": "Will \"Choosin' Texas - Ella Langley\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.78,
+  "confidence": 0.3346,
+  "composite_score": 0.3318,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1355,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
+  "volume": 9333.346566999997,
+  "ends_in": "2g 4s 43d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5728,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904199+00:00"
+ },
+ {
+  "market_id": "0xb1d1eff01be6af6623d3f73037029d832b7fb50a1f7bd67dfacf20c7bb9bae00",
+  "question": "Will \"Bully - Kanye West\" be the Billboard 200 #1 album for the week of April 11?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.3157,
+  "composite_score": 0.3308,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1153,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-200-1-album-week-of-april-11",
+  "volume": 7943.268257,
+  "ends_in": "2g 4s 43d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.504,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904230+00:00"
+ },
+ {
+  "market_id": "0x8e373adcc5165260dea3db0efd8e193c62821a7c2484fd722e0d80cc5e2304d9",
+  "question": "Will a dozen eggs cost between $2.50–2.75 in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.77,
+  "confidence": 0.2972,
+  "composite_score": 0.3302,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1038,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/price-of-dozen-eggs-in-march-741",
+  "volume": 7148.886013999998,
+  "ends_in": "6g 4s 43d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4615,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904209+00:00"
+ },
+ {
+  "market_id": "0x0a5a515b72b659b4b799e732445b1aa2e7e65b052746d4cd160b634a035aaee7",
+  "question": "Will \"SWIM - BTS\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8215,
+  "confidence": 0.2964,
+  "composite_score": 0.3293,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0869,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-april-11",
+  "volume": 5986.3556579999995,
+  "ends_in": "2g 4s 43d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3952,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904188+00:00"
+ },
+ {
+  "market_id": "0xeb29028426b0733aad8e71f54e47e56b597d95607eb22b84311c00f113a1a95e",
+  "question": "Will 'BULLY' - Ye debut week album sales be less than 150k?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.85,
+  "confidence": 0.3137,
+  "composite_score": 0.3285,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.3696,
+   "news_volume": 0.037
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9509,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "What to Expect in Markets This Week: GameStop Earnings, Consumer Sentiment, Import Price Index, Jobless Claims - Investopedia",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/kanye-west-bully-first-week-album-sales-lower-strikes",
+  "volume": 25464.301873999975,
+  "ends_in": "4s 43d",
+  "end_date": "04 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9445,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904153+00:00"
+ },
+ {
+  "market_id": "0x298c1f792047c48c2f0eec27db700357599b31075d0c1917f4c611425d58c971",
+  "question": "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.73,
+  "confidence": 0.2885,
+  "composite_score": 0.3005,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3264,
+   "arbitrage": 0.0,
+   "volume": 0.16,
+   "news_volume": 0.2186
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.957,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "New CNN poll shows Democrats up big heading into midterm election season. Can Republicans claw back to avoid a blue wave? - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "This Week in Review | Q1 Recap, Earnings Guidance, Elections - Fisher Investments",
+    "score": 0.4621
+   },
+   {
+    "title": "Citi lowers Bitcoin, Ethereum targets amid slow legislative progress - Investing.com",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 11025.450757000004,
+  "ends_in": "5g 4s 43d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6468,
+  "checked": false,
+  "timestamp": "2026-04-03T19:16:30.904241+00:00"
+ }
+]

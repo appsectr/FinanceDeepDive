@@ -437,7 +437,114 @@
       "insights_count": 0,
       "first_seen": "2026-03-31T17:36:04.335085+00:00",
       "url": "http://arxiv.org/abs/2602.19538v1"
+    },
+    "2604.01298v1": {
+      "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
+      "abstract": "Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events from noisy and unstructured inputs - a setting where general-purpose models struggle without task-specific adaptation. We introduce an end-to-end framework that trains LLMs to produce calibrated probabilistic forecasts using realized disruption outcomes as supervision. The resulting model substantially outperforms strong baselines - including GPT-5 - on accuracy, calibration, and precision. We also show that training induces more structured and reliable probabilistic reasoning without explicit prompting. These results suggest a general pathway for training domain-specific forecasting models that produce decision-ready signals. To support transparency we open-source the evaluation dataset used in this study. Dataset: https://huggingface.co/datasets/LightningRodLabs/supply-chain-predictions",
+      "authors": [
+        "Benjamin Turtel",
+        "Paul Wilczewski",
+        "Kris Skotheim"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-04-01T18:04:34Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-03T19:16:15.334819+00:00",
+      "url": "http://arxiv.org/abs/2604.01298v1"
+    },
+    "2511.12749v2": {
+      "title": "Taxonomy-Conditioned Hierarchical Bayesian TSB Models for Heterogeneous Intermittent Demand Forecasting",
+      "abstract": "Intermittent demand forecasting poses unique challenges due to sparse observations, cold-start items, and obsolescence. Classical models such as Croston, SBA, and the Teunter--Syntetos--Babai (TSB) method provide simple heuristics but lack a principled generative foundation. We introduce TSB-HB, a hierarchical Bayesian extension of TSB. Demand occurrence is modeled with a Beta--Binomial distribution, while nonzero demand sizes follow a Log-Normal distribution. Crucially, hierarchical priors enable partial pooling across items, stabilizing estimates for sparse or cold-start series while preserving heterogeneity. This framework provides a coherent generative reinterpretation of the classical TSB structure. On the UCI Online Retail dataset, TSB-HB achieves the lowest RMSE and RMSSE among all baselines, while remaining competitive in MAE. On a 5,000-series M5 sample, it improves MAE and RMSE over classical intermittent baselines. Under the calibrated probabilistic configuration, TSB-HB yields competitive pinball loss and a favorable sharpness--calibration tradeoff among the parametric baselines reported in the main text.",
+      "authors": [
+        "Zong-Han Bai",
+        "Po-Yen Chu"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ],
+      "published": "2025-11-16T19:24:33Z",
+      "relevance_score": 0.625,
+      "insights_count": 0,
+      "first_seen": "2026-04-03T19:16:15.334967+00:00",
+      "url": "http://arxiv.org/abs/2511.12749v2"
+    },
+    "2506.23053v2": {
+      "title": "Double-Diffusion: ODE-Prior Accelerated Diffusion Models for Spatio-Temporal Graph Forecasting",
+      "abstract": "Forecasting over graph-structured sensor networks demands models that capture both deterministic spatial trends and stochastic variability, while remaining efficient enough for repeated inference as new observations arrive. We propose Double-Diffusion, a denoising diffusion probabilistic model that integrates a parameter-free graph diffusion Ordinary Differential Equation (ODE) forecast as a structural prior throughout the generative process. Unlike standard diffusion approaches that generate predictions from pure noise, Double-Diffusion uses the ODE prediction as both (1) a residual learning target in the forward process via the Resfusion framework, and (2) an explicit conditioning input for the reverse denoiser, shifting the generation task from full synthesis to guided refinement. This dual integration enables accelerated sampling by initializing from an intermediate diffusion step where the ODE prior is already close to the target distribution. We further introduce the Factored Spectral Denoiser (FSD), which adopts the divided attention principle to decompose spatio-temporal-channel modeling into three efficient axes: temporal self-attention, cross-channel attention, and spectral graph convolution via the Graph Fourier Transform. Extensive experiments on four real-world sensor-network datasets spanning two domains: urban air quality (Beijing, Athens) and traffic flow (PEMS08, PEMS04, demonstrate that Double-Diffusion achieves the best probabilistic calibration (CRPS) acro",
+      "authors": [
+        "Hanlin Dong",
+        "Arian Prabowo",
+        "Hao Xue",
+        "Ao Shuang",
+        "Tianyi Zhou"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2025-06-29T01:45:47Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-04-03T19:16:15.335138+00:00",
+      "url": "http://arxiv.org/abs/2506.23053v2"
+    },
+    "2602.19233v2": {
+      "title": "On Using Medium-Range Ensemble Forecasts for Storm Transposition of Synoptic-Scale Systems in Probable Maximum Precipitation Estimation",
+      "abstract": "Most methods for estimating probable maximum precipitation (PMP) -- the greatest depth of precipitation that is physically possible over a given area and duration -- rely on storm transposition (ST), the process of transporting a storm, either historically observed or simulated, from its original location to a target basin. Existing ST approaches, whether classical or physically based, involve assumptions and manipulations that can introduce inconsistencies, leaving the physical validity of the transposed storm uncertain. In this study, the internal variability leveraging (IVL) approach is used to transpose an atmospheric river cluster that affected the U.S. West Coast during 20-29 October 2021. Steering the storm toward the target basin and determining its transposition region are achieved by considering an ensemble of plausible storm evolutions and trajectories obtained from archived ECMWF medium-range forecasts. The Willamette River and Nass River watersheds, located approximately 6 deg N, 2 deg W and 16 deg N, 8 deg W, respectively, from the area most affected by the observed precipitation, were selected as target basins. For each basin, the IVL realization yielding the largest 24-h basin-average precipitation depth was identified, and the initial and boundary condition shifting method was subsequently applied to further enhance its impact, producing 24-h precipitation depths of 119 mm for the Willamette and 98 mm for the Nass.",
+      "authors": [
+        "Mathieu Mure-Ravaud"
+      ],
+      "categories": [
+        "physics.ao-ph"
+      ],
+      "published": "2026-02-22T15:24:00Z",
+      "relevance_score": 0.208,
+      "insights_count": 1,
+      "first_seen": "2026-04-03T19:16:16.643990+00:00",
+      "url": "http://arxiv.org/abs/2602.19233v2"
+    },
+    "2603.21291v2": {
+      "title": "Closed-form conditional diffusion models for data assimilation",
+      "abstract": "We propose closed-form conditional diffusion models for data assimilation. Diffusion models use data to learn the score function (defined as the gradient of the log-probability density of a data distribution), allowing them to generate new samples from the data distribution by reversing a noise injection process. While it is common to train neural networks to approximate the score function, we leverage the analytical tractability of the score function to assimilate the states of a system with measurements. To enable the efficient evaluation of the score function, we use kernel density estimation to model the joint distribution of the states and their corresponding measurements. The proposed approach also inherits the capability of conditional diffusion models of operating in black-box settings, i.e., the proposed data assimilation approach can accommodate systems and measurement processes without their explicit knowledge. The ability to accommodate black-box systems combined with the superior capabilities of diffusion models in approximating complex, non-Gaussian probability distributions means that the proposed approach offers advantages over many widely used filtering methods. We evaluate the proposed method on nonlinear data assimilation problems based on the Lorenz-63 and Lorenz-96 systems of moderate dimensionality and nonlinear measurement models. Results show the proposed approach outperforms the widely used ensemble Kalman and particle filters when small to moderate e",
+      "authors": [
+        "Brianna Binder",
+        "Agnimitra Dasgupta",
+        "Assad Oberai"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "physics.comp-ph"
+      ],
+      "published": "2026-03-22T15:25:23Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-03T19:16:16.644163+00:00",
+      "url": "http://arxiv.org/abs/2603.21291v2"
+    },
+    "2509.11452v2": {
+      "title": "Learning to Optimize Multi-Objective Alignment Through Dynamic Reward Weighting",
+      "abstract": "Prior work in multi-objective reinforcement learning typically uses linear reward scalarization with fixed weights, which provably fails to capture non-convex Pareto fronts and thus yields suboptimal results. This limitation becomes especially critical in online preference alignment for large language models. Here, stochastic trajectories generated by parameterized policies create highly non-linear and non-convex mappings from parameters to objectives that no single static weighting scheme can find optimal trade-offs. We address this limitation by introducing dynamic reward weighting, which adaptively adjusts reward weights during the online reinforcement learning process. Unlike existing approaches that rely on fixed-weight interpolation, our dynamic weighting continuously balances and prioritizes objectives in training, facilitating effective exploration of Pareto fronts in objective space. We introduce two approaches of increasing sophistication and generalizability: hypervolume-guided weight adaptation and gradient-based weight optimization, offering a versatile toolkit for online multi-objective alignment. Our extensive experiments demonstrate their compatibility with commonly used online reinforcement learning algorithms, effectiveness across multiple datasets, and applicability to different model families, consistently achieving Pareto dominant solutions with fewer training steps than fixed-weight linear scalarization baselines.",
+      "authors": [
+        "Yining Lu",
+        "Zilong Wang",
+        "Shiyang Li",
+        "Xin Liu",
+        "Changlong Yu"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "published": "2025-09-14T21:56:35Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-03T19:16:16.911324+00:00",
+      "url": "http://arxiv.org/abs/2509.11452v2"
     }
   },
-  "last_check": "2026-04-02T19:24:11.042288+00:00"
+  "last_check": "2026-04-03T19:16:16.911621+00:00"
 }

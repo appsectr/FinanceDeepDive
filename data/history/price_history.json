@@ -262,6 +262,12 @@
     "yes": 21.0,
     "no": 79.0,
     "volume": 15346.887813000005
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 84.75,
+    "no": 15.25,
+    "volume": 21183.386508000007
    }
   ]
  },
@@ -562,6 +568,12 @@
     "yes": 81.5,
     "no": 18.5,
     "volume": 9097.791826999997
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 78.0,
+    "no": 22.0,
+    "volume": 9333.346566999997
    }
   ]
  },
@@ -584,6 +596,12 @@
     "yes": 25.0,
     "no": 75.0,
     "volume": 19282.662523999996
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 91.2,
+    "no": 8.8,
+    "volume": 68903.98879899998
    }
   ]
  },
@@ -639,6 +657,12 @@
     "yes": 82.0,
     "no": 18.0,
     "volume": 6356.963099
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 15.0,
+    "no": 85.0,
+    "volume": 25464.301873999975
    }
   ]
  },
@@ -782,6 +806,12 @@
     "yes": 86.0,
     "no": 14.0,
     "volume": 6877.4375759999975
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 74.5,
+    "no": 25.5,
+    "volume": 11457.631109999995
    }
   ]
  },
@@ -793,6 +823,12 @@
     "yes": 14.5,
     "no": 85.5,
     "volume": 5003.197615000001
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 25.5,
+    "no": 74.5,
+    "volume": 7943.268257
    }
   ]
  },
@@ -826,6 +862,12 @@
     "yes": 26.0,
     "no": 74.0,
     "volume": 10462.835393000003
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 27.0,
+    "no": 73.0,
+    "volume": 11025.450757000004
    }
   ]
  },
@@ -837,6 +879,12 @@
     "yes": 72.5,
     "no": 27.5,
     "volume": 10288.243411
+   },
+   {
+    "date": "2026-04-03",
+    "yes": 72.5,
+    "no": 27.5,
+    "volume": 11063.798303000001
    }
   ]
  },
@@ -848,6 +896,72 @@
     "yes": 29.0,
     "no": 71.0,
     "volume": 5794.999646
+   }
+  ]
+ },
+ "0xb0ff494be3fb82cba548af9352efa8ea365ab987662ab419aff68cff7fd5c1d6": {
+  "question": "Russia military action against Kyiv municipality by April 3?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 10.0,
+    "no": 90.0,
+    "volume": 15993.876019000012
+   }
+  ]
+ },
+ "0x415864896fbbe9473e89d6639c2e87764022f04627d2e6e049c95641075162a0": {
+  "question": "Will Ludvig Aberg win the 2026 Valero Texas Open?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 13.75,
+    "no": 86.25,
+    "volume": 9432.152449999998
+   }
+  ]
+ },
+ "0x3073420646809aba094329d79448a5320ab0a8a8c687b5697677d81d09a8dfe9": {
+  "question": "Will global temperature increase by between 1.20ºC and 1.24ºC in March 2026?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 40274.23999100001
+   }
+  ]
+ },
+ "0x4c8fec01a80375d7e9c0ea9b8e27161a1b446816b5770b9793494abffbf46c86": {
+  "question": "Will annual inflation increase by 3.2% in March?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 49104.082846999976
+   }
+  ]
+ },
+ "0x0a5a515b72b659b4b799e732445b1aa2e7e65b052746d4cd160b634a035aaee7": {
+  "question": "Will \"SWIM - BTS\" be the Billboard Hot 100 #1 song for the week of April 11?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 17.85,
+    "no": 82.15,
+    "volume": 5986.3556579999995
+   }
+  ]
+ },
+ "0x8e373adcc5165260dea3db0efd8e193c62821a7c2484fd722e0d80cc5e2304d9": {
+  "question": "Will a dozen eggs cost between $2.50–2.75 in March?",
+  "prices": [
+   {
+    "date": "2026-04-03",
+    "yes": 23.0,
+    "no": 77.0,
+    "volume": 7148.886013999998
    }
   ]
  }
