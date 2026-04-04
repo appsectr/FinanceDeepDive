@@ -1,0 +1,271 @@
+[
+ {
+  "market_id": "0x3073420646809aba094329d79448a5320ab0a8a8c687b5697677d81d09a8dfe9",
+  "question": "Will global temperature increase by between 1.20ºC and 1.24ºC in March 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.895,
+  "confidence": 0.4334,
+  "composite_score": 0.4615,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6535,
+   "arbitrage": 0.0,
+   "volume": 0.9649,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9222,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "UK government unveils AI regulation blueprint to spur innovation across the economy - globalgovernmentforum.com",
+    "score": 0.7616
+   },
+   {
+    "title": "How to improve digital economy regulation through increased transparency - The World Economic Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/march-2026-temperature-increase-c",
+  "volume": 48679.72109800002,
+  "ends_in": "5g 4s 47d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9911,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004368+00:00"
+ },
+ {
+  "market_id": "0x4c8fec01a80375d7e9c0ea9b8e27161a1b446816b5770b9793494abffbf46c86",
+  "question": "Will annual inflation increase by 3.2% in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3704,
+  "composite_score": 0.3915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4762,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.4493
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.947,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "How to improve digital economy regulation through increased transparency - The World Economic Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "Morgan Lewis Hires Trade Sanctions Partner as Demand for Work Increases Alongside Tariff Tensions - Law.com",
+    "score": -0.7616
+   },
+   {
+    "title": "US Dollar Weekly Forecast: Can the Dollar rally continue as inflation risks return? - FXStreet",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/march-inflation-us-annual-higher-brackets",
+  "volume": 50448.743364999966,
+  "ends_in": "5g 4s 47d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9927,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004412+00:00"
+ },
+ {
+  "market_id": "0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387",
+  "question": "Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.725,
+  "confidence": 0.3678,
+  "composite_score": 0.3787,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4586,
+   "arbitrage": 0.0,
+   "volume": 0.2853,
+   "news_volume": 0.9961
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9487,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump endorsed this MAGA congressman's twin. Will he make history? - USA Today",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 14394.987829,
+  "ends_in": "4g 4s 47d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004447+00:00"
+ },
+ {
+  "market_id": "0x415864896fbbe9473e89d6639c2e87764022f04627d2e6e049c95641075162a0",
+  "question": "Will Ludvig Aberg win the 2026 Valero Texas Open?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.72,
+  "confidence": 0.3248,
+  "composite_score": 0.3409,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.3176,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/2026-valero-texas-open-winner",
+  "volume": 16021.76799,
+  "ends_in": "4s 47d",
+  "end_date": "05 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7116,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004457+00:00"
+ },
+ {
+  "market_id": "0x298c1f792047c48c2f0eec27db700357599b31075d0c1917f4c611425d58c971",
+  "question": "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.3267,
+  "composite_score": 0.333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.379,
+   "arbitrage": 0.0,
+   "volume": 0.2732,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9546,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Six Senate Races to Watch as Democrats Grow Bullish Ahead of Midterm Elections - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "Hoosiers identifying as Christian nationalists increasing ahead of primary election - thestatehousefile.com",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 13781.725476000001,
+  "ends_in": "4g 4s 47d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6445,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004436+00:00"
+ },
+ {
+  "market_id": "0x8e373adcc5165260dea3db0efd8e193c62821a7c2484fd722e0d80cc5e2304d9",
+  "question": "Will a dozen eggs cost between $2.50–2.75 in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.815,
+  "confidence": 0.3171,
+  "composite_score": 0.3323,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1454,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/price-of-dozen-eggs-in-march-741",
+  "volume": 7337.283776999999,
+  "ends_in": "5g 4s 47d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3866,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004424+00:00"
+ },
+ {
+  "market_id": "0x72250b5c2453975ea27e5e7ccea2a84aa10b5242c2df0ad2e0fc65ef1ef2a514",
+  "question": "MicroStrategy announces >1000 BTC purchase March 31-April 6?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8845000000000001,
+  "confidence": 0.2805,
+  "composite_score": 0.2917,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2518,
+   "arbitrage": 0.0,
+   "volume": 0.2641,
+   "news_volume": 0.3118
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Pentagon Announces Seventh U.S. Death in War With Iran - The New York Times",
+    "score": -0.7616
+   },
+   {
+    "title": "Earnings live: Adobe stock sinks after CEO announces departure, Ulta stock plunges - Yahoo Finance",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners? - Al Jazeera",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/microstrategy-announces-1000-btc-purchase-march-31-april-6",
+  "volume": 13322.322854,
+  "ends_in": "2g 8s 47d",
+  "end_date": "07 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6294,
+  "checked": false,
+  "timestamp": "2026-04-04T19:12:35.004396+00:00"
+ }
+]
