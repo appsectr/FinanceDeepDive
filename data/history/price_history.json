@@ -880,6 +880,12 @@
     "yes": 26.5,
     "no": 73.5,
     "volume": 13781.725476000001
+   },
+   {
+    "date": "2026-04-05",
+    "yes": 26.0,
+    "no": 74.0,
+    "volume": 15748.054277000007
    }
   ]
  },
@@ -903,6 +909,12 @@
     "yes": 72.5,
     "no": 27.5,
     "volume": 14394.987829
+   },
+   {
+    "date": "2026-04-05",
+    "yes": 74.0,
+    "no": 26.0,
+    "volume": 16619.323131
    }
   ]
  },
@@ -976,6 +988,12 @@
     "yes": 14.5,
     "no": 85.5,
     "volume": 50448.743364999966
+   },
+   {
+    "date": "2026-04-05",
+    "yes": 13.0,
+    "no": 87.0,
+    "volume": 50786.10658199997
    }
   ]
  },
@@ -1004,6 +1022,485 @@
     "yes": 18.5,
     "no": 81.5,
     "volume": 7337.283776999999
+   },
+   {
+    "date": "2026-04-05",
+    "yes": 17.5,
+    "no": 82.5,
+    "volume": 8145.023657999999
+   }
+  ]
+ },
+ "0x8a6477b06fc6554ae4e4309345468140b7e18ca04e4d635068845179485fca32": {
+  "question": "Will Fidesz-KDNP win 115-129 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 8.3,
+    "no": 91.7,
+    "volume": 300433.5780119999
+   }
+  ]
+ },
+ "0x67ca01f75ad56b885aedae60d2a28c4569a69cf4e5814c356a95be28fb47678d": {
+  "question": "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 20623.817436999983
+   }
+  ]
+ },
+ "0x31f5380ecd1201be8724b01223acd97f49a3d19e68e1db78ed37042702a8f078": {
+  "question": "Will MrBeast's next video get between 53 and 56 million views on day 2?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 9.0,
+    "no": 91.0,
+    "volume": 9063.586897
+   }
+  ]
+ },
+ "0xe0cd1311e134e6efc4cfa1d4ae29129f2e24e5f2471c3f4dbeb3c57cccfb9d59": {
+  "question": "Will Roberto Sánchez Palomino finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 9.75,
+    "no": 90.25,
+    "volume": 17348.932388999998
+   }
+  ]
+ },
+ "0xded975d4fedbcccbaa9c9e4708bc174824b4ff4271ae800c800bcf200b22d12f": {
+  "question": "Will MrBeast's next video get between 44 and 47 million views on day 2?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 10.0,
+    "no": 90.0,
+    "volume": 5914.866354000002
+   }
+  ]
+ },
+ "0x0d1ed5cdd7aabd05268b337833c5f78c310abef413be3c32a8d6fcf45ecdbb86": {
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 3-6%?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 10.5,
+    "no": 89.5,
+    "volume": 54103.00621099997
+   }
+  ]
+ },
+ "0x2ee3d2f002266cec11a2858032a392a10357e94a8e25cc733d2d02a6cdc995a0": {
+  "question": "Will TISZA win <42% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 10.5,
+    "no": 89.5,
+    "volume": 6868.008742
+   }
+  ]
+ },
+ "0x827f934c395476c3c0bb080640ea34c6f5fb69f0567d2d96c1547fb16226c7db": {
+  "question": "Will TISZA win 42-46% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 10.5,
+    "no": 89.5,
+    "volume": 5244.995151
+   }
+  ]
+ },
+ "0x2308c9babd7aad52ea9b22c570d3a728f74630435d6653e2e7cfd79712c35677": {
+  "question": "Will Fidesz-KDNP win the national list vote in the 2026 Hungarian Parliamentary election by 0-3%?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 11.0,
+    "no": 89.0,
+    "volume": 73825.05494700001
+   }
+  ]
+ },
+ "0x4bb97d5995fd6e774deb800f347f07d5b448a09a49998917a62c1d1295581b24": {
+  "question": "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 12.0,
+    "no": 88.0,
+    "volume": 19284.917367000002
+   }
+  ]
+ },
+ "0x9c5cc21a1553f5a750d607063c963851d684205d020a44a498b401582dd4430d": {
+  "question": "Will Carlos Álvarez finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 13.95,
+    "no": 86.05,
+    "volume": 8908.775525999998
+   }
+  ]
+ },
+ "0xed647287b04a0f8f755f22dcba850b998896c43f98c322b7dac92928617f05cd": {
+  "question": "Will Tisza win 110–119 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 14697.170096
+   }
+  ]
+ },
+ "0x40ba14f564299cf961b9ed3775f5fed4a64dc3e25b9a4e2b5994844960aa0fec": {
+  "question": "Will voter turnout be 77–80% in the 2026 Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 11828.991136000002
+   }
+  ]
+ },
+ "0x7f1813724d4e7a7e0fcf83187fc23a1f68887f317d2d0cc6eeb1566d5ef658d9": {
+  "question": "Will Rafael López Aliaga and Keiko Fujimori advance to the runoff?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 28197.309960999977
+   }
+  ]
+ },
+ "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951": {
+  "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 14.2,
+    "no": 85.8,
+    "volume": 498942.19400900014
+   }
+  ]
+ },
+ "0x7acc9d4b61238509b78c191b27f3292a2079291c839e8640e6586099e9f54ca7": {
+  "question": "Will Fidesz-KDNP win 85-99 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 15.0,
+    "no": 85.0,
+    "volume": 13330.222072000002
+   }
+  ]
+ },
+ "0xef6bd8e629dd6f51b02c9c57adc5c6e4251c8d427109eff08bebcdd3462e923b": {
+  "question": "Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Chamber of Deputies election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 16.25,
+    "no": 83.75,
+    "volume": 7385.892665
+   }
+  ]
+ },
+ "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96": {
+  "question": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 891699.1745650009
+   }
+  ]
+ },
+ "0x2ed2dc9dd07c9aa7d0c26657d440dda2aba2804d800b5f261aff965f5ac4a862": {
+  "question": "Will Fidesz-KDNP win 100-114 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 14089.816451000004
+   }
+  ]
+ },
+ "0x83a55156056596a6cd6f9e06a854c3e1908a2e1dbd8c16057fc099477e9d3b31": {
+  "question": "Will Tisza win at least 90 seats?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 83.5,
+    "no": 16.5,
+    "volume": 16009.376097000002
+   }
+  ]
+ },
+ "0xcfadf718784df562c5a3b5022fd37586b960b4b76a0789df74eb9b3bf653817c": {
+  "question": "Will voter turnout be 68–71% in the 2026 Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 17.0,
+    "no": 83.0,
+    "volume": 62142.17545799999
+   }
+  ]
+ },
+ "0x33f542bf6dcc1ee06d01baf47df5dc5ccc9b0d7949a5c0e12173beceb9c15d9b": {
+  "question": "Will Fidesz-KDNP win <36% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 17.0,
+    "no": 83.0,
+    "volume": 6463.179250000001
+   }
+  ]
+ },
+ "0x0d896c47968d9e437057fc62f874f4d527abd43e91c2e5950cfead58d9c23ff6": {
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 18.5,
+    "no": 81.5,
+    "volume": 37466.947951
+   }
+  ]
+ },
+ "0x49131d36d313837145649d4cd7dcebbda31324435586cf8f102ed753a699c02f": {
+  "question": "Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 20.0,
+    "no": 80.0,
+    "volume": 157529.6441519999
+   }
+  ]
+ },
+ "0xf493d343a2588ec38173edee124b25a9a891b8149080564fa25c2b50cf126bde": {
+  "question": "Will Fidesz-KDNP win at least 110 seats?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 20.5,
+    "no": 79.5,
+    "volume": 14579.264681
+   }
+  ]
+ },
+ "0xcb9cf7bbd8a94c3faa3a78108fbec9cda874b021c655d243054e8f3ebfe477be": {
+  "question": "Will Our Homeland Movement (Mi Hazánk) win at least one seat in the next Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 79.5,
+    "no": 20.5,
+    "volume": 70965.400107
+   }
+  ]
+ },
+ "0xce4b3c1a4c41e1576598ca465ca327f60240e4033524836e5adfa7ef4f4036e9": {
+  "question": "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 79.0,
+    "no": 21.0,
+    "volume": 148810.723182
+   }
+  ]
+ },
+ "0x756a30c26d295fadcdcbd8914f439dc03ac45dda20d39921277b712fc73f35d7": {
+  "question": "Will a different combination of candidates advance to the runoff?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 78.85,
+    "no": 21.15,
+    "volume": 26578.579119
+   }
+  ]
+ },
+ "0x829f02bf4995077e03e29c58f20555808061862b8c5a53befe757b84ac10ad93": {
+  "question": "Will TISZA win 54%+ of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 21.5,
+    "no": 78.5,
+    "volume": 17148.053917
+   }
+  ]
+ },
+ "0xe8abe0a4c0a6e69d5bded5cf336a9db47edc6b67bcc00f97339c001530105cc7": {
+  "question": "Will Fidesz-KDNP win 36-40% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 22.5,
+    "no": 77.5,
+    "volume": 13726.238933
+   }
+  ]
+ },
+ "0x01510d4f36a4055795345072479f71f432533d2c2bf2f3265eaa142d34306914": {
+  "question": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 23.5,
+    "no": 76.5,
+    "volume": 8646.198237000006
+   }
+  ]
+ },
+ "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a": {
+  "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 351696.71133700036
+   }
+  ]
+ },
+ "0x5462ac83b5eb0b7d8aeb8d4ce99c05a49cc92dd24a667d60eb911ff96cccfc8a": {
+  "question": "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 10369.657902999996
+   }
+  ]
+ },
+ "0x02230382929c06eecab424465c7dbaa9b16e5d963270dba27cc0cd6183561e82": {
+  "question": "Hungary Election: TISZA wins a constitutional majority?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 8219.750144999998
+   }
+  ]
+ },
+ "0xe8f8bc52bb22ad4c03e8bfc045a5dad8081df2ed58d8e8411b29b82d1797bccf": {
+  "question": "Will Rafael López Aliaga finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 25.5,
+    "no": 74.5,
+    "volume": 9254.581322000002
+   }
+  ]
+ },
+ "0x216da290ea27fad4c1f50ea01793611c547bbfaf388dac82d1f4e645ca3b6ea7": {
+  "question": "Will Fidesz-KDNP win 44-48% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 26.5,
+    "no": 73.5,
+    "volume": 8191.743430000003
+   }
+  ]
+ },
+ "0x2c9f34a7ca3d42d22d80c8376e15561d7e576887df246d2bcce3a774dfb26a83": {
+  "question": "Will Tisza win 130+ seats in the Hungarian National Assembly in this election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 27.0,
+    "no": 73.0,
+    "volume": 64404.37232599999
+   }
+  ]
+ },
+ "0x05b3c4a8779f467c490d05894d66634e7ed0bc982eed4463ca90fd1f59b78d1f": {
+  "question": "Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Senate election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 28.05,
+    "no": 71.95,
+    "volume": 8070.867221000002
+   }
+  ]
+ },
+ "0x9b14ba5cc37a35c0db2c9849e631d98195670be4a0f91233a81529f22a7a5949": {
+  "question": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 28.25,
+    "no": 71.75,
+    "volume": 284655.9225260002
+   }
+  ]
+ },
+ "0xce73e7ebf919c4f1e188d8004b756d538195642444df5837817103832d14ab62": {
+  "question": "Will Keiko Fujimori finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 29.0,
+    "no": 71.0,
+    "volume": 7048.348268999999
+   }
+  ]
+ },
+ "0x8d172daa7b6ea792c45b00c43c1fbe97a4526c1db3f89f1eb8251261f9e9498f": {
+  "question": "Will voter turnout be 74–77% in the 2026 Hungarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 29.5,
+    "no": 70.5,
+    "volume": 8027.050845999999
+   }
+  ]
+ },
+ "0x1987acaadb70417227fdf1aa56697fc04a157c9562146124dd1394d6dabf201e": {
+  "question": "Will a dozen eggs cost between $2.25–2.50 in March?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 70.0,
+    "no": 30.0,
+    "volume": 11459.333401
+   }
+  ]
+ },
+ "0x0e47ad377273a39833506ca16c597c7eccdee686375b30f1910f3ef3ff734f4e": {
+  "question": "Will Tisza win at least 130 seats?",
+  "prices": [
+   {
+    "date": "2026-04-05",
+    "yes": 30.0,
+    "no": 70.0,
+    "volume": 47792.263891
    }
   ]
  }

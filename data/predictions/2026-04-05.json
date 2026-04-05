@@ -1,0 +1,1914 @@
+[
+ {
+  "market_id": "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96",
+  "question": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.379,
+  "composite_score": 0.4211,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 891699.1745650009,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531370+00:00"
+ },
+ {
+  "market_id": "0x8a6477b06fc6554ae4e4309345468140b7e18ca04e4d635068845179485fca32",
+  "question": "Will Fidesz-KDNP win 115-129 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.917,
+  "confidence": 0.3721,
+  "composite_score": 0.4134,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.3369,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 300433.5780119999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531121+00:00"
+ },
+ {
+  "market_id": "0x756a30c26d295fadcdcbd8914f439dc03ac45dda20d39921277b712fc73f35d7",
+  "question": "Will a different combination of candidates advance to the runoff?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.7885,
+  "confidence": 0.3708,
+  "composite_score": 0.412,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7597,
+   "arbitrage": 0.0,
+   "volume": 0.0298,
+   "news_volume": 0.4113
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9006,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, Jan. 30: Apple Advances After Strong Earnings as Focus Turns to Supply and AI - Yahoo Finance",
+    "score": 0.9051
+   },
+   {
+    "title": "Stock Market Today, March 17: Micron Advances Ahead of Earnings as Tight HBM Supply Lifts AI Memory Outlook - The Motley Fool",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/which-candidates-advance-to-2026-peru-presidential-runoff",
+  "volume": 26578.579119,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8741,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531488+00:00"
+ },
+ {
+  "market_id": "0xe8f8bc52bb22ad4c03e8bfc045a5dad8081df2ed58d8e8411b29b82d1797bccf",
+  "question": "Will Rafael López Aliaga finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.368,
+  "composite_score": 0.4089,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.678,
+   "arbitrage": 0.0,
+   "volume": 0.0104,
+   "news_volume": 0.7772
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9176,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 9254.581322000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4383,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531561+00:00"
+ },
+ {
+  "market_id": "0xce73e7ebf919c4f1e188d8004b756d538195642444df5837817103832d14ab62",
+  "question": "Will Keiko Fujimori finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.71,
+  "confidence": 0.3678,
+  "composite_score": 0.4087,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.678,
+   "arbitrage": 0.0,
+   "volume": 0.0079,
+   "news_volume": 0.7772
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9176,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 7048.348268999999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3435,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531633+00:00"
+ },
+ {
+  "market_id": "0x49131d36d313837145649d4cd7dcebbda31324435586cf8f102ed753a699c02f",
+  "question": "Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8,
+  "confidence": 0.3649,
+  "composite_score": 0.4054,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.1767,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-winner",
+  "volume": 157529.6441519999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531444+00:00"
+ },
+ {
+  "market_id": "0x2308c9babd7aad52ea9b22c570d3a728f74630435d6653e2e7cfd79712c35677",
+  "question": "Will Fidesz-KDNP win the national list vote in the 2026 Hungarian Parliamentary election by 0-3%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.89,
+  "confidence": 0.3606,
+  "composite_score": 0.4007,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0828,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 73825.05494700001,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9989,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531259+00:00"
+ },
+ {
+  "market_id": "0x2c9f34a7ca3d42d22d80c8376e15561d7e576887df246d2bcce3a774dfb26a83",
+  "question": "Will Tisza win 130+ seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.73,
+  "confidence": 0.3602,
+  "composite_score": 0.4002,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0722,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 64404.37232599999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9971,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531602+00:00"
+ },
+ {
+  "market_id": "0x0d1ed5cdd7aabd05268b337833c5f78c310abef413be3c32a8d6fcf45ecdbb86",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 3-6%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.895,
+  "confidence": 0.3596,
+  "composite_score": 0.3996,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0607,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 54103.00621099997,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9918,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531227+00:00"
+ },
+ {
+  "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+  "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.858,
+  "confidence": 0.3591,
+  "composite_score": 0.399,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.5595,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 498942.19400900014,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531337+00:00"
+ },
+ {
+  "market_id": "0x0d896c47968d9e437057fc62f874f4d527abd43e91c2e5950cfead58d9c23ff6",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.815,
+  "confidence": 0.3588,
+  "composite_score": 0.3987,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.042,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 37466.947951,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9565,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531434+00:00"
+ },
+ {
+  "market_id": "0x67ca01f75ad56b885aedae60d2a28c4569a69cf4e5814c356a95be28fb47678d",
+  "question": "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.3579,
+  "composite_score": 0.3977,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0231,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 20623.817436999983,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7809,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531171+00:00"
+ },
+ {
+  "market_id": "0x829f02bf4995077e03e29c58f20555808061862b8c5a53befe757b84ac10ad93",
+  "question": "Will TISZA win 54%+ of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.785,
+  "confidence": 0.3578,
+  "composite_score": 0.3975,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0192,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 17148.053917,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7019,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531498+00:00"
+ },
+ {
+  "market_id": "0xed647287b04a0f8f755f22dcba850b998896c43f98c322b7dac92928617f05cd",
+  "question": "Will Tisza win 110–119 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.3577,
+  "composite_score": 0.3974,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0165,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 14697.170096,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6331,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531305+00:00"
+ },
+ {
+  "market_id": "0x2ed2dc9dd07c9aa7d0c26657d440dda2aba2804d800b5f261aff965f5ac4a862",
+  "question": "Will Fidesz-KDNP win 100-114 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.3577,
+  "composite_score": 0.3974,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0158,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 14089.816451000004,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6143,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531380+00:00"
+ },
+ {
+  "market_id": "0x7acc9d4b61238509b78c191b27f3292a2079291c839e8640e6586099e9f54ca7",
+  "question": "Will Fidesz-KDNP win 85-99 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.85,
+  "confidence": 0.3576,
+  "composite_score": 0.3973,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0149,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 13330.222072000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5897,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531348+00:00"
+ },
+ {
+  "market_id": "0xe8abe0a4c0a6e69d5bded5cf336a9db47edc6b67bcc00f97339c001530105cc7",
+  "question": "Will Fidesz-KDNP win 36-40% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.3576,
+  "composite_score": 0.3973,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0154,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 13726.238933,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6026,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531508+00:00"
+ },
+ {
+  "market_id": "0x5462ac83b5eb0b7d8aeb8d4ce99c05a49cc92dd24a667d60eb911ff96cccfc8a",
+  "question": "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.3575,
+  "composite_score": 0.3972,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0116,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 10369.657902999996,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4829,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531540+00:00"
+ },
+ {
+  "market_id": "0x01510d4f36a4055795345072479f71f432533d2c2bf2f3265eaa142d34306914",
+  "question": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.765,
+  "confidence": 0.3574,
+  "composite_score": 0.3971,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0097,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 8646.198237000006,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.413,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531518+00:00"
+ },
+ {
+  "market_id": "0x2ee3d2f002266cec11a2858032a392a10357e94a8e25cc733d2d02a6cdc995a0",
+  "question": "Will TISZA win <42% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.895,
+  "confidence": 0.3573,
+  "composite_score": 0.397,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0077,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 6868.008742,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3354,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531238+00:00"
+ },
+ {
+  "market_id": "0x216da290ea27fad4c1f50ea01793611c547bbfaf388dac82d1f4e645ca3b6ea7",
+  "question": "Will Fidesz-KDNP win 44-48% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.3573,
+  "composite_score": 0.397,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0092,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 8191.743430000003,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3937,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531593+00:00"
+ },
+ {
+  "market_id": "0x827f934c395476c3c0bb080640ea34c6f5fb69f0567d2d96c1547fb16226c7db",
+  "question": "Will TISZA win 42-46% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.895,
+  "confidence": 0.3572,
+  "composite_score": 0.3969,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0059,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 5244.995151,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2603,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531248+00:00"
+ },
+ {
+  "market_id": "0x33f542bf6dcc1ee06d01baf47df5dc5ccc9b0d7949a5c0e12173beceb9c15d9b",
+  "question": "Will Fidesz-KDNP win <36% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.83,
+  "confidence": 0.3572,
+  "composite_score": 0.3969,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5884,
+   "arbitrage": 0.0,
+   "volume": 0.0072,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9329,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 6463.179250000001,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.317,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531413+00:00"
+ },
+ {
+  "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+  "question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.3517,
+  "composite_score": 0.3908,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.3944,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 351696.71133700036,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531530+00:00"
+ },
+ {
+  "market_id": "0x31f5380ecd1201be8724b01223acd97f49a3d19e68e1db78ed37042702a8f078",
+  "question": "Will MrBeast's next video get between 53 and 56 million views on day 2?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.91,
+  "confidence": 0.3491,
+  "composite_score": 0.3879,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6861,
+   "arbitrage": 0.0,
+   "volume": 0.0102,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9161,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence",
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation - WSJ",
+    "score": -0.4621
+   },
+   {
+    "title": "Welcome to the MrBeastification of British politics: the latest trick up Nigel Farage's sleeve | Kirsty Major - The Guardian",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-993",
+  "volume": 9063.586897,
+  "ends_in": "4s 45d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4304,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531189+00:00"
+ },
+ {
+  "market_id": "0xded975d4fedbcccbaa9c9e4708bc174824b4ff4271ae800c800bcf200b22d12f",
+  "question": "Will MrBeast's next video get between 44 and 47 million views on day 2?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.3489,
+  "composite_score": 0.3877,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6861,
+   "arbitrage": 0.0,
+   "volume": 0.0066,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9161,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence",
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation - WSJ",
+    "score": -0.4621
+   },
+   {
+    "title": "Welcome to the MrBeastification of British politics: the latest trick up Nigel Farage's sleeve | Kirsty Major - The Guardian",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-views-of-mrbeast-video-day-2-993",
+  "volume": 5914.866354000002,
+  "ends_in": "4s 45d",
+  "end_date": "06 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2917,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531215+00:00"
+ },
+ {
+  "market_id": "0x9b14ba5cc37a35c0db2c9849e631d98195670be4a0f91233a81529f22a7a5949",
+  "question": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7175,
+  "confidence": 0.3483,
+  "composite_score": 0.387,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.3192,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 284655.9225260002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531623+00:00"
+ },
+ {
+  "market_id": "0xcfadf718784df562c5a3b5022fd37586b960b4b76a0789df74eb9b3bf653817c",
+  "question": "Will voter turnout be 68–71% in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.83,
+  "confidence": 0.3376,
+  "composite_score": 0.3751,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6333,
+   "arbitrage": 0.0,
+   "volume": 0.0697,
+   "news_volume": 0.2666
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9257,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 62142.17545799999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9964,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531402+00:00"
+ },
+ {
+  "market_id": "0x40ba14f564299cf961b9ed3775f5fed4a64dc3e25b9a4e2b5994844960aa0fec",
+  "question": "Will voter turnout be 77–80% in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.3351,
+  "composite_score": 0.3723,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6333,
+   "arbitrage": 0.0,
+   "volume": 0.0133,
+   "news_volume": 0.2666
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9257,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 11828.991136000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5377,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531316+00:00"
+ },
+ {
+  "market_id": "0x8d172daa7b6ea792c45b00c43c1fbe97a4526c1db3f89f1eb8251261f9e9498f",
+  "question": "Will voter turnout be 74–77% in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.705,
+  "confidence": 0.3349,
+  "composite_score": 0.3721,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6333,
+   "arbitrage": 0.0,
+   "volume": 0.009,
+   "news_volume": 0.2666
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9257,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 8027.050845999999,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3866,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531643+00:00"
+ },
+ {
+  "market_id": "0x4bb97d5995fd6e774deb800f347f07d5b448a09a49998917a62c1d1295581b24",
+  "question": "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.88,
+  "confidence": 0.3343,
+  "composite_score": 0.3715,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5993,
+   "arbitrage": 0.0,
+   "volume": 0.0216,
+   "news_volume": 0.4113
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9312,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-winner",
+  "volume": 19284.917367000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7529,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531270+00:00"
+ },
+ {
+  "market_id": "0x02230382929c06eecab424465c7dbaa9b16e5d963270dba27cc0cd6183561e82",
+  "question": "Hungary Election: TISZA wins a constitutional majority?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.3343,
+  "composite_score": 0.3715,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.0092,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-wins-a-constitutional-majority",
+  "volume": 8219.750144999998,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3949,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531551+00:00"
+ },
+ {
+  "market_id": "0xe0cd1311e134e6efc4cfa1d4ae29129f2e24e5f2471c3f4dbeb3c57cccfb9d59",
+  "question": "Will Roberto Sánchez Palomino finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9025,
+  "confidence": 0.3343,
+  "composite_score": 0.3714,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5993,
+   "arbitrage": 0.0,
+   "volume": 0.0195,
+   "news_volume": 0.4113
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9312,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-winner",
+  "volume": 17348.932388999998,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7071,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531202+00:00"
+ },
+ {
+  "market_id": "0x9c5cc21a1553f5a750d607063c963851d684205d020a44a498b401582dd4430d",
+  "question": "Will Carlos Álvarez finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8604999999999999,
+  "confidence": 0.3338,
+  "composite_score": 0.3709,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5993,
+   "arbitrage": 0.0,
+   "volume": 0.01,
+   "news_volume": 0.4113
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9312,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   },
+   {
+    "title": "Politics Is Hungary's Top Problem as Election Nears - Gallup News",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-winner",
+  "volume": 8908.775525999998,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.424,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531295+00:00"
+ },
+ {
+  "market_id": "0x05b3c4a8779f467c490d05894d66634e7ed0bc982eed4463ca90fd1f59b78d1f",
+  "question": "Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Senate election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7195,
+  "confidence": 0.3273,
+  "composite_score": 0.3637,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5242,
+   "arbitrage": 0.0,
+   "volume": 0.0091,
+   "news_volume": 0.644
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9416,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP weaken near key supports, risks deeper drop - FXStreet",
+    "score": -0.7616
+   },
+   {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation - The New York Times",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-senate-election-winner",
+  "volume": 8070.867221000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3885,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531613+00:00"
+ },
+ {
+  "market_id": "0xef6bd8e629dd6f51b02c9c57adc5c6e4251c8d427109eff08bebcdd3462e923b",
+  "question": "Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Chamber of Deputies election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8375,
+  "confidence": 0.3248,
+  "composite_score": 0.3609,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5266,
+   "arbitrage": 0.0,
+   "volume": 0.0083,
+   "news_volume": 0.5755
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9413,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP weaken near key supports, risks deeper drop - FXStreet",
+    "score": -0.7616
+   },
+   {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation - The New York Times",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-chamber-of-deputies-election-winner",
+  "volume": 7385.892665,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3585,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531359+00:00"
+ },
+ {
+  "market_id": "0xce4b3c1a4c41e1576598ca465ca327f60240e4033524836e5adfa7ef4f4036e9",
+  "question": "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.3246,
+  "composite_score": 0.3607,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4116,
+   "arbitrage": 0.0,
+   "volume": 0.1669,
+   "news_volume": 0.9895
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9525,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-winner",
+  "volume": 148810.723182,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531477+00:00"
+ },
+ {
+  "market_id": "0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387",
+  "question": "Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.74,
+  "confidence": 0.3596,
+  "composite_score": 0.3596,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4354,
+   "arbitrage": 0.0,
+   "volume": 0.0186,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9507,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 16619.323131,
+  "ends_in": "3g 4s 45d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6881,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531583+00:00"
+ },
+ {
+  "market_id": "0x298c1f792047c48c2f0eec27db700357599b31075d0c1917f4c611425d58c971",
+  "question": "Will the Communist Party of India (Marxist) (CPI(M)) win the most seats in the 2026 Kerala Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.74,
+  "confidence": 0.3577,
+  "composite_score": 0.3574,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5531,
+   "arbitrage": 0.0,
+   "volume": 0.0177,
+   "news_volume": 0.3649
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9379,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   },
+   {
+    "title": "How many people have voted early so far in Wisconsin's 2026 spring election? - Milwaukee Journal Sentinel",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/kerala-legislative-assembly-election-winner",
+  "volume": 15748.054277000007,
+  "ends_in": "3g 4s 45d",
+  "end_date": "09 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531572+00:00"
+ },
+ {
+  "market_id": "0x4c8fec01a80375d7e9c0ea9b8e27161a1b446816b5770b9793494abffbf46c86",
+  "question": "Will annual inflation increase by 3.2% in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3416,
+  "composite_score": 0.3496,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4648,
+   "arbitrage": 0.0,
+   "volume": 0.057,
+   "news_volume": 0.6109
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9481,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "How to improve digital economy regulation through increased transparency - The World Economic Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "Morgan Lewis Hires Trade Sanctions Partner as Demand for Work Increases Alongside Tariff Tensions - Law.com",
+    "score": -0.7616
+   },
+   {
+    "title": "US Dollar Weekly Forecast: Can the Dollar rally continue as inflation risks return? - FXStreet",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/march-inflation-us-annual-higher-brackets",
+  "volume": 50786.10658199997,
+  "ends_in": "4g 4s 45d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9886,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531283+00:00"
+ },
+ {
+  "market_id": "0x0e47ad377273a39833506ca16c597c7eccdee686375b30f1910f3ef3ff734f4e",
+  "question": "Will Tisza win at least 130 seats?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7,
+  "confidence": 0.2949,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0536,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-tisza-wins-at-least-seats",
+  "volume": 47792.263891,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9846,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531663+00:00"
+ },
+ {
+  "market_id": "0x83a55156056596a6cd6f9e06a854c3e1908a2e1dbd8c16057fc099477e9d3b31",
+  "question": "Will Tisza win at least 90 seats?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.2933,
+  "composite_score": 0.3259,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.018,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-tisza-wins-at-least-seats",
+  "volume": 16009.376097000002,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6714,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531391+00:00"
+ },
+ {
+  "market_id": "0xf493d343a2588ec38173edee124b25a9a891b8149080564fa25c2b50cf126bde",
+  "question": "Will Fidesz-KDNP win at least 110 seats?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.795,
+  "confidence": 0.2932,
+  "composite_score": 0.3258,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0163,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-wins-seats",
+  "volume": 14579.264681,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6295,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531455+00:00"
+ },
+ {
+  "market_id": "0x1987acaadb70417227fdf1aa56697fc04a157c9562146124dd1394d6dabf201e",
+  "question": "Will a dozen eggs cost between $2.25–2.50 in March?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.7,
+  "confidence": 0.293,
+  "composite_score": 0.3256,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0129,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/price-of-dozen-eggs-in-march-741",
+  "volume": 11459.333401,
+  "ends_in": "4g 4s 45d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5242,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531654+00:00"
+ },
+ {
+  "market_id": "0x8e373adcc5165260dea3db0efd8e193c62821a7c2484fd722e0d80cc5e2304d9",
+  "question": "Will a dozen eggs cost between $2.50–2.75 in March?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.825,
+  "confidence": 0.32,
+  "composite_score": 0.3255,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0091,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/price-of-dozen-eggs-in-march-741",
+  "volume": 8145.023657999999,
+  "ends_in": "4g 4s 45d",
+  "end_date": "10 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3917,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531423+00:00"
+ },
+ {
+  "market_id": "0xcb9cf7bbd8a94c3faa3a78108fbec9cda874b021c655d243054e8f3ebfe477be",
+  "question": "Will Our Homeland Movement (Mi Hazánk) win at least one seat in the next Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.795,
+  "confidence": 0.2795,
+  "composite_score": 0.3105,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3266,
+   "arbitrage": 0.0,
+   "volume": 0.0796,
+   "news_volume": 0.4979
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.957,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Winning an Unpopular War? The United States–Israel War Against Iran: Strategic Miscalculation, Escalation Dynamics, and a Lose–Lose Dilemma - Small Wars Journal",
+    "score": -0.9051
+   },
+   {
+    "title": "Lebanon’s political elites are using displacement and humanitarian crisis to delay elections again - The Conversation",
+    "score": -0.7616
+   },
+   {
+    "title": "Oregon sees drop in largest foreign tourist group following Trump political tensions - Oregon Capital Chronicle",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-which-parties-enter-parliament",
+  "volume": 70965.400107,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9985,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531466+00:00"
+ },
+ {
+  "market_id": "0x7f1813724d4e7a7e0fcf83187fc23a1f68887f317d2d0cc6eeb1566d5ef658d9",
+  "question": "Will Rafael López Aliaga and Keiko Fujimori advance to the runoff?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.2424,
+  "composite_score": 0.2693,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2076,
+   "arbitrage": 0.0,
+   "volume": 0.0316,
+   "news_volume": 0.3166
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, Jan. 30: Apple Advances After Strong Earnings as Focus Turns to Supply and AI - Yahoo Finance",
+    "score": 0.9051
+   },
+   {
+    "title": "Stock Market Today, March 17: Micron Advances Ahead of Earnings as Tight HBM Supply Lifts AI Memory Outlook - The Motley Fool",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/which-candidates-advance-to-2026-peru-presidential-runoff",
+  "volume": 28197.309960999977,
+  "ends_in": "6g 4s 45d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8922,
+  "checked": false,
+  "timestamp": "2026-04-05T19:15:26.531327+00:00"
+ }
+]
