@@ -544,7 +544,26 @@
       "insights_count": 0,
       "first_seen": "2026-04-03T19:16:16.911324+00:00",
       "url": "http://arxiv.org/abs/2509.11452v2"
+    },
+    "2603.05917v2": {
+      "title": "Stock Market Prediction Using Node Transformer Architecture Integrated with BERT Sentiment Analysis",
+      "abstract": "Stock market prediction presents considerable challenges for investors, financial institutions, and policymakers operating in complex market environments characterized by noise, non-stationarity, and behavioral dynamics. Traditional forecasting methods, including fundamental analysis and technical indicators, often fail to capture the intricate patterns and cross-sectional dependencies inherent in financial markets. This paper presents an integrated framework combining a node transformer architecture with BERT-based sentiment analysis for stock price forecasting. The proposed model represents the stock market as a graph structure where individual stocks form nodes and edges capture relationships including sectoral affiliations, correlated price movements, and supply chain connections. A fine-tuned BERT model extracts sentiment information from social media posts and combines it with quantitative market features through attention-based fusion mechanisms. The node transformer processes historical market data while capturing both temporal evolution and cross-sectional dependencies among stocks. Experiments conducted on 20 S&P 500 stocks spanning January 1982 to March 2025 demonstrate that the integrated model achieves a mean absolute percentage error (MAPE) of 0.80% for one-day-ahead predictions, compared to 1.20% for ARIMA and 1.00% for LSTM. The inclusion of sentiment analysis reduces prediction error by 10% overall and 25% during earnings announcements, while the graph-based ",
+      "authors": [
+        "Mohammad Al Ridhawi",
+        "Mahtab Haj Ali",
+        "Hussein Al Osman"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-fin.ST"
+      ],
+      "published": "2026-03-06T05:15:22Z",
+      "relevance_score": 0.417,
+      "insights_count": 1,
+      "first_seen": "2026-04-06T19:24:04.693083+00:00",
+      "url": "http://arxiv.org/abs/2603.05917v2"
     }
   },
-  "last_check": "2026-04-05T19:14:47.246007+00:00"
+  "last_check": "2026-04-06T19:24:07.964803+00:00"
 }
