@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Polymarket Analiz — 2026-04-07</title>
+<style>
+  :root { --bg: #0f172a; --card: #1e293b; --border: #334155; --text: #e2e8f0; --muted: #94a3b8; --accent: #818cf8; --green: #34d399; --red: #f87171; --yellow: #fbbf24; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; line-height: 1.6; }
+  .container { max-width: 1400px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 0.25rem; }
+  h2 { font-size: 1.2rem; font-weight: 600; margin: 2rem 0 0.75rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
+  .subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .stats { display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem 1.25rem; min-width: 140px; }
+  .stat-label { font-size: 0.7rem; text-transform: uppercase; color: var(--muted); letter-spacing: 0.05em; }
+  .stat-value { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); margin-bottom: 1rem; }
+  thead { background: #0f172a; }
+  th { text-align: left; padding: 0.75rem 1rem; font-size: 0.72rem; text-transform: uppercase; color: var(--muted); letter-spacing: 0.05em; white-space: nowrap; }
+  td { padding: 0.6rem 1rem; border-top: 1px solid var(--border); font-size: 0.85rem; vertical-align: middle; }
+  tr:hover { background: rgba(129,140,248,0.06); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: 700; color: #fff; }
+  .badge-yes { background: #166534; }
+  .badge-no { background: #991b1b; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .prob-bar { height: 5px; background: var(--border); border-radius: 3px; overflow: hidden; width: 80px; display: inline-block; vertical-align: middle; margin-left: 6px; }
+  .prob-fill { height: 100%; border-radius: 3px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; }
+  .pill { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 0.7rem; background: var(--border); margin: 1px; }
+  .footer { margin-top: 2rem; font-size: 0.75rem; color: var(--muted); text-align: center; }
+  .score-bar { display: flex; gap: 2px; height: 14px; border-radius: 3px; overflow: hidden; width: 120px; }
+  .score-seg { height: 100%; }
+  th[data-sort] { cursor: pointer; user-select: none; position: relative; padding-right: 1.2em; }
+  th[data-sort]:hover { color: var(--accent); }
+  th[data-sort]::after { content: '\2195'; position: absolute; right: 0.3em; font-size: 0.65rem; opacity: 0.4; }
+  th[data-sort].asc::after { content: '\2191'; opacity: 1; }
+  th[data-sort].desc::after { content: '\2193'; opacity: 1; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Polymarket Gunluk Analiz</h1>
+  <p class="subtitle">2026-04-07 19:26 UTC &mdash; Otomatik olarak olusturuldu</p>
+
+  <div class="stats">
+    <div class="stat"><div class="stat-label">Bulunan Firsat</div><div class="stat-value">52</div></div>
+    <div class="stat"><div class="stat-label">Tahmin Isabeti</div><div class="stat-value">0.0%</div></div>
+    <div class="stat"><div class="stat-label">Brier Skor</div><div class="stat-value">0.0</div></div>
+    <div class="stat"><div class="stat-label">Iyilestirme</div><div class="stat-value">1</div></div>
+  </div>
+
+  <h2>Firsatlar (52)</h2>
+  <table>
+    <thead>
+      <tr><th>#</th><th data-sort="text">Soru</th><th data-sort="text">Taraf</th><th data-sort="num">Oran</th><th data-sort="num">Skor</th><th>Dagilim</th><th data-sort="num">Hacim</th><th data-sort="num">Kelly</th><th data-sort="text">Bitis</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://polymarket.com/event/march-2026-temperature-increase-c" target="_blank">Will global temperature increase by more than 1.29ºC in March 2026?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">83%</td>
+        <td class="num">
+          0.420
+          <div class="prob-bar"><div class="prob-fill" style="width:42%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.67 arb:0.00 vol:0.07">
+            <div class="score-seg" style="width:40%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:6%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$76,222</td>
+        <td class="num">0.0%</td>
+        <td>2g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-popular-vote-winner" target="_blank">Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliame</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">80%</td>
+        <td class="num">
+          0.407
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.17">
+            <div class="score-seg" style="width:39%;background:#818cf8"></div>
+            <div class="score-seg" style="width:47%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:14%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$185,629</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://polymarket.com/event/of-views-of-mrbeast-video-day-4-892" target="_blank">Will MrBeast's latest video get between 64 and 65 million views on day 4?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">80%</td>
+        <td class="num">
+          0.407
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.72 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:40%;background:#818cf8"></div>
+            <div class="score-seg" style="width:58%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:2%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$20,452</td>
+        <td class="num">0.0%</td>
+        <td>4s 34d</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://polymarket.com/event/of-views-of-mrbeast-video-day-4-892" target="_blank">Will MrBeast's latest video get between 66 and 67 million views on day 4?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">88%</td>
+        <td class="num">
+          0.406
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.72 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:40%;background:#818cf8"></div>
+            <div class="score-seg" style="width:58%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:2%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$17,697</td>
+        <td class="num">0.0%</td>
+        <td>4s 34d</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election" target="_blank">Will Tisza win 130+ seats in the Hungarian National Assembly in this election?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.402
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.07">
+            <div class="score-seg" style="width:42%;background:#818cf8"></div>
+            <div class="score-seg" style="width:51%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:7%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$77,459</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory" target="_blank">Will Fidesz-KDNP win the national list vote in the 2026 Hungarian Parliamentary </a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">90%</td>
+        <td class="num">
+          0.402
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.07">
+            <div class="score-seg" style="width:42%;background:#818cf8"></div>
+            <div class="score-seg" style="width:51%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:7%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$79,802</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory" target="_blank">Will Tisza win the national list vote in the 2026 Hungarian Parliamentary electi</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">88%</td>
+        <td class="num">
+          0.401
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.05">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:52%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:5%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$59,246</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory" target="_blank">Will Tisza win the national list vote in the 2026 Hungarian Parliamentary electi</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">92%</td>
+        <td class="num">
+          0.401
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.05">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:52%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:5%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$54,135</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory" target="_blank">Will Tisza win the national list vote in the 2026 Hungarian Parliamentary electi</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">80%</td>
+        <td class="num">
+          0.400
+          <div class="prob-bar"><div class="prob-fill" style="width:40%;background:var(--yellow)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.04">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:52%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:5%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$44,596</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election" target="_blank">Will Tisza win 100–109 seats in the Hungarian National Assembly in this election</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">90%</td>
+        <td class="num">
+          0.400
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$27,818</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election" target="_blank">Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">90%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$21,279</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td><a href="https://polymarket.com/event/hungary-election-tisza-of-popular-vote" target="_blank">Will TISZA win 54%+ of the national list votes in the 2026 Hungarian Parliamenta</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">78%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$19,061</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election" target="_blank">Will Fidesz-KDNP win 100-114 seats in the Hungarian National Assembly in this el</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">81%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.02">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$17,245</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election" target="_blank">Will Tisza win 110–119 seats in the Hungarian National Assembly in this election</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">84%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$15,409</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election" target="_blank">Will Fidesz-KDNP win 85-99 seats in the Hungarian National Assembly in this elec</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">84%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$14,631</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election" target="_blank">Will Tisza win 120-129 seats in the Hungarian National Assembly in this election</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">75%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$16,213</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td><a href="https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote" target="_blank">Will Fidesz-KDNP win 36-40% of the national list votes in the 2026 Hungarian Par</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:44%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:3%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$14,235</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td><a href="https://polymarket.com/event/hungary-election-tisza-of-popular-vote" target="_blank">Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamen</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">76%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$10,433</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td><a href="https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote" target="_blank">Will Fidesz-KDNP win 44-48% of the national list votes in the 2026 Hungarian Par</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">84%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$8,448</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td><a href="https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election" target="_blank">Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this elec</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">76%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$9,634</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td><a href="https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote" target="_blank">Will Fidesz-KDNP win 48%+ of the national list votes in the 2026 Hungarian Parli</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">91%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.00">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$5,524</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td><a href="https://polymarket.com/event/hungary-election-tisza-of-popular-vote" target="_blank">Will TISZA win &lt;42% of the national list votes in the 2026 Hungarian Parliamenta</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">90%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$7,468</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td><a href="https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote" target="_blank">Will Fidesz-KDNP win &lt;36% of the national list votes in the 2026 Hungarian Parli</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">86%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$7,058</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td><a href="https://polymarket.com/event/hungary-election-tisza-of-popular-vote" target="_blank">Will TISZA win 42-46% of the national list votes in the 2026 Hungarian Parliamen</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">89%</td>
+        <td class="num">
+          0.399
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.60 arb:0.00 vol:0.00">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:54%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$5,367</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td><a href="https://polymarket.com/event/which-candidates-advance-to-2026-peru-presidential-runoff" target="_blank">Will a different combination of candidates advance to the runoff?</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">76%</td>
+        <td class="num">
+          0.393
+          <div class="prob-bar"><div class="prob-fill" style="width:39%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.71 arb:0.00 vol:0.04">
+            <div class="score-seg" style="width:40%;background:#818cf8"></div>
+            <div class="score-seg" style="width:56%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:4%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$39,460</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td><a href="https://polymarket.com/event/peru-presidential-election-first-round-2nd-place" target="_blank">Will Keiko Fujimori finish in second place in the first round of the 2026 Peruvi</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">83%</td>
+        <td class="num">
+          0.379
+          <div class="prob-bar"><div class="prob-fill" style="width:37%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.57 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:46%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:1%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$7,724</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>27</td>
+        <td><a href="https://polymarket.com/event/the-masters-winner-2026" target="_blank">Will Scottie Scheffler win the 2026 Masters tournament?</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">86%</td>
+        <td class="num">
+          0.375
+          <div class="prob-bar"><div class="prob-fill" style="width:37%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.50 arb:0.00 vol:1.00">
+            <div class="score-seg" style="width:25%;background:#818cf8"></div>
+            <div class="score-seg" style="width:25%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:50%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$1,122,614</td>
+        <td class="num">0.0%</td>
+        <td>5g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>28</td>
+        <td><a href="https://polymarket.com/event/of-views-of-taylor-swifts-elizabeth-taylor-video-on-week-1" target="_blank">Will &quot;Elizabeth Taylor&quot; get between 2.5 and 2.75 million views in the first week</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">72%</td>
+        <td class="num">
+          0.370
+          <div class="prob-bar"><div class="prob-fill" style="width:37%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.59 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:45%;background:#818cf8"></div>
+            <div class="score-seg" style="width:53%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:2%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$6,503</td>
+        <td class="num">0.0%</td>
+        <td>1g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>29</td>
+        <td><a href="https://polymarket.com/event/peru-senate-election-winner" target="_blank">Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Senate elec</a></td>
+        <td><span class="badge badge-no">NO</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.370
+          <div class="prob-bar"><div class="prob-fill" style="width:36%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.55 arb:0.00 vol:0.01">
+            <div class="score-seg" style="width:47%;background:#818cf8"></div>
+            <div class="score-seg" style="width:51%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:2%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$8,106</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+      <tr>
+        <td>30</td>
+        <td><a href="https://polymarket.com/event/hungary-parliamentary-election-which-parties-enter-parliament" target="_blank">Will Our Homeland Movement (Mi Hazánk) win at least one seat in the next Hungari</a></td>
+        <td><span class="badge badge-yes">YES</span></td>
+        <td class="num">74%</td>
+        <td class="num">
+          0.369
+          <div class="prob-bar"><div class="prob-fill" style="width:36%;background:var(--red)"></div></div>
+        </td>
+        <td>
+          <div class="score-bar" title="stat:0.50 sent:0.57 arb:0.00 vol:0.07">
+            <div class="score-seg" style="width:43%;background:#818cf8"></div>
+            <div class="score-seg" style="width:50%;background:#f472b6"></div>
+            <div class="score-seg" style="width:0%;background:#34d399"></div>
+            <div class="score-seg" style="width:7%;background:#fbbf24"></div>
+          </div>
+        </td>
+        <td class="num">$76,971</td>
+        <td class="num">0.0%</td>
+        <td>4g 4s 34d</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="font-size:0.7rem;color:var(--muted)">Dagilim: <span style="color:#818cf8">istatistik</span> <span style="color:#f472b6">duygu</span> <span style="color:#34d399">arbitraj</span> <span style="color:#fbbf24">hacim</span></p>
+  <h2>Tahmin Performansi</h2><p style="color:var(--muted)">Henuz yeterli tahmin verisi yok.</p>
+  <h2>Kendini Iyilestirme (1 degisiklik)</h2><div class="card">
+      <div style="font-weight:600;font-size:0.9rem">arxiv_deep_adjustment</div>
+      <div style="font-size:0.85rem">enabled liquidity-adjusted arbitrage scoring</div>
+      <div style="font-size:0.75rem;color:var(--muted)">Neden: ArXiv: AMM/LMSR papers — low-liquidity market prices are less informative; arb scores should be dampened by liquidity factor</div>
+    </div>
+  <h2>Arbitraj / Spread Anomali</h2><p style="color:var(--muted)">Anormal spread tespit edilmedi.</p>
+  <h2>Duygu Analizi (46 market)</h2><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will global temperature increase by more than 1.29ºC in March 2026?</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.33</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Tariffs and Trade Sanctions Threaten Jbt Marel’s Margins, Liquidity, and Global </div><div class="pill">Tariffs and Trade Sanctions Threaten Jbt Marel’s Margins, Liquidity, and Global </div><div class="pill">UK government unveils AI regulation blueprint to spur innovation across the econ</div><div class="pill">How to improve digital economy regulation through increased transparency - The W</div><div class="pill">Oil soars then retreats, gold drops as Iran war jolts global commodity markets -</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Fidesz–KDNP win the most national list votes in the 2026 Hungaria</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will MrBeast's latest video get between 64 and 65 million views on day</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.44</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Russia-Ukraine war could reach 2 million military casualties as conflict continu</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Bitcoin, Ethereum, and XRP Tumble. What’s Driving The Latest Crypto Crash. - Bar</div><div class="pill">NC State political scientist Steven Greene on the war in Iran and NC's latest po</div><div class="pill">A Redistricting War in Florida, Georgia’s Runoff and the Latest Politics News - </div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will MrBeast's latest video get between 66 and 67 million views on day</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.44</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Russia-Ukraine war could reach 2 million military casualties as conflict continu</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Bitcoin, Ethereum, and XRP Tumble. What’s Driving The Latest Crypto Crash. - Bar</div><div class="pill">NC State political scientist Steven Greene on the war in Iran and NC's latest po</div><div class="pill">A Redistricting War in Florida, Georgia’s Runoff and the Latest Politics News - </div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Tisza win 130+ seats in the Hungarian National Assembly in this e</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Fidesz-KDNP win the national list vote in the 2026 Hungarian Parl</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Tisza win the national list vote in the 2026 Hungarian Parliament</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Tisza win the national list vote in the 2026 Hungarian Parliament</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Tisza win the national list vote in the 2026 Hungarian Parliament</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div><div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <div style="font-weight:600;font-size:0.88rem">Will Tisza win 100–109 seats in the Hungarian National Assembly in thi</div>
+        <div style="font-size:1rem;font-weight:700;color:var(--red)">-0.20</div>
+      </div>
+      <div style="margin-top:0.3rem"><div class="pill">Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today</div><div class="pill">The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran tal</div><div class="pill">Invesco's Q1 2026 Earnings Forecast Strong Growth - National Today</div><div class="pill">EU-India trade deal, UK sanctions compliance warning and South Korea latest coun</div><div class="pill">Trump Avoids Using 'War' in Speeches, Calls Iran Conflict a 'Military Operation'</div></div>
+    </div>
+
+  <p class="footer">Kaynak: Polymarket Gamma API &mdash; Gurultu filtresi aktif &mdash; Self-improving system v1</p>
+</div>
+<script>
+document.querySelectorAll('th[data-sort]').forEach(th=>{th.addEventListener('click',()=>{const table=th.closest('table');const tbody=table.querySelector('tbody');if(!tbody)return;const idx=Array.from(th.parentNode.children).indexOf(th);const type=th.dataset.sort;const asc=!th.classList.contains('asc');table.querySelectorAll('th[data-sort]').forEach(h=>h.classList.remove('asc','desc'));th.classList.add(asc?'asc':'desc');const rows=Array.from(tbody.querySelectorAll('tr'));rows.sort((a,b)=>{let va=a.children[idx]?a.children[idx].textContent.trim():'';let vb=b.children[idx]?b.children[idx].textContent.trim():'';if(type==='num'){va=parseFloat(va.replace(/[^0-9.-]/g,''))||0;vb=parseFloat(vb.replace(/[^0-9.-]/g,''))||0;return asc?va-vb:vb-va;}return asc?va.localeCompare(vb):vb.localeCompare(va);});rows.forEach(r=>tbody.appendChild(r));});});
+</script>
+</body>
+</html>

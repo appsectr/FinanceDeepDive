@@ -563,7 +563,62 @@
       "insights_count": 1,
       "first_seen": "2026-04-06T19:24:04.693083+00:00",
       "url": "http://arxiv.org/abs/2603.05917v2"
+    },
+    "2510.22068v2": {
+      "title": "Deep Gaussian Processes for Functional Maps",
+      "abstract": "Learning mappings between functional spaces, also known as function-on-function regression, is a fundamental problem in functional data analysis with broad applications, including spatiotemporal forecasting, curve prediction, and climate modeling. Existing approaches often struggle to capture complex nonlinear relationships and/or provide reliable uncertainty quantification when data are noisy, sparse, or irregularly sampled. To address these challenges, we propose Deep Gaussian Processes for Functional Maps (DGPFM). Our method constructs a sequence of GP-based linear and nonlinear transformations directly in function space, leveraging kernel integral transforms, GP conditional means, and nonlinear activations sampled from Gaussian processes. A key insight enables a simplified and flexible implementation: under fixed evaluation locations, discrete approximations of kernel integral transforms reduce to direct functional integral transforms, allowing seamless integration of diverse transform designs. To support scalable probabilistic inference, we adopt inducing points and whitening transformations within a variational learning framework. Empirical results on both real-world and synthetic benchmark datasets demonstrate the advantages of DGPFM in terms of predictive accuracy and uncertainty calibration.",
+      "authors": [
+        "Matthew Lowery",
+        "Zhitong Xu",
+        "Da Long",
+        "Keyan Chen",
+        "Daniel S. Johnson"
+      ],
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2025-10-24T23:05:48Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-07T19:25:41.633819+00:00",
+      "url": "http://arxiv.org/abs/2510.22068v2"
+    },
+    "2510.15205v2": {
+      "title": "Toward Black Scholes for Prediction Markets: A Unified Kernel and Market Maker's Handbook",
+      "abstract": "Prediction markets, such as Polymarket, aggregate dispersed information into tradable probabilities, but they still lack a unifying stochastic kernel comparable to the one options gained from Black-Scholes. As these markets scale with institutional participation, exchange integrations, and higher volumes around elections and macro prints, market makers face belief volatility, jump, and cross-event risks without standardized tools for quoting or hedging. We propose such a foundation: a logit jump-diffusion with risk-neutral drift that treats the traded probability p_t as a Q-martingale and exposes belief volatility, jump intensity, and dependence as quotable risk factors. On top, we build a calibration pipeline that filters microstructure noise, separates diffusion from jumps using expectation-maximization, enforces the risk-neutral drift, and yields a stable belief-volatility surface. We then define a coherent derivative layer (variance, correlation, corridor, and first-passage instruments) analogous to volatility and correlation products in option markets. In controlled experiments on synthetic risk-neutral paths and real event data, the model reduces short-horizon belief-variance forecast error relative to diffusion-only and probability-space baselines, supporting both causal calibration and economic interpretability. Conceptually, the logit jump-diffusion kernel supplies an implied-volatility analogue for prediction markets: a tractable, tradable language for quoting, hedg",
+      "authors": [
+        "Shaw Dalen"
+      ],
+      "categories": [
+        "cs.CE",
+        "q-fin.CP"
+      ],
+      "published": "2025-10-17T00:18:29Z",
+      "relevance_score": 0.817,
+      "insights_count": 0,
+      "first_seen": "2026-04-07T19:25:42.241026+00:00",
+      "url": "http://arxiv.org/abs/2510.15205v2"
+    },
+    "2604.03888v1": {
+      "title": "PolySwarm: A Multi-Agent Large Language Model Framework for Prediction Market Trading and Latency Arbitrage",
+      "abstract": "This paper presents PolySwarm, a novel multi-agent large language model (LLM) framework designed for real-time prediction market trading and latency arbitrage on decentralized platforms such as Polymarket. PolySwarm deploys a swarm of 50 diverse LLM personas that concurrently evaluate binary outcome markets, aggregating individual probability estimates through confidence-weighted Bayesian combination of swarm consensus with market-implied probabilities, and applying quarter-Kelly position sizing for risk-controlled execution. The system incorporates an information-theoretic market analysis engine using Kullback-Leibler (KL) divergence and Jensen-Shannon (JS) divergence to detect cross-market inefficiencies and negation pair mispricings. A latency arbitrage module exploits stale Polymarket prices by deriving CEX-implied probabilities from a log-normal pricing model and executing trades within the human reaction-time window. We provide a full architectural description, implementation details, and evaluation methodology using Brier scores, calibration analysis, and log-loss metrics benchmarked against human superforecaster performance. We further discuss open challenges including hallucination in agent pools, computational cost at scale, regulatory exposure, and feedback-loop risk, and outline five priority directions for future research. Experimental results demonstrate that swarm aggregation consistently outperforms single-model baselines in probability calibration on Polymark",
+      "authors": [
+        "Rajat M. Barot",
+        "Arjun S. Borkhatariya"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.MA",
+        "q-fin.TR"
+      ],
+      "published": "2026-04-04T22:51:06Z",
+      "relevance_score": 1.0,
+      "insights_count": 1,
+      "first_seen": "2026-04-07T19:25:42.241191+00:00",
+      "url": "http://arxiv.org/abs/2604.03888v1"
     }
   },
-  "last_check": "2026-04-06T19:24:07.964803+00:00"
+  "last_check": "2026-04-07T19:25:44.276781+00:00"
 }

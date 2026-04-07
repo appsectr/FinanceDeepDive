@@ -48,7 +48,8 @@
     "learning_rate": 0.05,
     "min_predictions_for_adjust": 10,
     "lookback_days": 30,
-    "dynamic_weights_enabled": true
+    "dynamic_weights_enabled": true,
+    "liquidity_adjusted_scoring": true
   },
   "email": {
     "to": "fturan.zero@gmail.com",
