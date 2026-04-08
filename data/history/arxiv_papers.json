@@ -618,7 +618,44 @@
       "insights_count": 1,
       "first_seen": "2026-04-07T19:25:42.241191+00:00",
       "url": "http://arxiv.org/abs/2604.03888v1"
+    },
+    "2601.12614v3": {
+      "title": "Deterministic and probabilistic neural surrogates of global hybrid-Vlasov simulations",
+      "abstract": "Hybrid-Vlasov simulations resolve ion-kinetic effects in the solar wind-magnetosphere interaction, but even 5D (2D + 3V) configurations are computationally expensive. We show that graph-based machine learning emulators can learn the spatiotemporal evolution of electromagnetic fields and lower order moments of ion velocity distribution in the near-Earth space environment from four 5D Vlasiator runs performed with identical steady solar wind conditions. The initial ion number density is systematically varied, while the grid spacing is held constant, to scan the ratio of the characteristic ion skin depth to the numerical grid size. Using a graph neural network (GNN) operating on the 2D spatial simulation grid comprising 670k cells, we demonstrate that both a deterministic forecasting model (Graph-FM) and a probabilistic ensemble forecasting model (Graph-EFM) based on a latent variable formulation are capable of producing accurate predictions of future plasma states. A divergence penalty is incorporated to encourage divergence-freeness in the magnetic fields. For the probabilistic model, a continuous ranked probability score objective is added to improve the calibration of the ensemble forecasts. The trained emulators achieve over two orders of magnitude speedup per time step on a single GPU compared to 100 CPU Vlasiator simulations. Most forecasted fields have Pearson correlations above 0.95 at 50 seconds lead time. However, we find that fields that exhibit near-zero degenerate ",
+      "authors": [
+        "Daniel Holmberg",
+        "Ivan Zaitsev",
+        "Markku Alho",
+        "Ioanna Bouri",
+        "Fanni Franssila"
+      ],
+      "categories": [
+        "physics.space-ph",
+        "cs.LG",
+        "physics.plasm-ph"
+      ],
+      "published": "2026-01-18T23:13:23Z",
+      "relevance_score": 0.625,
+      "insights_count": 1,
+      "first_seen": "2026-04-08T19:30:36.189449+00:00",
+      "url": "http://arxiv.org/abs/2601.12614v3"
+    },
+    "2604.05946v1": {
+      "title": "Ensemble size effects on conditional reliability estimates: slope attenuation bias and correction methods",
+      "abstract": "The goal of ensemble forecasting is to maximise sharpness subject to reliability. Marginal reliability means that, over all cases, the ensemble is statistically consistent with reality: the ensemble mean is unbiased, the expected ensemble variance equals the expected mean-squared error of the ensemble mean, and the variance of the ensemble members matches the variance of the truth. Equivalently, forecasts that assign probability $p$ to an event verify with relative frequency $p$. However, climatological consistency is not sufficient for users acting on individual forecasts. A natural extension is to assess reliability conditional on the forecast itself, by examining whether, on average, larger ensemble means imply larger observed values, larger spreads imply larger forecast errors, or higher probabilities imply higher event frequencies. This motivates conditional reliability diagnostics such as reliability diagrams and spread-error relationships. Here we show that conditional reliability diagnostics are systematically biased for finite ensemble sizes. We present a unified framework for slope attenuation caused by finite-ensemble sampling noise, which affects conditional diagnostics for ensemble means, spreads, and probabilities. Using synthetic forecasts that are perfectly reliable by construction, we isolate finite-ensemble effects. We derive analytical expressions for the expected attenuation and propose practical estimators computable directly from ensemble data. The frame",
+      "authors": [
+        "Jonas Spaeth",
+        "Christopher D. Roberts"
+      ],
+      "categories": [
+        "physics.ao-ph"
+      ],
+      "published": "2026-04-07T14:41:17Z",
+      "relevance_score": 0.208,
+      "insights_count": 2,
+      "first_seen": "2026-04-08T19:30:37.942072+00:00",
+      "url": "http://arxiv.org/abs/2604.05946v1"
     }
   },
-  "last_check": "2026-04-07T19:25:44.276781+00:00"
+  "last_check": "2026-04-08T19:30:38.310243+00:00"
 }
