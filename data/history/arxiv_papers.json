@@ -655,7 +655,25 @@
       "insights_count": 2,
       "first_seen": "2026-04-08T19:30:37.942072+00:00",
       "url": "http://arxiv.org/abs/2604.05946v1"
+    },
+    "2512.10510v2": {
+      "title": "Adaptive Replay Buffer for Offline-to-Online Reinforcement Learning",
+      "abstract": "Offline-to-Online Reinforcement Learning (O2O RL) faces a critical dilemma in balancing the use of a fixed offline dataset with newly collected online experiences. Standard methods, often relying on a fixed data-mixing ratio, struggle to manage the trade-off between early learning stability and asymptotic performance. To overcome this, we introduce the Adaptive Replay Buffer (ARB), a novel approach that dynamically prioritizes data sampling based on a lightweight metric we call 'on-policyness'. Unlike prior methods that rely on complex learning procedures or fixed ratios, ARB is designed to be learning-free and simple to implement, seamlessly integrating into existing O2O RL algorithms. It assesses how closely collected trajectories align with the current policy's behavior and assigns a proportional sampling weight to each transition within that trajectory. This strategy effectively leverages offline data for initial stability while progressively focusing learning on the most relevant, high-rewarding online experiences. Our extensive experiments on D4RL benchmarks demonstrate that ARB consistently mitigates early performance degradation and significantly improves the final performance of various O2O RL algorithms, highlighting the importance of an adaptive, behavior-aware replay buffer design. Our code is publicly available at https://github.com/song970407/ARB.",
+      "authors": [
+        "Chihyeon Song",
+        "Jaewoo Lee",
+        "Jinkyoo Park"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2025-12-11T10:30:04Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-09T19:28:11.776145+00:00",
+      "url": "http://arxiv.org/abs/2512.10510v2"
     }
   },
-  "last_check": "2026-04-08T19:30:38.310243+00:00"
+  "last_check": "2026-04-09T19:28:11.776321+00:00"
 }
