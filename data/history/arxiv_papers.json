@@ -673,7 +673,24 @@
       "insights_count": 0,
       "first_seen": "2026-04-09T19:28:11.776145+00:00",
       "url": "http://arxiv.org/abs/2512.10510v2"
+    },
+    "2601.16821v2": {
+      "title": "Directional-Shift Dirichlet ARMA Models for Compositional Time Series with Structural Break Intervention",
+      "abstract": "Compositional time series frequently exhibit structural breaks due to external shocks, policy changes, or market disruptions. Standard methods either ignore such breaks or handle them through fixed effects that cannot extrapolate beyond the sample, or step-function dummies that impose instantaneous adjustment. We develop a Bayesian Dirichlet ARMA model augmented with a directional-shift intervention mechanism that captures structural breaks through three interpretable parameters: a direction vector specifying which components gain or lose share, an amplitude controlling redistribution magnitude, and a logistic gate governing transition timing and speed. The model preserves compositional constraints by construction, maintains DARMA dynamics for short-run dependence, and produces coherent probabilistic forecasts through and after structural breaks. The intervention trajectory corresponds to geodesic motion on the simplex and is invariant to the choice of ILR basis. A simulation study with 400 fits across 8 scenarios shows near-zero amplitude bias and nominal 80\\% credible interval coverage when the shift direction is correctly identified (77.5\\% of cases); supplementary studies confirm robustness across extreme transition speeds and non-monotone DGPs. Two empirical applications to COVID-era Airbnb data characterize performance relative to simpler alternatives. Where the break is monotone and ongoing, the intervention model achieves near-nominal calibration (79.6\\%) while the fi",
+      "authors": [
+        "Harrison Katz"
+      ],
+      "categories": [
+        "stat.ME",
+        "q-fin.ST",
+        "stat.AP"
+      ],
+      "published": "2026-01-23T15:19:55Z",
+      "relevance_score": 0.417,
+      "insights_count": 0,
+      "first_seen": "2026-04-10T19:20:22.985902+00:00",
+      "url": "http://arxiv.org/abs/2601.16821v2"
     }
   },
-  "last_check": "2026-04-09T19:28:11.776321+00:00"
+  "last_check": "2026-04-10T19:20:24.608554+00:00"
 }

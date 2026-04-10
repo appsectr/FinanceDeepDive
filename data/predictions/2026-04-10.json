@@ -1,0 +1,3349 @@
+[
+ {
+  "market_id": "0x68beecc857017df8663fa36c0c86310dec7305aa88fe830c94651391314afc1c",
+  "question": "Trump announces end of military operations against Iran by April 15th?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.89,
+  "confidence": 0.4205,
+  "composite_score": 0.4472,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7175,
+   "arbitrage": 0.0,
+   "volume": 0.3596,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9098,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "\"War,\" \"Excursion,\" \"Operation\": Trump's war on Iran semantics - Axios",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+  "volume": 3604895.1921089883,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854407+00:00"
+ },
+ {
+  "market_id": "0x2355d0c475f322d8f885998347a412a103af24c54092ab894f2ba4364a4e9521",
+  "question": "Will Bryson DeChambeau finish in the Top 5 at the 2026 Augusta National Invitational?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9155,
+  "confidence": 0.3847,
+  "composite_score": 0.4074,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6362,
+   "arbitrage": 0.0,
+   "volume": 0.0035,
+   "news_volume": 0.9633
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9252,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-masters-tournament-top5",
+  "volume": 34887.61349200001,
+  "ends_in": "1g 8s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.887,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854292+00:00"
+ },
+ {
+  "market_id": "0x66b8e323999a9409ab78af058806348ab9561c5731d08f53b837553581ae4f18",
+  "question": "Will Cameron Smith finish in the Top 20 at the 2026 Augusta National Invitational?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.3846,
+  "composite_score": 0.4073,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6362,
+   "arbitrage": 0.0,
+   "volume": 0.0012,
+   "news_volume": 0.9633
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9252,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-masters-tournament-top20",
+  "volume": 12374.571645000004,
+  "ends_in": "1g 8s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4616,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854376+00:00"
+ },
+ {
+  "market_id": "0x32173d25bc6b2491a8ae4050e5f669847e70d3c4f50016a7479a597a3e984bd6",
+  "question": "Will Bryson DeChambeau finish in the Top 10 at the 2026 Augusta National Invitational?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3846,
+  "composite_score": 0.4073,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6362,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.9633
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9252,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-masters-tournament-top10",
+  "volume": 9336.103137000002,
+  "ends_in": "1g 8s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3598,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854523+00:00"
+ },
+ {
+  "market_id": "0x7bcdfaaaa4e977befe06a8728263c8a3e07678119a8649109e91e5e50fc7fa72",
+  "question": "Will Ludvig Aberg finish in the Top 5 at the 2026 Augusta National Invitational?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.845,
+  "confidence": 0.3665,
+  "composite_score": 0.4072,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6362,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.9633
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9252,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-masters-tournament-top5",
+  "volume": 6016.131914,
+  "ends_in": "1g 8s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2381,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854683+00:00"
+ },
+ {
+  "market_id": "0x49131d36d313837145649d4cd7dcebbda31324435586cf8f102ed753a699c02f",
+  "question": "Will Fidesz–KDNP win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.845,
+  "confidence": 0.4084,
+  "composite_score": 0.4038,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0317,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-winner",
+  "volume": 317450.05737400043,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854664+00:00"
+ },
+ {
+  "market_id": "0x12b2a643d1162782fb06bd21830af563f73bc5af1c70755c7ed0fe81d67427aa",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 0-3%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9179999999999999,
+  "confidence": 0.3983,
+  "composite_score": 0.4026,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0077,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 77515.30969400008,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9962,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854281+00:00"
+ },
+ {
+  "market_id": "0x0d1ed5cdd7aabd05268b337833c5f78c310abef413be3c32a8d6fcf45ecdbb86",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 3-6%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.875,
+  "confidence": 0.4073,
+  "composite_score": 0.4026,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0083,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 83312.21473099997,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9976,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854480+00:00"
+ },
+ {
+  "market_id": "0x0d896c47968d9e437057fc62f874f4d527abd43e91c2e5950cfead58d9c23ff6",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8,
+  "confidence": 0.4073,
+  "composite_score": 0.4026,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0076,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-margin-of-victory",
+  "volume": 75862.17218600005,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9956,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854988+00:00"
+ },
+ {
+  "market_id": "0x42c21bd74895ca4d8290fc01ab624cc3417272279c2603c1f3555aa191abab08",
+  "question": "Will TISZA – Respect and Freedom Party (TISZA) finish with the second-most seats in the next Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.77,
+  "confidence": 0.3802,
+  "composite_score": 0.4024,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6592,
+   "arbitrage": 0.0,
+   "volume": 0.004,
+   "news_volume": 0.7477
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9211,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-2nd-place",
+  "volume": 40019.62679800002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9239,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855108+00:00"
+ },
+ {
+  "market_id": "0x829f02bf4995077e03e29c58f20555808061862b8c5a53befe757b84ac10ad93",
+  "question": "Will TISZA win 54%+ of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.4072,
+  "composite_score": 0.4024,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.005,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 49672.867442999996,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9643,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855181+00:00"
+ },
+ {
+  "market_id": "0x67ca01f75ad56b885aedae60d2a28c4569a69cf4e5814c356a95be28fb47678d",
+  "question": "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 25174.785897999995,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7681,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854353+00:00"
+ },
+ {
+  "market_id": "0xed647287b04a0f8f755f22dcba850b998896c43f98c322b7dac92928617f05cd",
+  "question": "Will Tisza win 110–119 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.89,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 24603.384894,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7585,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854396+00:00"
+ },
+ {
+  "market_id": "0x677004594de72bcf3eccecabb02417321327e346d4f319c0c67f860aa54d98de",
+  "question": "Will Tisza win 100–109 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.875,
+  "confidence": 0.3981,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0031,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 31076.21563999999,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8494,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854490+00:00"
+ },
+ {
+  "market_id": "0x7acc9d4b61238509b78c191b27f3292a2079291c839e8640e6586099e9f54ca7",
+  "question": "Will Fidesz-KDNP win 85-99 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.875,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0018,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 18371.281708000013,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6299,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854501+00:00"
+ },
+ {
+  "market_id": "0x2ed2dc9dd07c9aa7d0c26657d440dda2aba2804d800b5f261aff965f5ac4a862",
+  "question": "Will Fidesz-KDNP win 100-114 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0023,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 22669.236804000015,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7234,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854748+00:00"
+ },
+ {
+  "market_id": "0xeecd44689018299e5bb500c12796b6bc0c279086b15623c358fa2a9aa1cbf4d7",
+  "question": "Will Tisza win 120-129 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.795,
+  "confidence": 0.3981,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.002,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-tisza-in-hungary-parliamentary-election",
+  "volume": 19827.338857000002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854998+00:00"
+ },
+ {
+  "market_id": "0x5462ac83b5eb0b7d8aeb8d4ce99c05a49cc92dd24a667d60eb911ff96cccfc8a",
+  "question": "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.78,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0021,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 21207.561345999995,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.694,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855041+00:00"
+ },
+ {
+  "market_id": "0xe8abe0a4c0a6e69d5bded5cf336a9db47edc6b67bcc00f97339c001530105cc7",
+  "question": "Will Fidesz-KDNP win 36-40% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.725,
+  "confidence": 0.4071,
+  "composite_score": 0.4023,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0016,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 15634.712126000002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5586,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855191+00:00"
+ },
+ {
+  "market_id": "0xcec9024b36a711d9dec8494a0caaffc94166f2736f1cef4e54f7b50d22df4881",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 12-15%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.92,
+  "confidence": 0.38,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-popular-vote-margin-of-victory-higher-strikes-for-tisza",
+  "volume": 9899.507149000003,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3795,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854218+00:00"
+ },
+ {
+  "market_id": "0x216da290ea27fad4c1f50ea01793611c547bbfaf388dac82d1f4e645ca3b6ea7",
+  "question": "Will Fidesz-KDNP win 44-48% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.407,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 9928.946450000003,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3805,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854364+00:00"
+ },
+ {
+  "market_id": "0x2ee3d2f002266cec11a2858032a392a10357e94a8e25cc733d2d02a6cdc995a0",
+  "question": "Will TISZA win <42% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.895,
+  "confidence": 0.407,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 13016.07724800001,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4817,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854386+00:00"
+ },
+ {
+  "market_id": "0x586bf91187e0517f41595f850486fe1401220e59abd477a6d5d34b7882fd23c0",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 18%+?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.38,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0012,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-popular-vote-margin-of-victory-higher-strikes-for-tisza",
+  "volume": 12063.736331000002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4516,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854449+00:00"
+ },
+ {
+  "market_id": "0xe8f8bc52bb22ad4c03e8bfc045a5dad8081df2ed58d8e8411b29b82d1797bccf",
+  "question": "Will Rafael López Aliaga finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.398,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6541,
+   "arbitrage": 0.0,
+   "volume": 0.0027,
+   "news_volume": 0.7705
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9221,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 27034.513379999993,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7972,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854569+00:00"
+ },
+ {
+  "market_id": "0x827f934c395476c3c0bb080640ea34c6f5fb69f0567d2d96c1547fb16226c7db",
+  "question": "Will TISZA win 42-46% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.851,
+  "confidence": 0.398,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 8411.900716000004,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3269,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854632+00:00"
+ },
+ {
+  "market_id": "0x5e53afc07eb93e3a6ee2ef294d77573995d138caeee79621870c9eedb5424888",
+  "question": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 9-12%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.83,
+  "confidence": 0.38,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-popular-vote-margin-of-victory-higher-strikes-for-tisza",
+  "volume": 10623.203835000008,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4042,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854779+00:00"
+ },
+ {
+  "market_id": "0x33f542bf6dcc1ee06d01baf47df5dc5ccc9b0d7949a5c0e12173beceb9c15d9b",
+  "question": "Will Fidesz-KDNP win <36% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.407,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-of-popular-vote",
+  "volume": 12997.964818000004,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4811,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854810+00:00"
+ },
+ {
+  "market_id": "0x01510d4f36a4055795345072479f71f432533d2c2bf2f3265eaa142d34306914",
+  "question": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.805,
+  "confidence": 0.407,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-fidesz-kdnp-in-hungary-parliamentary-election",
+  "volume": 14376.65700400001,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5227,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854976+00:00"
+ },
+ {
+  "market_id": "0xe513384e1b9a4dcd3b2e260b0909bfe129fde31a26171982ae3e47cefc10c8c3",
+  "question": "Will TISZA win 46-50% of the national list votes in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.715,
+  "confidence": 0.362,
+  "composite_score": 0.4022,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-tisza-of-popular-vote",
+  "volume": 7917.536625999997,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.309,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855223+00:00"
+ },
+ {
+  "market_id": "0xce73e7ebf919c4f1e188d8004b756d538195642444df5837817103832d14ab62",
+  "question": "Will Keiko Fujimori finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.795,
+  "confidence": 0.4069,
+  "composite_score": 0.4021,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6541,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.7705
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9221,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 14193.651729999981,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5173,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855010+00:00"
+ },
+ {
+  "market_id": "0xc551420275c24cd31d2efa28bf28d7445e58aa8ebdcc5b56fe440ea8ebcec3d4",
+  "question": "Will Carlos Álvarez finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7535,
+  "confidence": 0.3799,
+  "composite_score": 0.4021,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6541,
+   "arbitrage": 0.0,
+   "volume": 0.0012,
+   "news_volume": 0.7705
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9221,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 12528.841473,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4664,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855150+00:00"
+ },
+ {
+  "market_id": "0x75f8b593544f1132e30d9908c57f44ffeb287499d9cb589dfa6cb9bfed23183d",
+  "question": "Will Ricardo Belmont finish in second place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7434999999999999,
+  "confidence": 0.3799,
+  "composite_score": 0.4021,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6541,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.7705
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9221,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-2nd-place",
+  "volume": 13877.054294999993,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5079,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855161+00:00"
+ },
+ {
+  "market_id": "0xfc49ecd32aa60f9f8ffc94ef1fc2911da5c79b1317744adc3258f050c90696e2",
+  "question": "Will Christine Fréchette be the next Premier of Quebec following the 2026 CAQ leadership elections?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.775,
+  "confidence": 0.3795,
+  "composite_score": 0.4017,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7442,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.3118
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.904,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, Apr. 9: Nio Erases Early Gains Following New Electric SUV Launch - Yahoo Finance",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "Does partisan politics have a place in SC schools? Leadership says yes - Greenville Online",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/next-premier-of-quebec",
+  "volume": 8385.489791000004,
+  "ends_in": "1g 10s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.326,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855096+00:00"
+ },
+ {
+  "market_id": "0x7252398064f340c59ac11e5625bd4ad6c60bf3fb779011d4934210dc21b01291",
+  "question": "Will Trump say \"Six Seven\" this week? (April 12)",
+  "predicted_side": "NO",
+  "predicted_prob": 0.92,
+  "confidence": 0.3785,
+  "composite_score": 0.4006,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6748,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.6367
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9182,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Melania Trump denies Epstein ties - The Week",
+    "score": -0.4621
+   },
+   {
+    "title": "VP Vance is in Pakistan this weekend for ceasefire talks with Iran. An ex-Trump Iran negotiator shares his best-case scenario - CNN",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-this-week-april-12",
+  "volume": 8666.317692999999,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3361,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854252+00:00"
+ },
+ {
+  "market_id": "0x196f7f51b8ff140e2ad65b4ad16bc20fc8a052bd967e8ea7c5d12938459a0435",
+  "question": "Will Trump say \"Witch\" this week? (April 12)",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3785,
+  "composite_score": 0.4006,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6748,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.6367
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9182,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Melania Trump denies Epstein ties - The Week",
+    "score": -0.4621
+   },
+   {
+    "title": "VP Vance is in Pakistan this weekend for ceasefire talks with Iran. An ex-Trump Iran negotiator shares his best-case scenario - CNN",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-this-week-april-12",
+  "volume": 6507.5283660000005,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2567,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854612+00:00"
+ },
+ {
+  "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+  "question": "Will the next Prime Minister of Hungary be Péter Magyar?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.705,
+  "confidence": 0.3598,
+  "composite_score": 0.3998,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5627,
+   "arbitrage": 0.0,
+   "volume": 0.9194,
+   "news_volume": 0.2625
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9366,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   },
+   {
+    "title": "Orbán or Magyar: EU braces for veto politics or a cautious reset - Euronews.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Hungary election 2026: power, billions and Orban's rule - DW.com",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/next-prime-minister-of-hungary",
+  "volume": 9217521.635051234,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855256+00:00"
+ },
+ {
+  "market_id": "0x756a30c26d295fadcdcbd8914f439dc03ac45dda20d39921277b712fc73f35d7",
+  "question": "Will a different combination of candidates advance to the runoff?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8065000000000001,
+  "confidence": 0.3852,
+  "composite_score": 0.388,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6792,
+   "arbitrage": 0.0,
+   "volume": 0.005,
+   "news_volume": 0.3595
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9174,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, March 17: Micron Advances Ahead of Earnings as Tight HBM Supply Lifts AI Memory Outlook - The Motley Fool",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "In Advanced Democracies, Politics May Be Moving Beyond Policy - Stanford University",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/which-candidates-advance-to-2026-peru-presidential-runoff",
+  "volume": 50154.607880000025,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9657,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854964+00:00"
+ },
+ {
+  "market_id": "0x8153292497d6fd565744dcd34791082fa8fa5eafa8f55c8d017e557af8133002",
+  "question": "Will the 7-day moving average of Strait of Hormuz transits be between 4 and 7 on April 12, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7225,
+  "confidence": 0.3411,
+  "composite_score": 0.379,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6023,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.5684
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9307,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Strait of Hormuz Gridlock: How the U.S.-Iran Conflict Impacts Oil Prices and More | Investing | U.S. News - U.S. News Money",
+    "score": -0.7616
+   },
+   {
+    "title": "2026 Iran war | Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+    "score": -0.7616
+   },
+   {
+    "title": "In Advanced Democracies, Politics May Be Moving Beyond Policy - Stanford University",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/avg-of-ships-transiting-strait-of-hormuz-on-april-12",
+  "volume": 5505.890582,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2186,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855212+00:00"
+ },
+ {
+  "market_id": "0x00373f48342212cfc74833f43e61eed5efd678b37ec212622fc68c551249e963",
+  "question": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.84,
+  "confidence": 0.3397,
+  "composite_score": 0.3775,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5101,
+   "arbitrage": 0.0,
+   "volume": 0.0092,
+   "news_volume": 0.9898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9433,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Iran Ceasefire Talks To US Earnings Season: Five Key Market Trends To Watch Next Week - NDTV Profit",
+    "score": 0.9051
+   },
+   {
+    "title": "Crypto Surges on Ceasefire Hopes — Bitcoin Reclaims $71K, Ethereum Nears $2,250, But Can the Rally Hold? - Coinpedia Fintech News",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-broken-by",
+  "volume": 91902.2294510001,
+  "ends_in": "4g 4s 39d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9988,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854727+00:00"
+ },
+ {
+  "market_id": "0xf8d9cd66b6243209edf9312b14701622f64578e17e1f2eb678f24819433d7619",
+  "question": "Trump announces US x Iran ceasefire end by April 12, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.92,
+  "confidence": 0.3569,
+  "composite_score": 0.3765,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5056,
+   "arbitrage": 0.0,
+   "volume": 0.0156,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9438,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Iran Ceasefire Talks To US Earnings Season: Five Key Market Trends To Watch Next Week - NDTV Profit",
+    "score": 0.9051
+   },
+   {
+    "title": "Crypto Surges on Ceasefire Hopes — Bitcoin Reclaims $71K, Ethereum Nears $2,250, But Can the Rally Hold? - Coinpedia Fintech News",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 155915.55513699973,
+  "ends_in": "2g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854268+00:00"
+ },
+ {
+  "market_id": "0x46f15cb064fb468e39de360f14f5847898ef9b1489d15e9df702b92f1836598d",
+  "question": "Trump announces US x Iran ceasefire end by April 15, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3564,
+  "composite_score": 0.376,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5056,
+   "arbitrage": 0.0,
+   "volume": 0.0055,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9438,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Iran Ceasefire Talks To US Earnings Season: Five Key Market Trends To Watch Next Week - NDTV Profit",
+    "score": 0.9051
+   },
+   {
+    "title": "Crypto Surges on Ceasefire Hopes — Bitcoin Reclaims $71K, Ethereum Nears $2,250, But Can the Rally Hold? - Coinpedia Fintech News",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 54728.37461299997,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9761,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854622+00:00"
+ },
+ {
+  "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
+  "question": "Will the next Prime Minister of Hungary be Viktor Orbán?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.705,
+  "confidence": 0.3352,
+  "composite_score": 0.3724,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4373,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.2625
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9505,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Hungary election 2026: power, billions and Orban's rule - DW.com",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/next-prime-minister-of-hungary",
+  "volume": 10025989.434460193,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855246+00:00"
+ },
+ {
+  "market_id": "0xa0cf22a3a9ecbe4131e25cbe1273ee0345cd04c4bc50280c632acbab8bcd4000",
+  "question": "Houthis successfully target shipping by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9125,
+  "confidence": 0.3458,
+  "composite_score": 0.3642,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.55,
+   "arbitrage": 0.0,
+   "volume": 0.0032,
+   "news_volume": 0.5309
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9383,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls - Reuters",
+    "score": -0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP - Coinpedia Fintech News",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/houthis-successfully-target-shipping-by-march-31",
+  "volume": 31673.248974000016,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8559,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854342+00:00"
+ },
+ {
+  "market_id": "0xcb9cf7bbd8a94c3faa3a78108fbec9cda874b021c655d243054e8f3ebfe477be",
+  "question": "Will Our Homeland Movement (Mi Hazánk) win at least one seat in the next Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.715,
+  "confidence": 0.363,
+  "composite_score": 0.3633,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5239,
+   "arbitrage": 0.0,
+   "volume": 0.0101,
+   "news_volume": 0.6367
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9417,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-which-parties-enter-parliament",
+  "volume": 101296.66010600001,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9994,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855235+00:00"
+ },
+ {
+  "market_id": "0xa312499c150a1ca94b788c99f6ae721cbbdfda7679b5d25580fe79d514fdb930",
+  "question": "Will Fidesz–KDNP win the most seats in the next Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.765,
+  "confidence": 0.3448,
+  "composite_score": 0.3631,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.2705,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-winner",
+  "volume": 2712229.5284199794,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855118+00:00"
+ },
+ {
+  "market_id": "0xfcde02af15efe40e336d67f0ef9aa49e9d40c37b92961fb890afc4afdbfe54d6",
+  "question": "Will TISZA – Respect and Freedom Party (TISZA) win the most seats in the next Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.765,
+  "confidence": 0.3443,
+  "composite_score": 0.3626,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.2612,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-winner",
+  "volume": 2618719.5590340025,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855129+00:00"
+ },
+ {
+  "market_id": "0xae6d3d20bc8f742922dc40880cd8a8671c10385a9912fa7cd670fba0643dfe96",
+  "question": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.3659,
+  "composite_score": 0.3566,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1405,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 1408698.9166070018,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854535+00:00"
+ },
+ {
+  "market_id": "0x93908e1864c6af41f6eae75716c4b68a5dd9ccb27cc1fca7401a560639d3e483",
+  "question": "Will the Kharg Island oil terminal be hit by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8895000000000001,
+  "confidence": 0.3207,
+  "composite_score": 0.3563,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5812,
+   "arbitrage": 0.0,
+   "volume": 0.0595,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.934,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump hits bull’s eye with US sanctions? Why India, China may stop buying Russian oil - explained - The Times of India",
+    "score": -0.4621
+   },
+   {
+    "title": "Oil Can Hit $91 a Barrel in Late 2026 on Iran Disruption - BloombergNEF",
+    "score": 0.0
+   },
+   {
+    "title": "The Commodities Feed: Persian Gulf disruptions hitting upstream oil production - ING THINK economic and financial analysis | ING THINK",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-the-kharg-island-oil-terminal-be-hit-by-march-31",
+  "volume": 596605.7238429995,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854428+00:00"
+ },
+ {
+  "market_id": "0x9b14ba5cc37a35c0db2c9849e631d98195670be4a0f91233a81529f22a7a5949",
+  "question": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8565,
+  "confidence": 0.3643,
+  "composite_score": 0.3548,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1052,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-winner",
+  "volume": 1054848.3770109995,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854580+00:00"
+ },
+ {
+  "market_id": "0xbaca6ec0fd213cd34c664e85e8142cf8b3944dc9a83ec7e1fdfc8dddca0bcc0b",
+  "question": "Will Ricardo Belmont finish in first place in the first round of the 2026 Peruvian presidential election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7555,
+  "confidence": 0.3166,
+  "composite_score": 0.3518,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.006,
+   "news_volume": 0.5309
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-winner",
+  "volume": 60049.06330100002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9844,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855140+00:00"
+ },
+ {
+  "market_id": "0xbc6878370fd040a07cda65736c351e2cbdd7bbf572c4a22f82789cb8ce1cbfbf",
+  "question": "Will another outcome occur in the 2026 Hungarian Parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.84,
+  "confidence": 0.3524,
+  "composite_score": 0.3516,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0018,
+   "news_volume": 0.5309
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-election-popular-vote-margin-of-victory-higher-strikes-for-tisza",
+  "volume": 17618.964747000005,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6112,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854705+00:00"
+ },
+ {
+  "market_id": "0x05b3c4a8779f467c490d05894d66634e7ed0bc982eed4463ca90fd1f59b78d1f",
+  "question": "Will Juntos por el Perú (JP) win the most seats in the 2026 Peruvian Senate election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8895000000000001,
+  "confidence": 0.3604,
+  "composite_score": 0.3505,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4744,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.6367
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9471,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-senate-election-winner",
+  "volume": 10559.895539000001,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.402,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854417+00:00"
+ },
+ {
+  "market_id": "0x46b9703e797f1364a2e581a1fc5566e0b9f57df966b523225e7c306b8b5466d8",
+  "question": "Will voter turnout be 80%+ in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.871,
+  "confidence": 0.3507,
+  "composite_score": 0.3497,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0022,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 21845.76960499999,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7071,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854512+00:00"
+ },
+ {
+  "market_id": "0x40ba14f564299cf961b9ed3775f5fed4a64dc3e25b9a4e2b5994844960aa0fec",
+  "question": "Will voter turnout be 77–80% in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3597,
+  "composite_score": 0.3497,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.002,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 20042.130609000014,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6689,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854590+00:00"
+ },
+ {
+  "market_id": "0xa8ead08042fd3b159b252ed8accfd548809fa260f2f40eddf2ae75e37f9df105",
+  "question": "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.705,
+  "confidence": 0.3417,
+  "composite_score": 0.3497,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.002,
+   "news_volume": 0.4912
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/turnout-in-2026-hungary-parliamentary-election",
+  "volume": 20495.680301999997,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6788,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855267+00:00"
+ },
+ {
+  "market_id": "0xce4b3c1a4c41e1576598ca465ca327f60240e4033524836e5adfa7ef4f4036e9",
+  "question": "Will Tisza win the most national list votes in the 2026 Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.84,
+  "confidence": 0.3583,
+  "composite_score": 0.3481,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3887,
+   "arbitrage": 0.0,
+   "volume": 0.0317,
+   "news_volume": 0.9873
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9541,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-popular-vote-winner",
+  "volume": 318298.10510000016,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854694+00:00"
+ },
+ {
+  "market_id": "0x83b661c9e68dde865ac656f20a57572e7168239445bdbde65ea6665b7a4100e4",
+  "question": "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Chamber of Deputies election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.3281,
+  "composite_score": 0.3446,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4716,
+   "arbitrage": 0.0,
+   "volume": 0.0036,
+   "news_volume": 0.5309
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9474,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-chamber-of-deputies-election-winner",
+  "volume": 35776.59763499998,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8944,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854738+00:00"
+ },
+ {
+  "market_id": "0xa485bd8d15385c0350be0a54fe47475252e02d6cb69a673a9591ab27911826f1",
+  "question": "Will Patrick Reed finish in the Top 20 at the 2026 Augusta National Invitational?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.3233,
+  "composite_score": 0.3392,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3638,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.9633
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "War, Artificial Intelligence, and the Future of Conflict - Georgetown Journal of International Affairs",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-masters-tournament-top20",
+  "volume": 7958.456184999999,
+  "ends_in": "1g 8s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3105,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855021+00:00"
+ },
+ {
+  "market_id": "0xa44566e684a257c0f0c2a6416edf100722472ca3ecab7ad3222db79bdbe9f3bc",
+  "question": "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Senate election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.775,
+  "confidence": 0.3044,
+  "composite_score": 0.3382,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4464,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.5309
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9498,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   },
+   {
+    "title": "Viktor Orbán Could Actually Lose Sunday’s Hungarian Election - The Atlantic",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump’s divisive role in California politics is on display as GOP prepares election endorsements - News From The States",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-senate-election-winner",
+  "volume": 8524.300142,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.331,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855052+00:00"
+ },
+ {
+  "market_id": "0xa1382774a845a9ad8ac85d6353d13a3daf42790718dd16f38dd998610a308332",
+  "question": "Will Solana reach $90 April 6-12?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.82,
+  "confidence": 0.321,
+  "composite_score": 0.3367,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4653,
+   "arbitrage": 0.0,
+   "volume": 0.0018,
+   "news_volume": 0.4054
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.948,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Solana, XRP, Dogecoin Show Signs Of Bottoming: Watch This 'Golden Zone' - Benzinga",
+    "score": 0.4621
+   },
+   {
+    "title": "Every Major Altcoin Dipped in Q1: Can XRP, Solana, and Ethereum Bounce Back in Q2? - 24/7 Wall St.",
+    "score": 0.4621
+   },
+   {
+    "title": "What Do Bitcoin, Ethereum XRP, and Solana Prices Actually Tell Us? Is the Recent Rally a Trap? - Cryptonews.net",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-april-6-12",
+  "volume": 17684.057119999998,
+  "ends_in": "2g 8s 39d",
+  "end_date": "13 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6129,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854790+00:00"
+ },
+ {
+  "market_id": "0xea9347d65a2efb24c1733ae8e94728116aeb603860dfec43b36e5a5ff424368f",
+  "question": "Will another outcome occur in the the first round of the 2026 Peruvian presidential elections?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.887,
+  "confidence": 0.3177,
+  "composite_score": 0.333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "May elections: what five politics experts are looking out for - The Conversation",
+    "score": 0.0
+   },
+   {
+    "title": "The ‘peace president’ launches another military conflict [column] - LancasterOnline",
+    "score": 0.0
+   },
+   {
+    "title": "How Does Presidential Order on AI Regulation Affect States? - UC Davis",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/peru-presidential-election-first-round-margin-of-victory",
+  "volume": 6457.111680000001,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2548,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854439+00:00"
+ },
+ {
+  "market_id": "0x0214efd795ce4e8a54884faa52bacd4eeea7b4958fcf6f6649843bdc70c8fd0c",
+  "question": "Will Justin Rose win the 2026 Masters tournament?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.2984,
+  "composite_score": 0.3315,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1297,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/the-masters-winner-2026",
+  "volume": 1300040.415273003,
+  "ends_in": "2g 4s 39d",
+  "end_date": "13 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854304+00:00"
+ },
+ {
+  "market_id": "0x2b3e9527e0ac076cfe1337e3cc5e10af652d6fb83f7e292be800d4a7b2f4513e",
+  "question": "Will Argentina’s monthly inflation in March 2026 be between 3.1% and 3.3%?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.705,
+  "confidence": 0.2976,
+  "composite_score": 0.3307,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4603,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.3118
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9485,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Inflation meets geopolitics: CPI, PPI & policy headlines to set tone - ThinkMarkets",
+    "score": -0.4621
+   },
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "Commodities Face Pressure: Oil Price Surge Heightens Persistent Inflation Concerns Among Shoppers and Analysts - Bitget",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/argentina-monthly-inflation-march",
+  "volume": 10486.366686000001,
+  "ends_in": "3g 4s 39d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3995,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855277+00:00"
+ },
+ {
+  "market_id": "0xee7337bfd0f02a8107243283ca623db579d9f3debac0c5f42413c427bfeebfe3",
+  "question": "Will someone else win the 2026 FIDE Women's Candidates Tournament?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8495,
+  "confidence": 0.2949,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.0537
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "District Attorney, Sheriff Candidates to Attend Forum - Midcoast Villager",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-fide-womens-candidates-tournament-winner",
+  "volume": 5216.356236999999,
+  "ends_in": "6g 4s 39d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2074,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854653+00:00"
+ },
+ {
+  "market_id": "0x51109a2d8f1f4d15d702d69783f41bee0440f9e36ad4337d5fe00f8c864aaa0f",
+  "question": "DeepSeek V4 released by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.3114,
+  "composite_score": 0.326,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0196,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/deepseek-v4-released-by-march-31",
+  "volume": 196028.22155700016,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854314+00:00"
+ },
+ {
+  "market_id": "0xced98d0868ecc91d9e94a5edb2c19b6652356df3c2a8f583f6ed5e3c66bd0693",
+  "question": "GPT-5.5 released by April 15, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.85,
+  "confidence": 0.311,
+  "composite_score": 0.3255,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0097,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 97313.71816499994,
+  "ends_in": "5g 4s 39d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9992,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854643+00:00"
+ },
+ {
+  "market_id": "0xb418ec5494f6cc82f0ff5a82c71a151e75ad766dcc82ca31c932fe91584d3abe",
+  "question": "Will Fidesz-KDNP win at least 90 seats?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.725,
+  "confidence": 0.2928,
+  "composite_score": 0.3253,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0066,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-wins-seats",
+  "volume": 65708.75269700006,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9901,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855200+00:00"
+ },
+ {
+  "market_id": "0x77b894271b51686dcb0785cf69b39f33e550378a6e7bd3d847f616aef5c90609",
+  "question": "Will Tisza win at least 100 seats?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.74,
+  "confidence": 0.3107,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0038,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-tisza-wins-at-least-seats",
+  "volume": 37791.20260399995,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9095,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855170+00:00"
+ },
+ {
+  "market_id": "0xf493d343a2588ec38173edee124b25a9a891b8149080564fa25c2b50cf126bde",
+  "question": "Will Fidesz-KDNP win at least 110 seats?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.845,
+  "confidence": 0.3376,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0016,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-wins-seats",
+  "volume": 16535.28336,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5831,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854674+00:00"
+ },
+ {
+  "market_id": "0x83a55156056596a6cd6f9e06a854c3e1908a2e1dbd8c16057fc099477e9d3b31",
+  "question": "Will Tisza win at least 90 seats?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.3376,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0019,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-tisza-wins-at-least-seats",
+  "volume": 19188.827610999997,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6494,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854759+00:00"
+ },
+ {
+  "market_id": "0x6aa5e3f58080a2fbb35bee826abe845739911f29992d2db53c658d5d15cec458",
+  "question": "Will Fidesz-KDNP win at least 100 seats?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.3286,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0023,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-wins-seats",
+  "volume": 23029.209307,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7302,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855062+00:00"
+ },
+ {
+  "market_id": "0xaeaf19bac7b633b976bb37ee13518d1e81f5f08032970aefde8b4664fab88f0f",
+  "question": "Will Fidesz-KDNP win at least 60 seats?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.3105,
+  "composite_score": 0.325,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/hungary-election-fidesz-kdnp-wins-seats",
+  "volume": 8651.093278000004,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3355,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854769+00:00"
+ },
+ {
+  "market_id": "0x64272108967f36ddd6e58619d6a0b6f2d26b975e929b61502d1206a1af56d1b8",
+  "question": "Will the first eaglet hatch on April 12, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7885,
+  "confidence": 0.2925,
+  "composite_score": 0.325,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/when-will-the-first-eaglet-hatch",
+  "volume": 6471.0600680000025,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2553,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855031+00:00"
+ },
+ {
+  "market_id": "0x2f2b608e0a767d2778113b3d51cf18c555622632c74c665648539b0807b7b034",
+  "question": "Will Fidesz–KDNP finish with the second-most seats in the next Hungarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.775,
+  "confidence": 0.3085,
+  "composite_score": 0.3228,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3408,
+   "arbitrage": 0.0,
+   "volume": 0.005,
+   "news_volume": 0.7477
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9565,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   },
+   {
+    "title": "Brave New “Tariff” World: Secondary Tariffs as a New Form of Secondary Sanctions* - EJIL: Talk!",
+    "score": -0.9051
+   },
+   {
+    "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’ - The Guardian",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/hungary-parliamentary-election-2nd-place",
+  "volume": 50568.87414299998,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9668,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855072+00:00"
+ },
+ {
+  "market_id": "0x639dc7882509b0cdcf5c3c54b6e12f01b78bc591755bd535f9d2b6e103ea2db6",
+  "question": "JD Vance diplomatic meeting with Iran by April 11?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.82,
+  "confidence": 0.2845,
+  "composite_score": 0.3161,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4321,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.951,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US-Iran tensions: The diplomatic scramble to prevent a war - Al Jazeera",
+    "score": -0.7616
+   },
+   {
+    "title": "VP Vance is in Pakistan this weekend for ceasefire talks with Iran. An ex-Trump Iran negotiator shares his best-case scenario - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "How Vance is navigating peace talks with Iran — and his own political future - CNN",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/jd-vance-diplomatic-meeting-with-iran-by",
+  "volume": 6669.162260000002,
+  "ends_in": "1g 4s 39d",
+  "end_date": "11 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2628,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854800+00:00"
+ },
+ {
+  "market_id": "0xa961b6079bb7fb06b37dbc98df04fc568133fe7dfb788f7c066cbc52dcb40474",
+  "question": "Will Jadoodoo win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.2995,
+  "composite_score": 0.3128,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0012,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Geopolitics and trade policy are becoming intertwined. Here's how it's impacting the global economy - The World Economic Forum",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 12165.694133,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4549,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854460+00:00"
+ },
+ {
+  "market_id": "0x90665ddb867b069d3d51ac5709f4dcf59c0bc846f3323ce58aa86ed3634a9aa1",
+  "question": "Will MINHxDYNASTY win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.2995,
+  "composite_score": 0.3128,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Geopolitics and trade policy are becoming intertwined. Here's how it's impacting the global economy - The World Economic Forum",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 11425.158829999997,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4309,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854601+00:00"
+ },
+ {
+  "market_id": "0x0a5b2d91711173467cdd12b62530a2658d7d98b67dce4285967ef748d4155a61",
+  "question": "Will Elisa win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.2994,
+  "composite_score": 0.3127,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Geopolitics and trade policy are becoming intertwined. Here's how it's impacting the global economy - The World Economic Forum",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 5686.450941,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2255,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854331+00:00"
+ },
+ {
+  "market_id": "0x8cfa0af5981b37d862f99100b85a07d77a1510cb1dc4fac02e61b43af3b94117",
+  "question": "Will Jim Parillo win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.88,
+  "confidence": 0.2814,
+  "composite_score": 0.3127,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Geopolitics and trade policy are becoming intertwined. Here's how it's impacting the global economy - The World Economic Forum",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 5964.14546,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2361,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854470+00:00"
+ },
+ {
+  "market_id": "0x5df8bfe979cdd8a82b2e91ac65e01955740f1348bbe2f5ce70d35df0a4029aae",
+  "question": "Will Prodzy win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.2814,
+  "composite_score": 0.3127,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Geopolitics and trade policy are becoming intertwined. Here's how it's impacting the global economy - The World Economic Forum",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 5784.075575999999,
+  "ends_in": "5g 4s 39d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2292,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854557+00:00"
+ },
+ {
+  "market_id": "0x004b4ba04472578e44f0cc6960cb811dcbdb1a0f51d5aef499d054e5a699d68a",
+  "question": "Will \"Headshot\" be said 10+ times during the PGL Bucharest 2026 Grand Final?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.84,
+  "confidence": 0.2529,
+  "composite_score": 0.281,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.292,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.1599
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "U.S. Sen. Jeanne Shaheen criticizes war in Iran, party-line politics during Watson fireside chat - The Brown Daily Herald",
+    "score": -0.7616
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Should You Sell Investments During Times of Military Conflict? - Williamson Herald",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-be-said-during-the-pgl-bucharest-2026-grand-final",
+  "volume": 7700.2036370000005,
+  "ends_in": "4s 39d",
+  "end_date": "11 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3011,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854716+00:00"
+ },
+ {
+  "market_id": "0xd7963ee082c656c981d0518dfcd5e2884d9e7d0be176edf65f4ac79551a287b9",
+  "question": "Will Bernard Drainville be the next Premier of Quebec following the 2026 CAQ leadership elections?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.2696,
+  "composite_score": 0.2796,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2558,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.3118
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, Apr. 9: Nio Erases Early Gains Following New Electric SUV Launch - Yahoo Finance",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "Does partisan politics have a place in SC schools? Leadership says yes - Greenville Online",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/next-premier-of-quebec",
+  "volume": 7582.130466999997,
+  "ends_in": "1g 10s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2967,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.855085+00:00"
+ },
+ {
+  "market_id": "0x7f1813724d4e7a7e0fcf83187fc23a1f68887f317d2d0cc6eeb1566d5ef658d9",
+  "question": "Will Rafael López Aliaga and Keiko Fujimori advance to the runoff?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.288,
+  "composite_score": 0.27,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2365,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.2118
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, March 17: Micron Advances Ahead of Earnings as Tight HBM Supply Lifts AI Memory Outlook - The Motley Fool",
+    "score": 0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "In Advanced Democracies, Politics May Be Moving Beyond Policy - Stanford University",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/which-candidates-advance-to-2026-peru-presidential-runoff",
+  "volume": 50672.54594999994,
+  "ends_in": "1g 4s 39d",
+  "end_date": "12 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.967,
+  "checked": false,
+  "timestamp": "2026-04-10T19:20:42.854547+00:00"
+ }
+]
