@@ -2638,6 +2638,12 @@
     "yes": 22.5,
     "no": 77.5,
     "volume": 2227145.021442011
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 15.05,
+    "no": 84.95,
+    "volume": 3781030.827937997
    }
   ]
  },
@@ -2906,6 +2912,12 @@
     "yes": 8.5,
     "no": 91.5,
     "volume": 5686.450941
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 24.45,
+    "no": 75.55,
+    "volume": 7167.1350410000005
    }
   ]
  },
@@ -2957,6 +2969,12 @@
     "yes": 12.5,
     "no": 87.5,
     "volume": 12326.974133000002
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 26.5,
+    "no": 73.5,
+    "volume": 14011.823869000002
    }
   ]
  },
@@ -2997,6 +3015,12 @@
     "yes": 8.5,
     "no": 91.5,
     "volume": 31816.824182000015
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 15.25,
+    "no": 84.75,
+    "volume": 39371.94274500002
    }
   ]
  },
@@ -3121,6 +3145,12 @@
     "yes": 11.5,
     "no": 88.5,
     "volume": 84358.89143199997
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 17.5,
+    "no": 82.5,
+    "volume": 245335.00337199995
    }
   ]
  },
@@ -3178,6 +3208,12 @@
     "yes": 14.5,
     "no": 85.5,
     "volume": 11461.658829999997
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 14.5,
+    "no": 85.5,
+    "volume": 23311.135919999993
    }
   ]
  },
@@ -3725,6 +3761,12 @@
     "yes": 8.5,
     "no": 91.5,
     "volume": 1300040.415273003
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 8.7,
+    "no": 91.3,
+    "volume": 2065831.9058480076
    }
   ]
  },
@@ -3753,6 +3795,12 @@
     "yes": 8.0,
     "no": 92.0,
     "volume": 8095.866368
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 25.7,
+    "no": 74.3,
+    "volume": 9086.629055
    }
   ]
  },
@@ -3770,6 +3818,12 @@
     "yes": 13.5,
     "no": 86.5,
     "volume": 7641.075575999999
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 22.2,
+    "no": 77.8,
+    "volume": 8331.386414999997
    }
   ]
  },
@@ -3787,6 +3841,12 @@
     "yes": 9.75,
     "no": 90.25,
     "volume": 5562.739511
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 16.4,
+    "no": 83.6,
+    "volume": 6250.990551
    }
   ]
  },
@@ -3826,6 +3886,12 @@
     "yes": 12.5,
     "no": 87.5,
     "volume": 115144.89284899995
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 22.5,
+    "no": 77.5,
+    "volume": 172358.16672599997
    }
   ]
  },
@@ -3966,6 +4032,12 @@
     "yes": 70.5,
     "no": 29.5,
     "volume": 10486.366686000001
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 76.5,
+    "no": 23.5,
+    "volume": 11559.669489
    }
   ]
  },
@@ -3988,6 +4060,12 @@
     "yes": 90.5,
     "no": 9.5,
     "volume": 5591.571067999998
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 91.0,
+    "no": 9.0,
+    "volume": 6992.102958999998
    }
   ]
  },
@@ -4076,6 +4154,12 @@
     "yes": 16.0,
     "no": 84.0,
     "volume": 757838.9330720014
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 11.3,
+    "no": 88.7,
+    "volume": 853853.2658090012
    }
   ]
  },
@@ -4098,6 +4182,12 @@
     "yes": 71.5,
     "no": 28.5,
     "volume": 11251.896827
+   },
+   {
+    "date": "2026-04-12",
+    "yes": 80.5,
+    "no": 19.5,
+    "volume": 14188.111623000003
    }
   ]
  },
@@ -4109,6 +4199,270 @@
     "yes": 29.65,
     "no": 70.35,
     "volume": 208138.02220299988
+   }
+  ]
+ },
+ "0xaf93b610c00a31e853ca42851aebb2221923ce50ac79b43d845971b3e9f66ba7": {
+  "question": "Will FURIA win IEM Rio 2026?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 7032.432885000003
+   }
+  ]
+ },
+ "0x43bb5dcb17b2a2a0b236701f83bc28e34b952054ccc7d94575ba70e90353c506": {
+  "question": "Will Falcons win IEM Rio 2026?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 6595.263484000001
+   }
+  ]
+ },
+ "0x63b06814bed2a8893b864a6504ec7f2abcfdad7b4bd5a7a06c4d873df5400e61": {
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 15-20%?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 9.0,
+    "no": 91.0,
+    "volume": 12890.411397
+   }
+  ]
+ },
+ "0xb05cb7526143304dbfef5dac572e636ca9cf0ab47228b20694fcddb34af9bcd8": {
+  "question": "Will Velichie (Velichie) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 9.5,
+    "no": 90.5,
+    "volume": 24290.082297
+   }
+  ]
+ },
+ "0x91a9c860963f2abfb7bbef38737c9afb9bb921f0222947dd83ecb00dc2614976": {
+  "question": "Will JPMorgan Chase (JPM) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 89.5,
+    "no": 10.5,
+    "volume": 5172.920675999999
+   }
+  ]
+ },
+ "0xf6add9bf74e6cb7e645b969ade966c20e94042503612b89c61212cd60597774e": {
+  "question": "U.S. forces seize another oil tanker by April 15?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 11.05,
+    "no": 88.95,
+    "volume": 87349.99826200002
+   }
+  ]
+ },
+ "0x4e0d3a265577108a73a8517be376da0f5ba00514311a0a6b352ba6619fefeba4": {
+  "question": "Will \"House Tour\" get 15 million or more views in the first week?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 13383.697451999993
+   }
+  ]
+ },
+ "0xfabe32aadba3b67958f9b7416a0080129586c0f52bb2a22f48c1015ebd4d7e86": {
+  "question": "Will Kurt win the Legend Trade Series?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 14.15,
+    "no": 85.85,
+    "volume": 5159.339906999999
+   }
+  ]
+ },
+ "0x1adf8adb41f22bbf5eda29776593cee3af605ad4d7e153cf813954d8a0c98b59": {
+  "question": "Will Progressive Bulgaria (PB) win between 80-84 seats in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 14.5,
+    "no": 85.5,
+    "volume": 7917.467020000001
+   }
+  ]
+ },
+ "0x4fea2180f4aeb989b96f66cb77aad7f24332a8f3be603fd4ad994b4754da3a56": {
+  "question": "Will \"The Truth & Tragedy of Moriah Wilson\" be the #2 global Netflix movie this week?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 85.0,
+    "no": 15.0,
+    "volume": 6335.455566
+   }
+  ]
+ },
+ "0x1077393906f25eb78b4fe469d8840c7950d0176ee05412b02a9e3df033a01b8b": {
+  "question": "Trump announces tariff for Iran military cooperation by April 17?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 47531.96321099998
+   }
+  ]
+ },
+ "0xd21f146e7da47ab153f2c66b37743ad223d345563b77731da38c9046c21f39d2": {
+  "question": "Will Trump say \"TACO\" or \"Trump Always Chickens Out\" this week? (April 19)",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 19.0,
+    "no": 81.0,
+    "volume": 5349.878785
+   }
+  ]
+ },
+ "0x965874ceb595f9621a0b3686ed0bb1f291a4691747afe85baa2f0e8ec43f1e1e": {
+  "question": "Will Progressive Bulgaria (PB) win 95 or more seats in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 19.5,
+    "no": 80.5,
+    "volume": 12750.622910999999
+   }
+  ]
+ },
+ "0xd75a9de8f60669a0b891d713902dcfee64dcf88471c49dd76f39fd1ac34c016b": {
+  "question": "Will Rumen Radev be the next prime minister of Bulgaria after the 2026 parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 79.0,
+    "no": 21.0,
+    "volume": 6572.975898999997
+   }
+  ]
+ },
+ "0xa31be3d7a50a814d6e77901c94fe4f8124b2717f02271bc9eaa5f9cfeb59a0e7": {
+  "question": "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 22.0,
+    "no": 78.0,
+    "volume": 32229.462582999997
+   }
+  ]
+ },
+ "0x4886f98c40297ab2a8ed42a0bd7280a8c1b763f62e0fefc3139ca5dca8bddfc0": {
+  "question": "Will Movement for Rights and Freedoms (DPS) finish third in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 22.5,
+    "no": 77.5,
+    "volume": 10325.514591999998
+   }
+  ]
+ },
+ "0xb832a02794ffab2629c650dd860ff04b8834447d3c30f7620d534842c9192d37": {
+  "question": "Will Natural Gas (NG) hit (HIGH) $2.80 Week of April 13 2026?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 77.5,
+    "no": 22.5,
+    "volume": 6429.034038000002
+   }
+  ]
+ },
+ "0xd81f611670339738cb6ac259b94a54b5b08e372f19c063a8ad6fb2a8c7fe3ed8": {
+  "question": "Trump announces US x Iran ceasefire end by April 18, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 24.0,
+    "no": 76.0,
+    "volume": 194173.45213400005
+   }
+  ]
+ },
+ "0x1da3b067be31eb471516bd0ae8d1f85f8f6770747c34f6cbd761438fd58397de": {
+  "question": "Will Progressive Bulgaria (PB) win between 85-89 seats in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 8013.773288000001
+   }
+  ]
+ },
+ "0x7f27c6b538bcec7bd8f8ebdb7495fcd4f80a7ad3c0436a21aa81838474c3ddf4": {
+  "question": "Will GERB-SDS win between 55-59 seats in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 25.5,
+    "no": 74.5,
+    "volume": 7428.200707
+   }
+  ]
+ },
+ "0x40fe71d0a61c664b0528c15406a1db44c5659cd7612c964093705c2ca6b531d2": {
+  "question": "Will Trevor win the Legend Trade Series?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 27.9,
+    "no": 72.1,
+    "volume": 6525.051552999999
+   }
+  ]
+ },
+ "0xe8ee54512539068471b1a744cd93a016ea9788cfbdf1bcfe05a0d9b251b1a2ea": {
+  "question": "Will China GDP growth in Q1 2026 be between 5.0% and 5.5%?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 72.0,
+    "no": 28.0,
+    "volume": 36427.579651
+   }
+  ]
+ },
+ "0x16bbb0389e643fda12ca2192db2540931b954e16b9723ecd0826ae657f4aca2e": {
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 10-15%?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 28.5,
+    "no": 71.5,
+    "volume": 10693.582314000001
+   }
+  ]
+ },
+ "0x26eb9949eebf6ba37e8c3c97fd2b2dd4a88be9312bc02c82a765c29596a5a180": {
+  "question": "Will We Continue the Change – Democratic Bulgaria (PP–DB) finish third in the 2026 Bulgarian parliamentary election?",
+  "prices": [
+   {
+    "date": "2026-04-12",
+    "yes": 70.0,
+    "no": 30.0,
+    "volume": 19180.404151
    }
   ]
  }

@@ -1,0 +1,1565 @@
+[
+ {
+  "market_id": "0x1077393906f25eb78b4fe469d8840c7950d0176ee05412b02a9e3df033a01b8b",
+  "question": "Trump announces tariff for Iran military cooperation by April 17?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.4068,
+  "composite_score": 0.452,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8058,
+   "arbitrage": 0.0,
+   "volume": 0.0126,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8897,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Tariffs and Insolvency: Legal Consequences of Tariffs in Insolvency Processes - JD Supra",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-tariff-for-iran-military-cooperation-by-april-17",
+  "volume": 47531.96321099998,
+  "ends_in": "5g 4s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9972,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087538+00:00"
+ },
+ {
+  "market_id": "0x483bc2bec1cf8d3e5137e892fcb3a4d791a93a3c86484aac24369d224b5db059",
+  "question": "Will Johnson & Johnson (JNJ) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.91,
+  "confidence": 0.4129,
+  "composite_score": 0.4388,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.759,
+   "arbitrage": 0.0,
+   "volume": 0.0018,
+   "news_volume": 0.9783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9008,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "S&P 500 FAST Grower Jumps Into Buy Zone Ahead Of Earnings - Investor's Business Daily",
+    "score": 0.9051
+   },
+   {
+    "title": "These 3 stocks reporting next week have a history of gaining after earnings - Invezz",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/jnj-quarterly-earnings-nongaap-eps-04-14-2026-2pt68",
+  "volume": 6992.102958999998,
+  "ends_in": "1g 17s 41d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4494,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087371+00:00"
+ },
+ {
+  "market_id": "0x91a9c860963f2abfb7bbef38737c9afb9bb921f0222947dd83ecb00dc2614976",
+  "question": "Will JPMorgan Chase (JPM) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.895,
+  "confidence": 0.3948,
+  "composite_score": 0.4387,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.759,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.9783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9008,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "S&P 500 FAST Grower Jumps Into Buy Zone Ahead Of Earnings - Investor's Business Daily",
+    "score": 0.9051
+   },
+   {
+    "title": "These 3 stocks reporting next week have a history of gaining after earnings - Invezz",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/jpm-quarterly-earnings-gaap-eps-04-14-2026-5pt43",
+  "volume": 5172.920675999999,
+  "ends_in": "1g 17s 41d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3434,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087393+00:00"
+ },
+ {
+  "market_id": "0xe8ee54512539068471b1a744cd93a016ea9788cfbdf1bcfe05a0d9b251b1a2ea",
+  "question": "Will China GDP growth in Q1 2026 be between 5.0% and 5.5%?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.72,
+  "confidence": 0.3659,
+  "composite_score": 0.4066,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7587,
+   "arbitrage": 0.0,
+   "volume": 0.0096,
+   "news_volume": 0.3286
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9008,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Chancellor challenged to outline how the financial services sector can support growth - UK Parliament",
+    "score": 0.7616
+   },
+   {
+    "title": "Regulation and growth: Lessons from nearly 50 years of product market reforms - CEPR",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/china-gdp-growth-in-q1-2026",
+  "volume": 36427.579651,
+  "ends_in": "4g 4s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9872,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087735+00:00"
+ },
+ {
+  "market_id": "0x9e570fa9b5258f954859874e92e2de4be636f377d9968150915670d9bac09100",
+  "question": "US escorts commercial ship through Hormuz by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.887,
+  "confidence": 0.3774,
+  "composite_score": 0.3993,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6683,
+   "arbitrage": 0.0,
+   "volume": 0.2258,
+   "news_volume": 0.4188
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9195,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Deadlock on Strait of Hormuz and Iran’s nuclear stockpile led to impasse, officials say - CNN",
+    "score": -0.7616
+   },
+   {
+    "title": "News Analysis: Trump’s Strait of Hormuz blockade risks clash with China - Los Angeles Times",
+    "score": -0.7616
+   },
+   {
+    "title": "Sen. Warner on Trump’s plan to blockade the Strait of Hormuz: ‘I have no idea… how he’s going to get it reopened’ - CNN",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-escorts-commercial-ship-through-hormuz-by-march-31",
+  "volume": 853853.2658090012,
+  "ends_in": "3g 4s 41d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087438+00:00"
+ },
+ {
+  "market_id": "0x00373f48342212cfc74833f43e61eed5efd678b37ec212622fc68c551249e963",
+  "question": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.3843,
+  "composite_score": 0.397,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6117,
+   "arbitrage": 0.0,
+   "volume": 0.0456,
+   "news_volume": 0.8359
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-broken-by",
+  "volume": 172358.16672599997,
+  "ends_in": "2g 4s 41d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087634+00:00"
+ },
+ {
+  "market_id": "0x46f15cb064fb468e39de360f14f5847898ef9b1489d15e9df702b92f1836598d",
+  "question": "Trump announces US x Iran ceasefire end by April 15, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.825,
+  "confidence": 0.3931,
+  "composite_score": 0.3968,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6102,
+   "arbitrage": 0.0,
+   "volume": 0.0649,
+   "news_volume": 0.8194
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9295,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 245335.00337199995,
+  "ends_in": "3g 4s 41d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087549+00:00"
+ },
+ {
+  "market_id": "0xd81f611670339738cb6ac259b94a54b5b08e372f19c063a8ad6fb2a8c7fe3ed8",
+  "question": "Trump announces US x Iran ceasefire end by April 18, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.76,
+  "confidence": 0.3565,
+  "composite_score": 0.3961,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6102,
+   "arbitrage": 0.0,
+   "volume": 0.0514,
+   "news_volume": 0.8194
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9295,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 194173.45213400005,
+  "ends_in": "6g 4s 41d",
+  "end_date": "18 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087664+00:00"
+ },
+ {
+  "market_id": "0xf6add9bf74e6cb7e645b969ade966c20e94042503612b89c61212cd60597774e",
+  "question": "U.S. forces seize another oil tanker by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8895000000000001,
+  "confidence": 0.3444,
+  "composite_score": 0.3827,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7001,
+   "arbitrage": 0.0,
+   "volume": 0.0231,
+   "news_volume": 0.1305
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9133,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence",
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Warning military conflict between UK and Russia could be three to five years away - Forces News",
+    "score": -0.7616
+   },
+   {
+    "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz - CNBC",
+    "score": -0.4621
+   },
+   {
+    "title": "Oil prices ease after Trump says U.S. will insure tankers transiting Strait of Hormuz - CNBC",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/us-forces-seize-another-oil-tanker-by-april-15",
+  "volume": 87349.99826200002,
+  "ends_in": "3g 4s 41d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087405+00:00"
+ },
+ {
+  "market_id": "0xd21f146e7da47ab153f2c66b37743ad223d345563b77731da38c9046c21f39d2",
+  "question": "Will Trump say \"TACO\" or \"Trump Always Chickens Out\" this week? (April 19)",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.3424,
+  "composite_score": 0.3804,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6749,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.2319
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9182,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence",
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Oil prices ease after Trump says U.S. will insure tankers transiting Strait of Hormuz - CNBC",
+    "score": -0.4621
+   },
+   {
+    "title": "White House says Trump will \"unleash hell\" if Iran doesn't make deal - CBS News",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-this-week-april-19",
+  "volume": 5349.878785,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3542,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087560+00:00"
+ },
+ {
+  "market_id": "0xffdbbf2c3b9aa808abbcb35beb2b20a93572570aa5dd1bd1b630cade2f809f26",
+  "question": "Will Scottie Scheffler win the 2026 Masters tournament?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8495,
+  "confidence": 0.3735,
+  "composite_score": 0.375,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/the-masters-winner-2026",
+  "volume": 3781030.827937997,
+  "ends_in": "4s 41d",
+  "end_date": "13 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087506+00:00"
+ },
+ {
+  "market_id": "0xb832a02794ffab2629c650dd860ff04b8834447d3c30f7620d534842c9192d37",
+  "question": "Will Natural Gas (NG) hit (HIGH) $2.80 Week of April 13 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.775,
+  "confidence": 0.3258,
+  "composite_score": 0.362,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6268,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.1046
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9268,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market opens higher ahead of busy earnings week - ABC7 WWSB",
+    "score": 0.4621
+   },
+   {
+    "title": "Ethereum staking ratio hits record high at 30% - thestreet.com",
+    "score": 0.4621
+   },
+   {
+    "title": "Commodities Trading: Gold Stocks, Oil Stocks, Silver, Natural Gas - Investor's Business Daily",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-ng-hit-week-of-april-13-2026",
+  "volume": 6429.034038000002,
+  "ends_in": "5g 1s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4177,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087644+00:00"
+ },
+ {
+  "market_id": "0x0214efd795ce4e8a54884faa52bacd4eeea7b4958fcf6f6649843bdc70c8fd0c",
+  "question": "Will Justin Rose win the 2026 Masters tournament?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9129999999999999,
+  "confidence": 0.3351,
+  "composite_score": 0.3523,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.5464,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/the-masters-winner-2026",
+  "volume": 2065831.9058480076,
+  "ends_in": "4s 41d",
+  "end_date": "13 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087346+00:00"
+ },
+ {
+  "market_id": "0xa0cf22a3a9ecbe4131e25cbe1273ee0345cd04c4bc50280c632acbab8bcd4000",
+  "question": "Houthis successfully target shipping by April 15?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8475,
+  "confidence": 0.3516,
+  "composite_score": 0.3507,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5594,
+   "arbitrage": 0.0,
+   "volume": 0.0104,
+   "news_volume": 0.2069
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9371,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls - Yahoo Finance",
+    "score": -0.7616
+   },
+   {
+    "title": "Targeting State AI Laws Undermines, Rather than Advances, U.S. Technology Leadership - CSIS | Center for Strategic and International Studies",
+    "score": 0.7616
+   },
+   {
+    "title": "Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP - Coinpedia",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/houthis-successfully-target-shipping-by-march-31",
+  "volume": 39371.94274500002,
+  "ends_in": "3g 4s 41d",
+  "end_date": "15 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9914,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087517+00:00"
+ },
+ {
+  "market_id": "0x4e0d3a265577108a73a8517be376da0f5ba00514311a0a6b352ba6619fefeba4",
+  "question": "Will \"House Tour\" get 15 million or more views in the first week?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.313,
+  "composite_score": 0.3478,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.549,
+   "arbitrage": 0.0,
+   "volume": 0.0035,
+   "news_volume": 0.2069
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9385,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation - WSJ",
+    "score": -0.4621
+   },
+   {
+    "title": "Colorado House finishes work on 2026-27 state budget, finally - Colorado Politics",
+    "score": 0.0
+   },
+   {
+    "title": "One California governor candidate spent $89 million on ads — including some that reached 0 people - San Francisco Chronicle",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-views-of-sabrina-carpenters-house-tour-video-on-week-1",
+  "volume": 13383.697451999993,
+  "ends_in": "4s 41d",
+  "end_date": "13 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7288,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087451+00:00"
+ },
+ {
+  "market_id": "0x4886f98c40297ab2a8ed42a0bd7280a8c1b763f62e0fefc3139ca5dca8bddfc0",
+  "question": "Will Movement for Rights and Freedoms (DPS) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.302,
+  "composite_score": 0.3355,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0027,
+   "news_volume": 0.2069
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 10325.514591999998,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6135,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087622+00:00"
+ },
+ {
+  "market_id": "0xd75a9de8f60669a0b891d713902dcfee64dcf88471c49dd76f39fd1ac34c016b",
+  "question": "Will Rumen Radev be the next prime minister of Bulgaria after the 2026 parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.3019,
+  "composite_score": 0.3354,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.2069
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   },
+   {
+    "title": "G7 finance ministers discuss possible sanctions, tariffs on supporters of Russia's war - Reuters",
+    "score": -0.7616
+   },
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/next-prime-minister-of-bulgaria",
+  "volume": 6572.975898999997,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4259,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087591+00:00"
+ },
+ {
+  "market_id": "0x4fea2180f4aeb989b96f66cb77aad7f24332a8f3be603fd4ad994b4754da3a56",
+  "question": "Will \"The Truth & Tragedy of Moriah Wilson\" be the #2 global Netflix movie this week?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.85,
+  "confidence": 0.3016,
+  "composite_score": 0.3351,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3602,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.8995
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9556,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UK government unveils AI regulation blueprint to spur innovation across the economy - Global Government Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
+    "score": -0.7616
+   },
+   {
+    "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - Council on Foreign Relations",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-be-the-2-global-netflix-movie-this-week-974",
+  "volume": 6335.455566,
+  "ends_in": "1g 4s 41d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4124,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087495+00:00"
+ },
+ {
+  "market_id": "0x26eb9949eebf6ba37e8c3c97fd2b2dd4a88be9312bc02c82a765c29596a5a180",
+  "question": "Will We Continue the Change – Democratic Bulgaria (PP–DB) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.7,
+  "confidence": 0.3013,
+  "composite_score": 0.3348,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4198,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.5931
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9519,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "‘Risk is still high’: Middle East war continues amid grief over 6 U.S. Army soldiers killed, conflict in U.S. Congress - WPLG Local 10",
+    "score": -0.964
+   },
+   {
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "score": -0.9051
+   },
+   {
+    "title": "Will Upbeat Earnings Expectations and Estimate Revisions Change StoneCo's (STNE) Profitability and Capital Return Narrative - Yahoo Finance",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 19180.404151,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8686,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087754+00:00"
+ },
+ {
+  "market_id": "0xb05cb7526143304dbfef5dac572e636ca9cf0ab47228b20694fcddb34af9bcd8",
+  "question": "Will Velichie (Velichie) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.2998,
+  "composite_score": 0.3331,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0064,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-which-parties-enter-parliament",
+  "volume": 24290.082297,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.933,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087382+00:00"
+ },
+ {
+  "market_id": "0x63b06814bed2a8893b864a6504ec7f2abcfdad7b4bd5a7a06c4d873df5400e61",
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 15-20%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.91,
+  "confidence": 0.2997,
+  "composite_score": 0.333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0034,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgaria-parliamentary-election-margin-of-victory",
+  "volume": 12890.411397,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7124,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087358+00:00"
+ },
+ {
+  "market_id": "0x965874ceb595f9621a0b3686ed0bb1f291a4691747afe85baa2f0e8ec43f1e1e",
+  "question": "Will Progressive Bulgaria (PB) win 95 or more seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.805,
+  "confidence": 0.2997,
+  "composite_score": 0.333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0034,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 12750.622910999999,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7076,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087571+00:00"
+ },
+ {
+  "market_id": "0x16bbb0389e643fda12ca2192db2540931b954e16b9723ecd0826ae657f4aca2e",
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 10-15%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.715,
+  "confidence": 0.2997,
+  "composite_score": 0.333,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0028,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgaria-parliamentary-election-margin-of-victory",
+  "volume": 10693.582314000001,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6292,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087745+00:00"
+ },
+ {
+  "market_id": "0x1adf8adb41f22bbf5eda29776593cee3af605ad4d7e153cf813954d8a0c98b59",
+  "question": "Will Progressive Bulgaria (PB) win between 80-84 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.2996,
+  "composite_score": 0.3329,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0021,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 7917.467020000001,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.499,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087473+00:00"
+ },
+ {
+  "market_id": "0x1da3b067be31eb471516bd0ae8d1f85f8f6770747c34f6cbd761438fd58397de",
+  "question": "Will Progressive Bulgaria (PB) win between 85-89 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.2996,
+  "composite_score": 0.3329,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0021,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 8013.773288000001,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.504,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087684+00:00"
+ },
+ {
+  "market_id": "0x7f27c6b538bcec7bd8f8ebdb7495fcd4f80a7ad3c0436a21aa81838474c3ddf4",
+  "question": "Will GERB-SDS win between 55-59 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.2996,
+  "composite_score": 0.3329,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.002,
+   "news_volume": 0.1562
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Maria Elvira Salazar raises nearly $1M in three months as she gears up for re-election - Florida Politics",
+    "score": 0.4621
+   },
+   {
+    "title": "Polls close in high-stakes Hungarian election as Magyar seeks to oust Orbán - TVP World",
+    "score": -0.4621
+   },
+   {
+    "title": "Polling stations close in pivotal Hungary election that could unseat long-time Prime Minister Orbán - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-gerb-sds-in-bulgarian-parliamentary-election",
+  "volume": 7428.200707,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4731,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087694+00:00"
+ },
+ {
+  "market_id": "0x90665ddb867b069d3d51ac5709f4dcf59c0bc846f3323ce58aa86ed3634a9aa1",
+  "question": "Will MINHxDYNASTY win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3311,
+  "composite_score": 0.3279,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0062,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 23311.135919999993,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9236,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087484+00:00"
+ },
+ {
+  "market_id": "0xa961b6079bb7fb06b37dbc98df04fc568133fe7dfb788f7c066cbc52dcb40474",
+  "question": "Will Jadoodoo win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.331,
+  "composite_score": 0.3278,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0037,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 14011.823869000002,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7486,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087715+00:00"
+ },
+ {
+  "market_id": "0xfabe32aadba3b67958f9b7416a0080129586c0f52bb2a22f48c1015ebd4d7e86",
+  "question": "Will Kurt win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8584999999999999,
+  "confidence": 0.2949,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 5159.339906999999,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3426,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087463+00:00"
+ },
+ {
+  "market_id": "0x5df8bfe979cdd8a82b2e91ac65e01955740f1348bbe2f5ce70d35df0a4029aae",
+  "question": "Will Prodzy win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.778,
+  "confidence": 0.3219,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0022,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 8331.386414999997,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5202,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087612+00:00"
+ },
+ {
+  "market_id": "0x0a5b2d91711173467cdd12b62530a2658d7d98b67dce4285967ef748d4155a61",
+  "question": "Will Elisa win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7555,
+  "confidence": 0.3219,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0019,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 7167.1350410000005,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.459,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087674+00:00"
+ },
+ {
+  "market_id": "0x8cfa0af5981b37d862f99100b85a07d77a1510cb1dc4fac02e61b43af3b94117",
+  "question": "Will Jim Parillo win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.743,
+  "confidence": 0.3219,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0024,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 9086.629055,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5573,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087705+00:00"
+ },
+ {
+  "market_id": "0x40fe71d0a61c664b0528c15406a1db44c5659cd7612c964093705c2ca6b531d2",
+  "question": "Will Trevor win the Legend Trade Series?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.721,
+  "confidence": 0.2949,
+  "composite_score": 0.3277,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.0524
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Lt. Gov. Hashmi announces statewide lecture series linking literature and politics - Richmond Times-Dispatch",
+    "score": 0.0
+   },
+   {
+    "title": "Care economy webinar series - Colin Biggers & Paisley Lawyers",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-win-the-legend-trade-series",
+  "volume": 6525.051552999999,
+  "ends_in": "3g 4s 41d",
+  "end_date": "16 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4232,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087725+00:00"
+ },
+ {
+  "market_id": "0xf8474493c0295c921b05ca9e41cf2b7b2dead7eea61fc1be719f8341de8b1eaf",
+  "question": "Will \"Dandelion\" - Ella Langley debut week album sales be at least 140k?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.805,
+  "confidence": 0.3107,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0038,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/ella-langley-dandelion-first-week-album-sales",
+  "volume": 14188.111623000003,
+  "ends_in": "4g 4s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7539,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087581+00:00"
+ },
+ {
+  "market_id": "0xaf93b610c00a31e853ca42851aebb2221923ce50ac79b43d845971b3e9f66ba7",
+  "question": "Will FURIA win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.2926,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0019,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 7032.432885000003,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4516,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087303+00:00"
+ },
+ {
+  "market_id": "0x43bb5dcb17b2a2a0b236701f83bc28e34b952054ccc7d94575ba70e90353c506",
+  "question": "Will Falcons win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.2926,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 6595.263484000001,
+  "ends_in": "6g 4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4272,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087331+00:00"
+ },
+ {
+  "market_id": "0xee7337bfd0f02a8107243283ca623db579d9f3debac0c5f42413c427bfeebfe3",
+  "question": "Will someone else win the 2026 FIDE Women's Candidates Tournament?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.836,
+  "confidence": 0.3196,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/2026-fide-womens-candidates-tournament-winner",
+  "volume": 6250.990551,
+  "ends_in": "4g 4s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4075,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087527+00:00"
+ },
+ {
+  "market_id": "0x2b3e9527e0ac076cfe1337e3cc5e10af652d6fb83f7e292be800d4a7b2f4513e",
+  "question": "Will Argentina’s monthly inflation in March 2026 be between 3.1% and 3.3%?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.765,
+  "confidence": 0.3058,
+  "composite_score": 0.3198,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4373,
+   "arbitrage": 0.0,
+   "volume": 0.0031,
+   "news_volume": 0.2069
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9505,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Wall Street faces volatile week as US-Iran talks fail; energy market, big bank earnings and PPI inflation in focus - Mint",
+    "score": -0.7616
+   },
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "Stock market outlook: US-Iran talks collapse, oil prices to weigh on sentiment; inflation data, Q4 earnin - The Times of India",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/argentina-monthly-inflation-march",
+  "volume": 11559.669489,
+  "ends_in": "1g 4s 41d",
+  "end_date": "14 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087655+00:00"
+ },
+ {
+  "market_id": "0xa31be3d7a50a814d6e77901c94fe4f8124b2717f02271bc9eaa5f9cfeb59a0e7",
+  "question": "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.78,
+  "confidence": 0.2495,
+  "composite_score": 0.2772,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2414,
+   "arbitrage": 0.0,
+   "volume": 0.0085,
+   "news_volume": 0.3286
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Chancellor challenged to outline how the financial services sector can support growth - UK Parliament",
+    "score": 0.7616
+   },
+   {
+    "title": "Regulation and growth: Lessons from nearly 50 years of product market reforms - CEPR",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/china-gdp-growth-in-q1-2026",
+  "volume": 32229.462582999997,
+  "ends_in": "4g 4s 41d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9772,
+  "checked": false,
+  "timestamp": "2026-04-12T19:19:01.087601+00:00"
+ }
+]
