@@ -708,7 +708,29 @@
       "insights_count": 0,
       "first_seen": "2026-04-14T19:31:55.805997+00:00",
       "url": "http://arxiv.org/abs/2511.16164v2"
+    },
+    "2604.13213v1": {
+      "title": "Rare Event Analysis via Stochastic Optimal Control",
+      "abstract": "Rare events such as conformational changes in biomolecules, phase transitions, and chemical reactions are central to the behavior of many physical systems, yet they are extremely difficult to study computationally because unbiased simulations seldom produce them. Transition Path Theory (TPT) provides a rigorous statistical framework for analyzing such events: it characterizes the ensemble of reactive trajectories between two designated metastable states (reactant and product), and its central object--the committor function, which gives the probability that the system will next reach the product rather than the reactant--encodes all essential kinetic and thermodynamic information. We introduce a framework that casts committor estimation as a stochastic optimal control (SOC) problem. In this formulation the committor defines a feedback control--proportional to the gradient of its logarithm--that actively steers trajectories toward the reactive region, thereby enabling efficient sampling of reactive paths. To solve the resulting hitting-time control problem we develop two complementary objectives: a direct backpropagation loss and a principled off-policy Value Matching loss, for which we establish first-order optimality guarantees. We further address metastability, which can trap controlled trajectories in intermediate basins, by introducing an alternative sampling process that preserves the reactive current while lowering effective energy barriers. On benchmark systems, the fra",
+      "authors": [
+        "Yuanqi Du",
+        "Jiajun He",
+        "Dinghuai Zhang",
+        "Eric Vanden-Eijnden",
+        "Carles Domingo-Enrich"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.OC",
+        "physics.chem-ph"
+      ],
+      "published": "2026-04-14T18:34:38Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-16T19:31:26.067305+00:00",
+      "url": "http://arxiv.org/abs/2604.13213v1"
     }
   },
-  "last_check": "2026-04-15T19:33:34.048675+00:00"
+  "last_check": "2026-04-16T19:31:26.881410+00:00"
 }

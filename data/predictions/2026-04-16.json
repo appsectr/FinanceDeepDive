@@ -1,0 +1,1780 @@
+[
+ {
+  "market_id": "0xeeb759e8db4eca494a8dcf81c9fe95bb35a019deaa004681b395a92ca4d2740d",
+  "question": "Will Mercantile Bank (MBWM) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.845,
+  "confidence": 0.3914,
+  "composite_score": 0.4349,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7399,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.997
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.905,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UBS sees further equity gains after record rally on strong earnings outlook - Investing.com",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings call transcript: Prologis Q1 2026 beats expectations, stock rises By Investing.com - Investing.com India",
+    "score": 0.9603
+   }
+  ],
+  "url": "https://polymarket.com/event/mbwm-quarterly-earnings-gaap-eps-04-21-2026-1pt26",
+  "volume": 5588.542531000002,
+  "ends_in": "4g 17s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2507,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748982+00:00"
+ },
+ {
+  "market_id": "0x1507c50c86fb307e4f1acd9d740b2be66d98773f90d161e94907d8ef2c5699b3",
+  "question": "Trump announces end of military operations against Iran by April 21st?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.775,
+  "confidence": 0.409,
+  "composite_score": 0.4344,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7001,
+   "arbitrage": 0.0,
+   "volume": 0.2019,
+   "news_volume": 0.985
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9133,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally After Trump Signals Iran Deal Breakthrough: Analytics Firm Says In - Benzinga",
+    "score": 0.964
+   },
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+  "volume": 1359484.059717992,
+  "ends_in": "5g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749134+00:00"
+ },
+ {
+  "market_id": "0x214f240fa0b2e5223559b39460d198391902e0d1af4bca1ef45e33eb46ba3fd9",
+  "question": "Will General Dynamics (GD) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.875,
+  "confidence": 0.3899,
+  "composite_score": 0.4332,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7332,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9064,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UBS sees further equity gains after record rally on strong earnings outlook - Investing.com",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings call transcript: Prologis Q1 2026 beats expectations, stock rises By Investing.com - Investing.com India",
+    "score": 0.9603
+   }
+  ],
+  "url": "https://polymarket.com/event/gd-quarterly-earnings-gaap-eps-04-22-2026-3pt67",
+  "volume": 5018.295024,
+  "ends_in": "5g 17s 28d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.226,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748862+00:00"
+ },
+ {
+  "market_id": "0xc0be7b1f19f9b658778c2be7e6bc67596a00f347ab64392d0f5d387534c7c3b4",
+  "question": "US x Iran ceasefire extended by April 21, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.785,
+  "confidence": 0.3826,
+  "composite_score": 0.4051,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7554,
+   "arbitrage": 0.0,
+   "volume": 0.0968,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9016,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market today: S&P 500, Dow, Nasdaq rebound as Trump says Israel, Lebanon agreed to a ceasefire - Yahoo Finance UK",
+    "score": 0.9051
+   },
+   {
+    "title": "US stock market rally today: Why Dow Jones, S&P 500, and Nasdaq are suddenly rising amid ceasefire hopes a - The Economic Times",
+    "score": 0.9051
+   },
+   {
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rally after the US-Iran two-week ceasefire - FXStreet",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-ceasefire-extended-by",
+  "volume": 651607.0667009981,
+  "ends_in": "5g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749113+00:00"
+ },
+ {
+  "market_id": "0xdb7886829f415e00ab97b695a28b5747c6bce1f8ab09635a51ec6480e5d50314",
+  "question": "Trump announces US x Iran ceasefire end by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.3746,
+  "composite_score": 0.3962,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5939,
+   "arbitrage": 0.0,
+   "volume": 0.0783,
+   "news_volume": 0.8756
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.932,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally After Trump Signals Iran Deal Breakthrough: Analytics Firm Says In - Benzinga",
+    "score": 0.964
+   },
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 527468.5057470001,
+  "ends_in": "5g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748767+00:00"
+ },
+ {
+  "market_id": "0xdda63e9a4419b36eed1559287ec645677d23cb95d96ce7d5c91d83cb6a8b268e",
+  "question": "Will Trump announce that the US x Iran ceasefire has been broken by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.3738,
+  "composite_score": 0.3953,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5961,
+   "arbitrage": 0.0,
+   "volume": 0.0318,
+   "news_volume": 0.8925
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9317,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally After Trump Signals Iran Deal Breakthrough: Analytics Firm Says In - Benzinga",
+    "score": 0.964
+   },
+   {
+    "title": "Trump Faces Uncertainties of War as Iran Conflict Escalates - National Today",
+    "score": -0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-broken-by",
+  "volume": 213867.1913849999,
+  "ends_in": "5g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748801+00:00"
+ },
+ {
+  "market_id": "0x1c21e6099bfbe07085e5dee3a8825f734ba75ccd0020148f448cc9404237e491",
+  "question": "Will Solana reach $90 April 13-19?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.85,
+  "confidence": 0.3723,
+  "composite_score": 0.3937,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7144,
+   "arbitrage": 0.0,
+   "volume": 0.0021,
+   "news_volume": 0.3005
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9104,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - 24/7 Wall St.",
+    "score": 0.7616
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   },
+   {
+    "title": "Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting? - 24/7 Wall St.",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-solana-hit-april-13-19",
+  "volume": 14143.845198000003,
+  "ends_in": "3g 8s 28d",
+  "end_date": "20 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5705,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748950+00:00"
+ },
+ {
+  "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+  "question": "US x Iran permanent peace deal by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.3457,
+  "composite_score": 0.3841,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4372,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.495
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9505,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally After Trump Signals Iran Deal Breakthrough: Analytics Firm Says In - Benzinga",
+    "score": 0.964
+   },
+   {
+    "title": "Bitcoin, Ethereum Flat, While XRP, Dogecoin Gain Amid Iran Peace Deal Optimism: Bear Market Won't Go To - Benzinga",
+    "score": 0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations - Fortune",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+  "volume": 6733968.661048855,
+  "ends_in": "6g 4s 28d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749173+00:00"
+ },
+ {
+  "market_id": "0xf348251f81ce225cf60df9260cb76cff013521e768e05b71615f0fe6733a5671",
+  "question": "Will Justin Bieber feature SZA during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.879,
+  "confidence": 0.3585,
+  "composite_score": 0.3783,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6602,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.2649
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.921,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 8441.523018,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3687,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748823+00:00"
+ },
+ {
+  "market_id": "0x55e11a17f478ce2322f0c6b7037a950089ab8572ac0882d8f162c67f42528b9a",
+  "question": "Will Justin Bieber feature Billie Eilish during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8765000000000001,
+  "confidence": 0.3537,
+  "composite_score": 0.373,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6459,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9235,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 16500.378633000004,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6388,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748835+00:00"
+ },
+ {
+  "market_id": "0xef067580e9cf28c9cd6a5666120d26387a8e608246cd4ca5d9050956e9e1da48",
+  "question": "Will Justin Bieber feature Playboi Carti during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.77,
+  "confidence": 0.3357,
+  "composite_score": 0.373,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6459,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9235,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 8871.260000000002,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3856,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749143+00:00"
+ },
+ {
+  "market_id": "0x2ef1917df7cfa3381c8f191e0e76250f75f95ac9bc414387ed7ad89eaab6c759",
+  "question": "Will Justin Bieber feature A$AP Rocky during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7695000000000001,
+  "confidence": 0.3537,
+  "composite_score": 0.373,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6459,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9235,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 8668.814499999999,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3776,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749153+00:00"
+ },
+ {
+  "market_id": "0x49d83516d9deab3d065eee9709769af618e9d092c25e68464ae81e75066395cc",
+  "question": "Will Justin Bieber feature Tyler, the Creator during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9009999999999999,
+  "confidence": 0.3624,
+  "composite_score": 0.3727,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6376,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.2649
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.925,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 9298.524731,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4021,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748790+00:00"
+ },
+ {
+  "market_id": "0x5970954bf7b99cefbd32ffe4a8ecf483c2790f2e3f3e48b1c11a2c2718e58488",
+  "question": "Will Morality, Unity, Honour (MECh) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.79,
+  "confidence": 0.3694,
+  "composite_score": 0.3704,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6214,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.3005
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9277,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Iran conflict: Veterans clash over morality, motives of potential war - FOX 10 Phoenix",
+    "score": -0.7616
+   },
+   {
+    "title": "Illicit alcohol is growing fast, showing the cracks in market regulation - Bizcommunity",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-which-parties-enter-parliament",
+  "volume": 7051.815384000001,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3124,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749103+00:00"
+ },
+ {
+  "market_id": "0xb05cb7526143304dbfef5dac572e636ca9cf0ab47228b20694fcddb34af9bcd8",
+  "question": "Will Velichie (Velichie) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.3663,
+  "composite_score": 0.367,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.006,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-which-parties-enter-parliament",
+  "volume": 40569.98605299999,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9526,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748754+00:00"
+ },
+ {
+  "market_id": "0x2d0d82a3606ee435240d5dccbec3b83d58b5d0aa8f8fa360696c5f38c495bc69",
+  "question": "Will GERB-SDS win between 60-64 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8225,
+  "confidence": 0.3571,
+  "composite_score": 0.3668,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.003,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-gerb-sds-in-bulgarian-parliamentary-election",
+  "volume": 20230.142223,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7293,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749030+00:00"
+ },
+ {
+  "market_id": "0x1adf8adb41f22bbf5eda29776593cee3af605ad4d7e153cf813954d8a0c98b59",
+  "question": "Will Progressive Bulgaria (PB) win between 80-84 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.375,
+  "composite_score": 0.3667,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 9476.742991,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4089,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748812+00:00"
+ },
+ {
+  "market_id": "0x0420e07a20600d108e5028c3cac91c91e6121be3c5f21ddc3ba46208aa0e3738",
+  "question": "Will Progressive Bulgaria (PB) win between 90-94 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.83,
+  "confidence": 0.366,
+  "composite_score": 0.3667,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 6793.139318000001,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3016,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749011+00:00"
+ },
+ {
+  "market_id": "0xc2093cef2939610eb779fa771999167ef4c03edd6c195500602e3e4d0f8f14d9",
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 5-10%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.366,
+  "composite_score": 0.3667,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgaria-parliamentary-election-margin-of-victory",
+  "volume": 7542.416215999998,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3325,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749072+00:00"
+ },
+ {
+  "market_id": "0x1da3b067be31eb471516bd0ae8d1f85f8f6770747c34f6cbd761438fd58397de",
+  "question": "Will Progressive Bulgaria (PB) win between 85-89 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.375,
+  "composite_score": 0.3667,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6209,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9278,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 8724.556175,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3798,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749163+00:00"
+ },
+ {
+  "market_id": "0x4886f98c40297ab2a8ed42a0bd7280a8c1b763f62e0fefc3139ca5dca8bddfc0",
+  "question": "Will Movement for Rights and Freedoms (DPS) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3741,
+  "composite_score": 0.3657,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6094,
+   "arbitrage": 0.0,
+   "volume": 0.002,
+   "news_volume": 0.2649
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9296,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   },
+   {
+    "title": "States rush to redraw U.S. House districts ahead of the November midterm elections - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 13391.865018999999,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5468,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748873+00:00"
+ },
+ {
+  "market_id": "0x4fec624c0ff2bfae89956cebd6fbc9c58f995f824382dc587dc5a32a4b15940b",
+  "question": "Will the Virginia constitutional amendment referendum fail to pass?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8495,
+  "confidence": 0.346,
+  "composite_score": 0.3644,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6268,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.1538
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9268,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/virginia-redistricting-referendum-margin-of-victory",
+  "volume": 6637.267471999999,
+  "ends_in": "4g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2951,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748961+00:00"
+ },
+ {
+  "market_id": "0x22e03dc66d5294670263027439ea57f15c9602bbcd4c4801e5b77d30f509ad6f",
+  "question": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.847,
+  "confidence": 0.3187,
+  "composite_score": 0.3541,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5413,
+   "arbitrage": 0.0,
+   "volume": 0.0071,
+   "news_volume": 0.3693
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9395,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   },
+   {
+    "title": "The Politics Hour: The D.C. Council weighs in on the budget and the Maryland General Assembly wraps up - WAMU",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 47851.873129999985,
+  "ends_in": "6g 4s 28d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9754,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748971+00:00"
+ },
+ {
+  "market_id": "0xc6a9e0caa1790ae060b66c99d3226a98b223e8ef7e12491bd09c34b5020493ca",
+  "question": "Will Otto Ritter win the 2026 Santa Cruz gubernatorial election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8190000000000001,
+  "confidence": 0.3442,
+  "composite_score": 0.3424,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5062,
+   "arbitrage": 0.0,
+   "volume": 0.0165,
+   "news_volume": 0.3005
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9437,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Gubernatorial candidates weigh in on CYFD reforms - The Taos News",
+    "score": 0.4621
+   },
+   {
+    "title": "Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/santa-cruz-governor-election-winner-bolivia",
+  "volume": 110948.63552900005,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9999,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749062+00:00"
+ },
+ {
+  "market_id": "0x33403f2501afbeafa3372043080e5360d714a9323b264cb76c3aaafc335304a5",
+  "question": "Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.775,
+  "confidence": 0.3002,
+  "composite_score": 0.3336,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4587,
+   "arbitrage": 0.0,
+   "volume": 0.008,
+   "news_volume": 0.3693
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9486,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   },
+   {
+    "title": "The Politics Hour: The D.C. Council weighs in on the budget and the Maryland General Assembly wraps up - WAMU",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 53614.53211199999,
+  "ends_in": "6g 4s 28d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9854,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749123+00:00"
+ },
+ {
+  "market_id": "0x26eb9949eebf6ba37e8c3c97fd2b2dd4a88be9312bc02c82a765c29596a5a180",
+  "question": "Will We Continue the Change – Democratic Bulgaria (PP–DB) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.82,
+  "confidence": 0.3404,
+  "composite_score": 0.3282,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.359,
+   "arbitrage": 0.0,
+   "volume": 0.0036,
+   "news_volume": 0.7648
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9557,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "‘Risk is still high’: Middle East war continues amid grief over 6 U.S. Army soldiers killed, conflict in U.S. Congress - WPLG Local 10",
+    "score": -0.964
+   },
+   {
+    "title": "Stock Market Today (LIVE): Micron's Post-Earnings Slide Continues; Markets Remain Volatile Amid Middle East Tensions - The Motley Fool",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 24490.340640999988,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8084,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749042+00:00"
+ },
+ {
+  "market_id": "0x1881756420bf29f7cca15fbc7bf6c91af782b82a1c99587b4c229be036de8f6f",
+  "question": "Will Juan Pablo Velasco win the 2026 Santa Cruz gubernatorial election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.7955,
+  "confidence": 0.3307,
+  "composite_score": 0.3275,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.447,
+   "arbitrage": 0.0,
+   "volume": 0.0504,
+   "news_volume": 0.2649
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9497,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Gubernatorial candidates weigh in on CYFD reforms - The Taos News",
+    "score": 0.4621
+   },
+   {
+    "title": "Infrastructure, politics influence election for north Fort Worth council seat - Fort Worth Report",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/santa-cruz-governor-election-winner-bolivia",
+  "volume": 339482.65448700136,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749093+00:00"
+ },
+ {
+  "market_id": "0x015f7ae2151752539bed6d27cab33b108456a3b0c5c7b99c7419a023d0998cbc",
+  "question": "Will claude-opus-4-6-thinking be the top AI model on April 17, 2026 (Style Control On)?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9159999999999999,
+  "confidence": 0.3215,
+  "composite_score": 0.3272,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0044,
+   "news_volume": 0.0387
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "From control to incentives: the evolution of demographic policies in China - Polytechnique Insights",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/top-ai-model-on-april-17-style-control-on",
+  "volume": 29500.803050000013,
+  "ends_in": "4s 28d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8745,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748722+00:00"
+ },
+ {
+  "market_id": "0xaf93b610c00a31e853ca42851aebb2221923ce50ac79b43d845971b3e9f66ba7",
+  "question": "Will FURIA win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.805,
+  "confidence": 0.3294,
+  "composite_score": 0.326,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0196,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 131916.22120000017,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749082+00:00"
+ },
+ {
+  "market_id": "0x0ba105316e67d13cc2e5ec1aea9a404f0d36ec5bf188d591069f5655014de3fe",
+  "question": "Will claude-opus-4-6-thinking be the best AI model on April 17, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8504999999999999,
+  "confidence": 0.3108,
+  "composite_score": 0.3253,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/best-ai-model-on-april-17-style-control-off",
+  "volume": 34597.518727999995,
+  "ends_in": "4s 28d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9195,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748939+00:00"
+ },
+ {
+  "market_id": "0x43bb5dcb17b2a2a0b236701f83bc28e34b952054ccc7d94575ba70e90353c506",
+  "question": "Will Falcons win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7254999999999999,
+  "confidence": 0.3288,
+  "composite_score": 0.3253,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0057,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 38135.359222000014,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9411,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749192+00:00"
+ },
+ {
+  "market_id": "0xf92a89764642b7f82218c4024b56839844a413dac1256a9096d2299195299487",
+  "question": "FISA Section 702 reauthorized before it expires?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.2927,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0032,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/fisa-section-702-reauthorized-before-it-expires",
+  "volume": 21354.225717999994,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7525,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749182+00:00"
+ },
+ {
+  "market_id": "0xbcf382ddb2bb0333cc8c83cc525f33b2708c0122ff1e176e0d3ff76bc50dece1",
+  "question": "GPT-5.5 released by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.2926,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 6782.464534999997,
+  "ends_in": "6g 4s 28d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3012,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748918+00:00"
+ },
+ {
+  "market_id": "0x18eb3f9f9c4b8462685111205cbf2f7578c821109126e89663f9254f54d5a3f8",
+  "question": "Will Jeremiyah Love go top 10 in the 2026 Pro Football draft? ",
+  "predicted_side": "YES",
+  "predicted_prob": 0.92,
+  "confidence": 0.2925,
+  "composite_score": 0.325,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/will-jeremiyah-love-go-top-10-in-the-2026-pro-football-draft",
+  "volume": 5563.108096999999,
+  "ends_in": "6g 4s 28d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2496,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748690+00:00"
+ },
+ {
+  "market_id": "0xd75a9de8f60669a0b891d713902dcfee64dcf88471c49dd76f39fd1ac34c016b",
+  "question": "Will Rumen Radev be the next prime minister of Bulgaria after the 2026 parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.904,
+  "confidence": 0.3344,
+  "composite_score": 0.3216,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4248,
+   "arbitrage": 0.0,
+   "volume": 0.0076,
+   "news_volume": 0.3005
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9515,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump administration live updates: N.J. holds special election; House Iran war powers bill fails - NBC News",
+    "score": -0.7616
+   },
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - kcl.ac.uk",
+    "score": 0.7616
+   },
+   {
+    "title": "Israel, EU proposes sanctions on two ministers and trade tariffs. Now it is up to member states - Eunews",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/next-prime-minister-of-bulgaria",
+  "volume": 51137.693283,
+  "ends_in": "2g 4s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9817,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748778+00:00"
+ },
+ {
+  "market_id": "0xb832a02794ffab2629c650dd860ff04b8834447d3c30f7620d534842c9192d37",
+  "question": "Will Natural Gas (NG) hit (HIGH) $2.80 Week of April 13 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.3015,
+  "composite_score": 0.315,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3794,
+   "arbitrage": 0.0,
+   "volume": 0.0014,
+   "news_volume": 0.4023
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9546,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market opens higher ahead of busy earnings week - ABC7 WWSB",
+    "score": 0.4621
+   },
+   {
+    "title": "Bitcoin, Ethereum Hit 2-Month Highs; XRP, Dogecoin Flat As Trump Signals Iran Talks Resumption: Analyst S - Benzinga",
+    "score": 0.4621
+   },
+   {
+    "title": "Stablecoin market cap hits new high as institutions buy Bitcoin, Ethereum - Crypto Briefing",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-ng-hit-week-of-april-13-2026",
+  "volume": 9307.172527999997,
+  "ends_in": "1g 1s 28d",
+  "end_date": "17 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4024,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748895+00:00"
+ },
+ {
+  "market_id": "0x9052521487326dca31ede8aa55f2fc174602cc868e93b0a1737f6136ce8cd94a",
+  "question": "Will Scottie Scheffler win the 2026 RBC Heritage?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.2977,
+  "composite_score": 0.3108,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.1158
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "International Trade, Regulation, and the Global Economy - The Heritage Foundation",
+    "score": 0.0
+   },
+   {
+    "title": "CAFE Duplicité: Disinformation in Fuel Economy Regulation - The Heritage Foundation",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-rbc-heritage-winner",
+  "volume": 34098.363883,
+  "ends_in": "2g 10s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9159,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748906+00:00"
+ },
+ {
+  "market_id": "0x52c02348543f4f20cb7a9f9ec727c6b3f57f58bd6e211eeb818c07f7d13f9562",
+  "question": "Will Xander Schauffele win the 2026 RBC Heritage?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.91,
+  "confidence": 0.2795,
+  "composite_score": 0.3106,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0026,
+   "news_volume": 0.1158
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "International Trade, Regulation, and the Global Economy - The Heritage Foundation",
+    "score": 0.0
+   },
+   {
+    "title": "CAFE Duplicité: Disinformation in Fuel Economy Regulation - The Heritage Foundation",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-rbc-heritage-winner",
+  "volume": 17455.709477,
+  "ends_in": "2g 10s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748740+00:00"
+ },
+ {
+  "market_id": "0x359085544164e77b76f21ea81a1f3b5d0be4618c6dcc08b6207622b9396ce8e6",
+  "question": "Will Ludvig Aberg win the 2026 RBC Heritage?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8440000000000001,
+  "confidence": 0.2795,
+  "composite_score": 0.3106,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0027,
+   "news_volume": 0.1158
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "International Trade, Regulation, and the Global Economy - The Heritage Foundation",
+    "score": 0.0
+   },
+   {
+    "title": "CAFE Duplicité: Disinformation in Fuel Economy Regulation - The Heritage Foundation",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-rbc-heritage-winner",
+  "volume": 18163.486894000005,
+  "ends_in": "2g 10s 28d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6818,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748991+00:00"
+ },
+ {
+  "market_id": "0x014cc3cd3a8ffe5ac6a63e417214c8b847755cd20a1642861eda6bb81cbb94b5",
+  "question": "Will Donald Trump publicly insult someone on April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.84,
+  "confidence": 0.2757,
+  "composite_score": 0.3063,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3791,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9546,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "The 5 wildest ideas Donald Trump has proposed - The Week",
+    "score": 0.0
+   },
+   {
+    "title": "How Jesse Helms Paved the Way for Donald Trump - The Assembly NC",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 7692.2520909999985,
+  "ends_in": "6g 4s 28d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3386,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749000+00:00"
+ },
+ {
+  "market_id": "0x767cf2cdb0f2929417f9fc5b98359efc3ae5b1e2da3faabbdf70d09dd0a65613",
+  "question": "Will Donald Trump publicly insult someone on April 18, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.825,
+  "confidence": 0.2756,
+  "composite_score": 0.3062,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3791,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9546,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "The 5 wildest ideas Donald Trump has proposed - The Week",
+    "score": 0.0
+   },
+   {
+    "title": "How Jesse Helms Paved the Way for Donald Trump - The Assembly NC",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 5004.961416,
+  "ends_in": "1g 4s 28d",
+  "end_date": "18 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2254,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749020+00:00"
+ },
+ {
+  "market_id": "0x6bbbb15e035b4e2a79830bb6adb5de5b02e27b73f3a3693b020ef7387626892f",
+  "question": "Will Donald Trump publicly insult someone on April 21, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.82,
+  "confidence": 0.3026,
+  "composite_score": 0.3062,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3791,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9546,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "The 5 wildest ideas Donald Trump has proposed - The Week",
+    "score": 0.0
+   },
+   {
+    "title": "How Jesse Helms Paved the Way for Donald Trump - The Assembly NC",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 6081.452624999999,
+  "ends_in": "4g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2717,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.749051+00:00"
+ },
+ {
+  "market_id": "0xc8e9ba9e25f5adcf7e159e62c24ca3bda9a5245a049acb94fdd534e67ed1969e",
+  "question": "Will the Virginia redistricting referendum pass?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.855,
+  "confidence": 0.3008,
+  "composite_score": 0.3042,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3732,
+   "arbitrage": 0.0,
+   "volume": 0.0637,
+   "news_volume": 0.1538
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.955,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Ex-Virginia Lt. Gov. Justin Fairfax kills wife and himself amid divorce proceedings, police say - NBC News",
+    "score": -0.4621
+   },
+   {
+    "title": "Who is Justin Fairfax? What we know about ex-Virginia politician who killed wife, himself - WJLA",
+    "score": -0.4621
+   },
+   {
+    "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-the-virginia-redistricting-referendum-pass",
+  "volume": 429263.95251500065,
+  "ends_in": "4g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748929+00:00"
+ },
+ {
+  "market_id": "0x3fd34574748b52ffce77be26503321c34e0afbe6c2d16efc5a10b0b488b8ce5d",
+  "question": "Will the US x Iran ceasefire be extended by April 18, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.2454,
+  "composite_score": 0.2727,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2446,
+   "arbitrage": 0.0,
+   "volume": 0.0019,
+   "news_volume": 0.2285
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market today: S&P 500, Dow, Nasdaq rebound as Trump says Israel, Lebanon agreed to a ceasefire - Yahoo Finance UK",
+    "score": 0.9051
+   },
+   {
+    "title": "US stock market rally today: Why Dow Jones, S&P 500, and Nasdaq are suddenly rising amid ceasefire hopes a - The Economic Times",
+    "score": 0.9051
+   },
+   {
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP rally after the US-Iran two-week ceasefire - FXStreet",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-ceasefire-extended-by",
+  "volume": 12617.138804000002,
+  "ends_in": "4g 4s 28d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5214,
+  "checked": false,
+  "timestamp": "2026-04-16T19:31:42.748884+00:00"
+ }
+]
