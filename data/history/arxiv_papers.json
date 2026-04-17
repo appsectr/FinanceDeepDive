@@ -730,7 +730,44 @@
       "insights_count": 0,
       "first_seen": "2026-04-16T19:31:26.067305+00:00",
       "url": "http://arxiv.org/abs/2604.13213v1"
+    },
+    "2604.14199v1": {
+      "title": "PolyBench: Benchmarking LLM Forecasting and Trading Capabilities on Live Prediction Market Data",
+      "abstract": "Predicting real-world events from live market signals demands systems that fuse qualitative news with quantitative order-book dynamics under strict temporal discipline -- a challenge existing benchmarks fail to capture. We present \\textbf{PolyBench}, a multimodal benchmark derived from Polymarket that records point-in-time cross-sections of 38,666 binary prediction markets spanning 4,997 events, synchronously coupling each snapshot with a Central Limit Order Book (CLOB) state and a real-time news stream. Using PolyBench, we evaluate seven state-of-the-art Large Language Models -- spanning open- and closed-source families -- generating 36,165 predictions under identical, timestamp-locked market states collected between February 6 and 12, 2026. Our multidimensional framework assesses directional accuracy, our proposed Confidence-Weighted Return (CWR), Annualized Percentage Yield (APY), and Sharpe ratio via realistic order-book execution simulation. The results reveal a pronounced performance divergence: only two of seven models achieve positive financial returns -- MiMo-V2-Flash at \\textbf{17.6%} CWR and Gemini-3-Flash at 6.2% CWR -- while the remaining five incur losses despite uniformly high stated confidence. These findings highlight the gap between surface-level language fluency and genuine probabilistic reasoning under live market uncertainty, and establish PolyBench as a contamination-proof, financially-grounded evaluation standard for future LLM research. Our dataset and",
+      "authors": [
+        "Pu Cheng",
+        "Juncheng Liu",
+        "Yunshen Long"
+      ],
+      "categories": [
+        "q-fin.CP",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-04-03T06:25:21Z",
+      "relevance_score": 0.4,
+      "insights_count": 0,
+      "first_seen": "2026-04-17T19:26:10.354215+00:00",
+      "url": "http://arxiv.org/abs/2604.14199v1"
+    },
+    "2604.14739v1": {
+      "title": "Assessing the Performance-Efficiency Trade-off of Foundation Models in Probabilistic Electricity Price Forecasting",
+      "abstract": "Large-scale renewable energy deployment introduces pronounced volatility into the electricity system, turning grid operation into a complex stochastic optimization problem. Accurate electricity price forecasting (EPF) is essential not only to support operational decisions, such as optimal bidding strategies and balancing power preparation, but also to reduce economic risk and improve market efficiency. Probabilistic forecasts are particularly valuable because they quantify uncertainty stemming from renewable intermittency, market coupling, and regulatory changes, enabling market participants to make informed decisions that minimize losses and optimize expected revenues. However, it remains an open question which models to employ to produce accurate forecasts. Should these be task-specific machine learning (ML) models or Time Series Foundation Models (TSFMs)? In this work, we compare four models for day-ahead probabilistic EPF (PEPF) in European bidding zones: a deterministic NHITS backbone with Quantile-Regression Averaging (NHITS+QRA) and a conditional Normalizing-Flow forecaster (NF) are compared with two TSFMs, namely Moirai and ChronosX. On the one hand, we find that TSFMs outperform task-specific deep learning models trained from scratch in terms of CRPS, Energy Score, and predictive interval calibration across market conditions. On the other hand, we find that well-configured task-specific models, particularly NHITS combined with QRA, achieve performance very close to T",
+      "authors": [
+        "Jan Niklas Lettner",
+        "Hadeer El Ashhab",
+        "Veit Hagenmeyer",
+        "Benjamin Schäfer"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-04-16T07:53:38Z",
+      "relevance_score": 0.625,
+      "insights_count": 0,
+      "first_seen": "2026-04-17T19:26:10.973765+00:00",
+      "url": "http://arxiv.org/abs/2604.14739v1"
     }
   },
-  "last_check": "2026-04-16T19:31:26.881410+00:00"
+  "last_check": "2026-04-17T19:26:13.232951+00:00"
 }
