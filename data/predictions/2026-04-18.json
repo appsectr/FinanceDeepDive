@@ -1,0 +1,1414 @@
+[
+ {
+  "market_id": "0x214f240fa0b2e5223559b39460d198391902e0d1af4bca1ef45e33eb46ba3fd9",
+  "question": "Will General Dynamics (GD) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.885,
+  "confidence": 0.4266,
+  "composite_score": 0.444,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7779,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.9893
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8964,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings scoreboard: 20 of 21 financials beat earnings; revenue mixed - MSN",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead - CNBC",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/gd-quarterly-earnings-gaap-eps-04-22-2026-3pt67",
+  "volume": 5622.016514,
+  "ends_in": "3g 17s 41d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.0969,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077730+00:00"
+ },
+ {
+  "market_id": "0xeeb759e8db4eca494a8dcf81c9fe95bb35a019deaa004681b395a92ca4d2740d",
+  "question": "Will Mercantile Bank (MBWM) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.855,
+  "confidence": 0.4262,
+  "composite_score": 0.4436,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7764,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.9886
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8968,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings scoreboard: 20 of 21 financials beat earnings; revenue mixed - MSN",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead - CNBC",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/mbwm-quarterly-earnings-gaap-eps-04-21-2026-1pt26",
+  "volume": 7359.9588790000025,
+  "ends_in": "2g 17s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1265,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077752+00:00"
+ },
+ {
+  "market_id": "0x1507c50c86fb307e4f1acd9d740b2be66d98773f90d161e94907d8ef2c5699b3",
+  "question": "Trump announces end of military operations against Iran by April 21st?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.4245,
+  "composite_score": 0.4417,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7364,
+   "arbitrage": 0.0,
+   "volume": 0.2026,
+   "news_volume": 0.95
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9058,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Deng Xiaoping’s 18-Day Vietnam War and Why China Avoids Military Conflict Over Iran - Vision Times",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+  "volume": 2088914.049811998,
+  "ends_in": "3g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077763+00:00"
+ },
+ {
+  "market_id": "0x26eb9949eebf6ba37e8c3c97fd2b2dd4a88be9312bc02c82a765c29596a5a180",
+  "question": "Will We Continue the Change – Democratic Bulgaria (PP–DB) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.454,
+  "composite_score": 0.4344,
+  "scores": {
+   "statistical": 0.7535,
+   "sentiment": 0.4078,
+   "arbitrage": 0.0,
+   "volume": 0.003,
+   "news_volume": 0.6174
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9052,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "‘Risk is still high’: Middle East war continues amid grief over 6 U.S. Army soldiers killed, conflict in U.S. Congress - WPLG Local 10",
+    "score": -0.964
+   },
+   {
+    "title": "Bitcoin, Ethereum continue plunge — and experts warn of more pain to come - dlnews.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Iraq War Veteran: ‘Troops in Iran Conflict Will Come Home Changed’ - Military.com",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 31202.378234999996,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4925,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077878+00:00"
+ },
+ {
+  "market_id": "0x9dd27666ad05dbe8ac5547e79d634fc306578b60b71f96ab4347f020b46e9413",
+  "question": "Will Israel conduct military action against Iran by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8445,
+  "confidence": 0.4082,
+  "composite_score": 0.4335,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7369,
+   "arbitrage": 0.0,
+   "volume": 0.0743,
+   "news_volume": 0.9107
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9056,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "EU lays out new tariffs and sanctions on Israel over war in Gaza - PBS",
+    "score": -0.9051
+   },
+   {
+    "title": "Deng Xiaoping’s 18-Day Vietnam War and Why China Avoids Military Conflict Over Iran - Vision Times",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/israel-military-action-against-iran-by-167",
+  "volume": 765732.8597390008,
+  "ends_in": "3g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077796+00:00"
+ },
+ {
+  "market_id": "0xd7118fc53709b96a1a2c415f5e4f7dfb281cea6fa41ea8f0432028543c6bb195",
+  "question": "Will Honeywell International (HON) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.89,
+  "confidence": 0.4,
+  "composite_score": 0.4244,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6978,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9138,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings scoreboard: 20 of 21 financials beat earnings; revenue mixed - MSN",
+    "score": 0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/hon-quarterly-earnings-nongaap-eps-04-23-2026-2pt32",
+  "volume": 5294.623667000001,
+  "ends_in": "4g 17s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.0913,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077696+00:00"
+ },
+ {
+  "market_id": "0x62cea68d9f1030901d8988d22898eee887e446ba1e4d6b05a99872295cac66c5",
+  "question": "Will Trump say \"Jesus\" this week? (April 19)",
+  "predicted_side": "NO",
+  "predicted_prob": 0.85,
+  "confidence": 0.384,
+  "composite_score": 0.4067,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7472,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.3973
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9034,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "“Trump Has Been Anointed by Jesus” to Wage War on Iran: U.S. Commanders Accused of Promoting Holy War - Democracy Now!",
+    "score": -0.7616
+   },
+   {
+    "title": "Oil Moves Lower As Trump Says War Could End Soon - WSJ",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-this-week-april-19",
+  "volume": 8790.674025000011,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1508,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077784+00:00"
+ },
+ {
+  "market_id": "0xdda63e9a4419b36eed1559287ec645677d23cb95d96ce7d5c91d83cb6a8b268e",
+  "question": "Will Trump announce that the US x Iran ceasefire has been broken by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.77,
+  "confidence": 0.3888,
+  "composite_score": 0.402,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6396,
+   "arbitrage": 0.0,
+   "volume": 0.0267,
+   "news_volume": 0.8148
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9246,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum Flat, XRP, Dogecoin Gain Amid Trump's 'Nuclear Dust' Claim, Lebanon Ceasefire: Analyst - Benzinga",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-broken-by",
+  "volume": 274895.119725,
+  "ends_in": "3g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9999,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077910+00:00"
+ },
+ {
+  "market_id": "0xdb7886829f415e00ab97b695a28b5747c6bce1f8ab09635a51ec6480e5d50314",
+  "question": "Trump announces US x Iran ceasefire end by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.79,
+  "confidence": 0.3884,
+  "composite_score": 0.4015,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6364,
+   "arbitrage": 0.0,
+   "volume": 0.0667,
+   "news_volume": 0.7822
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9252,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum Flat, XRP, Dogecoin Gain Amid Trump's 'Nuclear Dust' Claim, Lebanon Ceasefire: Analyst - Benzinga",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 687628.5996439985,
+  "ends_in": "3g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077889+00:00"
+ },
+ {
+  "market_id": "0x1e688e3b217f932d30c51aefaf79d7ef463ae8c2810635b6f1ffb905d55dcdd6",
+  "question": "US x Iran diplomatic meeting by April 20, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.785,
+  "confidence": 0.3521,
+  "composite_score": 0.3712,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6697,
+   "arbitrage": 0.0,
+   "volume": 0.0161,
+   "news_volume": 0.06
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9192,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US-Iran tensions: The diplomatic scramble to prevent a war - Al Jazeera",
+    "score": -0.7616
+   },
+   {
+    "title": "Middle East war: military, strategic and diplomatic angles - The International Institute for Strategic Studies",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329",
+  "volume": 165598.59117399986,
+  "ends_in": "2g 4s 41d",
+  "end_date": "20 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9935,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077900+00:00"
+ },
+ {
+  "market_id": "0x5970954bf7b99cefbd32ffe4a8ecf483c2790f2e3f3e48b1c11a2c2718e58488",
+  "question": "Will Morality, Unity, Honour (MECh) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.82,
+  "confidence": 0.3761,
+  "composite_score": 0.3579,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5899,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.2072
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9327,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Iran conflict: Veterans clash over morality, motives of potential war - FOX 10 Phoenix",
+    "score": -0.7616
+   },
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-which-parties-enter-parliament",
+  "volume": 11484.225842000003,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1959,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077847+00:00"
+ },
+ {
+  "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+  "question": "US x Iran permanent peace deal by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.3471,
+  "composite_score": 0.3557,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3699,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.2639
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9551,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum Flat, While XRP, Dogecoin Gain Amid Iran Peace Deal Optimism: Bear Market Won't Go To - Benzinga",
+    "score": 0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations - Fortune",
+    "score": 0.7616
+   },
+   {
+    "title": "Crude oil prices rise above $97/bbl after strikes on Lebanon amid US-Iran ceasefire deal, COMEX gold down 0.5% - Upstox",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+  "volume": 10308182.120929953,
+  "ends_in": "4g 4s 41d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077837+00:00"
+ },
+ {
+  "market_id": "0xc8e9ba9e25f5adcf7e159e62c24ca3bda9a5245a049acb94fdd534e67ed1969e",
+  "question": "Will the Virginia redistricting referendum pass?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.875,
+  "confidence": 0.3614,
+  "composite_score": 0.3516,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5679,
+   "arbitrage": 0.0,
+   "volume": 0.0432,
+   "news_volume": 0.149
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9359,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "UVA Center for Politics predicts narrow passage of redistricting referendum - WVIR",
+    "score": 0.4621
+   },
+   {
+    "title": "Statehouse beat: Ethics in West Virginia politics are dead and gone - Charleston Gazette-Mail",
+    "score": 0.0
+   },
+   {
+    "title": "Energy demands, regulations and federal funding challenge Virginia Clean Economy Act - Virginia Mercury",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-the-virginia-redistricting-referendum-pass",
+  "volume": 445419.1738730006,
+  "ends_in": "2g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077742+00:00"
+ },
+ {
+  "market_id": "0x33403f2501afbeafa3372043080e5360d714a9323b264cb76c3aaafc335304a5",
+  "question": "Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.76,
+  "confidence": 0.339,
+  "composite_score": 0.3467,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5442,
+   "arbitrage": 0.0,
+   "volume": 0.0056,
+   "news_volume": 0.2072
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9391,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 57787.90054899999,
+  "ends_in": "4g 4s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7611,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077920+00:00"
+ },
+ {
+  "market_id": "0xf348251f81ce225cf60df9260cb76cff013521e768e05b71615f0fe6733a5671",
+  "question": "Will Justin Bieber feature SZA during his Coachella performances?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.899,
+  "confidence": 0.3469,
+  "composite_score": 0.3454,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5517,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.149
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9381,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Feature: Is consumption endorsement? Politics, music & whether you can separate the two - Entertainment Focus",
+    "score": 0.4621
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Should You Sell Investments During Times of Military Conflict? - Williamson Herald",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-justin-bieber-feature-at-coachella",
+  "volume": 8994.829646999997,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1542,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077675+00:00"
+ },
+ {
+  "market_id": "0x1881756420bf29f7cca15fbc7bf6c91af782b82a1c99587b4c229be036de8f6f",
+  "question": "Will Juan Pablo Velasco win the 2026 Santa Cruz gubernatorial election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8855,
+  "confidence": 0.3552,
+  "composite_score": 0.3347,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0459,
+   "news_volume": 0.149
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "A big midterms year in Arizona kicks off with the state's largest county embroiled in election drama - KSAT",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/santa-cruz-governor-election-winner-bolivia",
+  "volume": 472865.95723100146,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077718+00:00"
+ },
+ {
+  "market_id": "0x4fec624c0ff2bfae89956cebd6fbc9c58f995f824382dc587dc5a32a4b15940b",
+  "question": "Will the Virginia constitutional amendment referendum fail to pass?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8365,
+  "confidence": 0.3365,
+  "composite_score": 0.3339,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Ohio politicians continue push for abortion restrictions despite amendment - Toledo Blade",
+    "score": -0.4621
+   },
+   {
+    "title": "UVA Center for Politics predicts narrow passage of redistricting referendum - WVIR",
+    "score": 0.4621
+   },
+   {
+    "title": "Statehouse beat: Ethics in West Virginia politics are dead and gone - Charleston Gazette-Mail",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/virginia-redistricting-referendum-margin-of-victory",
+  "volume": 6878.592678999999,
+  "ends_in": "2g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1183,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077826+00:00"
+ },
+ {
+  "market_id": "0xb05cb7526143304dbfef5dac572e636ca9cf0ab47228b20694fcddb34af9bcd8",
+  "question": "Will Velichie (Velichie) win at least one seat in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.3534,
+  "composite_score": 0.3327,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0047,
+   "news_volume": 0.149
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "A big midterms year in Arizona kicks off with the state's largest county embroiled in election drama - KSAT",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-which-parties-enter-parliament",
+  "volume": 48739.162824999985,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6871,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077652+00:00"
+ },
+ {
+  "market_id": "0x1c3b5ac599d525dc8baf76e1a9ff7a77587e71a7285630baedaef5eb58dbb731",
+  "question": "Will Team Spirit win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7275,
+  "confidence": 0.321,
+  "composite_score": 0.3267,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0045,
+   "news_volume": 0.03
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump vs. The Pope: A Political and Spiritual Showdown - Houston Public Media",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 46286.12294800004,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077950+00:00"
+ },
+ {
+  "market_id": "0xaf93b610c00a31e853ca42851aebb2221923ce50ac79b43d845971b3e9f66ba7",
+  "question": "Will FURIA win IEM Rio 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.3471,
+  "composite_score": 0.3257,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0143,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/iem-rio-2026-winner",
+  "volume": 147175.5455760003,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9877,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077615+00:00"
+ },
+ {
+  "market_id": "0x3de1a705488234aeb80ac36e158e7539616d4d02014bfbf233a6214e3623fd17",
+  "question": "GPT-5.5 released by April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.84,
+  "confidence": 0.3109,
+  "composite_score": 0.3254,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0083,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 85801.72076000001,
+  "ends_in": "5g 4s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.902,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077816+00:00"
+ },
+ {
+  "market_id": "0x5c3e77051639ff3cc2cd1735d6667d15514da142558bc198bcd9e73d1feb2a7f",
+  "question": "Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.909,
+  "confidence": 0.2923,
+  "composite_score": 0.3248,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4558,
+   "arbitrage": 0.0,
+   "volume": 0.0088,
+   "news_volume": 0.2072
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9489,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 90271.15334499998,
+  "ends_in": "4g 4s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9155,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077599+00:00"
+ },
+ {
+  "market_id": "0x22e03dc66d5294670263027439ea57f15c9602bbcd4c4801e5b77d30f509ad6f",
+  "question": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8440000000000001,
+  "confidence": 0.3191,
+  "composite_score": 0.3246,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4558,
+   "arbitrage": 0.0,
+   "volume": 0.0049,
+   "news_volume": 0.2072
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9489,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 50738.34192500002,
+  "ends_in": "4g 4s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7049,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077806+00:00"
+ },
+ {
+  "market_id": "0xc6a9e0caa1790ae060b66c99d3226a98b223e8ef7e12491bd09c34b5020493ca",
+  "question": "Will Otto Ritter win the 2026 Santa Cruz gubernatorial election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.89,
+  "confidence": 0.3444,
+  "composite_score": 0.3227,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.452,
+   "arbitrage": 0.0,
+   "volume": 0.016,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9493,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine - Yahoo Finance",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/santa-cruz-governor-election-winner-bolivia",
+  "volume": 164674.2100540001,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9933,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077685+00:00"
+ },
+ {
+  "market_id": "0xc2093cef2939610eb779fa771999167ef4c03edd6c195500602e3e4d0f8f14d9",
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 5-10%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.917,
+  "confidence": 0.3438,
+  "composite_score": 0.322,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.452,
+   "arbitrage": 0.0,
+   "volume": 0.0013,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9493,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Progressive's big win adds to Dem sweep, sends warning to Trump & GOP - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgaria-parliamentary-election-margin-of-victory",
+  "volume": 13591.529497000001,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2307,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077567+00:00"
+ },
+ {
+  "market_id": "0x1da3b067be31eb471516bd0ae8d1f85f8f6770747c34f6cbd761438fd58397de",
+  "question": "Will Progressive Bulgaria (PB) win between 85-89 seats in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.851,
+  "confidence": 0.3438,
+  "composite_score": 0.322,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.452,
+   "arbitrage": 0.0,
+   "volume": 0.001,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9493,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Progressive's big win adds to Dem sweep, sends warning to Trump & GOP - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/of-seats-won-by-pb-in-bulgarian-parliamentary-election",
+  "volume": 10181.132304999996,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1742,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077774+00:00"
+ },
+ {
+  "market_id": "0xf2eeec6ca024ba9aa97db261f2dc2f09cdffad7647015b20ccd5f64713f7ce43",
+  "question": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by at least 20%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8134999999999999,
+  "confidence": 0.3078,
+  "composite_score": 0.322,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.452,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9493,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Progressive's big win adds to Dem sweep, sends warning to Trump & GOP - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgaria-parliamentary-election-margin-of-victory",
+  "volume": 9298.825474,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1593,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077868+00:00"
+ },
+ {
+  "market_id": "0x9052521487326dca31ede8aa55f2fc174602cc868e93b0a1737f6136ce8cd94a",
+  "question": "Will Scottie Scheffler win the 2026 RBC Heritage?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.3059,
+  "composite_score": 0.3099,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.0133,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "International Trade, Regulation, and the Global Economy - The Heritage Foundation",
+    "score": 0.0
+   },
+   {
+    "title": "CAFE Duplicité: Disinformation in Fuel Economy Regulation - The Heritage Foundation",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-rbc-heritage-winner",
+  "volume": 136798.960328,
+  "ends_in": "10s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9825,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077940+00:00"
+ },
+ {
+  "market_id": "0x4886f98c40297ab2a8ed42a0bd7280a8c1b763f62e0fefc3139ca5dca8bddfc0",
+  "question": "Will Movement for Rights and Freedoms (DPS) finish third in the 2026 Bulgarian parliamentary election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.815,
+  "confidence": 0.3327,
+  "composite_score": 0.3097,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.403,
+   "arbitrage": 0.0,
+   "volume": 0.0017,
+   "news_volume": 0.1783
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9531,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The challenges of AI regulation: data protection, civil rights, and landmark cases - Frontiers",
+    "score": 0.7616
+   },
+   {
+    "title": "Volunteer dismissed from poll training after pushing back on political comment made by Shasta election official Clint Curtis - Shasta Scout",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/bulgarian-parliamentary-election-3rd-place",
+  "volume": 17867.64020700001,
+  "ends_in": "4s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2994,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077857+00:00"
+ },
+ {
+  "market_id": "0xf93a4364c1f78c84cd71f460ea43a4d7e92f75e115cae005f51d9dcde582230a",
+  "question": "Will Matt Fitzpatrick win the 2026 RBC Heritage?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.2785,
+  "composite_score": 0.3094,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4189,
+   "arbitrage": 0.0,
+   "volume": 0.004,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   },
+   {
+    "title": "International Trade, Regulation, and the Global Economy - The Heritage Foundation",
+    "score": 0.0
+   },
+   {
+    "title": "CAFE Duplicité: Disinformation in Fuel Economy Regulation - The Heritage Foundation",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/2026-rbc-heritage-winner",
+  "volume": 41322.39722999997,
+  "ends_in": "10s 41d",
+  "end_date": "19 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6133,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077930+00:00"
+ },
+ {
+  "market_id": "0x6bbbb15e035b4e2a79830bb6adb5de5b02e27b73f3a3693b020ef7387626892f",
+  "question": "Will Donald Trump publicly insult someone on April 21, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.905,
+  "confidence": 0.3073,
+  "composite_score": 0.2915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "‘We just need someone who’s not crazy’: Inside the White House decision to nominate Erica Schwartz as CDC director - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 6663.892433999999,
+  "ends_in": "2g 4s 41d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1147,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077629+00:00"
+ },
+ {
+  "market_id": "0xa7b5804ab1f23913a1e2b22b21999c6726be15a69f747228349e3237bd11f522",
+  "question": "Will Donald Trump publicly insult someone on April 24, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.905,
+  "confidence": 0.2803,
+  "composite_score": 0.2915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "‘We just need someone who’s not crazy’: Inside the White House decision to nominate Erica Schwartz as CDC director - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 6396.5231920000015,
+  "ends_in": "5g 4s 41d",
+  "end_date": "24 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1101,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077641+00:00"
+ },
+ {
+  "market_id": "0x7da9af875e80930fed70c6920acf88ce37b79caef518aa4e287fbb77487b0ed7",
+  "question": "Will Donald Trump publicly insult someone on April 25, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9,
+  "confidence": 0.2623,
+  "composite_score": 0.2915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "‘We just need someone who’s not crazy’: Inside the White House decision to nominate Erica Schwartz as CDC director - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 5173.680616000002,
+  "ends_in": "6g 4s 41d",
+  "end_date": "25 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.0892,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077663+00:00"
+ },
+ {
+  "market_id": "0x014cc3cd3a8ffe5ac6a63e417214c8b847755cd20a1642861eda6bb81cbb94b5",
+  "question": "Will Donald Trump publicly insult someone on April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.89,
+  "confidence": 0.2893,
+  "composite_score": 0.2915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.0898
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "‘We just need someone who’s not crazy’: Inside the White House decision to nominate Erica Schwartz as CDC director - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 7905.392078999999,
+  "ends_in": "4g 4s 41d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.1358,
+  "checked": false,
+  "timestamp": "2026-04-18T19:18:24.077707+00:00"
+ }
+]
