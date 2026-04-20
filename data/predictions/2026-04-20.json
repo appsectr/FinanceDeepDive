@@ -1,0 +1,789 @@
+[
+ {
+  "market_id": "0xc8e9ba9e25f5adcf7e159e62c24ca3bda9a5245a049acb94fdd534e67ed1969e",
+  "question": "Will the Virginia redistricting referendum pass?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.845,
+  "confidence": 0.5187,
+  "composite_score": 0.5063,
+  "scores": {
+   "statistical": 0.8868,
+   "sentiment": 0.5753,
+   "arbitrage": 0.0,
+   "volume": 0.0322,
+   "news_volume": 0.1228
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8651,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Who's winning the redistricting wars? Two lawmakers weigh in. - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "Pinwheels and the ‘lobster district’: How Virginia Democrats drew up a US House map to all but lock out Republicans - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "AP Decision Notes: What to expect in Virginia's special election on redistricting - KSAT",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-the-virginia-redistricting-referendum-pass",
+  "volume": 505537.98818100034,
+  "ends_in": "4s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509601+00:00"
+ },
+ {
+  "market_id": "0xeeb759e8db4eca494a8dcf81c9fe95bb35a019deaa004681b395a92ca4d2740d",
+  "question": "Will Mercantile Bank (MBWM) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9,
+  "confidence": 0.4393,
+  "composite_score": 0.4381,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7549,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.9874
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9017,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead - CNBC",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/mbwm-quarterly-earnings-gaap-eps-04-21-2026-1pt26",
+  "volume": 8663.794675000003,
+  "ends_in": "17s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5124,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509527+00:00"
+ },
+ {
+  "market_id": "0x214f240fa0b2e5223559b39460d198391902e0d1af4bca1ef45e33eb46ba3fd9",
+  "question": "Will General Dynamics (GD) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.895,
+  "confidence": 0.4366,
+  "composite_score": 0.4351,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7429,
+   "arbitrage": 0.0,
+   "volume": 0.0004,
+   "news_volume": 0.9882
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9044,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Iran’s Ballistic Missile Retaliatory Strikes and Escalation Dynamics - Politics Today",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/gd-quarterly-earnings-gaap-eps-04-22-2026-3pt67",
+  "volume": 6458.319146999998,
+  "ends_in": "1g 17s 31d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3985,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509555+00:00"
+ },
+ {
+  "market_id": "0xd7118fc53709b96a1a2c415f5e4f7dfb281cea6fa41ea8f0432028543c6bb195",
+  "question": "Will Honeywell International (HON) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.9,
+  "confidence": 0.415,
+  "composite_score": 0.4211,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6846,
+   "arbitrage": 0.0,
+   "volume": 0.0004,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9164,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/hon-quarterly-earnings-nongaap-eps-04-23-2026-2pt32",
+  "volume": 5981.520684,
+  "ends_in": "2g 17s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.372,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509543+00:00"
+ },
+ {
+  "market_id": "0xdb7886829f415e00ab97b695a28b5747c6bce1f8ab09635a51ec6480e5d50314",
+  "question": "Trump announces US x Iran ceasefire end by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.3974,
+  "composite_score": 0.3915,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5917,
+   "arbitrage": 0.0,
+   "volume": 0.0553,
+   "news_volume": 0.8151
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9324,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum Flat, XRP, Dogecoin Gain Amid Trump's 'Nuclear Dust' Claim, Lebanon Ceasefire: Analyst - Benzinga",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-by",
+  "volume": 867416.296920998,
+  "ends_in": "1g 4s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509569+00:00"
+ },
+ {
+  "market_id": "0x6bbbb15e035b4e2a79830bb6adb5de5b02e27b73f3a3693b020ef7387626892f",
+  "question": "Will Donald Trump publicly insult someone on April 21, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.845,
+  "confidence": 0.4135,
+  "composite_score": 0.3894,
+  "scores": {
+   "statistical": 0.7445,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0009,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9075,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 14079.760696000007,
+  "ends_in": "4s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7258,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509612+00:00"
+ },
+ {
+  "market_id": "0x33403f2501afbeafa3372043080e5360d714a9323b264cb76c3aaafc335304a5",
+  "question": "Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.815,
+  "confidence": 0.3884,
+  "composite_score": 0.3815,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6711,
+   "arbitrage": 0.0,
+   "volume": 0.004,
+   "news_volume": 0.2708
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9189,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Progressive Bulgaria Heads for Decisive Victory in Latest Snap Election - Politics Today",
+    "score": 0.7616
+   },
+   {
+    "title": "Center-left coalition wins Bulgarian election - dw.com",
+    "score": 0.4621
+   },
+   {
+    "title": "Bulgaria's Kremlin-friendly ex-president wins election in landslide - TVP World",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 62661.918847999994,
+  "ends_in": "2g 4s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9994,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509676+00:00"
+ },
+ {
+  "market_id": "0x4fec624c0ff2bfae89956cebd6fbc9c58f995f824382dc587dc5a32a4b15940b",
+  "question": "Will the Virginia constitutional amendment referendum fail to pass?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.848,
+  "confidence": 0.3521,
+  "composite_score": 0.3312,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0004,
+   "news_volume": 0.1228
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Pinwheels and the ‘lobster district’: How Virginia Democrats drew up a US House map to all but lock out Republicans - CNN",
+    "score": 0.0
+   },
+   {
+    "title": "How TN is able to pass MSCS takeover bill after it failed last year? - The Commercial Appeal",
+    "score": 0.0
+   },
+   {
+    "title": "AP Decision Notes: What to expect in Virginia's special election on redistricting - KSAT",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/virginia-redistricting-referendum-margin-of-victory",
+  "volume": 6994.9867939999995,
+  "ends_in": "4s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4276,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509590+00:00"
+ },
+ {
+  "market_id": "0x3de1a705488234aeb80ac36e158e7539616d4d02014bfbf233a6214e3623fd17",
+  "question": "GPT-5.5 released by April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.3289,
+  "composite_score": 0.3254,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0071,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 111192.30752299998,
+  "ends_in": "3g 4s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509622+00:00"
+ },
+ {
+  "market_id": "0xbcf382ddb2bb0333cc8c83cc525f33b2708c0122ff1e176e0d3ff76bc50dece1",
+  "question": "GPT-5.5 released by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9115000000000001,
+  "confidence": 0.3106,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0011,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 17707.091363999996,
+  "ends_in": "2g 4s 31d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.82,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509497+00:00"
+ },
+ {
+  "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+  "question": "US x Iran permanent peace deal by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.815,
+  "confidence": 0.3372,
+  "composite_score": 0.3247,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.262,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.1831
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum Flat, While XRP, Dogecoin Gain Amid Iran Peace Deal Optimism: Bear Market Won't Go To - Benzinga",
+    "score": 0.9051
+   },
+   {
+    "title": "Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations - Fortune",
+    "score": 0.7616
+   },
+   {
+    "title": "Crude oil prices rise above $97/bbl after strikes on Lebanon amid US-Iran ceasefire deal, COMEX gold down 0.5% - Upstox",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+  "volume": 15678015.430482054,
+  "ends_in": "2g 4s 31d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509687+00:00"
+ },
+ {
+  "market_id": "0xc0be7b1f19f9b658778c2be7e6bc67596a00f347ab64392d0f5d387534c7c3b4",
+  "question": "US x Iran ceasefire extended by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.765,
+  "confidence": 0.3197,
+  "composite_score": 0.3152,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3712,
+   "arbitrage": 0.0,
+   "volume": 0.0943,
+   "news_volume": 0.3543
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9551,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum Flat, XRP, Dogecoin Gain Amid Trump's 'Nuclear Dust' Claim, Lebanon Ceasefire: Analyst - Benzinga",
+    "score": 0.7616
+   },
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide As Iran Claims 'Ceasefire Violations' Amid Middle-East Tensions: A - Benzinga",
+    "score": -0.7616
+   },
+   {
+    "title": "Oil Price Today (April 20): Crude oil jumps 6%, nears $100 again despite ceasefire hopes. What’s happening - The Economic Times",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-ceasefire-extended-by",
+  "volume": 1477930.8320639965,
+  "ends_in": "1g 4s 31d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509720+00:00"
+ },
+ {
+  "market_id": "0x8df67128e0f9188b2f6604dada0a377a05996ef3f3a2bcbf5e0470ec15e47014",
+  "question": "Will Blackstone (BX) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.79,
+  "confidence": 0.2796,
+  "composite_score": 0.3107,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2451,
+   "arbitrage": 0.0,
+   "volume": 0.0004,
+   "news_volume": 0.9874
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Earnings poised to stoke confidence in a stock market that has rebounded to all-time highs. Here's what's ahead - CNBC",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/bx-quarterly-earnings-gaap-eps-04-23-2026-1pt34",
+  "volume": 5901.056182,
+  "ends_in": "2g 17s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3675,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509698+00:00"
+ },
+ {
+  "market_id": "0x22e03dc66d5294670263027439ea57f15c9602bbcd4c4801e5b77d30f509ad6f",
+  "question": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8795000000000001,
+  "confidence": 0.3114,
+  "composite_score": 0.296,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3289,
+   "arbitrage": 0.0,
+   "volume": 0.0035,
+   "news_volume": 0.2708
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9569,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Progressive Bulgaria Heads for Decisive Victory in Latest Snap Election - Politics Today",
+    "score": 0.7616
+   },
+   {
+    "title": "Center-left coalition wins Bulgarian election - dw.com",
+    "score": 0.4621
+   },
+   {
+    "title": "Bulgaria's Kremlin-friendly ex-president wins election in landslide - TVP World",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 55191.05327000004,
+  "ends_in": "2g 4s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9985,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509580+00:00"
+ },
+ {
+  "market_id": "0xa7b5804ab1f23913a1e2b22b21999c6726be15a69f747228349e3237bd11f522",
+  "question": "Will Donald Trump publicly insult someone on April 24, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.2984,
+  "composite_score": 0.2916,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0007,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 11433.536338000009,
+  "ends_in": "3g 4s 31d",
+  "end_date": "24 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6333,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509632+00:00"
+ },
+ {
+  "market_id": "0x7da9af875e80930fed70c6920acf88ce37b79caef518aa4e287fbb77487b0ed7",
+  "question": "Will Donald Trump publicly insult someone on April 25, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.83,
+  "confidence": 0.2894,
+  "composite_score": 0.2916,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 8521.498637999992,
+  "ends_in": "4g 4s 31d",
+  "end_date": "25 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5055,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509642+00:00"
+ },
+ {
+  "market_id": "0x014cc3cd3a8ffe5ac6a63e417214c8b847755cd20a1642861eda6bb81cbb94b5",
+  "question": "Will Donald Trump publicly insult someone on April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.825,
+  "confidence": 0.3074,
+  "composite_score": 0.2916,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0008,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 12245.892408000007,
+  "ends_in": "2g 4s 31d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509654+00:00"
+ },
+ {
+  "market_id": "0x599fe5a0ce8118b708b738b476a93d43191b6f89d0d64fb3eb8899c384af950e",
+  "question": "Will Donald Trump publicly insult someone on April 22, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.82,
+  "confidence": 0.2804,
+  "composite_score": 0.2916,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0006,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 9650.78422600001,
+  "ends_in": "1g 4s 31d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5584,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509664+00:00"
+ },
+ {
+  "market_id": "0x005d9a46b9caef05b29cb69b7fb85d0d45e432d10cd5a34ecc36118a78ee3432",
+  "question": "Will Donald Trump publicly insult someone on April 27, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.2624,
+  "composite_score": 0.2916,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0005,
+   "news_volume": 0.0923
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   },
+   {
+    "title": "Donald Trump to issue executive order for single federal rule on AI regulation - Financial Times",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 7923.2778919999955,
+  "ends_in": "6g 4s 31d",
+  "end_date": "27 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4759,
+  "checked": false,
+  "timestamp": "2026-04-20T19:28:22.509709+00:00"
+ }
+]
