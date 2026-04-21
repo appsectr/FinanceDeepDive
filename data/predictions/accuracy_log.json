@@ -226,5 +226,11 @@
   "hit_rate": 0.0,
   "avg_brier": 0.0,
   "total": 0
+ },
+ {
+  "date": "2026-04-21",
+  "hit_rate": 0.0,
+  "avg_brier": 0.0,
+  "total": 0
  }
 ]

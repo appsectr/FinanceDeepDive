@@ -1,0 +1,587 @@
+[
+ {
+  "market_id": "0x214f240fa0b2e5223559b39460d198391902e0d1af4bca1ef45e33eb46ba3fd9",
+  "question": "Will General Dynamics (GD) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.91,
+  "confidence": 0.4466,
+  "composite_score": 0.4362,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7457,
+   "arbitrage": 0.0,
+   "volume": 0.0037,
+   "news_volume": 0.9927
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9037,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UnitedHealth Group Stock Soars on Strong Earnings, Boosted Outlook - Investopedia",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
+    "score": 0.9603
+   }
+  ],
+  "url": "https://polymarket.com/event/gd-quarterly-earnings-gaap-eps-04-22-2026-3pt67",
+  "volume": 7882.383904999998,
+  "ends_in": "17s 29d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.459,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549771+00:00"
+ },
+ {
+  "market_id": "0xd7118fc53709b96a1a2c415f5e4f7dfb281cea6fa41ea8f0432028543c6bb195",
+  "question": "Will Honeywell International (HON) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.89,
+  "confidence": 0.4268,
+  "composite_score": 0.4242,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6968,
+   "arbitrage": 0.0,
+   "volume": 0.0029,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.914,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UnitedHealth Group Stock Soars on Strong Earnings, Boosted Outlook - Investopedia",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/hon-quarterly-earnings-nongaap-eps-04-23-2026-2pt32",
+  "volume": 6011.622396000001,
+  "ends_in": "1g 17s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3613,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549803+00:00"
+ },
+ {
+  "market_id": "0xc0be7b1f19f9b658778c2be7e6bc67596a00f347ab64392d0f5d387534c7c3b4",
+  "question": "US x Iran ceasefire extended by April 21, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.76,
+  "confidence": 0.3845,
+  "composite_score": 0.3772,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4623,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.2317
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9483,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide As Iran Claims 'Ceasefire Violations' Amid Middle-East Tensions: A - Benzinga",
+    "score": -0.7616
+   },
+   {
+    "title": "Oil Price Today (April 20): Crude oil jumps 6%, nears $100 again despite ceasefire hopes. What’s happening - The Economic Times",
+    "score": 0.7616
+   },
+   {
+    "title": "Crude oil prices rise above $97/bbl after strikes on Lebanon amid US-Iran ceasefire deal, COMEX gold down 0.5% - Upstox",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-ceasefire-extended-by",
+  "volume": 2103643.647579002,
+  "ends_in": "4s 29d",
+  "end_date": "21 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549943+00:00"
+ },
+ {
+  "market_id": "0x33403f2501afbeafa3372043080e5360d714a9323b264cb76c3aaafc335304a5",
+  "question": "Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.76,
+  "confidence": 0.3819,
+  "composite_score": 0.3643,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6268,
+   "arbitrage": 0.0,
+   "volume": 0.0358,
+   "news_volume": 0.1174
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9268,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Fed chair nominee on 2020 election winner: 'Keep politics out of monetary policy' - 13wham.com",
+    "score": 0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   },
+   {
+    "title": "Live Results: Virginia redistricting special election - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 75260.022727,
+  "ends_in": "1g 4s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9998,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549931+00:00"
+ },
+ {
+  "market_id": "0x3de1a705488234aeb80ac36e158e7539616d4d02014bfbf233a6214e3623fd17",
+  "question": "GPT-5.5 released by April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.81,
+  "confidence": 0.3401,
+  "composite_score": 0.3279,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0576,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 121267.57683699987,
+  "ends_in": "2g 4s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549898+00:00"
+ },
+ {
+  "market_id": "0xa6e7592ba207b357c885eb110fd170ccc79dc82f80b366f7a903aff76d140d59",
+  "question": "Will Tesla (TSLA) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.825,
+  "confidence": 0.2792,
+  "composite_score": 0.3102,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2413,
+   "arbitrage": 0.0,
+   "volume": 0.0058,
+   "news_volume": 0.9913
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UnitedHealth Group Stock Soars on Strong Earnings, Boosted Outlook - Investopedia",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
+    "score": 0.9603
+   }
+  ],
+  "url": "https://polymarket.com/event/tsla-quarterly-earnings-nongaap-eps-04-22-2026-0pt39",
+  "volume": 12114.774796000007,
+  "ends_in": "1g 1s 29d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6425,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549887+00:00"
+ },
+ {
+  "market_id": "0x8df67128e0f9188b2f6604dada0a377a05996ef3f3a2bcbf5e0470ec15e47014",
+  "question": "Will Blackstone (BX) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.785,
+  "confidence": 0.297,
+  "composite_score": 0.31,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2413,
+   "arbitrage": 0.0,
+   "volume": 0.003,
+   "news_volume": 0.9913
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "UnitedHealth Group Stock Soars on Strong Earnings, Boosted Outlook - Investopedia",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Stock Market Today, Feb. 18: Kenvue Rises After Earnings Beat Expectations - Yahoo Finance",
+    "score": 0.9603
+   }
+  ],
+  "url": "https://polymarket.com/event/bx-quarterly-earnings-gaap-eps-04-23-2026-1pt34",
+  "volume": 6353.125189999999,
+  "ends_in": "1g 17s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3798,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549920+00:00"
+ },
+ {
+  "market_id": "0x22e03dc66d5294670263027439ea57f15c9602bbcd4c4801e5b77d30f509ad6f",
+  "question": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8340000000000001,
+  "confidence": 0.3247,
+  "composite_score": 0.3008,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3732,
+   "arbitrage": 0.0,
+   "volume": 0.0317,
+   "news_volume": 0.1174
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.955,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Fed chair nominee on 2020 election winner: 'Keep politics out of monetary policy' - 13wham.com",
+    "score": 0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   },
+   {
+    "title": "Live Results: Virginia redistricting special election - PBS",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 66649.37185500006,
+  "ends_in": "1g 4s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9995,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549877+00:00"
+ },
+ {
+  "market_id": "0x599fe5a0ce8118b708b738b476a93d43191b6f89d0d64fb3eb8899c384af950e",
+  "question": "Will Donald Trump publicly insult someone on April 22, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.89,
+  "confidence": 0.2957,
+  "composite_score": 0.2986,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.0098,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 20604.24332800001,
+  "ends_in": "4s 29d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8609,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549820+00:00"
+ },
+ {
+  "market_id": "0x014cc3cd3a8ffe5ac6a63e417214c8b847755cd20a1642861eda6bb81cbb94b5",
+  "question": "Will Donald Trump publicly insult someone on April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.86,
+  "confidence": 0.3226,
+  "composite_score": 0.2985,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.0071,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 14999.27443300001,
+  "ends_in": "1g 4s 29d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7371,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549856+00:00"
+ },
+ {
+  "market_id": "0x7da9af875e80930fed70c6920acf88ce37b79caef518aa4e287fbb77487b0ed7",
+  "question": "Will Donald Trump publicly insult someone on April 25, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.885,
+  "confidence": 0.3046,
+  "composite_score": 0.2984,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.0057,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 12011.427167999993,
+  "ends_in": "3g 4s 29d",
+  "end_date": "25 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6387,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549832+00:00"
+ },
+ {
+  "market_id": "0xa7b5804ab1f23913a1e2b22b21999c6726be15a69f747228349e3237bd11f522",
+  "question": "Will Donald Trump publicly insult someone on April 24, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.855,
+  "confidence": 0.3136,
+  "composite_score": 0.2984,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.006,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 12711.24389900002,
+  "ends_in": "2g 4s 29d",
+  "end_date": "24 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549866+00:00"
+ },
+ {
+  "market_id": "0x005d9a46b9caef05b29cb69b7fb85d0d45e432d10cd5a34ecc36118a78ee3432",
+  "question": "Will Donald Trump publicly insult someone on April 27, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.865,
+  "confidence": 0.2865,
+  "composite_score": 0.2983,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.0039,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 8304.857578999996,
+  "ends_in": "5g 4s 29d",
+  "end_date": "27 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4798,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549844+00:00"
+ },
+ {
+  "market_id": "0x4db9bef4cfe179cb2f905892bbbc39370bcf419a64dbf3d9063a5643a9cea4d7",
+  "question": "Will Donald Trump publicly insult someone on April 26, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.795,
+  "confidence": 0.2685,
+  "composite_score": 0.2983,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3631,
+   "arbitrage": 0.0,
+   "volume": 0.0045,
+   "news_volume": 0.1464
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9555,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Fed chair nominee Kevin Warsh accused of being a ‘sock puppet’ for Donald Trump – US politics live - The Guardian",
+    "score": -0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 9375.104054,
+  "ends_in": "4g 4s 29d",
+  "end_date": "26 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5299,
+  "checked": false,
+  "timestamp": "2026-04-21T19:30:32.549908+00:00"
+ }
+]
