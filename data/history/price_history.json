@@ -6080,6 +6080,12 @@
     "yes": 16.6,
     "no": 83.4,
     "volume": 66649.37185500006
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 13.65,
+    "no": 86.35,
+    "volume": 78159.26470500002
    }
   ]
  },
@@ -6173,6 +6179,12 @@
     "yes": 86.0,
     "no": 14.0,
     "volume": 14999.27443300001
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 87.0,
+    "no": 13.0,
+    "volume": 22392.970964000026
    }
   ]
  },
@@ -6225,6 +6237,12 @@
     "yes": 76.0,
     "no": 24.0,
     "volume": 75260.022727
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 73.5,
+    "no": 26.5,
+    "volume": 92373.47727899998
    }
   ]
  },
@@ -6317,6 +6335,12 @@
     "yes": 85.5,
     "no": 14.5,
     "volume": 12711.24389900002
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 88.5,
+    "no": 11.5,
+    "volume": 14359.74984700002
    }
   ]
  },
@@ -6352,6 +6376,12 @@
     "yes": 89.0,
     "no": 11.0,
     "volume": 6011.622396000001
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 92.0,
+    "no": 8.0,
+    "volume": 6692.946247999999
    }
   ]
  },
@@ -6387,6 +6417,12 @@
     "yes": 81.0,
     "no": 19.0,
     "volume": 121267.57683699987
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 84.05,
+    "no": 15.95,
+    "volume": 198443.23182199965
    }
   ]
  },
@@ -6505,6 +6541,12 @@
     "yes": 9.75,
     "no": 90.25,
     "volume": 94730.37388399993
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 12.05,
+    "no": 87.95,
+    "volume": 162227.64604999998
    }
   ]
  },
@@ -6534,6 +6576,12 @@
     "yes": 88.5,
     "no": 11.5,
     "volume": 12011.427167999993
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 87.5,
+    "no": 12.5,
+    "volume": 13543.672462999999
    }
   ]
  },
@@ -6607,6 +6655,12 @@
     "yes": 21.5,
     "no": 78.5,
     "volume": 6353.125189999999
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 25.5,
+    "no": 74.5,
+    "volume": 6650.530315999998
    }
   ]
  },
@@ -6624,6 +6678,12 @@
     "yes": 86.5,
     "no": 13.5,
     "volume": 8304.857578999996
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 84.5,
+    "no": 15.5,
+    "volume": 8748.585306999998
    }
   ]
  },
@@ -6635,6 +6695,12 @@
     "yes": 17.5,
     "no": 82.5,
     "volume": 12114.774796000007
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 25.5,
+    "no": 74.5,
+    "volume": 20895.540692000006
    }
   ]
  },
@@ -6646,6 +6712,155 @@
     "yes": 79.5,
     "no": 20.5,
     "volume": 9375.104054
+   },
+   {
+    "date": "2026-04-22",
+    "yes": 79.0,
+    "no": 21.0,
+    "volume": 10392.719191000002
+   }
+  ]
+ },
+ "0x9c2e0bc6be941a564feb9df748674b472b68267616a81d60f2a154a261797ab9": {
+  "question": "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 11871.934499000005
+   }
+  ]
+ },
+ "0x5d07dbbd43ea9f1a4f585a4f22af1019f9f82b4901341910925ce74ff7b9b02e": {
+  "question": "Will Donald Trump publicly insult someone on April 29, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 85.5,
+    "no": 14.5,
+    "volume": 5770.999200999994
+   }
+  ]
+ },
+ "0xe0ae0ae2866b5b6c2af93da2147022c19f92d807e92594a74f868a4c8a1c359d": {
+  "question": "US x Iran diplomatic meeting by April 24, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 14.5,
+    "no": 85.5,
+    "volume": 450709.1714010008
+   }
+  ]
+ },
+ "0x47bae8d2c6f217990fb734f8b421226cd19a6bf2d485792c441ffbeaa49a90ed": {
+  "question": "Will two people dissent the April Fed decision?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 9416.347071999997
+   }
+  ]
+ },
+ "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd": {
+  "question": "US x Iran ceasefire extended by April 22, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 18.5,
+    "no": 81.5,
+    "volume": 2742827.96628299
+   }
+  ]
+ },
+ "0x6a2614893c2b31c4aff00fc6e3fdc1508b88c3c8d48e2e8fd3ae8d940697018e": {
+  "question": "Will Infosys (INFY) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 22.0,
+    "no": 78.0,
+    "volume": 7013.648575
+   }
+  ]
+ },
+ "0x0a300841b797e237de6e614c85ffd62104f240d99a3b4755c22c2433c3f55d55": {
+  "question": "Will Powell say \"Inflation\" 60+ times during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 8846.488160000003
+   }
+  ]
+ },
+ "0x1d8d0ed997c870e00a7b13e39ff94fea8b3e80b6f728c33f936da4341270bd4b": {
+  "question": "Will Powell say \"AI\" or \"Artificial Intelligence\" during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 75.0,
+    "no": 25.0,
+    "volume": 6329.4903509999995
+   }
+  ]
+ },
+ "0xe30da1785707980f11d869a70e73bb42eb702af20a85c72ad0e8d3303e9b6fed": {
+  "question": "Will Powell say \"Pandemic\" during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 74.0,
+    "no": 26.0,
+    "volume": 7505.838971000003
+   }
+  ]
+ },
+ "0xb2732e6044eee17f24ecde333dc426373e639aed25b5a3a0f052f2698c247bd5": {
+  "question": "US x Iran diplomatic meeting by April 25, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 26.5,
+    "no": 73.5,
+    "volume": 67539.22974599998
+   }
+  ]
+ },
+ "0x20f76a4336ebb545081b3baf5f34566d4bc6bec0d61c8e445412768077573bc0": {
+  "question": "Will one person dissent the April Fed decision?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 73.0,
+    "no": 27.0,
+    "volume": 16687.936132
+   }
+  ]
+ },
+ "0x8de24a512446898475df2662f0b7d23d307dc2c1c2a45ae54ebfefc082243748": {
+  "question": "Will Powell say \"Inflation\" 40+ times during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 73.0,
+    "no": 27.0,
+    "volume": 21093.162887999995
+   }
+  ]
+ },
+ "0x1aa65ba84dd3db9adaeb7566eb434317b22cdcf391fa7105a64fad71f332d59d": {
+  "question": "Will Powell say \"Shut down\" or \"Shutdown\" during April press conference?",
+  "prices": [
+   {
+    "date": "2026-04-22",
+    "yes": 30.0,
+    "no": 70.0,
+    "volume": 12639.851909999998
    }
   ]
  }

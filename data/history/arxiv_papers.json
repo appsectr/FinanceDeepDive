@@ -788,7 +788,26 @@
       "insights_count": 0,
       "first_seen": "2026-04-21T19:30:13.857656+00:00",
       "url": "http://arxiv.org/abs/2604.16429v1"
+    },
+    "2604.19580v1": {
+      "title": "Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy",
+      "abstract": "Electricity price forecasting supports decision-making in energy markets and asset operation. Probabilistic forecasts are increasingly adopted to explicitly quantify uncertainty, typically issued as quantile predictions or ensembles of the full predictive distribution. However, how improvements in statistical forecast quality translate into economic value remains unclear. Battery storage arbitrage in day-ahead markets is a popular application-based benchmark for this purpose. We analyze quantile-based trading strategies (QBTS) and identify two critical flaws: they do not incentivize honest probabilistic forecasting and they ignore the intertemporal dependence structure of electricity prices. We therefore frame battery optimization as a stochastic program based on fully probabilistic forecasts and examine decision quality measurement for risk-neutral and risk-averse settings under different uncertainty models. Our discussion touches both sides of the coin: How reliable is the economic evaluation of forecasting models though (simplified) application studies - and how do improvements in statistical forecast quality for stochastic programs relate to the decision-quality and economic performance? We provide theoretical justification and empirical evidence from a case study on the German electricity market. Our results highlight the pitfalls of ranking forecasting models through battery trading strategies. We conclude with implications for evaluation practice and directions for fut",
+      "authors": [
+        "Simon Hirsch",
+        "Florian Ziel"
+      ],
+      "categories": [
+        "q-fin.ST",
+        "econ.EM",
+        "q-fin.PM",
+        "stat.AP"
+      ],
+      "published": "2026-04-21T15:35:32Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-22T19:32:44.838811+00:00",
+      "url": "http://arxiv.org/abs/2604.19580v1"
     }
   },
-  "last_check": "2026-04-21T19:30:16.386540+00:00"
+  "last_check": "2026-04-22T19:32:47.302531+00:00"
 }

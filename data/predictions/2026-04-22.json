@@ -1,0 +1,1039 @@
+[
+ {
+  "market_id": "0x33403f2501afbeafa3372043080e5360d714a9323b264cb76c3aaafc335304a5",
+  "question": "Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.735,
+  "confidence": 0.5095,
+  "composite_score": 0.4961,
+  "scores": {
+   "statistical": 0.8726,
+   "sentiment": 0.5547,
+   "arbitrage": 0.0,
+   "volume": 0.0337,
+   "news_volume": 0.1339
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.87,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Live Results: Virginia approves redistricting plan in special election - PBS",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 92373.47727899998,
+  "ends_in": "4s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976306+00:00"
+ },
+ {
+  "market_id": "0xd7118fc53709b96a1a2c415f5e4f7dfb281cea6fa41ea8f0432028543c6bb195",
+  "question": "Will Honeywell International (HON) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.92,
+  "confidence": 0.4396,
+  "composite_score": 0.4284,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7138,
+   "arbitrage": 0.0,
+   "volume": 0.0024,
+   "news_volume": 0.9973
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9105,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "THG (Hanover Insurance Group Inc) delivers strong Q4 2025 earnings, shares notch minor gains on positive year over year revenue growth. - Profit Margin - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9951
+   },
+   {
+    "title": "IBKR (Interactive Brokers Group Inc.) Q4 2025 earnings beat estimates, shares gain on strong year over year revenue growth. - Weak Momentum - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9866
+   },
+   {
+    "title": "US Stock Market Today: Nasdaq Leads Wall Street Rally as Iran Ceasefire Relief Meets Earnings Momentum - TechStock²",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/hon-quarterly-earnings-nongaap-eps-04-23-2026-2pt32",
+  "volume": 6692.946247999999,
+  "ends_in": "17s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.376,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976061+00:00"
+ },
+ {
+  "market_id": "0x014cc3cd3a8ffe5ac6a63e417214c8b847755cd20a1642861eda6bb81cbb94b5",
+  "question": "Will Donald Trump publicly insult someone on April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.87,
+  "confidence": 0.4441,
+  "composite_score": 0.4235,
+  "scores": {
+   "statistical": 0.7559,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0082,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9036,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 22392.970964000026,
+  "ends_in": "4s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8675,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976146+00:00"
+ },
+ {
+  "market_id": "0x22e03dc66d5294670263027439ea57f15c9602bbcd4c4801e5b77d30f509ad6f",
+  "question": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8634999999999999,
+  "confidence": 0.4273,
+  "composite_score": 0.4048,
+  "scores": {
+   "statistical": 0.7135,
+   "sentiment": 0.4452,
+   "arbitrage": 0.0,
+   "volume": 0.0285,
+   "news_volume": 0.1339
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9134,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Live Results: Virginia approves redistricting plan in special election - PBS",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 78159.26470500002,
+  "ends_in": "4s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9998,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976158+00:00"
+ },
+ {
+  "market_id": "0x0a300841b797e237de6e614c85ffd62104f240d99a3b4755c22c2433c3f55d55",
+  "question": "Will Powell say \"Inflation\" 60+ times during April press conference?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.755,
+  "confidence": 0.3455,
+  "composite_score": 0.3839,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6525,
+   "arbitrage": 0.0,
+   "volume": 0.0032,
+   "news_volume": 0.4117
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9223,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US sanctions Iran: Additional 25% tariffs to have minimal impact on India, say government sources - here’ - The Times of India",
+    "score": -0.7616
+   },
+   {
+    "title": "Gold Trades Near $5,000 as Investors Weigh Geopolitics, Inflation, and Fed Policy - U.S. Gold Bureau",
+    "score": -0.4621
+   },
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 8846.488160000003,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4797,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976253+00:00"
+ },
+ {
+  "market_id": "0x1aa65ba84dd3db9adaeb7566eb434317b22cdcf391fa7105a64fad71f332d59d",
+  "question": "Will Powell say \"Shut down\" or \"Shutdown\" during April press conference?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7,
+  "confidence": 0.3418,
+  "composite_score": 0.3798,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6851,
+   "arbitrage": 0.0,
+   "volume": 0.0046,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9163,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence",
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Should You Sell Investments During Times of Military Conflict? - Williamson Herald",
+    "score": -0.4621
+   },
+   {
+    "title": "How Wars Silenced Mardi Gras: New Orleans Carnival During Global Conflict - Military.com",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 12639.851909999998,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6331,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976347+00:00"
+ },
+ {
+  "market_id": "0x9c2e0bc6be941a564feb9df748674b472b68267616a81d60f2a154a261797ab9",
+  "question": "Will Powell say \"Crypto\" or \"Bitcoin\" during April press conference?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.3317,
+  "composite_score": 0.3685,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4737,
+   "arbitrage": 0.0,
+   "volume": 0.0043,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9472,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: 'I Cut The Garbage And Kept What Works' - Yahoo Finance",
+    "score": -0.7616
+   },
+   {
+    "title": "Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: 'I Cut The Garbage And Kept - Benzinga",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 11871.934499000005,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6052,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976092+00:00"
+ },
+ {
+  "market_id": "0x20f76a4336ebb545081b3baf5f34566d4bc6bec0d61c8e445412768077573bc0",
+  "question": "Will one person dissent the April Fed decision?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.73,
+  "confidence": 0.3267,
+  "composite_score": 0.363,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6175,
+   "arbitrage": 0.0,
+   "volume": 0.0061,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9283,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The nine justices are increasingly building their own personal brands outside the court - CNN",
+    "score": 0.4621
+   },
+   {
+    "title": "California Leads the Way in Consumer-Facing AI Regulation with Automated Decisionmaking Technology Rules - Duane Morris LLP",
+    "score": 0.4621
+   },
+   {
+    "title": "The Geopolitics of Industrial Policy - Dissent Magazine",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-dissent-at-the-next-fed-meeting-113",
+  "volume": 16687.936132,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7555,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976326+00:00"
+ },
+ {
+  "market_id": "0x1d8d0ed997c870e00a7b13e39ff94fea8b3e80b6f728c33f936da4341270bd4b",
+  "question": "Will Powell say \"AI\" or \"Artificial Intelligence\" during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.75,
+  "confidence": 0.3074,
+  "composite_score": 0.3415,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4672,
+   "arbitrage": 0.0,
+   "volume": 0.0023,
+   "news_volume": 0.492
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9478,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal | CA.gov",
+    "score": 0.7616
+   },
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 6329.4903509999995,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3574,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976263+00:00"
+ },
+ {
+  "market_id": "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd",
+  "question": "US x Iran ceasefire extended by April 22, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.815,
+  "confidence": 0.3067,
+  "composite_score": 0.3408,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2649,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.492
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9583,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US Stock Market Today: Nasdaq Leads Wall Street Rally as Iran Ceasefire Relief Meets Earnings Momentum - TechStock²",
+    "score": 0.964
+   },
+   {
+    "title": "Futures Rise As Truce Extended; Two AI Plays Beat - Investor's Business Daily",
+    "score": 0.9051
+   },
+   {
+    "title": "Stock market today: Dow rises on Trump ceasefire; Tesla earnings due (live coverage) - MSN",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-x-iran-ceasefire-extended-by",
+  "volume": 2742827.96628299,
+  "ends_in": "4s 27d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976222+00:00"
+ },
+ {
+  "market_id": "0xe0ae0ae2866b5b6c2af93da2147022c19f92d807e92594a74f868a4c8a1c359d",
+  "question": "US x Iran diplomatic meeting by April 24, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.2999,
+  "composite_score": 0.3332,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.1643,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329",
+  "volume": 450709.1714010008,
+  "ends_in": "2g 4s 27d",
+  "end_date": "24 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976179+00:00"
+ },
+ {
+  "market_id": "0x3de1a705488234aeb80ac36e158e7539616d4d02014bfbf233a6214e3623fd17",
+  "question": "GPT-5.5 released by April 23, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8405,
+  "confidence": 0.3497,
+  "composite_score": 0.3286,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0723,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/gpt-5pt5-released-by",
+  "volume": 198443.23182199965,
+  "ends_in": "1g 4s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976201+00:00"
+ },
+ {
+  "market_id": "0xb2732e6044eee17f24ecde333dc426373e639aed25b5a3a0f052f2698c247bd5",
+  "question": "US x Iran diplomatic meeting by April 25, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.735,
+  "confidence": 0.2936,
+  "composite_score": 0.3262,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0246,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329",
+  "volume": 67539.22974599998,
+  "ends_in": "3g 4s 27d",
+  "end_date": "25 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9993,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976316+00:00"
+ },
+ {
+  "market_id": "0xa7b5804ab1f23913a1e2b22b21999c6726be15a69f747228349e3237bd11f522",
+  "question": "Will Donald Trump publicly insult someone on April 24, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.885,
+  "confidence": 0.3429,
+  "composite_score": 0.321,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0052,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9495,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 14359.74984700002,
+  "ends_in": "1g 4s 27d",
+  "end_date": "24 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6901,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976109+00:00"
+ },
+ {
+  "market_id": "0x5c3e77051639ff3cc2cd1735d6667d15514da142558bc198bcd9e73d1feb2a7f",
+  "question": "Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8795000000000001,
+  "confidence": 0.3159,
+  "composite_score": 0.321,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4452,
+   "arbitrage": 0.0,
+   "volume": 0.0591,
+   "news_volume": 0.1339
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9499,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Live Results: Virginia approves redistricting plan in special election - PBS",
+    "score": 0.4621
+   },
+   {
+    "title": "How different countries are navigating the uncertainty of digital asset regulation in a complex election year - The World Economic Forum",
+    "score": -0.4621
+   },
+   {
+    "title": "Hochul and legislative leaders play game of chicken with AI regulations - City & State New York",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/tamil-nadu-legislative-assembly-election-winner",
+  "volume": 162227.64604999998,
+  "ends_in": "4s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976122+00:00"
+ },
+ {
+  "market_id": "0x7da9af875e80930fed70c6920acf88ce37b79caef518aa4e287fbb77487b0ed7",
+  "question": "Will Donald Trump publicly insult someone on April 25, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.875,
+  "confidence": 0.3339,
+  "composite_score": 0.321,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0049,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9495,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 13543.672462999999,
+  "ends_in": "2g 4s 27d",
+  "end_date": "25 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976134+00:00"
+ },
+ {
+  "market_id": "0x4db9bef4cfe179cb2f905892bbbc39370bcf419a64dbf3d9063a5643a9cea4d7",
+  "question": "Will Donald Trump publicly insult someone on April 26, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.79,
+  "confidence": 0.3069,
+  "composite_score": 0.321,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0038,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9495,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 10392.719191000002,
+  "ends_in": "3g 4s 27d",
+  "end_date": "26 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5469,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976232+00:00"
+ },
+ {
+  "market_id": "0x5d07dbbd43ea9f1a4f585a4f22af1019f9f82b4901341910925ce74ff7b9b02e",
+  "question": "Will Donald Trump publicly insult someone on April 29, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.855,
+  "confidence": 0.2888,
+  "composite_score": 0.3209,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0021,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9495,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 5770.999200999994,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3283,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976168+00:00"
+ },
+ {
+  "market_id": "0x005d9a46b9caef05b29cb69b7fb85d0d45e432d10cd5a34ecc36118a78ee3432",
+  "question": "Will Donald Trump publicly insult someone on April 27, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.845,
+  "confidence": 0.3158,
+  "composite_score": 0.3209,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4497,
+   "arbitrage": 0.0,
+   "volume": 0.0032,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9495,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - DW.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Donald Trump statue locked away as Ohio artist battles crypto backers - The Columbus Dispatch",
+    "score": 0.4621
+   },
+   {
+    "title": "From Donald Trump to Jacob Frey — has politics lost its profanity filter? - Northeastern University",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 8748.585306999998,
+  "ends_in": "4g 4s 27d",
+  "end_date": "27 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4752,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976190+00:00"
+ },
+ {
+  "market_id": "0x8de24a512446898475df2662f0b7d23d307dc2c1c2a45ae54ebfefc082243748",
+  "question": "Will Powell say \"Inflation\" 40+ times during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.73,
+  "confidence": 0.277,
+  "composite_score": 0.3078,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3475,
+   "arbitrage": 0.0,
+   "volume": 0.0077,
+   "news_volume": 0.4117
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US sanctions Iran: Additional 25% tariffs to have minimal impact on India, say government sources - here’ - The Times of India",
+    "score": -0.7616
+   },
+   {
+    "title": "Gold Trades Near $5,000 as Investors Weigh Geopolitics, Inflation, and Fed Policy - U.S. Gold Bureau",
+    "score": -0.4621
+   },
+   {
+    "title": "The One Way To Improve the Economy Without Raising Inflation or Debt - The Heritage Foundation",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 21093.162887999995,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8471,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976337+00:00"
+ },
+ {
+  "market_id": "0xa6e7592ba207b357c885eb110fd170ccc79dc82f80b366f7a903aff76d140d59",
+  "question": "Will Tesla (TSLA) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.2887,
+  "composite_score": 0.3008,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2039,
+   "arbitrage": 0.0,
+   "volume": 0.0076,
+   "news_volume": 0.9881
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "THG (Hanover Insurance Group Inc) delivers strong Q4 2025 earnings, shares notch minor gains on positive year over year revenue growth. - Profit Margin - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9951
+   },
+   {
+    "title": "IBKR (Interactive Brokers Group Inc.) Q4 2025 earnings beat estimates, shares gain on strong year over year revenue growth. - Weak Momentum - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9866
+   },
+   {
+    "title": "US Stock Market Today: Nasdaq Leads Wall Street Rally as Iran Ceasefire Relief Meets Earnings Momentum - TechStock²",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/tsla-quarterly-earnings-nongaap-eps-04-22-2026-0pt39",
+  "volume": 20895.540692000006,
+  "ends_in": "1s 27d",
+  "end_date": "22 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8438,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976274+00:00"
+ },
+ {
+  "market_id": "0x8df67128e0f9188b2f6604dada0a377a05996ef3f3a2bcbf5e0470ec15e47014",
+  "question": "Will Blackstone (BX) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.2976,
+  "composite_score": 0.3007,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2046,
+   "arbitrage": 0.0,
+   "volume": 0.0024,
+   "news_volume": 0.9889
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "THG (Hanover Insurance Group Inc) delivers strong Q4 2025 earnings, shares notch minor gains on positive year over year revenue growth. - Profit Margin - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9951
+   },
+   {
+    "title": "IBKR (Interactive Brokers Group Inc.) Q4 2025 earnings beat estimates, shares gain on strong year over year revenue growth. - Weak Momentum - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9866
+   },
+   {
+    "title": "US Stock Market Today: Nasdaq Leads Wall Street Rally as Iran Ceasefire Relief Meets Earnings Momentum - TechStock²",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/bx-quarterly-earnings-gaap-eps-04-23-2026-1pt34",
+  "volume": 6650.530315999998,
+  "ends_in": "17s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3738,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976285+00:00"
+ },
+ {
+  "market_id": "0x6a2614893c2b31c4aff00fc6e3fdc1508b88c3c8d48e2e8fd3ae8d940697018e",
+  "question": "Will Infosys (INFY) beat quarterly earnings?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.78,
+  "confidence": 0.2705,
+  "composite_score": 0.3005,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2039,
+   "arbitrage": 0.0,
+   "volume": 0.0026,
+   "news_volume": 0.9881
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "THG (Hanover Insurance Group Inc) delivers strong Q4 2025 earnings, shares notch minor gains on positive year over year revenue growth. - Profit Margin - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9951
+   },
+   {
+    "title": "IBKR (Interactive Brokers Group Inc.) Q4 2025 earnings beat estimates, shares gain on strong year over year revenue growth. - Weak Momentum - Cổng thông tin điện tử tỉnh Lào Cai",
+    "score": 0.9866
+   },
+   {
+    "title": "US Stock Market Today: Nasdaq Leads Wall Street Rally as Iran Ceasefire Relief Meets Earnings Momentum - TechStock²",
+    "score": 0.964
+   }
+  ],
+  "url": "https://polymarket.com/event/infy-quarterly-earnings-gaap-eps-04-23-2026-0pt21",
+  "volume": 7013.648575,
+  "ends_in": "17s 27d",
+  "end_date": "23 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3921,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976243+00:00"
+ },
+ {
+  "market_id": "0x47bae8d2c6f217990fb734f8b421226cd19a6bf2d485792c441ffbeaa49a90ed",
+  "question": "Will two people dissent the April Fed decision?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.835,
+  "confidence": 0.2652,
+  "composite_score": 0.2947,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3447,
+   "arbitrage": 0.0,
+   "volume": 0.0034,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9563,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "FactCheck.org Wins Webby People’s Voice Award in News & Politics - Annenberg Public Policy Center",
+    "score": 0.4621
+   },
+   {
+    "title": "California Leads the Way in Consumer-Facing AI Regulation with Automated Decisionmaking Technology Rules - Duane Morris LLP",
+    "score": 0.4621
+   },
+   {
+    "title": "People want reform of AI regulation in healthcare but not overhaul - Home | Digital Health",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-dissent-at-the-next-fed-meeting-113",
+  "volume": 9416.347071999997,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5052,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976211+00:00"
+ },
+ {
+  "market_id": "0xe30da1785707980f11d869a70e73bb42eb702af20a85c72ad0e8d3303e9b6fed",
+  "question": "Will Powell say \"Pandemic\" during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.74,
+  "confidence": 0.2585,
+  "composite_score": 0.2872,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3149,
+   "arbitrage": 0.0,
+   "volume": 0.0027,
+   "news_volume": 0.1668
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9574,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Should You Sell Investments During Times of Military Conflict? - Williamson Herald",
+    "score": -0.4621
+   },
+   {
+    "title": "How Wars Silenced Mardi Gras: New Orleans Carnival During Global Conflict - Military.com",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 7505.838971000003,
+  "ends_in": "6g 4s 27d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4164,
+  "checked": false,
+  "timestamp": "2026-04-22T19:33:01.976295+00:00"
+ }
+]
