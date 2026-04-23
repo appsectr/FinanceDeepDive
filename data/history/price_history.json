@@ -6582,6 +6582,12 @@
     "yes": 87.5,
     "no": 12.5,
     "volume": 13543.672462999999
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 91.5,
+    "no": 8.5,
+    "volume": 15871.278046999994
    }
   ]
  },
@@ -6684,6 +6690,12 @@
     "yes": 84.5,
     "no": 15.5,
     "volume": 8748.585306999998
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 89.0,
+    "no": 11.0,
+    "volume": 9011.070507999997
    }
   ]
  },
@@ -6718,6 +6730,12 @@
     "yes": 79.0,
     "no": 21.0,
     "volume": 10392.719191000002
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 86.0,
+    "no": 14.0,
+    "volume": 11720.130688000001
    }
   ]
  },
@@ -6729,6 +6747,12 @@
     "yes": 8.5,
     "no": 91.5,
     "volume": 11871.934499000005
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 11891.934499000005
    }
   ]
  },
@@ -6740,6 +6764,12 @@
     "yes": 85.5,
     "no": 14.5,
     "volume": 5770.999200999994
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 88.5,
+    "no": 11.5,
+    "volume": 5976.662484999994
    }
   ]
  },
@@ -6762,6 +6792,12 @@
     "yes": 16.5,
     "no": 83.5,
     "volume": 9416.347071999997
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 15.0,
+    "no": 85.0,
+    "volume": 9580.922352999994
    }
   ]
  },
@@ -6795,6 +6831,12 @@
     "yes": 24.5,
     "no": 75.5,
     "volume": 8846.488160000003
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 24.5,
+    "no": 75.5,
+    "volume": 9029.184556000002
    }
   ]
  },
@@ -6803,6 +6845,12 @@
   "prices": [
    {
     "date": "2026-04-22",
+    "yes": 75.0,
+    "no": 25.0,
+    "volume": 6329.4903509999995
+   },
+   {
+    "date": "2026-04-23",
     "yes": 75.0,
     "no": 25.0,
     "volume": 6329.4903509999995
@@ -6817,6 +6865,12 @@
     "yes": 74.0,
     "no": 26.0,
     "volume": 7505.838971000003
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 73.0,
+    "no": 27.0,
+    "volume": 8147.445736000002
    }
   ]
  },
@@ -6839,6 +6893,12 @@
     "yes": 73.0,
     "no": 27.0,
     "volume": 16687.936132
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 71.0,
+    "no": 29.0,
+    "volume": 16768.187709
    }
   ]
  },
@@ -6850,6 +6910,12 @@
     "yes": 73.0,
     "no": 27.0,
     "volume": 21093.162887999995
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 74.5,
+    "no": 25.5,
+    "volume": 21126.829895999996
    }
   ]
  },
@@ -6861,6 +6927,892 @@
     "yes": 30.0,
     "no": 70.0,
     "volume": 12639.851909999998
+   },
+   {
+    "date": "2026-04-23",
+    "yes": 29.5,
+    "no": 70.5,
+    "volume": 12672.582557999996
+   }
+  ]
+ },
+ "0xb269664584461a8185e48a0e17bf545a565380f532e9e2017a286aa3d0372b8d": {
+  "question": "Will the Central Bank of Colombia announce no change at the April meeting?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 8.0,
+    "no": 92.0,
+    "volume": 8561.586247999998
+   }
+  ]
+ },
+ "0x6aa6fa67d34102c9114677c8e72c911cfe2b28777a01c18abbedf0b5c0952e8b": {
+  "question": "Will Trump say \"Trump-Class\" or \"Trump Fleet\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 8.0,
+    "no": 92.0,
+    "volume": 16302.73322
+   }
+  ]
+ },
+ "0x7c8241e9d7d1a6e8a42c6af38aeb18479ce087f7e47227399273b12766cb9ab2": {
+  "question": "US x Iran diplomatic meeting by April 26, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 8.0,
+    "no": 92.0,
+    "volume": 127357.69755099998
+   }
+  ]
+ },
+ "0x07d7eaa9e0abcb9e0ee1997bf5aeacd3f6a5482a5299ee09d5679b6584c94ede": {
+  "question": "Will Hong Kong have between 140-150mm of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 8.3,
+    "no": 91.7,
+    "volume": 6234.576841000002
+   }
+  ]
+ },
+ "0xd2a649593be744abdf506e46d7e482770f2071a5560f2e0c4639bdf2d6798718": {
+  "question": "Will the Central Bank of Colombia announce an increase at the April meeting?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 91.5,
+    "no": 8.5,
+    "volume": 13567.506147000006
+   }
+  ]
+ },
+ "0x3bfd988d631c0f088fe585333090b776932c915b493839315e53c828e67df910": {
+  "question": "Will Trump talk to Vladimir Putin in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 8.5,
+    "no": 91.5,
+    "volume": 7573.256503999999
+   }
+  ]
+ },
+ "0x973f66056db57f89e717009b57c768f0823109b6ce9245fe6168f6909de0fc8d": {
+  "question": "Will Anthropic have the second-best Coding AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 91.0,
+    "no": 9.0,
+    "volume": 6026.581503000001
+   }
+  ]
+ },
+ "0x3e1363efbf76899943f61797d0ffc2de5c47a716e2ec66189f45ab65b28078f9": {
+  "question": "Iran agrees to unrestricted shipping through Hormuz in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 9.5,
+    "no": 90.5,
+    "volume": 295975.5021790003
+   }
+  ]
+ },
+ "0x1fcbbc09fcc08018e1def440c967fd32805ed01949d5a637c35179981e3f481c": {
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 Week of April 20 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 9.5,
+    "no": 90.5,
+    "volume": 8472.356036999998
+   }
+  ]
+ },
+ "0xbe112cd1ad039bea98bfbcc178798b5304960855d7f5943a34e149cc4c7aa3bb": {
+  "question": "Will Trump say \"King\" during King Charles visit?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 90.0,
+    "no": 10.0,
+    "volume": 5923.04484
+   }
+  ]
+ },
+ "0xa4e4a9dcc191e695599991ef3bdecd94ffe82223746040ccdc258ee2b0c3af8a": {
+  "question": "Will Elon Musk’s net worth be less than $600b on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 10.35,
+    "no": 89.65,
+    "volume": 7003.461276999999
+   }
+  ]
+ },
+ "0x05260e1c44dc94aadd963c29e0005618d4b9975db01f0883e01455c729a04cf1": {
+  "question": "Will US GDP growth in Q1 2026 be greater than 3.5%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 10.5,
+    "no": 89.5,
+    "volume": 83668.62787099993
+   }
+  ]
+ },
+ "0xcca580046966603042bf8495f9d8c59c2e6c42156144e252f935567b3e53d03c": {
+  "question": "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 89.5,
+    "no": 10.5,
+    "volume": 21374.922844
+   }
+  ]
+ },
+ "0x57b84034d062703d66bb77c6acde7e8098fdb6685f2b779836c0dafa85717ea1": {
+  "question": "Will Bitcoin outperform Gold in April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 89.5,
+    "no": 10.5,
+    "volume": 13206.25747099999
+   }
+  ]
+ },
+ "0xafbb2da36141abeffe30d6fbdca5f9cd7f8113a70a1e243ed03ef5a6004a104e": {
+  "question": "Will Trump agree to Iranian Oil sanction relief in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 10.5,
+    "no": 89.5,
+    "volume": 215662.76721399993
+   }
+  ]
+ },
+ "0xde41745762fd150d1576a21c19be96f7b1bc9f95e6b2c464c655ad248ef0ac3d": {
+  "question": "Will the DHS shutdown end between April 29-30, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 10.9,
+    "no": 89.1,
+    "volume": 20605.163424
+   }
+  ]
+ },
+ "0x1ddd793f4dd75101ed8af27abb4b33b05131319d7a4a36b7d8664988c90dda44": {
+  "question": "Will Trump say \"Trump-Kennedy Center\" or \"Trump Kennedy\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.0,
+    "no": 89.0,
+    "volume": 36352.260970999996
+   }
+  ]
+ },
+ "0x9517da80b6edfccdc6091d850bd647a75089ff0938c174dddc39e80feb7ac190": {
+  "question": "Will Intel (INTC) beat quarterly earnings?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 89.0,
+    "no": 11.0,
+    "volume": 9058.066001000003
+   }
+  ]
+ },
+ "0x61dedda02f8abb229d3c413e6ab4861446d075807e12532f23642c1d82839b9a": {
+  "question": "Will Donald Trump publicly insult someone on April 28, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 89.0,
+    "no": 11.0,
+    "volume": 5993.390635000002
+   }
+  ]
+ },
+ "0x6468c95a0308394330bf55ae21835c8a341bf7efaeb697964ea5f9107972da2c": {
+  "question": "Will Trump agree to unfreeze Iranian assets in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.0,
+    "no": 89.0,
+    "volume": 182978.02254300017
+   }
+  ]
+ },
+ "0x7eceae72d7d7b3e175fa872c728526e6fec4714288a4bda91fe818e298e69a6f": {
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.4,
+    "no": 88.6,
+    "volume": 4836875.30206498
+   }
+  ]
+ },
+ "0x3b2dc7c6795378b9285eb9661d588ad47f211b305d047415c41d12776a5bad48": {
+  "question": "Will Trump talk to Xi Jinping in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.5,
+    "no": 88.5,
+    "volume": 29047.821212000013
+   }
+  ]
+ },
+ "0xb37e9fd07496553abed2dc82ddcc54135d79b3375e369230c1d7c00d350c5569": {
+  "question": "Will Hong Kong have between 130-140mm of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.8,
+    "no": 88.2,
+    "volume": 6355.049502000004
+   }
+  ]
+ },
+ "0xaaa2807ebfe32e7c813ec67f42b002475c3509861c20aea3295ae33a432e8b8e": {
+  "question": "Will Apple (AAPL) close above $275 on April 23?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.8,
+    "no": 88.2,
+    "volume": 5221.840365
+   }
+  ]
+ },
+ "0xbc07c9dd941477c622287bf5b2a762baf6198be3df9763f2e5b398fd500442cf": {
+  "question": "Will OpenAI have the #1 AI model at the end of April 2026 (Style Control On)?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 11.95,
+    "no": 88.05,
+    "volume": 154010.4425719995
+   }
+  ]
+ },
+ "0x0804c98fb26288399dcd8d1f5105c27f7f8d548a4d8a993c8ee87c685b1630ee": {
+  "question": "Will Anthropic have the best Coding AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 88.0,
+    "no": 12.0,
+    "volume": 26880.276239000043
+   }
+  ]
+ },
+ "0x36a3677ebcd81bda6278fb1db323b1d366feffaacd3c00f1fbdf2ab20d69971e": {
+  "question": "Will Hong Kong have less than 130mm of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 12.5,
+    "no": 87.5,
+    "volume": 21434.131260000006
+   }
+  ]
+ },
+ "0x8d1bbbd4a9d1f460560cb2074bae3e55fa4c686e3b7b4150873738cbb679469d": {
+  "question": "Will Elon Musk’s net worth be between $620b and $630b on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 12.8,
+    "no": 87.2,
+    "volume": 10093.817652999995
+   }
+  ]
+ },
+ "0x5e05a55ec893231d7f5a5496c5022ea749447ae7db36219f4eb36e18fcf99471": {
+  "question": "Will Trump talk to Volodymyr Zelenskyy in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.0,
+    "no": 87.0,
+    "volume": 10481.534766999997
+   }
+  ]
+ },
+ "0x30009e5ff3524958ede4a53798b4e1bbf29cb0815534420f09241a8366bcdd9e": {
+  "question": "Will President Trump sign 7 or more pieces of legislation into law in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.0,
+    "no": 87.0,
+    "volume": 6151.487783999999
+   }
+  ]
+ },
+ "0xc264391c0d4bce49fb833bfae127d7e8f140c231c34022d702e1e68ff03116b1": {
+  "question": "Will Elon Musk’s net worth be between $640b and $650b on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.0,
+    "no": 87.0,
+    "volume": 7361.736293000002
+   }
+  ]
+ },
+ "0xf105ea1a83605540617366526881a245bd0fb586e0cfe15c1582d0d3ee579558": {
+  "question": "Will OpenAI have the best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.05,
+    "no": 86.95,
+    "volume": 2355251.461790002
+   }
+  ]
+ },
+ "0x3b216697ef115ae484b1bfe42a75a95e8d6a1851582b644a46d2f6031a3121d8": {
+  "question": "Will OpenAI have the best Coding AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.3,
+    "no": 86.7,
+    "volume": 31921.858216999997
+   }
+  ]
+ },
+ "0x23e0fa26c458ec81934a967dada2a520660f980379eb8f785a64fd09c0a0e494": {
+  "question": "Will NYC have between 3 and 4 inches of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.35,
+    "no": 86.65,
+    "volume": 10032.095314999997
+   }
+  ]
+ },
+ "0x6ac0f239c53763cc907a6707eb73d3b6a5b3308584efe37b10bad4174918377c": {
+  "question": "Will Anthropic have the best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 86.5,
+    "no": 13.5,
+    "volume": 1129780.4292659955
+   }
+  ]
+ },
+ "0x51d4e7fbceb90275ccb18a5d234ce575198005881c22599cf0f8c5410f96644a": {
+  "question": "Will Trump meet with Keir Starmer in April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.5,
+    "no": 86.5,
+    "volume": 13122.579706000008
+   }
+  ]
+ },
+ "0x87d10b2fae256d634cfd9ceb7ed03cb4244830e191a35299be965e53f903ac16": {
+  "question": "Will Trump say \"Trump Derangement Syndrome\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.5,
+    "no": 86.5,
+    "volume": 6972.572939999999
+   }
+  ]
+ },
+ "0x51bf0196b77c07901949d262d1c3bf4429a16a2feb6b82dca8473814f8dc96d0": {
+  "question": "Will OpenAI have the second best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.55,
+    "no": 86.45,
+    "volume": 16193.716400999989
+   }
+  ]
+ },
+ "0x675c0b7013b3a2ac0e3071df5f3ca5138ab3d4d8fff573ed30a5c2efa21b7655": {
+  "question": "Will OpenAI have the #3 AI model at the end of April 2026 (Style Control On)?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 13.95,
+    "no": 86.05,
+    "volume": 8173.361332999995
+   }
+  ]
+ },
+ "0x05cb695f849fcd35b1360ec73c1d66b16783577772fbdf4cad37669b0514551b": {
+  "question": "Will Claude go down 9-11 times in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 11095.634006
+   }
+  ]
+ },
+ "0x3de0aae4a7387f55bf3662dfc924937e15d425bde3bce9649f974b058184df8d": {
+  "question": "Will Bruno Mars have the second-greatest number of monthly Spotify listeners this month?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 10121.859835
+   }
+  ]
+ },
+ "0xe208a07bd71069b04e3b89de92f71da8b155d45dc2e527dc46c3ceb2a63b307b": {
+  "question": "US x Iran diplomatic meeting by April 27, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 14.0,
+    "no": 86.0,
+    "volume": 66621.64181200002
+   }
+  ]
+ },
+ "0x3e7559e591b2e26807d62516c35d2065576ffb23a94d57db0bdce887767249d6": {
+  "question": "Will US GDP growth in Q1 2026 be between 1.0% and 1.5%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 14.05,
+    "no": 85.95,
+    "volume": 12127.660413000003
+   }
+  ]
+ },
+ "0x996fa73f28b71dc3b8395b0e7b370e485d0b5e53897408a5457f6eba67c37fd8": {
+  "question": "Will Claude go down 12+ times in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 85.0,
+    "no": 15.0,
+    "volume": 16480.774509000003
+   }
+  ]
+ },
+ "0x0e9713d5dd3893d45e88fb98fd832d6e5bab0ad0b704fee688f273b64331b044": {
+  "question": "Will Israel strike 3 countries in April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 15.5,
+    "no": 84.5,
+    "volume": 34307.552727999995
+   }
+  ]
+ },
+ "0x447a0dd83a26ebe91ea40ffca4f62a8fc3a2230e16f03cd05feb5faad0158a5f": {
+  "question": "Will DeepSeek have the best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 16.0,
+    "no": 84.0,
+    "volume": 43073.946276
+   }
+  ]
+ },
+ "0x97cd691b804fac9b04a67ba9b3c0f813b49b330059f8d2a9c0415da8ceb12e41": {
+  "question": "Will US GDP growth in Q1 2026 be between 2.5% and 3.0%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 16.15,
+    "no": 83.85,
+    "volume": 31276.029267999995
+   }
+  ]
+ },
+ "0xadead580ed2e2961c9a7a3cb9db78daf96faf94bdc00a82ec217cfd6bf341bf0": {
+  "question": "Will the DHS shutdown end after April 30, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 83.5,
+    "no": 16.5,
+    "volume": 209444.39494299993
+   }
+  ]
+ },
+ "0x4ea2cd49c462b6eab31d586d5840f974b51909cfde202d6534949fab85342db5": {
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $80 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 16.5,
+    "no": 83.5,
+    "volume": 100328.22125000003
+   }
+  ]
+ },
+ "0x21e0909fb0efa38f1550a786472d1165f24afb9b0ddff14d01daca161d6ddd1d": {
+  "question": "Will Alibaba have the best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 83.0,
+    "no": 17.0,
+    "volume": 35774.531647999975
+   }
+  ]
+ },
+ "0x0a2d679061801f07c1ec866fe3b0a699b76a79553d004fd8ce1d43ea9bf8454d": {
+  "question": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 17.4,
+    "no": 82.6,
+    "volume": 13572.109335999996
+   }
+  ]
+ },
+ "0x5f21c35963d7699b8276bff7fc5172e9c39d7380fb5bfd9ec7165781a1e47d57": {
+  "question": "Will Anthropic have the second best AI model at the end of April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 82.5,
+    "no": 17.5,
+    "volume": 22063.53543700002
+   }
+  ]
+ },
+ "0xc8fb7b7c34d49fbaee1e96130e4557817636f9ad9a5d37fb0347b203f7c0f1f3": {
+  "question": "Will Elon Musk’s net worth be between $650b and $660b on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 17.5,
+    "no": 82.5,
+    "volume": 10874.876973999997
+   }
+  ]
+ },
+ "0x0535dc9983df3f59fb2aec1f0ea770507dfb58514643142e335c06f0edace923": {
+  "question": "Will US GDP growth in Q1 2026 be between 2.0% and 2.5%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 17.65,
+    "no": 82.35,
+    "volume": 49858.46347399999
+   }
+  ]
+ },
+ "0xeca080635da47c3fb80cb489dc05174fdfe49144861feed3f2b27718874a3890": {
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 17.8,
+    "no": 82.2,
+    "volume": 640531.04446
+   }
+  ]
+ },
+ "0x174f4f8447b716603444fc4df4ff9b0dfc3cb29ef74dfacb6cdee6ff98cbf54c": {
+  "question": "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 18.0,
+    "no": 82.0,
+    "volume": 99260.268442
+   }
+  ]
+ },
+ "0x6047ba3cf0ea637922d07cbd6dc835ee2c9859644f0bb744758b2b11aaf030b6": {
+  "question": "Will Anthropic have the #1 AI model at the end of April 2026 (Style Control On)?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 82.0,
+    "no": 18.0,
+    "volume": 105772.63984900001
+   }
+  ]
+ },
+ "0x9a9f2e581438d70aa64dc664e35d1cc5332c1801cab295c64de719d9feebdd21": {
+  "question": "Will Anthropic have the #3 AI model at the end of April 2026 (Style Control On)?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 81.5,
+    "no": 18.5,
+    "volume": 32086.478353000028
+   }
+  ]
+ },
+ "0xda8ccb9323ac5974f7c4d3c20dba94543415a863db65de7a0d6ecd4df7a37f9c": {
+  "question": "Will Trump say \"Braggadocious\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 19.0,
+    "no": 81.0,
+    "volume": 5850.1978720000025
+   }
+  ]
+ },
+ "0x4e29139049fee7f3987185989a65210e77370adedcbd3e07c0de1da0f5354da6": {
+  "question": "Will NYC have between 4 and 5 inches of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 19.75,
+    "no": 80.25,
+    "volume": 13527.448470999996
+   }
+  ]
+ },
+ "0x574893d630a2d42f13f16cb22871a678a7346ec0ab480100646e66e0f3e70f36": {
+  "question": "Will US GDP growth in Q1 2026 be between 1.5% and 2.0%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 20.2,
+    "no": 79.8,
+    "volume": 34328.27219799999
+   }
+  ]
+ },
+ "0x2721186fc082a02eb5688356403b3b78b8d30c8073015000ab2f0f2af396f13c": {
+  "question": "Will Trump say \"Fuck\" or \"Fucking\" or \"Fucked\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 20.5,
+    "no": 79.5,
+    "volume": 7401.37497499999
+   }
+  ]
+ },
+ "0x9967297556e4fd7f7e1e688a2e44d6fdbc42b0700576a1e4e67aa37764ac640a": {
+  "question": "US x Iran diplomatic meeting by April 28, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 21.0,
+    "no": 79.0,
+    "volume": 62903.527709
+   }
+  ]
+ },
+ "0x195b94beadce4077ba1825af16de7aa38adc75bd270bdd1616f1d63448411f07": {
+  "question": "Will Apple be the second-largest company in the world by market cap on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 21.5,
+    "no": 78.5,
+    "volume": 148353.2549619999
+   }
+  ]
+ },
+ "0x4a2b7d699a0b8cf970fc1599cb6e54065f86b1b4476316654a23aa21691aa7ed": {
+  "question": "Will Justin Bieber have the greatest number of monthly Spotify listeners this month?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 21.5,
+    "no": 78.5,
+    "volume": 8428.002457999999
+   }
+  ]
+ },
+ "0xf4c8bd96ef1c9793e41acce48478201f639b6ca6bc86fbbe8ba7506c3a431f87": {
+  "question": "Will Israel strike 2 countries in April 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 78.5,
+    "no": 21.5,
+    "volume": 32311.903762000013
+   }
+  ]
+ },
+ "0x12a7d87a311a56241240ea4c3e7a9f2ab19fcd6488293f8975eaac51a6934078": {
+  "question": "Will Trump say \"Dog\" in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 77.5,
+    "no": 22.5,
+    "volume": 7263.727598999988
+   }
+  ]
+ },
+ "0x8cc7c10edcc47725f108a64bd384134f44c7dad983199939a1685dfd67019259": {
+  "question": "Will Alphabet be the second-largest company in the world by market cap on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 77.0,
+    "no": 23.0,
+    "volume": 143297.36110700003
+   }
+  ]
+ },
+ "0x88b2a7dda2fdc3980466dfe446eff29cdf42b097f7b8adf210d62bad22cf718f": {
+  "question": "Will Elon Musk’s net worth be at least $670b on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 23.5,
+    "no": 76.5,
+    "volume": 20374.185161
+   }
+  ]
+ },
+ "0x7a560cf5d3d273a07824e57f12afc4d44d82487faed750081f2aad59934bd2ce": {
+  "question": "Will Alphabet be the third-largest company in the world by market cap on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 24.0,
+    "no": 76.0,
+    "volume": 46751.09517699999
+   }
+  ]
+ },
+ "0xd4c07f920137ca26bfb7925f38345f31b90279791d63929b9ddfd192f68610ce": {
+  "question": "Will Trump’s approval rating fall to 38.5% in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 25.0,
+    "no": 75.0,
+    "volume": 6291.701459999998
+   }
+  ]
+ },
+ "0x674c36575dbf22212cd47a8fe9a97a9ff7c124da709828558baa63aaf704be85": {
+  "question": "Will Apple be the third-largest company in the world by market cap on April 30?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 74.0,
+    "no": 26.0,
+    "volume": 60515.460749000005
+   }
+  ]
+ },
+ "0x65414628f108533d689721c6b2576dd83da43644bcfd62506444f1591ef32c31": {
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 74.0,
+    "no": 26.0,
+    "volume": 1077193.647379998
+   }
+  ]
+ },
+ "0x62743a4dfdad25555810576c9b03d9786a5bada28a05c9f3b67b43f0e3f19b05": {
+  "question": "Will Bruno Mars have the greatest number of monthly Spotify listeners this month?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 73.75,
+    "no": 26.25,
+    "volume": 75388.62421499997
+   }
+  ]
+ },
+ "0x0f9ca7dcd30c615e67b73544ef681379e0b842bd83f21b1984b089f22c7d9973": {
+  "question": "Will WTI Crude Oil (WTI) hit (LOW) $85 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 26.5,
+    "no": 73.5,
+    "volume": 153832.7430180001
+   }
+  ]
+ },
+ "0xb0c7a5730b57f3e3b773f9c7510eb014e7662360e3d6a5ebf6cd598cac4c523c": {
+  "question": "Will Germany GDP growth in Q1 2026 be between 0.4% and 0.6%?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 27.3,
+    "no": 72.7,
+    "volume": 13998.326016000003
+   }
+  ]
+ },
+ "0x30c7d5a0c3cc53cbad5568d3072222670512f6e4556cc0e5bf084a32b3c71531": {
+  "question": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 27.5,
+    "no": 72.5,
+    "volume": 20313.749219
+   }
+  ]
+ },
+ "0x35d8c42a467d4e485ffba50c5d2d984ed0793f4935319ca923b494798051c8ef": {
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 28.0,
+    "no": 72.0,
+    "volume": 1498653.2371390038
+   }
+  ]
+ },
+ "0x19c63f16d285e7386b188c233b8c71ca757cb53ccad35e01452e4d993c30ced0": {
+  "question": "Trump re-sues WSJ by April 27?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 28.0,
+    "no": 72.0,
+    "volume": 10893.441651999998
+   }
+  ]
+ },
+ "0x1e25feaca6587256a7d830023b797279561de33ceb29845186f3d29d3569743d": {
+  "question": "US x Iran diplomatic meeting by April 29, 2026?",
+  "prices": [
+   {
+    "date": "2026-04-23",
+    "yes": 28.0,
+    "no": 72.0,
+    "volume": 76878.385819
    }
   ]
  }
