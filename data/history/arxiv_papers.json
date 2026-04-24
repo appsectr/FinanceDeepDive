@@ -843,7 +843,42 @@
       "insights_count": 0,
       "first_seen": "2026-04-23T19:32:12.222787+00:00",
       "url": "http://arxiv.org/abs/2604.20050v1"
+    },
+    "2603.15055v2": {
+      "title": "Spatio-temporal probabilistic forecast using MMAF-guided learning",
+      "abstract": "We present a theory-guided generalized Bayesian methodology for spatio-temporal raster data, which we use to train an ensemble of stochastic feed-forward neural networks with Gaussian-distributed weights. The methodology incorporates the dependence and causal structure of a spatio-temporal Ornstein-Uhlenbeck process into training and inference by enforcing constraints on the design of the data embedding and the related optimization routine. In inference mode, the networks are employed to generate causal ensemble forecasts by applying different initial conditions at different horizons. We call this workflow MMAF-guided learning. Experiments conducted on both synthetic and real data demonstrate that our forecasts remain calibrated across multiple time horizons. Moreover, we show that on such data, shallow feed-forward architectures can achieve performance comparable to, and in some cases better than, convolutional or diffusion deep learning architectures used in probabilistic forecasting tasks.",
+      "authors": [
+        "Leonardo Bardi",
+        "Imma Valentina Curato",
+        "Lorenzo Proietti"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST"
+      ],
+      "published": "2026-03-16T10:07:40Z",
+      "relevance_score": 0.417,
+      "insights_count": 1,
+      "first_seen": "2026-04-24T19:22:38.618561+00:00",
+      "url": "http://arxiv.org/abs/2603.15055v2"
+    },
+    "2604.21433v1": {
+      "title": "ChatGPT as a Time Capsule: The Limits of Price Discovery",
+      "abstract": "Frozen large language model (LLM) checkpoints extract information from pre-cutoff public text that is associated with future fundamentals and equity returns beyond standard contemporaneous valuation measures. Because each frozen checkpoint has a fixed knowledge cutoff, it can be interpreted as a compressed representation of publicly available textual information at a given point in time. We treat twelve OpenAI snapshots spanning 2021-2025 as time-stamped summaries of the public textual record and extract a sector-neutral LLM outlook score for roughly 7,000 U.S. equities per cross-section. The outlook score is positively associated with analyst revisions, target-price changes and one-month cross-sectional returns in both Fama-MacBeth regressions and pooled panels with model fixed effects (t = 6.02), after direct controls for market-implied valuation and standard factors. Predictability broadly increases with the return horizon, despite a non-monotonic intermediate dip, and, in the pooled panel, is stronger for firms with high analyst coverage, consistent with the view that the bottleneck is not investor inattention but the cost of aggregating dispersed qualitative information across many documents.",
+      "authors": [
+        "Sebastian Lehner",
+        "Alejandro Lopez-Lira"
+      ],
+      "categories": [
+        "q-fin.GN"
+      ],
+      "published": "2026-04-23T08:49:39Z",
+      "relevance_score": 0.208,
+      "insights_count": 0,
+      "first_seen": "2026-04-24T19:22:38.970565+00:00",
+      "url": "http://arxiv.org/abs/2604.21433v1"
     }
   },
-  "last_check": "2026-04-23T19:32:13.700872+00:00"
+  "last_check": "2026-04-24T19:22:40.492529+00:00"
 }
