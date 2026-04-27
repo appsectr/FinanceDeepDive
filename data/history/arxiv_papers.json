@@ -878,7 +878,30 @@
       "insights_count": 0,
       "first_seen": "2026-04-24T19:22:38.970565+00:00",
       "url": "http://arxiv.org/abs/2604.21433v1"
+    },
+    "2502.17011v2": {
+      "title": "Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation",
+      "abstract": "Financial bond yield forecasting is challenging due to data scarcity, nonlinear macroeconomic dependencies, and evolving market conditions. In this paper, we propose a novel framework that leverages Causal Generative Adversarial Networks (CausalGANs) and Soft Actor-Critic (SAC) reinforcement learning (RL) to generate high-fidelity synthetic bond yield data for four major bond categories (AAA, BAA, US10Y, Junk). By incorporating 12 key macroeconomic variables, we ensure statistical fidelity by preserving essential market properties. To transform this market dependent synthetic data into actionable insights, we employ a finetuned Large Language Model (LLM) Qwen2.5-7B that generates trading signals (BUY/HOLD/SELL), risk assessments, and volatility projections. We use automated, human and LLM evaluations, all of which demonstrate that our framework improves forecasting performance over existing methods, with statistical validation via predictive accuracy, MAE evaluation(0.103%), profit/loss evaluation (60% profit rate), LLM evaluation (3.37/5) and expert assessments scoring 4.67 out of 5. The reinforcement learning-enhanced synthetic data generation achieves the least Mean Absolute Error of 0.103, demonstrating its effectiveness in replicating real-world bond market dynamics. We not only enhance data-driven trading strategies but also provides a scalable, high-fidelity synthetic financial data pipeline for risk & volatility management and investment decision-making. This work est",
+      "authors": [
+        "Jaskaran Singh Walia",
+        "Aarush Sinha",
+        "Naman Saraswat",
+        "Srinitish Srinivasan",
+        "Srihari Unnikrishnan"
+      ],
+      "categories": [
+        "q-fin.CP",
+        "cs.CE",
+        "cs.CL",
+        "cs.LG",
+        "q-fin.PM"
+      ],
+      "published": "2025-02-24T09:46:37Z",
+      "relevance_score": 0.417,
+      "insights_count": 1,
+      "first_seen": "2026-04-27T19:36:40.036407+00:00",
+      "url": "http://arxiv.org/abs/2502.17011v2"
     }
   },
-  "last_check": "2026-04-26T19:22:38.174333+00:00"
+  "last_check": "2026-04-27T19:36:43.461400+00:00"
 }
