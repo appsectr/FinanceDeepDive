@@ -1,0 +1,2786 @@
+[
+ {
+  "market_id": "0xa54188a910f29d56395f11969120da4e23e58e57fc7932bfb2bb4fcbe32e1448",
+  "question": "Will Russia capture Lyman by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9115000000000001,
+  "confidence": 0.4033,
+  "composite_score": 0.4481,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8014,
+   "arbitrage": 0.0,
+   "volume": 0.0955,
+   "news_volume": 0.8604
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8908,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "500% tariff threat for India as Trump ‘greenlights’ sanctions bill aimed at Russian energy trade - Telegraph India",
+    "score": -0.9051
+   },
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/will-russia-capture-lyman-in-2025",
+  "volume": 196017.2710510002,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837716+00:00"
+ },
+ {
+  "market_id": "0xfc0c49c13e6138335627e7a3f43ec891cfe6ab7a8abba1e960d2a87b1fe5274d",
+  "question": "Will Russia enter Novooleksandrivka by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.4458,
+  "composite_score": 0.4453,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8044,
+   "arbitrage": 0.0,
+   "volume": 0.031,
+   "news_volume": 0.853
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.89,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "500% tariff threat for India as Trump ‘greenlights’ sanctions bill aimed at Russian energy trade - Telegraph India",
+    "score": -0.9051
+   },
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/will-russia-enter-novooleksandrivka-by",
+  "volume": 63560.87648500014,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9982,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837975+00:00"
+ },
+ {
+  "market_id": "0xfafd078f403f65a51e71a64f668c7f9262cb207788c7bf72951df27cd2013661",
+  "question": "Will Russia enter Novyi Donbas by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9,
+  "confidence": 0.4456,
+  "composite_score": 0.4451,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8044,
+   "arbitrage": 0.0,
+   "volume": 0.0271,
+   "news_volume": 0.853
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.89,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "500% tariff threat for India as Trump ‘greenlights’ sanctions bill aimed at Russian energy trade - Telegraph India",
+    "score": -0.9051
+   },
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/will-russia-enter-novyi-donbas-by-march-31",
+  "volume": 55531.18104100003,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9957,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837803+00:00"
+ },
+ {
+  "market_id": "0x070086893dcfda090f3f861a3b4d54f03c7a3249d12037c0026830f51bcf2529",
+  "question": "Will Russia capture all of Hryshyne by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.91,
+  "confidence": 0.436,
+  "composite_score": 0.4444,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.8014,
+   "arbitrage": 0.0,
+   "volume": 0.0214,
+   "news_volume": 0.8604
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.8908,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "500% tariff threat for India as Trump ‘greenlights’ sanctions bill aimed at Russian energy trade - Telegraph India",
+    "score": -0.9051
+   },
+   {
+    "title": "Secondary Tariffs or Tighter Sanctions? Strategies to End Russia’s War in Ukraine - Russia Matters",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/will-russia-capture-all-of-hryshyne-by-april-30",
+  "volume": 43880.08947200003,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9845,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837726+00:00"
+ },
+ {
+  "market_id": "0x94dccda8ebb84ceb7df14d7a4386e83d308f9388bff00b67120813b7e2785340",
+  "question": "Will Reddit (RDDT) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.915,
+  "confidence": 0.4302,
+  "composite_score": 0.438,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7539,
+   "arbitrage": 0.0,
+   "volume": 0.0049,
+   "news_volume": 0.9853
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9019,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/rddt-quarterly-earnings-gaap-eps-04-30-2026-0pt57",
+  "volume": 9989.48663,
+  "ends_in": "2g 1s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.502,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837682+00:00"
+ },
+ {
+  "market_id": "0x60823da163c9c1dc377c0090b7e21546854f55f52549c29faf0ea432d7dbbb33",
+  "question": "Will Eli Lilly and Co (LLY) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.88,
+  "confidence": 0.4302,
+  "composite_score": 0.438,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7539,
+   "arbitrage": 0.0,
+   "volume": 0.0046,
+   "news_volume": 0.9853
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9019,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/lly-quarterly-earnings-nongaap-eps-04-30-2026-7pt00",
+  "volume": 9533.906132000006,
+  "ends_in": "1g 17s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.483,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837881+00:00"
+ },
+ {
+  "market_id": "0x01712033768f53116ecfad4e4234902bac1c72a4285aa6c034b844f986fabf5d",
+  "question": "Will SoFi Technologies (SOFI) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.865,
+  "confidence": 0.4121,
+  "composite_score": 0.4379,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7534,
+   "arbitrage": 0.0,
+   "volume": 0.004,
+   "news_volume": 0.9868
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.902,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/sofi-quarterly-earnings-gaap-eps-04-29-2026-0pt12",
+  "volume": 8267.875913000002,
+  "ends_in": "17s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4275,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837998+00:00"
+ },
+ {
+  "market_id": "0x9073d232735a32de5f1805b3e1205fafc67fe0551cdbf0a46894585a6af5bd39",
+  "question": "Will Meta Platforms (META) beat quarterly earnings?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.904,
+  "confidence": 0.4119,
+  "composite_score": 0.4377,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7525,
+   "arbitrage": 0.0,
+   "volume": 0.0052,
+   "news_volume": 0.9861
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9022,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "Week Ahead: Markets seek confirmation as policy, earnings and geopolitics converge - Capital.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/meta-quarterly-earnings-gaap-eps-04-29-2026-6pt62",
+  "volume": 10744.370153,
+  "ends_in": "1g 1s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5326,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837793+00:00"
+ },
+ {
+  "market_id": "0x1aa65ba84dd3db9adaeb7566eb434317b22cdcf391fa7105a64fad71f332d59d",
+  "question": "Will Powell say \"Shut down\" or \"Shutdown\" during April press conference?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.745,
+  "confidence": 0.4534,
+  "composite_score": 0.4338,
+  "scores": {
+   "statistical": 0.6268,
+   "sentiment": 0.6982,
+   "arbitrage": 0.0,
+   "volume": 0.0063,
+   "news_volume": 0.1638
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9016,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Atlanta’s airport shouldn’t be held hostage by Washington shutdown politics - AJC.com",
+    "score": -0.4621
+   },
+   {
+    "title": "House tinkers with DHS bill, prolonging shutdown - The Week",
+    "score": -0.4621
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 12884.531325999997,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6119,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838305+00:00"
+ },
+ {
+  "market_id": "0x2af8d768cfb7ca4140d25c3912d7ded06077cb3c22880ea93218645f7e0850c6",
+  "question": "Pakistan military action against Afghanistan by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.82,
+  "confidence": 0.4095,
+  "composite_score": 0.425,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7229,
+   "arbitrage": 0.0,
+   "volume": 0.0049,
+   "news_volume": 0.8804
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9086,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Senate Republicans Block Benefits for Combat-Injured Veterans Amid Ongoing Military Conflict in Iran - U.S. Senate Committee on Veterans' Affairs (.gov)",
+    "score": -0.9051
+   },
+   {
+    "title": "PM Modi Says Military Conflict Cannot Solve Global Issues Amid Escalating US–Iran War - pragativadi.com",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-march-31",
+  "volume": 10119.298184000005,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5074,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838163+00:00"
+ },
+ {
+  "market_id": "0x20f76a4336ebb545081b3baf5f34566d4bc6bec0d61c8e445412768077573bc0",
+  "question": "Will one person dissent the April Fed decision?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.87,
+  "confidence": 0.4435,
+  "composite_score": 0.4228,
+  "scores": {
+   "statistical": 0.6291,
+   "sentiment": 0.6553,
+   "arbitrage": 0.0,
+   "volume": 0.0104,
+   "news_volume": 0.1369
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9082,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Gold surges past $5,500 on geopolitics, Fed's policy decision - Anadolu Ajansı",
+    "score": 0.4621
+   },
+   {
+    "title": "Ethereum makes game-changing decision that could change future of cryptocurrency: 'Poised to lead the way' - Yahoo Finance",
+    "score": 0.4621
+   },
+   {
+    "title": "Deepfakes, Voice Cloning, and AI Impersonation: The Global Rules Are Already Here, and They Don't Agree - harris-sliwoski.com",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-dissent-at-the-next-fed-meeting-113",
+  "volume": 21246.333342999988,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8256,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837912+00:00"
+ },
+ {
+  "market_id": "0xe30da1785707980f11d869a70e73bb42eb702af20a85c72ad0e8d3303e9b6fed",
+  "question": "Will Powell say \"Pandemic\" during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.73,
+  "confidence": 0.441,
+  "composite_score": 0.42,
+  "scores": {
+   "statistical": 0.826,
+   "sentiment": 0.3358,
+   "arbitrage": 0.0,
+   "volume": 0.0041,
+   "news_volume": 0.1097
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.885,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Should You Sell Investments During Times of Military Conflict? - Williamson Herald",
+    "score": -0.4621
+   },
+   {
+    "title": "Treasury to hold conferences on AI regulation reductions for banks - WBMA",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 8462.993932000001,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4363,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838335+00:00"
+ },
+ {
+  "market_id": "0x1d8d0ed997c870e00a7b13e39ff94fea8b3e80b6f728c33f936da4341270bd4b",
+  "question": "Will Powell say \"AI\" or \"Artificial Intelligence\" during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.76,
+  "confidence": 0.4409,
+  "composite_score": 0.4199,
+  "scores": {
+   "statistical": 0.7238,
+   "sentiment": 0.4521,
+   "arbitrage": 0.0,
+   "volume": 0.0034,
+   "news_volume": 0.3436
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9109,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Introducing the new series: The economics and regulation of artificial intelligence and emerging technologies - Brookings",
+    "score": 0.4621
+   },
+   {
+    "title": "Seven “Hot Wars” During the Cold War - CFR Education",
+    "score": -0.4621
+   },
+   {
+    "title": "Ending the Infinity War - Energy Intelligence",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 7080.148685999998,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3724,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838295+00:00"
+ },
+ {
+  "market_id": "0x35d8c42a467d4e485ffba50c5d2d984ed0793f4935319ca923b494798051c8ef",
+  "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.885,
+  "confidence": 0.4295,
+  "composite_score": 0.4172,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.553,
+   "arbitrage": 0.0,
+   "volume": 1.0,
+   "news_volume": 0.5791
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9379,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Oil prices up 2% as stalled US-Iran talks keep Hormuz supply risks high - Business Standard",
+    "score": -0.7616
+   },
+   {
+    "title": "Oil prices hit nearly $110 as Iran vows to escalate the war in ‘new ways’ - Fortune",
+    "score": -0.7616
+   },
+   {
+    "title": "XRP’s Holder Base Hits 7.8 Million Defying Price Pause While Bitcoin & Ethereum Adoption Rips Higher - Coinpaper",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-wti-hit-in-april-2026",
+  "volume": 2052724.817879002,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837835+00:00"
+ },
+ {
+  "market_id": "0x9ec068d68055cc7e14d82b67da6f8069423ce64d4cd3549aeb50116156a622f0",
+  "question": "Will a U.S. anti-cartel operation outside of the United States occur by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.905,
+  "confidence": 0.4063,
+  "composite_score": 0.4014,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6845,
+   "arbitrage": 0.0,
+   "volume": 0.0261,
+   "news_volume": 0.5791
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9164,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout - Yahoo Finance",
+    "score": -0.7616
+   },
+   {
+    "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - Council on Foreign Relations",
+    "score": -0.7616
+   },
+   {
+    "title": "2026 Iran war | Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/us-anti-cartel-operation-outside-of-the-us-by",
+  "volume": 53657.33432199999,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9947,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837749+00:00"
+ },
+ {
+  "market_id": "0xb4f56e9fb1bd0adab407a2680c132041bd05ccbb2faf9a405082d78ebccf4e6b",
+  "question": "Will Trump say \"RINO\" or \"Republican in Name Only\" in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.855,
+  "confidence": 0.3972,
+  "composite_score": 0.4013,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7168,
+   "arbitrage": 0.0,
+   "volume": 0.0041,
+   "news_volume": 0.4368
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9099,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "James Comey indicted in probe over online post officials say constituted Trump threat - PBS",
+    "score": -0.9051
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "Senate Republicans Block Benefits for Combat-Injured Veterans Amid Ongoing Military Conflict in Iran - U.S. Senate Committee on Veterans' Affairs (.gov)",
+    "score": -0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-in-april",
+  "volume": 8419.304426999995,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4344,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838070+00:00"
+ },
+ {
+  "market_id": "0x87d10b2fae256d634cfd9ceb7ed03cb4244830e191a35299be965e53f903ac16",
+  "question": "Will Trump say \"Trump Derangement Syndrome\" in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.88,
+  "confidence": 0.4125,
+  "composite_score": 0.3983,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7387,
+   "arbitrage": 0.0,
+   "volume": 0.005,
+   "news_volume": 0.2687
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9053,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "James Comey indicted in probe over online post officials say constituted Trump threat - PBS",
+    "score": -0.9051
+   },
+   {
+    "title": "Canadian red tape is worse than Trump tariffs, say industry groups - Financial Times",
+    "score": -0.4621
+   },
+   {
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Retreat As Trump Discusses Iran's 'New' Proposal: Analyst Says BTC's Bia - Benzinga",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-trump-named-things-will-trump-mention-in-april",
+  "volume": 10280.031712000002,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5139,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837870+00:00"
+ },
+ {
+  "market_id": "0xe39092907e7e2dc2574d7005872152c80ca9d800843bf7c5402a91d93400fe29",
+  "question": "Will Trump talk to Mohammed bin Salman in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.892,
+  "confidence": 0.3758,
+  "composite_score": 0.3975,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7526,
+   "arbitrage": 0.0,
+   "volume": 0.0225,
+   "news_volume": 0.1638
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9022,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Alaska: US warns of additional tariffs on India if Trump-Putin peace talks fail - BBC",
+    "score": -0.9051
+   },
+   {
+    "title": "The Serious Risks of Trump’s Executive Order Curbing State Regulation of AI - In These Times",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-trump-talk-to-in-april",
+  "volume": 46101.358709999906,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9878,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837813+00:00"
+ },
+ {
+  "market_id": "0x699093850ff73cf30baa4c571272900c3162932f9745400256a6455d6b2d0789",
+  "question": "Will USD reach 1.8M Iranian rials by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8390000000000001,
+  "confidence": 0.3536,
+  "composite_score": 0.3929,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7475,
+   "arbitrage": 0.0,
+   "volume": 0.0105,
+   "news_volume": 0.1097
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9033,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "US imposes sanctions on ‘shadow fleet’ accused of transporting Iranian oil - Al Jazeera",
+    "score": -0.7616
+   },
+   {
+    "title": "U.S. Sanctions Iranian Leaders, Threatens Tariffs on Countries That Trade With Iran - Barron's",
+    "score": -0.7616
+   },
+   {
+    "title": "Trump Administration Announces New Tariff on Imports Linked to Iranian Trade - Herbert Smith Freehills Kramer",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-april-30",
+  "volume": 21515.80749700001,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8303,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838122+00:00"
+ },
+ {
+  "market_id": "0x2529b3e51721d203b78afc5a0e03f491f04274c876d979da491f8b62fbd2eb2d",
+  "question": "Trump declassifies new UFO files by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.388,
+  "composite_score": 0.3911,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6112,
+   "arbitrage": 0.0,
+   "volume": 0.0869,
+   "news_volume": 0.6786
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9293,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News",
+    "score": -0.9051
+   },
+   {
+    "title": "How Trump’s Iran trade tariffs reshape global sanctions politics - Latest news from Azerbaijan",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-march-31",
+  "volume": 178353.28656100002,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837964+00:00"
+ },
+ {
+  "market_id": "0x3bfd988d631c0f088fe585333090b776932c915b493839315e53c828e67df910",
+  "question": "Will Trump talk to Vladimir Putin in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.4019,
+  "composite_score": 0.3866,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.7158,
+   "arbitrage": 0.0,
+   "volume": 0.0159,
+   "news_volume": 0.1369
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9101,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Alaska: US warns of additional tariffs on India if Trump-Putin peace talks fail - BBC",
+    "score": -0.9051
+   },
+   {
+    "title": "Oil trades surged just before Trump's post on Iran talks. Some experts are suspicious. - CBS News",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-trump-talk-to-in-april",
+  "volume": 32643.599074000063,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9472,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838019+00:00"
+ },
+ {
+  "market_id": "0x60c5e3132a0c1ef1ce3af030de3da410c90b00b5c17b849155b2a4cb78d51e0b",
+  "question": "Will Trump say \"Crypto / Bitcoin\" during King Charles visit?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.92,
+  "confidence": 0.3428,
+  "composite_score": 0.3809,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.523,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.9975
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9418,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "James Comey indicted in probe over online post officials say constituted Trump threat - PBS",
+    "score": -0.9051
+   },
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-during-bilateral-events-with-king-charles",
+  "volume": 10477.106067000006,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5219,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837603+00:00"
+ },
+ {
+  "market_id": "0x5d07dbbd43ea9f1a4f585a4f22af1019f9f82b4901341910925ce74ff7b9b02e",
+  "question": "Will Donald Trump publicly insult someone on April 29, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.905,
+  "confidence": 0.4057,
+  "composite_score": 0.3808,
+  "scores": {
+   "statistical": 0.7236,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0062,
+   "news_volume": 0.0825
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9127,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Gerrymandering, political parties, and Donald Trump's weakening support: April 24 - 27, 2026 Economist/YouGov Poll - YouGov",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 12782.42362600001,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6084,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837761+00:00"
+ },
+ {
+  "market_id": "0x1cac9abfb3abacc11302bec8ef6fe48dc4c9e5be046110305c6d6e62f4e47e9b",
+  "question": "Will the Ethereum Volatility Index hit 100 by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8009999999999999,
+  "confidence": 0.3422,
+  "composite_score": 0.3802,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.516,
+   "arbitrage": 0.0,
+   "volume": 0.0372,
+   "news_volume": 0.9868
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9426,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Ares Capital Q1 2026 slides: earnings miss on market volatility - Investing.com",
+    "score": -0.7616
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-the-ethereum-implied-volatility-index-hit-by-april-30",
+  "volume": 76341.16274099998,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9996,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838224+00:00"
+ },
+ {
+  "market_id": "0xb89614e39153cf56dade7a556320d4d55f3942029b00246aa3b62c07283e31f5",
+  "question": "Will the Ethereum Volatility Index hit 85 by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.904,
+  "confidence": 0.3589,
+  "composite_score": 0.3788,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.516,
+   "arbitrage": 0.0,
+   "volume": 0.0087,
+   "news_volume": 0.9868
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9426,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Ares Capital Q1 2026 slides: earnings miss on market volatility - Investing.com",
+    "score": -0.7616
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-the-ethereum-implied-volatility-index-hit-by-april-30",
+  "volume": 17815.142962000013,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.755,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837772+00:00"
+ },
+ {
+  "market_id": "0x57b84034d062703d66bb77c6acde7e8098fdb6685f2b779836c0dafa85717ea1",
+  "question": "Will Bitcoin outperform Gold in April 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.915,
+  "confidence": 0.3659,
+  "composite_score": 0.3765,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5079,
+   "arbitrage": 0.0,
+   "volume": 0.0067,
+   "news_volume": 0.9844
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9436,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   },
+   {
+    "title": "Ethereum Tracks Bitcoin Rally: Why A Surge to $3,400 Could Be The Beginning - CryptoRank",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-bitcoin-outperform-in-april",
+  "volume": 13670.381925999993,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6384,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837634+00:00"
+ },
+ {
+  "market_id": "0x15b28500fbbbe23185f4e343fe7ff39921a0e56334472a6c6bc1ddf7c3e2d6da",
+  "question": "Will the Reserve Bank of Australia make no change to the target for the cash rate after the May Meeting?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.3388,
+  "composite_score": 0.3764,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.566,
+   "arbitrage": 0.0,
+   "volume": 0.0038,
+   "news_volume": 0.6932
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9361,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Iraq War Veteran: ‘Troops in Iran Conflict Will Come Home Changed’ - Military.com",
+    "score": -0.7616
+   },
+   {
+    "title": "After the WHCD attack, will political rhetoric in the US change? - CNN",
+    "score": -0.4621
+   },
+   {
+    "title": "Critical minerals geopolitics in 2026: risks, supply chains and global power shifts - ODI: Think change",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/reserve-bank-of-australia-decision-in-may",
+  "volume": 7888.754394999997,
+  "ends_in": "6g 4s 23d",
+  "end_date": "05 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4103,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838008+00:00"
+ },
+ {
+  "market_id": "0x51fbf3eadb2c2af9d1265034fb54ce96a57577396ee3ac96aff56bf7a75839d2",
+  "question": "Will Donald Trump publicly insult Pope Leo XIV by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8515,
+  "confidence": 0.3746,
+  "composite_score": 0.3762,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6817,
+   "arbitrage": 0.0,
+   "volume": 0.006,
+   "news_volume": 0.1097
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9169,
+  "abstain": true,
+  "abstain_reasons": [
+   "high_signal_divergence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Louisiana Catholics balance faith and politics amid Trump, Pope dispute - WWNO",
+    "score": -0.4621
+   },
+   {
+    "title": "Gerrymandering, political parties, and Donald Trump's weakening support: April 24 - 27, 2026 Economist/YouGov Poll - YouGov",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-trump-publicly-insult-by-april-30",
+  "volume": 12350.790615000005,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5931,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838080+00:00"
+ },
+ {
+  "market_id": "0x9623d1115fd64fabf31311eb3421600ab2d67a08a45071f42f131944baa29e44",
+  "question": "Will the Bitcoin Volatility Index hit 70 by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.846,
+  "confidence": 0.3655,
+  "composite_score": 0.3761,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.506,
+   "arbitrage": 0.0,
+   "volume": 0.0045,
+   "news_volume": 0.9875
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9438,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "Ares Capital Q1 2026 slides: earnings miss on market volatility - Investing.com",
+    "score": -0.7616
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-the-bitcoin-implied-volatility-index-hit-by-april-30",
+  "volume": 9325.005946000001,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4741,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838101+00:00"
+ },
+ {
+  "market_id": "0x9e6b56f75ea2158a3aed45f880d00e620f11baf4ae12688bce6e1ce68fdf34e3",
+  "question": "Will Microstrategy announce a Bitcoin purchase April 28-May 4?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8370000000000001,
+  "confidence": 0.3345,
+  "composite_score": 0.3717,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4882,
+   "arbitrage": 0.0,
+   "volume": 0.0028,
+   "news_volume": 0.9905
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9457,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet - Yahoo Finance",
+    "score": -0.9051
+   },
+   {
+    "title": "XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting? - Yahoo Finance",
+    "score": 0.7616
+   },
+   {
+    "title": "Ethereum Tracks Bitcoin Rally: Why A Surge to $3,400 Could Be The Beginning - CryptoRank",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/will-microstrategy-announce-a-bitcoin-purchase-april-28-may-4",
+  "volume": 5790.102494,
+  "ends_in": "6g 8s 23d",
+  "end_date": "05 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3095,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838132+00:00"
+ },
+ {
+  "market_id": "0xff16b6bcd389f460c1faa80c1965660e064b2bc4843ec9a6239aa74b114bbbe3",
+  "question": "Will OpenAI have the best Math AI model at the end of April 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3468,
+  "composite_score": 0.3653,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.6313,
+   "arbitrage": 0.0,
+   "volume": 0.0668,
+   "news_volume": 0.0825
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.926,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock market mixed as OpenAI missing targets sparks tech selloff (SP500:) - Seeking Alpha",
+    "score": -0.4621
+   },
+   {
+    "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling - CNBC",
+    "score": -0.4621
+   },
+   {
+    "title": "Alphabet Flashes Strength As OpenAI Growth Concerns Sink Tech Stocks; Earnings Ahead - Investor's Business Daily",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/which-company-has-the-best-math-ai-model-end-of-april",
+  "volume": 137155.00064900005,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837933+00:00"
+ },
+ {
+  "market_id": "0x8de24a512446898475df2662f0b7d23d307dc2c1c2a45ae54ebfefc082243748",
+  "question": "Will Powell say \"Inflation\" 40+ times during April press conference?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.83,
+  "confidence": 0.385,
+  "composite_score": 0.3578,
+  "scores": {
+   "statistical": 0.6004,
+   "sentiment": 0.3996,
+   "arbitrage": 0.0,
+   "volume": 0.0109,
+   "news_volume": 0.3436
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9377,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "US sanctions Iran: Additional 25% tariffs to have minimal impact on India, say government sources - here’ - The Times of India",
+    "score": -0.7616
+   },
+   {
+    "title": "Is the U.S. in a Politically Violent Age? What the Data and History Say - The New York Times",
+    "score": 0.4621
+   },
+   {
+    "title": "What does the power shift in Middle Eastern oil politics mean for inflation? - KTAR News 92.3 FM",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-powell-say-during-april-press-conference",
+  "volume": 22289.998288999992,
+  "ends_in": "4s 23d",
+  "end_date": "29 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8431,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838152+00:00"
+ },
+ {
+  "market_id": "0x2ed04f1752e07f0bc7eb940d869779080f51f989ff81e812a951401f525298a1",
+  "question": "Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.85,
+  "confidence": 0.3185,
+  "composite_score": 0.3539,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4909,
+   "arbitrage": 0.0,
+   "volume": 0.01,
+   "news_volume": 0.6146
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9454,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "How to improve digital economy regulation through increased transparency - The World Economic Forum",
+    "score": 0.7616
+   },
+   {
+    "title": "Morgan Lewis Hires Trade Sanctions Partner as Demand for Work Increases Alongside Tariff Tensions - Law.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Workers from the Portland Water District hold rally urging for increased regulation on use of AI - newscentermaine.com",
+    "score": 0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/reserve-bank-of-australia-decision-in-may",
+  "volume": 20523.803222000006,
+  "ends_in": "6g 4s 23d",
+  "end_date": "05 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8124,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838090+00:00"
+ },
+ {
+  "market_id": "0x07129e216e6d703d603ed5a62cf466ff338f26872bab29addd25c5887a03c7ff",
+  "question": "Will Brian Poindexter be the Democratic nominee for OH-07?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.885,
+  "confidence": 0.3145,
+  "composite_score": 0.3495,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5812,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.0825
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.934,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "White House blames Democratic rhetoric for surge in political violence - Fox Business",
+    "score": 0.4621
+   },
+   {
+    "title": "Democratic Governor Candidates Break with Mills on Data Centers - Midcoast Villager",
+    "score": 0.0
+   },
+   {
+    "title": "How can Economic Regulation Be Made More Democratic? - promarket.org",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/oh-07-democratic-primary-winner",
+  "volume": 5160.499094,
+  "ends_in": "6g 4s 23d",
+  "end_date": "05 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2777,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837847+00:00"
+ },
+ {
+  "market_id": "0x0c23424305573f92b0d87984e0e22dc9c1c634bed50248b1c0036acfcd75ed4a",
+  "question": "Will Anthropic have the best Math AI model at the end of April 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8690000000000001,
+  "confidence": 0.3309,
+  "composite_score": 0.3477,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5624,
+   "arbitrage": 0.0,
+   "volume": 0.0877,
+   "news_volume": 0.055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9367,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "‘I’m deeply uncomfortable’: Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology’s future - Fortune",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/which-company-has-the-best-math-ai-model-end-of-april",
+  "volume": 179978.85621000006,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837944+00:00"
+ },
+ {
+  "market_id": "0x77791e343f0c9befba6344921e846af705e5b63937c475d105707dd24a758902",
+  "question": "Will Trump talk to Ursula von der Leyen in April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.804,
+  "confidence": 0.3304,
+  "composite_score": 0.3471,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4375,
+   "arbitrage": 0.0,
+   "volume": 0.1748,
+   "news_volume": 0.5791
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9505,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Week Ahead in International Trade: Trump's fresh tariff threats, US-Iran talks take on new urgency and EU’s Russia sanctions face delay - The Chartered Institute of Export & International Trade",
+    "score": -0.964
+   },
+   {
+    "title": "Alaska: US warns of additional tariffs on India if Trump-Putin peace talks fail - BBC",
+    "score": -0.9051
+   },
+   {
+    "title": "The Serious Risks of Trump’s Executive Order Curbing State Regulation of AI - In These Times",
+    "score": -0.7616
+   }
+  ],
+  "url": "https://polymarket.com/event/who-will-trump-talk-to-in-april",
+  "volume": 358869.9825350006,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838214+00:00"
+ },
+ {
+  "market_id": "0x30009e5ff3524958ede4a53798b4e1bbf29cb0815534420f09241a8366bcdd9e",
+  "question": "Will President Trump sign 7 or more pieces of legislation into law in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8454999999999999,
+  "confidence": 0.3459,
+  "composite_score": 0.3443,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4763,
+   "arbitrage": 0.0,
+   "volume": 0.003,
+   "news_volume": 0.5012
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.947,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "How the latest assassination attempt against President Trump underscores the rise in political violence - News4JAX",
+    "score": 0.4621
+   },
+   {
+    "title": "Early EU and UK Responses to President Trump’s Announcement of Tariffs Linked to Greenland and Potential Paths Forward - globaltradeandsanctionslaw.com",
+    "score": -0.4621
+   },
+   {
+    "title": "Trump signs executive order threatening tariffs for countries trading with Iran - BBC",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-pieces-of-legislation-will-trump-sign-into-law-in-april",
+  "volume": 6214.820132,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3305,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838112+00:00"
+ },
+ {
+  "market_id": "0x85d03204db3c34d46a2c39ff4756cdf1855d96c07f2e6168acead51efa487faa",
+  "question": "Will Seattle have between 2.5 and 3 inches of precipitation in April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.865,
+  "confidence": 0.3542,
+  "composite_score": 0.3435,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5673,
+   "arbitrage": 0.0,
+   "volume": 0.0064,
+   "news_volume": 0.0275
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.936,
+  "abstain": false,
+  "abstain_reasons": [],
+  "sentiment_headlines": [
+   {
+    "title": "The Founders built safeguards. Our politics rendered them useless - The Seattle Times",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/precipitation-in-seattle-in-april",
+  "volume": 13054.985314999993,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6178,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837986+00:00"
+ },
+ {
+  "market_id": "0x528d26b6e3db44d4d6c86f0205cb90790854d3c0e862df4ede24a075341b53f6",
+  "question": "Will Clavicular cry on stream by May 1, 2026",
+  "predicted_side": "NO",
+  "predicted_prob": 0.865,
+  "confidence": 0.3227,
+  "composite_score": 0.3286,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0168,
+   "news_volume": 0.055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "We need more enabling regulation to unlock the full potential of industrial side streams - UPM.com",
+    "score": 0.0
+   },
+   {
+    "title": "The Commodities Feed: Persian Gulf disruptions hitting upstream oil production - ING THINK economic and financial analysis | ING THINK",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-clavicular-cry-on-stream-by-may-1-2026",
+  "volume": 34481.18810599999,
+  "ends_in": "3g 4s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9567,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837954+00:00"
+ },
+ {
+  "market_id": "0x54565a22bea04dfcb9ac48e2d0b00733bddc72b593aae8662628390c69b170ef",
+  "question": "Will Google have the third best AI model at the end of April 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.77,
+  "confidence": 0.3225,
+  "composite_score": 0.3283,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0667,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/which-company-has-the-third-best-ai-model-end-of-april",
+  "volume": 136997.7690959998,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838274+00:00"
+ },
+ {
+  "market_id": "0x80038b3d2aa549a523488539315819879a3070045c522964ccc18a7c68a0f086",
+  "question": "Will Jannik Sinner win the 2026 Men's Singles tournament at the Madrid Open?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.715,
+  "confidence": 0.3135,
+  "composite_score": 0.3283,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0109,
+   "news_volume": 0.055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Daniel Perez says House won't deliberate on AI regulations or vaccine requirements, drawing Ron DeSantis' fury - Florida Politics",
+    "score": 0.0
+   },
+   {
+    "title": "Stablecoins, AI agents and Open Banking: the UK's vision for payment services regulation - Lewis Silkin LLP",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/madrid-open-mens-singles-winner",
+  "volume": 22340.647307999992,
+  "ends_in": "5g 4s 23d",
+  "end_date": "04 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8439,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838355+00:00"
+ },
+ {
+  "market_id": "0xe008c671ac45aa7103834a848f7705607c099965a9ef03303705f89a78c7564f",
+  "question": "Will Tesla (TSLA) close above $390 end of April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.3391,
+  "composite_score": 0.3268,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0094,
+   "news_volume": 0.0275
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Brent Crude Futures Close Above $100 a Barrel For First Time Since 2022 - WSJ",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/tsla-above-in-april-2026",
+  "volume": 19220.28576400001,
+  "ends_in": "2g 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.7865,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838183+00:00"
+ },
+ {
+  "market_id": "0x2b93a030f2de8225e941d9088071cb523ef1029dbe1dd443b54fee2c33497570",
+  "question": "Will Google (GOOGL) close above $330 end of April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.835,
+  "confidence": 0.3119,
+  "composite_score": 0.3265,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0029,
+   "news_volume": 0.0275
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Brent Crude Futures Close Above $100 a Barrel For First Time Since 2022 - WSJ",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/googl-above-in-april-2026",
+  "volume": 6047.369226,
+  "ends_in": "2g 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3223,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838142+00:00"
+ },
+ {
+  "market_id": "0xe906d0fa830d9dc41bff3fd3111a1ddc7eb91c0c3907236e732059897041b8dd",
+  "question": "Will Microsoft (MSFT) close above $450 end of April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.77,
+  "confidence": 0.3119,
+  "composite_score": 0.3265,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0026,
+   "news_volume": 0.0275
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Brent Crude Futures Close Above $100 a Barrel For First Time Since 2022 - WSJ",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/msft-above-in-april-2026",
+  "volume": 5259.800551,
+  "ends_in": "2g 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2827,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838285+00:00"
+ },
+ {
+  "market_id": "0x062665fd43dd992de43e8d317ced9135252d2cbca5bacf35633e98237abd023f",
+  "question": "Will 10 or more ships be successfully targeted by Iran by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8554999999999999,
+  "confidence": 0.3296,
+  "composite_score": 0.3262,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.024,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/how-many-ships-will-iran-successfully-target-by-april-30",
+  "volume": 49361.10928000001,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9915,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838060+00:00"
+ },
+ {
+  "market_id": "0x17af003e13cafac7012ce86bae59af936cc2304249cf63b6fc718a30dbf9e892",
+  "question": "Will Trump praise Allah again by April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.873,
+  "confidence": 0.3113,
+  "composite_score": 0.3259,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0182,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/will-trump-praise-allah-again-by-april-30",
+  "volume": 37415.06743700003,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9685,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837890+00:00"
+ },
+ {
+  "market_id": "0x87560f2f8315e681cf44e36d2b1e6bb52c1475f6d109976afd17e28122535eb2",
+  "question": "Will 8–9 ships be successfully targeted by Iran by April 30?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.8590000000000001,
+  "confidence": 0.3202,
+  "composite_score": 0.3258,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0153,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/how-many-ships-will-iran-successfully-target-by-april-30",
+  "volume": 31357.69502300004,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9394,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838039+00:00"
+ },
+ {
+  "market_id": "0x88b2a7dda2fdc3980466dfe446eff29cdf42b097f7b8adf210d62bad22cf718f",
+  "question": "Will Elon Musk’s net worth be at least $670b on April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.785,
+  "confidence": 0.3471,
+  "composite_score": 0.3257,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0139,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/elon-musk-net-worth-on-april-30-318",
+  "volume": 28452.734106,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9174,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838233+00:00"
+ },
+ {
+  "market_id": "0x68483965682d10cf83ac1b4bb5d1be10ae9419aa569beb2a8917f0479e85222a",
+  "question": "Will Seoul have less than 40mm of precipitation in April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.904,
+  "confidence": 0.329,
+  "composite_score": 0.3256,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0113,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/precipitation-in-seoul-in-april",
+  "volume": 23160.91453100002,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8564,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837782+00:00"
+ },
+ {
+  "market_id": "0x3f52030d126be47748dee4b6f1e493f0e1c14cfbd335cb0ce860e63e02f12927",
+  "question": "Will Google reach $375 in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.78,
+  "confidence": 0.3379,
+  "composite_score": 0.3254,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0071,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/what-price-will-googl-hit-in-april-2026",
+  "volume": 14477.146970000002,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.664,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838244+00:00"
+ },
+ {
+  "market_id": "0x433277445e4cf137ad03a46341d1ac2ae2036a8161be0e20728d5e5eb6b46ef5",
+  "question": "X Money released by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3378,
+  "composite_score": 0.3253,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0065,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/x-money-launched-by",
+  "volume": 13313.102339000001,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6265,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837901+00:00"
+ },
+ {
+  "market_id": "0x23e0fa26c458ec81934a967dada2a520660f980379eb8f785a64fd09c0a0e494",
+  "question": "Will NYC have between 3 and 4 inches of precipitation in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7315,
+  "confidence": 0.3378,
+  "composite_score": 0.3253,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0053,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/precipitation-in-nyc-in-april",
+  "volume": 10825.588674999997,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5358,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838324+00:00"
+ },
+ {
+  "market_id": "0xa4e4a9dcc191e695599991ef3bdecd94ffe82223746040ccdc258ee2b0c3af8a",
+  "question": "Will Elon Musk’s net worth be less than $600b on April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.9135,
+  "confidence": 0.3107,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0038,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/elon-musk-net-worth-on-april-30-318",
+  "volume": 7879.206462,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4098,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837705+00:00"
+ },
+ {
+  "market_id": "0xae0962ec28335c98ef12e9a86b4fe6b36a35cf84e619dfae7219d9bbf9b37551",
+  "question": "Will Google reach $355 in April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.778,
+  "confidence": 0.3107,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0047,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/what-price-will-googl-hit-in-april-2026",
+  "volume": 9706.743566000005,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4903,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838254+00:00"
+ },
+ {
+  "market_id": "0xc264391c0d4bce49fb833bfae127d7e8f140c231c34022d702e1e68ff03116b1",
+  "question": "Will Elon Musk’s net worth be between $640b and $650b on April 30?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7,
+  "confidence": 0.3467,
+  "composite_score": 0.3252,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0045,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/elon-musk-net-worth-on-april-30-318",
+  "volume": 9191.591634000002,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.4683,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838374+00:00"
+ },
+ {
+  "market_id": "0xbdd75145c5810f9c65f9d93d0649780cbb87ea70064d6985d3b743bbd0e67b23",
+  "question": "Will Hong Kong have between 150-160mm of precipitation in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.3106,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0029,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/precipitation-in-hong-kong-in-april",
+  "volume": 5898.031195000001,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3149,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837657+00:00"
+ },
+ {
+  "market_id": "0xb115de5476741ec60696e6f08ed2ca791f3156b324bebe191f71e1198d38199b",
+  "question": "Will Hong Kong have 190mm or more of precipitation in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.777,
+  "confidence": 0.2926,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/precipitation-in-hong-kong-in-april",
+  "volume": 5164.0961720000005,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2779,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838264+00:00"
+ },
+ {
+  "market_id": "0x4f98a2c661def8351f4a562dab8c5fa73b72ef0670e74fb528cc26a3077b9d6a",
+  "question": "Will Meta reach $730 in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.74,
+  "confidence": 0.2926,
+  "composite_score": 0.3251,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.5,
+   "arbitrage": 0.0,
+   "volume": 0.0026,
+   "news_volume": 0.0
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9444,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [],
+  "url": "https://polymarket.com/event/what-price-will-meta-hit-in-april-2026",
+  "volume": 5288.20501,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2842,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838314+00:00"
+ },
+ {
+  "market_id": "0xbbbce28be8e25e2aec0e170637554ad47421c7d912c3959e8b25aabea3e656b6",
+  "question": "Will Anthropic have the third best AI model at the end of April 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.81,
+  "confidence": 0.3058,
+  "composite_score": 0.3198,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4376,
+   "arbitrage": 0.0,
+   "volume": 0.1534,
+   "news_volume": 0.055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9505,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation - The New York Times",
+    "score": 0.7616
+   },
+   {
+    "title": "‘I’m deeply uncomfortable’: Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology’s future - Fortune",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/which-company-has-the-third-best-ai-model-end-of-april",
+  "volume": 314926.40358100017,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838173+00:00"
+ },
+ {
+  "market_id": "0x30c7d5a0c3cc53cbad5568d3072222670512f6e4556cc0e5bf084a32b3c71531",
+  "question": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.87,
+  "confidence": 0.3331,
+  "composite_score": 0.3101,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4327,
+   "arbitrage": 0.0,
+   "volume": 0.0102,
+   "news_volume": 0.0275
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9509,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "The Founders built safeguards. Our politics rendered them useless - The Seattle Times",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/precipitation-in-seattle-in-april",
+  "volume": 20838.726638000007,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.8183,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837923+00:00"
+ },
+ {
+  "market_id": "0x79d7992edd4615c3a5fb18b253c7df86f5d4053fefca2350cc3a236c04681d19",
+  "question": "Will Silver (XAGUSD) hit (LOW) $68 in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.915,
+  "confidence": 0.3128,
+  "composite_score": 0.3076,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.4183,
+   "arbitrage": 0.0,
+   "volume": 0.0051,
+   "news_volume": 0.055
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.952,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Gold and Silver Rebound as Geopolitics, Policy Shifts, and Market Structure Collide - Binance",
+    "score": 0.4621
+   },
+   {
+    "title": "Gold, silver, & oil prices: Commodities check-in - Yahoo Finance",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/what-price-will-xagusd-hit-in-april-2026",
+  "volume": 10421.298640999996,
+  "ends_in": "2g 8s 23d",
+  "end_date": "01 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.5197,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837669+00:00"
+ },
+ {
+  "market_id": "0x238e76ab8673302f69465f6276dc30397f2da6d45e256d1addb3727c52d426cf",
+  "question": "Will Derek Merrin be the Republican nominee for OH-09?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.89,
+  "confidence": 0.2744,
+  "composite_score": 0.3049,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3862,
+   "arbitrage": 0.0,
+   "volume": 0.0027,
+   "news_volume": 0.1638
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9542,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Senate Republicans Block Benefits for Combat-Injured Veterans Amid Ongoing Military Conflict in Iran - U.S. Senate Committee on Veterans' Affairs (.gov)",
+    "score": -0.9051
+   },
+   {
+    "title": "Arizona governor rejects Republican budget over healthcare cuts - KVOA",
+    "score": -0.7616
+   },
+   {
+    "title": "Thousands of Appalachian voters flip from Democrat to Republican, narrowing registration lead - Fox News",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/oh-09-republican-primary-winner",
+  "volume": 5581.5734,
+  "ends_in": "6g 4s 23d",
+  "end_date": "05 May 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.299,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837824+00:00"
+ },
+ {
+  "market_id": "0xf2f9116c48d6b64c5ecd1a4e89a84af0e4af84bbfba8ac64f6a60fa2b760b95e",
+  "question": "North Korea missile test/launch by April 30, 2026?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.86,
+  "confidence": 0.2903,
+  "composite_score": 0.3026,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.351,
+   "arbitrage": 0.0,
+   "volume": 0.003,
+   "news_volume": 0.2941
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9561,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "EU-India trade deal, UK sanctions compliance warning and South Korea latest country facing US tariff threats - The Chartered Institute of Export & International Trade",
+    "score": -0.9051
+   },
+   {
+    "title": "Minister for the Digital Economy visits King's for launch of new paper on regulation and innovation - King's College London",
+    "score": 0.7616
+   },
+   {
+    "title": "Navigating a world between orders: Launching the Centre for Geopolitics and International Policy - IPPR",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/north-korea-missile-testlaunch-by-april-30-2026-366",
+  "volume": 6249.567537000002,
+  "ends_in": "2g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3322,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838029+00:00"
+ },
+ {
+  "market_id": "0x5a9c2289eb4b06d03df4df70aa4f853054bc168ed632650aa9dbe8e0be5c947b",
+  "question": "Will Trump say \"Sovereign / Sovereignty\" in April?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.705,
+  "confidence": 0.2652,
+  "composite_score": 0.2947,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3145,
+   "arbitrage": 0.0,
+   "volume": 0.0025,
+   "news_volume": 0.319
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9574,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "James Comey indicted in probe over online post officials say constituted Trump threat - PBS",
+    "score": -0.9051
+   },
+   {
+    "title": "Sovereignty is back on the menu: Australia faces uphill challenge to rebuild something few understand - defenceconnect.com.au",
+    "score": 0.4621
+   },
+   {
+    "title": "Canadian red tape is worse than Trump tariffs, say industry groups - Financial Times",
+    "score": -0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/what-will-trump-say-in-april",
+  "volume": 5141.672285000011,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.2767,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838364+00:00"
+ },
+ {
+  "market_id": "0x0f2cb42064d82e6f4211667d9d7308bb701bdb276da337b4638749d86a11ba0f",
+  "question": "Will Donald Trump publicly insult someone on April 30, 2026?",
+  "predicted_side": "YES",
+  "predicted_prob": 0.91,
+  "confidence": 0.2892,
+  "composite_score": 0.2913,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3478,
+   "arbitrage": 0.0,
+   "volume": 0.0035,
+   "news_volume": 0.0825
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9562,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Are Donald Trump's tariffs the new sanctions? - dw.com",
+    "score": -0.7616
+   },
+   {
+    "title": "Gerrymandering, political parties, and Donald Trump's weakening support: April 24 - 27, 2026 Economist/YouGov Poll - YouGov",
+    "score": 0.0
+   },
+   {
+    "title": "Canada's digital and AI governance must account for geopolitics: André Côté and Peter Copeland for Inside Policy Talks - The Macdonald-Laurier Institute",
+    "score": 0.0
+   }
+  ],
+  "url": "https://polymarket.com/event/will-trump-publicly-insult-someone-on",
+  "volume": 7262.226773,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.3811,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837737+00:00"
+ },
+ {
+  "market_id": "0x5daafc171bf5a48d20ba88c45c9dec4a9c156c3af350bbc2be7a987ebc98601d",
+  "question": "Will SpaceX have exactly 13 launches in April?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.807,
+  "confidence": 0.2608,
+  "composite_score": 0.2898,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.3358,
+   "arbitrage": 0.0,
+   "volume": 0.0072,
+   "news_volume": 0.1097
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9567,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "EU Launches Consultation on Upcoming Circular Economy Regulation - ESG Today",
+    "score": 0.4621
+   },
+   {
+    "title": "Commission launches consultation and call for evidence for upcoming Circular Economy Act - environment.ec.europa.eu",
+    "score": 0.4621
+   },
+   {
+    "title": "Stock Market Today (LIVE): Amazon Launches AI Desktop Agent; Spotify Bets Big on AI Despite Selloff - The Motley Fool",
+    "score": 0.4621
+   }
+  ],
+  "url": "https://polymarket.com/event/how-many-spacex-launches-in-april",
+  "volume": 14841.706274000002,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.6751,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838204+00:00"
+ },
+ {
+  "market_id": "0x174f4f8447b716603444fc4df4ff9b0dfc3cb29ef74dfacb6cdee6ff98cbf54c",
+  "question": "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.914,
+  "confidence": 0.2927,
+  "composite_score": 0.2752,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2073,
+   "arbitrage": 0.0,
+   "volume": 0.0534,
+   "news_volume": 0.4143
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How does agricultural product quality and safety regulation drive agricultural economic growth: a quasi-natural experiment from China’s agricultural product quality and safety county pilot policy | Scientific Reports - Nature",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-gdp-growth-in-q1-2026",
+  "volume": 109526.67686200005,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 1.0,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837694+00:00"
+ },
+ {
+  "market_id": "0x0535dc9983df3f59fb2aec1f0ea770507dfb58514643142e335c06f0edace923",
+  "question": "Will US GDP growth in Q1 2026 be between 2.0% and 2.5%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.7190000000000001,
+  "confidence": 0.3005,
+  "composite_score": 0.2739,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2073,
+   "arbitrage": 0.0,
+   "volume": 0.027,
+   "news_volume": 0.4143
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How does agricultural product quality and safety regulation drive agricultural economic growth: a quasi-natural experiment from China’s agricultural product quality and safety county pilot policy | Scientific Reports - Nature",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-gdp-growth-in-q1-2026",
+  "volume": 55363.743530999964,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9956,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838345+00:00"
+ },
+ {
+  "market_id": "0x574893d630a2d42f13f16cb22871a678a7346ec0ab480100646e66e0f3e70f36",
+  "question": "Will US GDP growth in Q1 2026 be between 1.5% and 2.0%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.8095,
+  "confidence": 0.3002,
+  "composite_score": 0.2735,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2073,
+   "arbitrage": 0.0,
+   "volume": 0.0198,
+   "news_volume": 0.4143
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How does agricultural product quality and safety regulation drive agricultural economic growth: a quasi-natural experiment from China’s agricultural product quality and safety county pilot policy | Scientific Reports - Nature",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-gdp-growth-in-q1-2026",
+  "volume": 40606.051029,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9778,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838193+00:00"
+ },
+ {
+  "market_id": "0x97cd691b804fac9b04a67ba9b3c0f813b49b330059f8d2a9c0415da8ceb12e41",
+  "question": "Will US GDP growth in Q1 2026 be between 2.5% and 3.0%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.857,
+  "confidence": 0.3001,
+  "composite_score": 0.2734,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2073,
+   "arbitrage": 0.0,
+   "volume": 0.0179,
+   "news_volume": 0.4143
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How does agricultural product quality and safety regulation drive agricultural economic growth: a quasi-natural experiment from China’s agricultural product quality and safety county pilot policy | Scientific Reports - Nature",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-gdp-growth-in-q1-2026",
+  "volume": 36645.988240999985,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.9658,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.838049+00:00"
+ },
+ {
+  "market_id": "0x3e7559e591b2e26807d62516c35d2065576ffb23a94d57db0bdce887767249d6",
+  "question": "Will US GDP growth in Q1 2026 be between 1.0% and 1.5%?",
+  "predicted_side": "NO",
+  "predicted_prob": 0.882,
+  "confidence": 0.2997,
+  "composite_score": 0.273,
+  "scores": {
+   "statistical": 0.5,
+   "sentiment": 0.2073,
+   "arbitrage": 0.0,
+   "volume": 0.0086,
+   "news_volume": 0.4143
+  },
+  "regime": "unknown",
+  "signal_agreement": 0.9579,
+  "abstain": true,
+  "abstain_reasons": [
+   "low_confidence"
+  ],
+  "sentiment_headlines": [
+   {
+    "title": "Stock Market Today, April 22: Boston Scientific Jumps After Q1 Earnings Beat Resets Growth Expectations - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "'An excellent backdrop for earnings': Wall Street expects profit growth to power markets in 2026 - Yahoo Finance",
+    "score": 0.964
+   },
+   {
+    "title": "How does agricultural product quality and safety regulation drive agricultural economic growth: a quasi-natural experiment from China’s agricultural product quality and safety county pilot policy | Scientific Reports - Nature",
+    "score": 0.9051
+   }
+  ],
+  "url": "https://polymarket.com/event/us-gdp-growth-in-q1-2026",
+  "volume": 17566.455384000008,
+  "ends_in": "1g 4s 23d",
+  "end_date": "30 Apr 2026",
+  "kelly": 0.0,
+  "liquidity_factor": 0.749,
+  "checked": false,
+  "timestamp": "2026-04-28T19:36:24.837860+00:00"
+ }
+]
